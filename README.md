@@ -1,1 +1,1 @@
-# konvens-nlp-kashubian-morphological-inflection
+# Low-Resource Morphological Inflection For Kashubian
