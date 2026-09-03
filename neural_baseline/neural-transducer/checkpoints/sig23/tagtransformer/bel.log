@@ -1,0 +1,1942 @@
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: seed - 0
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: train - ['../../2023InflectionST/part1/data/bel.trn']
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: dev - ['../../2023InflectionST/part1/data/bel.dev']
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: test - ['../../2023InflectionST/part1/data/bel.tst']
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: model - 'checkpoints/sig23/tagtransformer/bel'
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: load - ''
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: bs - 400
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: epochs - 20
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: max_steps - 20000
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: warmup_steps - 4000
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: total_eval - 50
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: optimizer - <Optimizer.adam: 'adam'>
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: scheduler - <Scheduler.warmupinvsqr: 'warmupinvsqr'>
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: lr - 0.001
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: min_lr - 1e-05
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: momentum - 0.9
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: beta1 - 0.9
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: beta2 - 0.98
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: estop - 1e-08
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: cooldown - 0
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: patience - 0
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: discount_factor - 0.5
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: max_norm - 1.0
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: gpuid - [0]
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: loglevel - 'info'
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: saveall - False
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: shuffle - True
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: cleanup_anyway - True
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: dataset - <Data.sigmorphon23task0: 'sigmorphon23task0'>
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: max_seq_len - 128
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: max_decode_len - 32
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: decode_beam_size - 5
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: init - ''
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: dropout - 0.3
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: embed_dim - 256
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: nb_heads - 4
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: src_layer - 4
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: trg_layer - 4
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: src_hs - 1024
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: trg_hs - 1024
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: label_smooth - 0.1
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: tie_trg_embed - False
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: arch - <Arch.tagtransformer: 'tagtransformer'>
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: nb_sample - 2
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: wid_siz - 11
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: indtag - False
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: decode - <Decode.greedy: 'greedy'>
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: mono - False
+INFO - 01/12/26 16:56:39 - 0:00:00 - command line argument: bestacc - True
+INFO - 01/12/26 16:56:39 - 0:00:00 - src vocab size 73
+INFO - 01/12/26 16:56:39 - 0:00:00 - trg vocab size 45
+INFO - 01/12/26 16:56:39 - 0:00:00 - src vocab ['<PAD>', '<BOS>', '<EOS>', '<UNK>', ' ', "'", '´', 'í', 'ó', 'ý', '́', 'а', 'б', 'в', 'г', 'д', 'е', 'ж', 'з', 'и', 'й', 'к', 'л', 'м', 'н', 'о', 'п', 'р', 'с', 'т', 'у', 'ф', 'х', 'ц', 'ч', 'ш', 'ы', 'ь', 'э', 'ю', 'я', 'ё', 'і', 'ў', '’', 'ACC', 'ADJ', 'ANIM', 'DAT', 'ESS', 'FEM', 'FUT', 'GEN', 'IMP', 'INAN', 'INS', 'MASC', 'N', 'NEUT', 'NOM', 'NOM-1', 'NOM-2', 'NOM-3', 'NOM-FEM', 'NOM-MASC', 'NOM-NEUT', 'NOM-PL', 'NOM-SG', 'PL', 'PRS', 'PST', 'SG', 'V']
+INFO - 01/12/26 16:56:39 - 0:00:00 - trg vocab ['<PAD>', '<BOS>', '<EOS>', '<UNK>', ' ', "'", '´', 'í', 'ó', 'ý', '́', 'а', 'б', 'в', 'г', 'д', 'е', 'ж', 'з', 'и', 'й', 'к', 'л', 'м', 'н', 'о', 'п', 'р', 'с', 'т', 'у', 'ф', 'х', 'ц', 'ч', 'ш', 'ы', 'ь', 'э', 'ю', 'я', 'ё', 'і', 'ў', '’']
+INFO - 01/12/26 16:56:39 - 0:00:00 - model: TagTransformer(
+                                       (src_embed): Embedding(73, 256, padding_idx=0)
+                                       (trg_embed): Embedding(45, 256, padding_idx=0)
+                                       (position_embed): SinusoidalPositionalEmbedding()
+                                       (encoder): TransformerEncoder(
+                                         (layers): ModuleList(
+                                           (0): TransformerEncoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): _LinearWithBias(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                           (1): TransformerEncoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): _LinearWithBias(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                           (2): TransformerEncoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): _LinearWithBias(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                           (3): TransformerEncoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): _LinearWithBias(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                         )
+                                         (norm): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                       )
+                                       (decoder): TransformerDecoder(
+                                         (layers): ModuleList(
+                                           (0): TransformerDecoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): _LinearWithBias(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (multihead_attn): MultiheadAttention(
+                                               (out_proj): _LinearWithBias(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm3): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                           (1): TransformerDecoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): _LinearWithBias(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (multihead_attn): MultiheadAttention(
+                                               (out_proj): _LinearWithBias(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm3): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                           (2): TransformerDecoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): _LinearWithBias(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (multihead_attn): MultiheadAttention(
+                                               (out_proj): _LinearWithBias(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm3): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                           (3): TransformerDecoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): _LinearWithBias(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (multihead_attn): MultiheadAttention(
+                                               (out_proj): _LinearWithBias(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm3): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                         )
+                                         (norm): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                       )
+                                       (final_out): Linear(in_features=256, out_features=45, bias=True)
+                                       (dropout): Dropout(p=0.3, inplace=False)
+                                       (special_embeddings): Embedding(2, 256)
+                                     )
+INFO - 01/12/26 16:56:39 - 0:00:00 - number of parameter 7416109
+INFO - 01/12/26 16:57:03 - 0:00:24 - maximum training 20000 steps (800 epochs)
+INFO - 01/12/26 16:57:03 - 0:00:24 - evaluate every 16 epochs
+INFO - 01/12/26 16:57:03 - 0:00:24 - At 0-th epoch with lr 0.000000.
+INFO - 01/12/26 16:57:11 - 0:00:32 - Running average train loss is 4.491482448577881 at epoch 0
+INFO - 01/12/26 16:57:11 - 0:00:32 - At 1-th epoch with lr 0.000006.
+INFO - 01/12/26 16:57:13 - 0:00:34 - Running average train loss is 3.985638771057129 at epoch 1
+INFO - 01/12/26 16:57:13 - 0:00:34 - At 2-th epoch with lr 0.000013.
+INFO - 01/12/26 16:57:15 - 0:00:36 - Running average train loss is 3.552612762451172 at epoch 2
+INFO - 01/12/26 16:57:15 - 0:00:36 - At 3-th epoch with lr 0.000019.
+INFO - 01/12/26 16:57:16 - 0:00:37 - Running average train loss is 3.316849889755249 at epoch 3
+INFO - 01/12/26 16:57:16 - 0:00:37 - At 4-th epoch with lr 0.000025.
+INFO - 01/12/26 16:57:18 - 0:00:39 - Running average train loss is 3.1673451328277586 at epoch 4
+INFO - 01/12/26 16:57:18 - 0:00:39 - At 5-th epoch with lr 0.000031.
+INFO - 01/12/26 16:57:20 - 0:00:41 - Running average train loss is 3.014616289138794 at epoch 5
+INFO - 01/12/26 16:57:20 - 0:00:41 - At 6-th epoch with lr 0.000037.
+INFO - 01/12/26 16:57:22 - 0:00:43 - Running average train loss is 2.849693021774292 at epoch 6
+INFO - 01/12/26 16:57:22 - 0:00:43 - At 7-th epoch with lr 0.000044.
+INFO - 01/12/26 16:57:24 - 0:00:45 - Running average train loss is 2.6995626640319825 at epoch 7
+INFO - 01/12/26 16:57:24 - 0:00:45 - At 8-th epoch with lr 0.000050.
+INFO - 01/12/26 16:57:26 - 0:00:47 - Running average train loss is 2.5562716484069825 at epoch 8
+INFO - 01/12/26 16:57:26 - 0:00:47 - At 9-th epoch with lr 0.000056.
+INFO - 01/12/26 16:57:28 - 0:00:49 - Running average train loss is 2.426619920730591 at epoch 9
+INFO - 01/12/26 16:57:28 - 0:00:49 - At 10-th epoch with lr 0.000063.
+INFO - 01/12/26 16:57:30 - 0:00:50 - Running average train loss is 2.293828248977661 at epoch 10
+INFO - 01/12/26 16:57:30 - 0:00:50 - At 11-th epoch with lr 0.000069.
+INFO - 01/12/26 16:57:31 - 0:00:52 - Running average train loss is 2.1556275272369385 at epoch 11
+INFO - 01/12/26 16:57:31 - 0:00:52 - At 12-th epoch with lr 0.000075.
+INFO - 01/12/26 16:57:33 - 0:00:54 - Running average train loss is 2.005510563850403 at epoch 12
+INFO - 01/12/26 16:57:33 - 0:00:54 - At 13-th epoch with lr 0.000081.
+INFO - 01/12/26 16:57:35 - 0:00:56 - Running average train loss is 1.8712892723083496 at epoch 13
+INFO - 01/12/26 16:57:35 - 0:00:56 - At 14-th epoch with lr 0.000087.
+INFO - 01/12/26 16:57:37 - 0:00:58 - Running average train loss is 1.753653612136841 at epoch 14
+INFO - 01/12/26 16:57:37 - 0:00:58 - At 15-th epoch with lr 0.000094.
+INFO - 01/12/26 16:57:39 - 0:01:00 - Running average train loss is 1.6505184173583984 at epoch 15
+INFO - 01/12/26 16:57:39 - 0:01:00 - At 16-th epoch with lr 0.000100.
+INFO - 01/12/26 16:57:41 - 0:01:02 - Running average train loss is 1.5578804016113281 at epoch 16
+INFO - 01/12/26 16:57:41 - 0:01:02 - Average dev loss is 1.260275403658549 at epoch 16
+INFO - 01/12/26 16:57:42 - 0:01:03 - dev accuracy is 24.6 at epoch 16
+INFO - 01/12/26 16:57:42 - 0:01:03 - dev average edit distance is 1.91 at epoch 16
+INFO - 01/12/26 16:57:42 - 0:01:03 - At 17-th epoch with lr 0.000106.
+INFO - 01/12/26 16:57:44 - 0:01:05 - Running average train loss is 1.4800839185714723 at epoch 17
+INFO - 01/12/26 16:57:44 - 0:01:05 - At 18-th epoch with lr 0.000113.
+INFO - 01/12/26 16:57:45 - 0:01:06 - Running average train loss is 1.4133228302001952 at epoch 18
+INFO - 01/12/26 16:57:45 - 0:01:06 - At 19-th epoch with lr 0.000119.
+INFO - 01/12/26 16:57:47 - 0:01:08 - Running average train loss is 1.3562160968780517 at epoch 19
+INFO - 01/12/26 16:57:47 - 0:01:08 - At 20-th epoch with lr 0.000125.
+INFO - 01/12/26 16:57:49 - 0:01:10 - Running average train loss is 1.3052740812301635 at epoch 20
+INFO - 01/12/26 16:57:49 - 0:01:10 - At 21-th epoch with lr 0.000131.
+INFO - 01/12/26 16:57:51 - 0:01:12 - Running average train loss is 1.2634745693206788 at epoch 21
+INFO - 01/12/26 16:57:51 - 0:01:12 - At 22-th epoch with lr 0.000138.
+INFO - 01/12/26 16:57:53 - 0:01:13 - Running average train loss is 1.2267454051971436 at epoch 22
+INFO - 01/12/26 16:57:53 - 0:01:13 - At 23-th epoch with lr 0.000144.
+INFO - 01/12/26 16:57:54 - 0:01:15 - Running average train loss is 1.1931500959396362 at epoch 23
+INFO - 01/12/26 16:57:54 - 0:01:15 - At 24-th epoch with lr 0.000150.
+INFO - 01/12/26 16:57:56 - 0:01:17 - Running average train loss is 1.1641811275482177 at epoch 24
+INFO - 01/12/26 16:57:56 - 0:01:17 - At 25-th epoch with lr 0.000156.
+INFO - 01/12/26 16:57:58 - 0:01:19 - Running average train loss is 1.137418475151062 at epoch 25
+INFO - 01/12/26 16:57:58 - 0:01:19 - At 26-th epoch with lr 0.000163.
+INFO - 01/12/26 16:58:00 - 0:01:21 - Running average train loss is 1.1129292249679565 at epoch 26
+INFO - 01/12/26 16:58:00 - 0:01:21 - At 27-th epoch with lr 0.000169.
+INFO - 01/12/26 16:58:02 - 0:01:22 - Running average train loss is 1.0886750173568727 at epoch 27
+INFO - 01/12/26 16:58:02 - 0:01:22 - At 28-th epoch with lr 0.000175.
+INFO - 01/12/26 16:58:03 - 0:01:24 - Running average train loss is 1.0680094575881958 at epoch 28
+INFO - 01/12/26 16:58:03 - 0:01:24 - At 29-th epoch with lr 0.000181.
+INFO - 01/12/26 16:58:05 - 0:01:26 - Running average train loss is 1.052388653755188 at epoch 29
+INFO - 01/12/26 16:58:05 - 0:01:26 - At 30-th epoch with lr 0.000188.
+INFO - 01/12/26 16:58:07 - 0:01:28 - Running average train loss is 1.03331476688385 at epoch 30
+INFO - 01/12/26 16:58:07 - 0:01:28 - At 31-th epoch with lr 0.000194.
+INFO - 01/12/26 16:58:09 - 0:01:30 - Running average train loss is 1.0163867735862733 at epoch 31
+INFO - 01/12/26 16:58:09 - 0:01:30 - At 32-th epoch with lr 0.000200.
+INFO - 01/12/26 16:58:11 - 0:01:32 - Running average train loss is 1.0009010457992553 at epoch 32
+INFO - 01/12/26 16:58:11 - 0:01:32 - Average dev loss is 0.9628833532333374 at epoch 32
+INFO - 01/12/26 16:58:12 - 0:01:32 - dev accuracy is 57.6 at epoch 32
+INFO - 01/12/26 16:58:12 - 0:01:32 - dev average edit distance is 0.865 at epoch 32
+INFO - 01/12/26 16:58:12 - 0:01:33 - At 33-th epoch with lr 0.000206.
+INFO - 01/12/26 16:58:13 - 0:01:34 - Running average train loss is 0.9874270009994507 at epoch 33
+INFO - 01/12/26 16:58:13 - 0:01:34 - At 34-th epoch with lr 0.000212.
+INFO - 01/12/26 16:58:15 - 0:01:36 - Running average train loss is 0.9742604112625122 at epoch 34
+INFO - 01/12/26 16:58:15 - 0:01:36 - At 35-th epoch with lr 0.000219.
+INFO - 01/12/26 16:58:17 - 0:01:38 - Running average train loss is 0.9614713931083679 at epoch 35
+INFO - 01/12/26 16:58:17 - 0:01:38 - At 36-th epoch with lr 0.000225.
+INFO - 01/12/26 16:58:19 - 0:01:40 - Running average train loss is 0.947118182182312 at epoch 36
+INFO - 01/12/26 16:58:19 - 0:01:40 - At 37-th epoch with lr 0.000231.
+INFO - 01/12/26 16:58:21 - 0:01:42 - Running average train loss is 0.9364402031898499 at epoch 37
+INFO - 01/12/26 16:58:21 - 0:01:42 - At 38-th epoch with lr 0.000237.
+INFO - 01/12/26 16:58:22 - 0:01:43 - Running average train loss is 0.9261123538017273 at epoch 38
+INFO - 01/12/26 16:58:22 - 0:01:43 - At 39-th epoch with lr 0.000244.
+INFO - 01/12/26 16:58:24 - 0:01:45 - Running average train loss is 0.915362720489502 at epoch 39
+INFO - 01/12/26 16:58:24 - 0:01:45 - At 40-th epoch with lr 0.000250.
+INFO - 01/12/26 16:58:26 - 0:01:47 - Running average train loss is 0.9088752436637878 at epoch 40
+INFO - 01/12/26 16:58:26 - 0:01:47 - At 41-th epoch with lr 0.000256.
+INFO - 01/12/26 16:58:28 - 0:01:49 - Running average train loss is 0.8991530799865722 at epoch 41
+INFO - 01/12/26 16:58:28 - 0:01:49 - At 42-th epoch with lr 0.000263.
+INFO - 01/12/26 16:58:30 - 0:01:50 - Running average train loss is 0.8911942791938782 at epoch 42
+INFO - 01/12/26 16:58:30 - 0:01:50 - At 43-th epoch with lr 0.000269.
+INFO - 01/12/26 16:58:31 - 0:01:52 - Running average train loss is 0.8831555199623108 at epoch 43
+INFO - 01/12/26 16:58:31 - 0:01:52 - At 44-th epoch with lr 0.000275.
+INFO - 01/12/26 16:58:33 - 0:01:54 - Running average train loss is 0.8747084760665893 at epoch 44
+INFO - 01/12/26 16:58:33 - 0:01:54 - At 45-th epoch with lr 0.000281.
+INFO - 01/12/26 16:58:35 - 0:01:56 - Running average train loss is 0.8698619866371154 at epoch 45
+INFO - 01/12/26 16:58:35 - 0:01:56 - At 46-th epoch with lr 0.000287.
+INFO - 01/12/26 16:58:37 - 0:01:58 - Running average train loss is 0.861928596496582 at epoch 46
+INFO - 01/12/26 16:58:37 - 0:01:58 - At 47-th epoch with lr 0.000294.
+INFO - 01/12/26 16:58:38 - 0:01:59 - Running average train loss is 0.8568861389160156 at epoch 47
+INFO - 01/12/26 16:58:38 - 0:01:59 - At 48-th epoch with lr 0.000300.
+INFO - 01/12/26 16:58:40 - 0:02:01 - Running average train loss is 0.8512208938598633 at epoch 48
+INFO - 01/12/26 16:58:40 - 0:02:01 - Average dev loss is 0.8645068208376566 at epoch 48
+INFO - 01/12/26 16:58:41 - 0:02:02 - dev accuracy is 69.5 at epoch 48
+INFO - 01/12/26 16:58:41 - 0:02:02 - dev average edit distance is 0.613 at epoch 48
+INFO - 01/12/26 16:58:41 - 0:02:02 - At 49-th epoch with lr 0.000306.
+INFO - 01/12/26 16:58:43 - 0:02:04 - Running average train loss is 0.8450896668434144 at epoch 49
+INFO - 01/12/26 16:58:43 - 0:02:04 - At 50-th epoch with lr 0.000313.
+INFO - 01/12/26 16:58:45 - 0:02:06 - Running average train loss is 0.8407622957229615 at epoch 50
+INFO - 01/12/26 16:58:45 - 0:02:06 - At 51-th epoch with lr 0.000319.
+INFO - 01/12/26 16:58:46 - 0:02:07 - Running average train loss is 0.8366087341308593 at epoch 51
+INFO - 01/12/26 16:58:46 - 0:02:07 - At 52-th epoch with lr 0.000325.
+INFO - 01/12/26 16:58:48 - 0:02:09 - Running average train loss is 0.8308906078338623 at epoch 52
+INFO - 01/12/26 16:58:48 - 0:02:09 - At 53-th epoch with lr 0.000331.
+INFO - 01/12/26 16:58:50 - 0:02:11 - Running average train loss is 0.827294921875 at epoch 53
+INFO - 01/12/26 16:58:50 - 0:02:11 - At 54-th epoch with lr 0.000338.
+INFO - 01/12/26 16:58:52 - 0:02:13 - Running average train loss is 0.8224506282806396 at epoch 54
+INFO - 01/12/26 16:58:52 - 0:02:13 - At 55-th epoch with lr 0.000344.
+INFO - 01/12/26 16:58:54 - 0:02:14 - Running average train loss is 0.8193488669395447 at epoch 55
+INFO - 01/12/26 16:58:54 - 0:02:14 - At 56-th epoch with lr 0.000350.
+INFO - 01/12/26 16:58:55 - 0:02:16 - Running average train loss is 0.8142841696739197 at epoch 56
+INFO - 01/12/26 16:58:55 - 0:02:16 - At 57-th epoch with lr 0.000356.
+INFO - 01/12/26 16:58:57 - 0:02:18 - Running average train loss is 0.8119530844688415 at epoch 57
+INFO - 01/12/26 16:58:57 - 0:02:18 - At 58-th epoch with lr 0.000362.
+INFO - 01/12/26 16:58:59 - 0:02:20 - Running average train loss is 0.8080479311943054 at epoch 58
+INFO - 01/12/26 16:58:59 - 0:02:20 - At 59-th epoch with lr 0.000369.
+INFO - 01/12/26 16:59:01 - 0:02:22 - Running average train loss is 0.8060642170906067 at epoch 59
+INFO - 01/12/26 16:59:01 - 0:02:22 - At 60-th epoch with lr 0.000375.
+INFO - 01/12/26 16:59:03 - 0:02:23 - Running average train loss is 0.8014449071884155 at epoch 60
+INFO - 01/12/26 16:59:03 - 0:02:23 - At 61-th epoch with lr 0.000381.
+INFO - 01/12/26 16:59:04 - 0:02:25 - Running average train loss is 0.7987126851081848 at epoch 61
+INFO - 01/12/26 16:59:04 - 0:02:25 - At 62-th epoch with lr 0.000388.
+INFO - 01/12/26 16:59:06 - 0:02:27 - Running average train loss is 0.7970799160003662 at epoch 62
+INFO - 01/12/26 16:59:06 - 0:02:27 - At 63-th epoch with lr 0.000394.
+INFO - 01/12/26 16:59:08 - 0:02:29 - Running average train loss is 0.7921624302864074 at epoch 63
+INFO - 01/12/26 16:59:08 - 0:02:29 - At 64-th epoch with lr 0.000400.
+INFO - 01/12/26 16:59:10 - 0:02:31 - Running average train loss is 0.7916919660568237 at epoch 64
+INFO - 01/12/26 16:59:10 - 0:02:31 - Average dev loss is 0.8320866028467814 at epoch 64
+INFO - 01/12/26 16:59:10 - 0:02:31 - dev accuracy is 73.5 at epoch 64
+INFO - 01/12/26 16:59:10 - 0:02:31 - dev average edit distance is 0.566 at epoch 64
+INFO - 01/12/26 16:59:10 - 0:02:31 - At 65-th epoch with lr 0.000406.
+INFO - 01/12/26 16:59:12 - 0:02:33 - Running average train loss is 0.787624008655548 at epoch 65
+INFO - 01/12/26 16:59:12 - 0:02:33 - At 66-th epoch with lr 0.000412.
+INFO - 01/12/26 16:59:14 - 0:02:35 - Running average train loss is 0.785086989402771 at epoch 66
+INFO - 01/12/26 16:59:14 - 0:02:35 - At 67-th epoch with lr 0.000419.
+INFO - 01/12/26 16:59:16 - 0:02:37 - Running average train loss is 0.7832046771049499 at epoch 67
+INFO - 01/12/26 16:59:16 - 0:02:37 - At 68-th epoch with lr 0.000425.
+INFO - 01/12/26 16:59:18 - 0:02:39 - Running average train loss is 0.7807585024833679 at epoch 68
+INFO - 01/12/26 16:59:18 - 0:02:39 - At 69-th epoch with lr 0.000431.
+INFO - 01/12/26 16:59:19 - 0:02:40 - Running average train loss is 0.7793860292434692 at epoch 69
+INFO - 01/12/26 16:59:19 - 0:02:40 - At 70-th epoch with lr 0.000438.
+INFO - 01/12/26 16:59:21 - 0:02:42 - Running average train loss is 0.7776678729057313 at epoch 70
+INFO - 01/12/26 16:59:21 - 0:02:42 - At 71-th epoch with lr 0.000444.
+INFO - 01/12/26 16:59:23 - 0:02:44 - Running average train loss is 0.775817289352417 at epoch 71
+INFO - 01/12/26 16:59:23 - 0:02:44 - At 72-th epoch with lr 0.000450.
+INFO - 01/12/26 16:59:25 - 0:02:46 - Running average train loss is 0.771850335597992 at epoch 72
+INFO - 01/12/26 16:59:25 - 0:02:46 - At 73-th epoch with lr 0.000456.
+INFO - 01/12/26 16:59:27 - 0:02:48 - Running average train loss is 0.7716742396354676 at epoch 73
+INFO - 01/12/26 16:59:27 - 0:02:48 - At 74-th epoch with lr 0.000463.
+INFO - 01/12/26 16:59:28 - 0:02:49 - Running average train loss is 0.7712352085113525 at epoch 74
+INFO - 01/12/26 16:59:28 - 0:02:49 - At 75-th epoch with lr 0.000469.
+INFO - 01/12/26 16:59:30 - 0:02:51 - Running average train loss is 0.768242871761322 at epoch 75
+INFO - 01/12/26 16:59:30 - 0:02:51 - At 76-th epoch with lr 0.000475.
+INFO - 01/12/26 16:59:32 - 0:02:53 - Running average train loss is 0.767137987613678 at epoch 76
+INFO - 01/12/26 16:59:32 - 0:02:53 - At 77-th epoch with lr 0.000481.
+INFO - 01/12/26 16:59:34 - 0:02:55 - Running average train loss is 0.7648168873786926 at epoch 77
+INFO - 01/12/26 16:59:34 - 0:02:55 - At 78-th epoch with lr 0.000487.
+INFO - 01/12/26 16:59:36 - 0:02:56 - Running average train loss is 0.7648100423812866 at epoch 78
+INFO - 01/12/26 16:59:36 - 0:02:56 - At 79-th epoch with lr 0.000494.
+INFO - 01/12/26 16:59:37 - 0:02:58 - Running average train loss is 0.7629680299758911 at epoch 79
+INFO - 01/12/26 16:59:37 - 0:02:58 - At 80-th epoch with lr 0.000500.
+INFO - 01/12/26 16:59:39 - 0:03:00 - Running average train loss is 0.7606906795501709 at epoch 80
+INFO - 01/12/26 16:59:39 - 0:03:00 - Average dev loss is 0.8175899585088094 at epoch 80
+INFO - 01/12/26 16:59:40 - 0:03:01 - dev accuracy is 75.2 at epoch 80
+INFO - 01/12/26 16:59:40 - 0:03:01 - dev average edit distance is 0.538 at epoch 80
+INFO - 01/12/26 16:59:40 - 0:03:01 - At 81-th epoch with lr 0.000506.
+INFO - 01/12/26 16:59:42 - 0:03:03 - Running average train loss is 0.759096884727478 at epoch 81
+INFO - 01/12/26 16:59:42 - 0:03:03 - At 82-th epoch with lr 0.000512.
+INFO - 01/12/26 16:59:44 - 0:03:04 - Running average train loss is 0.7589996314048767 at epoch 82
+INFO - 01/12/26 16:59:44 - 0:03:04 - At 83-th epoch with lr 0.000519.
+INFO - 01/12/26 16:59:46 - 0:03:07 - Running average train loss is 0.7586282706260681 at epoch 83
+INFO - 01/12/26 16:59:46 - 0:03:07 - At 84-th epoch with lr 0.000525.
+INFO - 01/12/26 16:59:48 - 0:03:09 - Running average train loss is 0.7561244082450866 at epoch 84
+INFO - 01/12/26 16:59:48 - 0:03:09 - At 85-th epoch with lr 0.000531.
+INFO - 01/12/26 16:59:50 - 0:03:11 - Running average train loss is 0.7536425113677978 at epoch 85
+INFO - 01/12/26 16:59:50 - 0:03:11 - At 86-th epoch with lr 0.000538.
+INFO - 01/12/26 16:59:52 - 0:03:13 - Running average train loss is 0.754160463809967 at epoch 86
+INFO - 01/12/26 16:59:52 - 0:03:13 - At 87-th epoch with lr 0.000544.
+INFO - 01/12/26 16:59:54 - 0:03:15 - Running average train loss is 0.7536062288284302 at epoch 87
+INFO - 01/12/26 16:59:54 - 0:03:15 - At 88-th epoch with lr 0.000550.
+INFO - 01/12/26 16:59:56 - 0:03:17 - Running average train loss is 0.7513937640190125 at epoch 88
+INFO - 01/12/26 16:59:56 - 0:03:17 - At 89-th epoch with lr 0.000556.
+INFO - 01/12/26 16:59:57 - 0:03:18 - Running average train loss is 0.7489653062820435 at epoch 89
+INFO - 01/12/26 16:59:57 - 0:03:18 - At 90-th epoch with lr 0.000563.
+INFO - 01/12/26 16:59:59 - 0:03:20 - Running average train loss is 0.7500926518440246 at epoch 90
+INFO - 01/12/26 16:59:59 - 0:03:20 - At 91-th epoch with lr 0.000569.
+INFO - 01/12/26 17:00:01 - 0:03:22 - Running average train loss is 0.7489966034889222 at epoch 91
+INFO - 01/12/26 17:00:01 - 0:03:22 - At 92-th epoch with lr 0.000575.
+INFO - 01/12/26 17:00:03 - 0:03:24 - Running average train loss is 0.7496280074119568 at epoch 92
+INFO - 01/12/26 17:00:03 - 0:03:24 - At 93-th epoch with lr 0.000581.
+INFO - 01/12/26 17:00:05 - 0:03:26 - Running average train loss is 0.7472949981689453 at epoch 93
+INFO - 01/12/26 17:00:05 - 0:03:26 - At 94-th epoch with lr 0.000588.
+INFO - 01/12/26 17:00:07 - 0:03:28 - Running average train loss is 0.7466420149803161 at epoch 94
+INFO - 01/12/26 17:00:07 - 0:03:28 - At 95-th epoch with lr 0.000594.
+INFO - 01/12/26 17:00:09 - 0:03:30 - Running average train loss is 0.7455479621887207 at epoch 95
+INFO - 01/12/26 17:00:09 - 0:03:30 - At 96-th epoch with lr 0.000600.
+INFO - 01/12/26 17:00:11 - 0:03:32 - Running average train loss is 0.7458572483062744 at epoch 96
+INFO - 01/12/26 17:00:11 - 0:03:32 - Average dev loss is 0.8203417261441549 at epoch 96
+INFO - 01/12/26 17:00:11 - 0:03:32 - dev accuracy is 75.3 at epoch 96
+INFO - 01/12/26 17:00:11 - 0:03:32 - dev average edit distance is 0.464 at epoch 96
+INFO - 01/12/26 17:00:11 - 0:03:32 - At 97-th epoch with lr 0.000606.
+INFO - 01/12/26 17:00:13 - 0:03:34 - Running average train loss is 0.7435553050041199 at epoch 97
+INFO - 01/12/26 17:00:13 - 0:03:34 - At 98-th epoch with lr 0.000613.
+INFO - 01/12/26 17:00:15 - 0:03:36 - Running average train loss is 0.7413861894607544 at epoch 98
+INFO - 01/12/26 17:00:15 - 0:03:36 - At 99-th epoch with lr 0.000619.
+INFO - 01/12/26 17:00:17 - 0:03:38 - Running average train loss is 0.7412348318099976 at epoch 99
+INFO - 01/12/26 17:00:17 - 0:03:38 - At 100-th epoch with lr 0.000625.
+INFO - 01/12/26 17:00:19 - 0:03:40 - Running average train loss is 0.7410146474838257 at epoch 100
+INFO - 01/12/26 17:00:19 - 0:03:40 - At 101-th epoch with lr 0.000631.
+INFO - 01/12/26 17:00:21 - 0:03:41 - Running average train loss is 0.7424654245376587 at epoch 101
+INFO - 01/12/26 17:00:21 - 0:03:41 - At 102-th epoch with lr 0.000637.
+INFO - 01/12/26 17:00:22 - 0:03:43 - Running average train loss is 0.7407997393608093 at epoch 102
+INFO - 01/12/26 17:00:22 - 0:03:43 - At 103-th epoch with lr 0.000644.
+INFO - 01/12/26 17:00:24 - 0:03:45 - Running average train loss is 0.7397649669647217 at epoch 103
+INFO - 01/12/26 17:00:24 - 0:03:45 - At 104-th epoch with lr 0.000650.
+INFO - 01/12/26 17:00:26 - 0:03:47 - Running average train loss is 0.7412138414382935 at epoch 104
+INFO - 01/12/26 17:00:26 - 0:03:47 - At 105-th epoch with lr 0.000656.
+INFO - 01/12/26 17:00:28 - 0:03:49 - Running average train loss is 0.7377199268341065 at epoch 105
+INFO - 01/12/26 17:00:28 - 0:03:49 - At 106-th epoch with lr 0.000663.
+INFO - 01/12/26 17:00:29 - 0:03:50 - Running average train loss is 0.7383310222625732 at epoch 106
+INFO - 01/12/26 17:00:29 - 0:03:50 - At 107-th epoch with lr 0.000669.
+INFO - 01/12/26 17:00:31 - 0:03:52 - Running average train loss is 0.73972487449646 at epoch 107
+INFO - 01/12/26 17:00:31 - 0:03:52 - At 108-th epoch with lr 0.000675.
+INFO - 01/12/26 17:00:33 - 0:03:54 - Running average train loss is 0.7386931657791138 at epoch 108
+INFO - 01/12/26 17:00:33 - 0:03:54 - At 109-th epoch with lr 0.000681.
+INFO - 01/12/26 17:00:35 - 0:03:56 - Running average train loss is 0.7371365714073181 at epoch 109
+INFO - 01/12/26 17:00:35 - 0:03:56 - At 110-th epoch with lr 0.000687.
+INFO - 01/12/26 17:00:37 - 0:03:58 - Running average train loss is 0.7370491790771484 at epoch 110
+INFO - 01/12/26 17:00:37 - 0:03:58 - At 111-th epoch with lr 0.000694.
+INFO - 01/12/26 17:00:38 - 0:03:59 - Running average train loss is 0.7354648184776306 at epoch 111
+INFO - 01/12/26 17:00:38 - 0:03:59 - At 112-th epoch with lr 0.000700.
+INFO - 01/12/26 17:00:40 - 0:04:01 - Running average train loss is 0.7345487117767334 at epoch 112
+INFO - 01/12/26 17:00:40 - 0:04:01 - Average dev loss is 0.8293746511141459 at epoch 112
+INFO - 01/12/26 17:00:41 - 0:04:02 - dev accuracy is 74.5 at epoch 112
+INFO - 01/12/26 17:00:41 - 0:04:02 - dev average edit distance is 0.59 at epoch 112
+INFO - 01/12/26 17:00:41 - 0:04:02 - At 113-th epoch with lr 0.000706.
+INFO - 01/12/26 17:00:43 - 0:04:04 - Running average train loss is 0.7353391194343567 at epoch 113
+INFO - 01/12/26 17:00:43 - 0:04:04 - At 114-th epoch with lr 0.000713.
+INFO - 01/12/26 17:00:45 - 0:04:06 - Running average train loss is 0.7356786942481994 at epoch 114
+INFO - 01/12/26 17:00:45 - 0:04:06 - At 115-th epoch with lr 0.000719.
+INFO - 01/12/26 17:00:46 - 0:04:07 - Running average train loss is 0.736120765209198 at epoch 115
+INFO - 01/12/26 17:00:46 - 0:04:07 - At 116-th epoch with lr 0.000725.
+INFO - 01/12/26 17:00:48 - 0:04:09 - Running average train loss is 0.7361526441574097 at epoch 116
+INFO - 01/12/26 17:00:48 - 0:04:09 - At 117-th epoch with lr 0.000731.
+INFO - 01/12/26 17:00:50 - 0:04:11 - Running average train loss is 0.7332322835922241 at epoch 117
+INFO - 01/12/26 17:00:50 - 0:04:11 - At 118-th epoch with lr 0.000738.
+INFO - 01/12/26 17:00:52 - 0:04:13 - Running average train loss is 0.7342856645584106 at epoch 118
+INFO - 01/12/26 17:00:52 - 0:04:13 - At 119-th epoch with lr 0.000744.
+INFO - 01/12/26 17:00:54 - 0:04:15 - Running average train loss is 0.7338004803657532 at epoch 119
+INFO - 01/12/26 17:00:54 - 0:04:15 - At 120-th epoch with lr 0.000750.
+INFO - 01/12/26 17:00:55 - 0:04:16 - Running average train loss is 0.7326667833328248 at epoch 120
+INFO - 01/12/26 17:00:55 - 0:04:16 - At 121-th epoch with lr 0.000756.
+INFO - 01/12/26 17:00:57 - 0:04:18 - Running average train loss is 0.7323857760429382 at epoch 121
+INFO - 01/12/26 17:00:57 - 0:04:18 - At 122-th epoch with lr 0.000762.
+INFO - 01/12/26 17:00:59 - 0:04:20 - Running average train loss is 0.733029637336731 at epoch 122
+INFO - 01/12/26 17:00:59 - 0:04:20 - At 123-th epoch with lr 0.000769.
+INFO - 01/12/26 17:01:01 - 0:04:22 - Running average train loss is 0.733165352344513 at epoch 123
+INFO - 01/12/26 17:01:01 - 0:04:22 - At 124-th epoch with lr 0.000775.
+INFO - 01/12/26 17:01:03 - 0:04:24 - Running average train loss is 0.7312309980392456 at epoch 124
+INFO - 01/12/26 17:01:03 - 0:04:24 - At 125-th epoch with lr 0.000781.
+INFO - 01/12/26 17:01:04 - 0:04:25 - Running average train loss is 0.7311360168457032 at epoch 125
+INFO - 01/12/26 17:01:04 - 0:04:25 - At 126-th epoch with lr 0.000788.
+INFO - 01/12/26 17:01:06 - 0:04:27 - Running average train loss is 0.7338384127616883 at epoch 126
+INFO - 01/12/26 17:01:06 - 0:04:27 - At 127-th epoch with lr 0.000794.
+INFO - 01/12/26 17:01:08 - 0:04:29 - Running average train loss is 0.730212869644165 at epoch 127
+INFO - 01/12/26 17:01:08 - 0:04:29 - At 128-th epoch with lr 0.000800.
+INFO - 01/12/26 17:01:10 - 0:04:31 - Running average train loss is 0.7326891589164733 at epoch 128
+INFO - 01/12/26 17:01:10 - 0:04:31 - Average dev loss is 0.8223418990770975 at epoch 128
+INFO - 01/12/26 17:01:11 - 0:04:31 - dev accuracy is 75.3 at epoch 128
+INFO - 01/12/26 17:01:11 - 0:04:31 - dev average edit distance is 0.525 at epoch 128
+INFO - 01/12/26 17:01:11 - 0:04:32 - At 129-th epoch with lr 0.000806.
+INFO - 01/12/26 17:01:12 - 0:04:33 - Running average train loss is 0.7323135900497436 at epoch 129
+INFO - 01/12/26 17:01:12 - 0:04:33 - At 130-th epoch with lr 0.000813.
+INFO - 01/12/26 17:01:14 - 0:04:35 - Running average train loss is 0.7310887932777405 at epoch 130
+INFO - 01/12/26 17:01:14 - 0:04:35 - At 131-th epoch with lr 0.000819.
+INFO - 01/12/26 17:01:16 - 0:04:37 - Running average train loss is 0.7296485662460327 at epoch 131
+INFO - 01/12/26 17:01:16 - 0:04:37 - At 132-th epoch with lr 0.000825.
+INFO - 01/12/26 17:01:18 - 0:04:39 - Running average train loss is 0.7297159767150879 at epoch 132
+INFO - 01/12/26 17:01:18 - 0:04:39 - At 133-th epoch with lr 0.000831.
+INFO - 01/12/26 17:01:20 - 0:04:41 - Running average train loss is 0.7306906604766845 at epoch 133
+INFO - 01/12/26 17:01:20 - 0:04:41 - At 134-th epoch with lr 0.000838.
+INFO - 01/12/26 17:01:21 - 0:04:42 - Running average train loss is 0.7286772561073304 at epoch 134
+INFO - 01/12/26 17:01:21 - 0:04:42 - At 135-th epoch with lr 0.000844.
+INFO - 01/12/26 17:01:23 - 0:04:44 - Running average train loss is 0.7288282442092896 at epoch 135
+INFO - 01/12/26 17:01:23 - 0:04:44 - At 136-th epoch with lr 0.000850.
+INFO - 01/12/26 17:01:25 - 0:04:46 - Running average train loss is 0.7300610041618347 at epoch 136
+INFO - 01/12/26 17:01:25 - 0:04:46 - At 137-th epoch with lr 0.000856.
+INFO - 01/12/26 17:01:27 - 0:04:48 - Running average train loss is 0.7298263978958129 at epoch 137
+INFO - 01/12/26 17:01:27 - 0:04:48 - At 138-th epoch with lr 0.000863.
+INFO - 01/12/26 17:01:29 - 0:04:50 - Running average train loss is 0.728488335609436 at epoch 138
+INFO - 01/12/26 17:01:29 - 0:04:50 - At 139-th epoch with lr 0.000869.
+INFO - 01/12/26 17:01:30 - 0:04:51 - Running average train loss is 0.7319129824638366 at epoch 139
+INFO - 01/12/26 17:01:30 - 0:04:51 - At 140-th epoch with lr 0.000875.
+INFO - 01/12/26 17:01:32 - 0:04:53 - Running average train loss is 0.7273996162414551 at epoch 140
+INFO - 01/12/26 17:01:32 - 0:04:53 - At 141-th epoch with lr 0.000881.
+INFO - 01/12/26 17:01:34 - 0:04:55 - Running average train loss is 0.7264583635330201 at epoch 141
+INFO - 01/12/26 17:01:34 - 0:04:55 - At 142-th epoch with lr 0.000887.
+INFO - 01/12/26 17:01:36 - 0:04:57 - Running average train loss is 0.726814124584198 at epoch 142
+INFO - 01/12/26 17:01:36 - 0:04:57 - At 143-th epoch with lr 0.000894.
+INFO - 01/12/26 17:01:38 - 0:04:59 - Running average train loss is 0.7265608882904053 at epoch 143
+INFO - 01/12/26 17:01:38 - 0:04:59 - At 144-th epoch with lr 0.000900.
+INFO - 01/12/26 17:01:40 - 0:05:00 - Running average train loss is 0.7277615523338318 at epoch 144
+INFO - 01/12/26 17:01:40 - 0:05:01 - Average dev loss is 0.8391242623329163 at epoch 144
+INFO - 01/12/26 17:01:40 - 0:05:01 - dev accuracy is 75.0 at epoch 144
+INFO - 01/12/26 17:01:40 - 0:05:01 - dev average edit distance is 0.603 at epoch 144
+INFO - 01/12/26 17:01:40 - 0:05:01 - At 145-th epoch with lr 0.000906.
+INFO - 01/12/26 17:01:42 - 0:05:03 - Running average train loss is 0.7286667299270629 at epoch 145
+INFO - 01/12/26 17:01:42 - 0:05:03 - At 146-th epoch with lr 0.000913.
+INFO - 01/12/26 17:01:44 - 0:05:05 - Running average train loss is 0.7275702571868896 at epoch 146
+INFO - 01/12/26 17:01:44 - 0:05:05 - At 147-th epoch with lr 0.000919.
+INFO - 01/12/26 17:01:46 - 0:05:07 - Running average train loss is 0.7285564970970154 at epoch 147
+INFO - 01/12/26 17:01:46 - 0:05:07 - At 148-th epoch with lr 0.000925.
+INFO - 01/12/26 17:01:48 - 0:05:09 - Running average train loss is 0.7280067086219788 at epoch 148
+INFO - 01/12/26 17:01:48 - 0:05:09 - At 149-th epoch with lr 0.000931.
+INFO - 01/12/26 17:01:50 - 0:05:11 - Running average train loss is 0.7262441873550415 at epoch 149
+INFO - 01/12/26 17:01:50 - 0:05:11 - At 150-th epoch with lr 0.000937.
+INFO - 01/12/26 17:01:52 - 0:05:13 - Running average train loss is 0.7266262269020081 at epoch 150
+INFO - 01/12/26 17:01:52 - 0:05:13 - At 151-th epoch with lr 0.000944.
+INFO - 01/12/26 17:01:54 - 0:05:15 - Running average train loss is 0.7278960275650025 at epoch 151
+INFO - 01/12/26 17:01:54 - 0:05:15 - At 152-th epoch with lr 0.000950.
+INFO - 01/12/26 17:01:56 - 0:05:17 - Running average train loss is 0.7270067119598389 at epoch 152
+INFO - 01/12/26 17:01:56 - 0:05:17 - At 153-th epoch with lr 0.000956.
+INFO - 01/12/26 17:01:58 - 0:05:19 - Running average train loss is 0.7280011510848999 at epoch 153
+INFO - 01/12/26 17:01:58 - 0:05:19 - At 154-th epoch with lr 0.000963.
+INFO - 01/12/26 17:01:59 - 0:05:20 - Running average train loss is 0.7262330079078674 at epoch 154
+INFO - 01/12/26 17:01:59 - 0:05:20 - At 155-th epoch with lr 0.000969.
+INFO - 01/12/26 17:02:01 - 0:05:22 - Running average train loss is 0.7283038067817688 at epoch 155
+INFO - 01/12/26 17:02:01 - 0:05:22 - At 156-th epoch with lr 0.000975.
+INFO - 01/12/26 17:02:03 - 0:05:24 - Running average train loss is 0.7283060073852539 at epoch 156
+INFO - 01/12/26 17:02:03 - 0:05:24 - At 157-th epoch with lr 0.000981.
+INFO - 01/12/26 17:02:05 - 0:05:26 - Running average train loss is 0.7264703869819641 at epoch 157
+INFO - 01/12/26 17:02:05 - 0:05:26 - At 158-th epoch with lr 0.000988.
+INFO - 01/12/26 17:02:07 - 0:05:28 - Running average train loss is 0.724874632358551 at epoch 158
+INFO - 01/12/26 17:02:07 - 0:05:28 - At 159-th epoch with lr 0.000994.
+INFO - 01/12/26 17:02:08 - 0:05:29 - Running average train loss is 0.7262158632278443 at epoch 159
+INFO - 01/12/26 17:02:08 - 0:05:29 - At 160-th epoch with lr 0.001000.
+INFO - 01/12/26 17:02:10 - 0:05:31 - Running average train loss is 0.7277452182769776 at epoch 160
+INFO - 01/12/26 17:02:10 - 0:05:31 - Average dev loss is 0.8386123577753702 at epoch 160
+INFO - 01/12/26 17:02:11 - 0:05:32 - dev accuracy is 74.0 at epoch 160
+INFO - 01/12/26 17:02:11 - 0:05:32 - dev average edit distance is 0.638 at epoch 160
+INFO - 01/12/26 17:02:11 - 0:05:32 - At 161-th epoch with lr 0.000997.
+INFO - 01/12/26 17:02:13 - 0:05:34 - Running average train loss is 0.7257667875289917 at epoch 161
+INFO - 01/12/26 17:02:13 - 0:05:34 - At 162-th epoch with lr 0.000994.
+INFO - 01/12/26 17:02:15 - 0:05:36 - Running average train loss is 0.7274396252632142 at epoch 162
+INFO - 01/12/26 17:02:15 - 0:05:36 - At 163-th epoch with lr 0.000991.
+INFO - 01/12/26 17:02:16 - 0:05:37 - Running average train loss is 0.7271296048164367 at epoch 163
+INFO - 01/12/26 17:02:16 - 0:05:37 - At 164-th epoch with lr 0.000988.
+INFO - 01/12/26 17:02:18 - 0:05:39 - Running average train loss is 0.7234857892990112 at epoch 164
+INFO - 01/12/26 17:02:18 - 0:05:39 - At 165-th epoch with lr 0.000985.
+INFO - 01/12/26 17:02:21 - 0:05:42 - Running average train loss is 0.7232847809791565 at epoch 165
+INFO - 01/12/26 17:02:21 - 0:05:42 - At 166-th epoch with lr 0.000982.
+INFO - 01/12/26 17:02:22 - 0:05:43 - Running average train loss is 0.7253056979179382 at epoch 166
+INFO - 01/12/26 17:02:22 - 0:05:43 - At 167-th epoch with lr 0.000979.
+INFO - 01/12/26 17:02:24 - 0:05:45 - Running average train loss is 0.7248174548149109 at epoch 167
+INFO - 01/12/26 17:02:24 - 0:05:45 - At 168-th epoch with lr 0.000976.
+INFO - 01/12/26 17:02:26 - 0:05:47 - Running average train loss is 0.7219274520874024 at epoch 168
+INFO - 01/12/26 17:02:26 - 0:05:47 - At 169-th epoch with lr 0.000973.
+INFO - 01/12/26 17:02:28 - 0:05:49 - Running average train loss is 0.7233844232559205 at epoch 169
+INFO - 01/12/26 17:02:28 - 0:05:49 - At 170-th epoch with lr 0.000970.
+INFO - 01/12/26 17:02:30 - 0:05:51 - Running average train loss is 0.723768527507782 at epoch 170
+INFO - 01/12/26 17:02:30 - 0:05:51 - At 171-th epoch with lr 0.000967.
+INFO - 01/12/26 17:02:31 - 0:05:52 - Running average train loss is 0.7254167556762695 at epoch 171
+INFO - 01/12/26 17:02:31 - 0:05:52 - At 172-th epoch with lr 0.000964.
+INFO - 01/12/26 17:02:33 - 0:05:54 - Running average train loss is 0.7236039352416992 at epoch 172
+INFO - 01/12/26 17:02:33 - 0:05:54 - At 173-th epoch with lr 0.000962.
+INFO - 01/12/26 17:02:35 - 0:05:56 - Running average train loss is 0.722518789768219 at epoch 173
+INFO - 01/12/26 17:02:35 - 0:05:56 - At 174-th epoch with lr 0.000959.
+INFO - 01/12/26 17:02:37 - 0:05:58 - Running average train loss is 0.7212195253372192 at epoch 174
+INFO - 01/12/26 17:02:37 - 0:05:58 - At 175-th epoch with lr 0.000956.
+INFO - 01/12/26 17:02:39 - 0:06:00 - Running average train loss is 0.7212627863883972 at epoch 175
+INFO - 01/12/26 17:02:39 - 0:06:00 - At 176-th epoch with lr 0.000953.
+INFO - 01/12/26 17:02:40 - 0:06:01 - Running average train loss is 0.7201864147186279 at epoch 176
+INFO - 01/12/26 17:02:41 - 0:06:01 - Average dev loss is 0.838168740272522 at epoch 176
+INFO - 01/12/26 17:02:41 - 0:06:02 - dev accuracy is 76.8 at epoch 176
+INFO - 01/12/26 17:02:41 - 0:06:02 - dev average edit distance is 0.457 at epoch 176
+INFO - 01/12/26 17:02:41 - 0:06:02 - At 177-th epoch with lr 0.000951.
+INFO - 01/12/26 17:02:43 - 0:06:04 - Running average train loss is 0.721229522228241 at epoch 177
+INFO - 01/12/26 17:02:43 - 0:06:04 - At 178-th epoch with lr 0.000948.
+INFO - 01/12/26 17:02:45 - 0:06:06 - Running average train loss is 0.7205734801292419 at epoch 178
+INFO - 01/12/26 17:02:45 - 0:06:06 - At 179-th epoch with lr 0.000945.
+INFO - 01/12/26 17:02:47 - 0:06:08 - Running average train loss is 0.7215426921844482 at epoch 179
+INFO - 01/12/26 17:02:47 - 0:06:08 - At 180-th epoch with lr 0.000943.
+INFO - 01/12/26 17:02:48 - 0:06:09 - Running average train loss is 0.7194998216629028 at epoch 180
+INFO - 01/12/26 17:02:48 - 0:06:09 - At 181-th epoch with lr 0.000940.
+INFO - 01/12/26 17:02:50 - 0:06:11 - Running average train loss is 0.720443069934845 at epoch 181
+INFO - 01/12/26 17:02:50 - 0:06:11 - At 182-th epoch with lr 0.000938.
+INFO - 01/12/26 17:02:52 - 0:06:13 - Running average train loss is 0.7191836047172546 at epoch 182
+INFO - 01/12/26 17:02:52 - 0:06:13 - At 183-th epoch with lr 0.000935.
+INFO - 01/12/26 17:02:54 - 0:06:15 - Running average train loss is 0.7198281550407409 at epoch 183
+INFO - 01/12/26 17:02:54 - 0:06:15 - At 184-th epoch with lr 0.000933.
+INFO - 01/12/26 17:02:56 - 0:06:17 - Running average train loss is 0.7198055481910706 at epoch 184
+INFO - 01/12/26 17:02:56 - 0:06:17 - At 185-th epoch with lr 0.000930.
+INFO - 01/12/26 17:02:57 - 0:06:18 - Running average train loss is 0.7187259459495544 at epoch 185
+INFO - 01/12/26 17:02:57 - 0:06:18 - At 186-th epoch with lr 0.000927.
+INFO - 01/12/26 17:02:59 - 0:06:20 - Running average train loss is 0.7196659326553345 at epoch 186
+INFO - 01/12/26 17:02:59 - 0:06:20 - At 187-th epoch with lr 0.000925.
+INFO - 01/12/26 17:03:01 - 0:06:22 - Running average train loss is 0.7164104628562927 at epoch 187
+INFO - 01/12/26 17:03:01 - 0:06:22 - At 188-th epoch with lr 0.000923.
+INFO - 01/12/26 17:03:03 - 0:06:24 - Running average train loss is 0.7184298968315125 at epoch 188
+INFO - 01/12/26 17:03:03 - 0:06:24 - At 189-th epoch with lr 0.000920.
+INFO - 01/12/26 17:03:05 - 0:06:26 - Running average train loss is 0.7172141337394714 at epoch 189
+INFO - 01/12/26 17:03:05 - 0:06:26 - At 190-th epoch with lr 0.000918.
+INFO - 01/12/26 17:03:06 - 0:06:27 - Running average train loss is 0.7168705701828003 at epoch 190
+INFO - 01/12/26 17:03:06 - 0:06:27 - At 191-th epoch with lr 0.000915.
+INFO - 01/12/26 17:03:08 - 0:06:29 - Running average train loss is 0.7169336724281311 at epoch 191
+INFO - 01/12/26 17:03:08 - 0:06:29 - At 192-th epoch with lr 0.000913.
+INFO - 01/12/26 17:03:10 - 0:06:31 - Running average train loss is 0.7170533776283264 at epoch 192
+INFO - 01/12/26 17:03:10 - 0:06:31 - Average dev loss is 0.8426472345987955 at epoch 192
+INFO - 01/12/26 17:03:11 - 0:06:32 - dev accuracy is 76.4 at epoch 192
+INFO - 01/12/26 17:03:11 - 0:06:32 - dev average edit distance is 0.507 at epoch 192
+INFO - 01/12/26 17:03:11 - 0:06:32 - At 193-th epoch with lr 0.000911.
+INFO - 01/12/26 17:03:13 - 0:06:34 - Running average train loss is 0.7163878130912781 at epoch 193
+INFO - 01/12/26 17:03:13 - 0:06:34 - At 194-th epoch with lr 0.000908.
+INFO - 01/12/26 17:03:14 - 0:06:35 - Running average train loss is 0.7177988982200623 at epoch 194
+INFO - 01/12/26 17:03:14 - 0:06:35 - At 195-th epoch with lr 0.000906.
+INFO - 01/12/26 17:03:16 - 0:06:37 - Running average train loss is 0.7173751163482666 at epoch 195
+INFO - 01/12/26 17:03:16 - 0:06:37 - At 196-th epoch with lr 0.000904.
+INFO - 01/12/26 17:03:18 - 0:06:39 - Running average train loss is 0.7159262299537659 at epoch 196
+INFO - 01/12/26 17:03:18 - 0:06:39 - At 197-th epoch with lr 0.000901.
+INFO - 01/12/26 17:03:20 - 0:06:41 - Running average train loss is 0.7159938979148864 at epoch 197
+INFO - 01/12/26 17:03:20 - 0:06:41 - At 198-th epoch with lr 0.000899.
+INFO - 01/12/26 17:03:22 - 0:06:43 - Running average train loss is 0.715380699634552 at epoch 198
+INFO - 01/12/26 17:03:22 - 0:06:43 - At 199-th epoch with lr 0.000897.
+INFO - 01/12/26 17:03:24 - 0:06:44 - Running average train loss is 0.7143965935707093 at epoch 199
+INFO - 01/12/26 17:03:24 - 0:06:44 - At 200-th epoch with lr 0.000894.
+INFO - 01/12/26 17:03:25 - 0:06:46 - Running average train loss is 0.7161634087562561 at epoch 200
+INFO - 01/12/26 17:03:25 - 0:06:46 - At 201-th epoch with lr 0.000892.
+INFO - 01/12/26 17:03:27 - 0:06:48 - Running average train loss is 0.7152100706100464 at epoch 201
+INFO - 01/12/26 17:03:27 - 0:06:48 - At 202-th epoch with lr 0.000890.
+INFO - 01/12/26 17:03:29 - 0:06:50 - Running average train loss is 0.7155916023254395 at epoch 202
+INFO - 01/12/26 17:03:29 - 0:06:50 - At 203-th epoch with lr 0.000888.
+INFO - 01/12/26 17:03:31 - 0:06:52 - Running average train loss is 0.7157559418678283 at epoch 203
+INFO - 01/12/26 17:03:31 - 0:06:52 - At 204-th epoch with lr 0.000886.
+INFO - 01/12/26 17:03:33 - 0:06:53 - Running average train loss is 0.7153433704376221 at epoch 204
+INFO - 01/12/26 17:03:33 - 0:06:53 - At 205-th epoch with lr 0.000883.
+INFO - 01/12/26 17:03:34 - 0:06:55 - Running average train loss is 0.7134663009643555 at epoch 205
+INFO - 01/12/26 17:03:34 - 0:06:55 - At 206-th epoch with lr 0.000881.
+INFO - 01/12/26 17:03:36 - 0:06:57 - Running average train loss is 0.7121772408485413 at epoch 206
+INFO - 01/12/26 17:03:36 - 0:06:57 - At 207-th epoch with lr 0.000879.
+INFO - 01/12/26 17:03:38 - 0:06:59 - Running average train loss is 0.7139830279350281 at epoch 207
+INFO - 01/12/26 17:03:38 - 0:06:59 - At 208-th epoch with lr 0.000877.
+INFO - 01/12/26 17:03:40 - 0:07:01 - Running average train loss is 0.7135985398292541 at epoch 208
+INFO - 01/12/26 17:03:40 - 0:07:01 - Average dev loss is 0.8428122401237488 at epoch 208
+INFO - 01/12/26 17:03:40 - 0:07:01 - dev accuracy is 76.2 at epoch 208
+INFO - 01/12/26 17:03:40 - 0:07:01 - dev average edit distance is 0.509 at epoch 208
+INFO - 01/12/26 17:03:40 - 0:07:01 - At 209-th epoch with lr 0.000875.
+INFO - 01/12/26 17:03:42 - 0:07:03 - Running average train loss is 0.7126764678955078 at epoch 209
+INFO - 01/12/26 17:03:42 - 0:07:03 - At 210-th epoch with lr 0.000873.
+INFO - 01/12/26 17:03:44 - 0:07:05 - Running average train loss is 0.7142560148239135 at epoch 210
+INFO - 01/12/26 17:03:44 - 0:07:05 - At 211-th epoch with lr 0.000871.
+INFO - 01/12/26 17:03:46 - 0:07:07 - Running average train loss is 0.7137416887283325 at epoch 211
+INFO - 01/12/26 17:03:46 - 0:07:07 - At 212-th epoch with lr 0.000869.
+INFO - 01/12/26 17:03:48 - 0:07:09 - Running average train loss is 0.7129985809326171 at epoch 212
+INFO - 01/12/26 17:03:48 - 0:07:09 - At 213-th epoch with lr 0.000867.
+INFO - 01/12/26 17:03:50 - 0:07:10 - Running average train loss is 0.7137614822387696 at epoch 213
+INFO - 01/12/26 17:03:50 - 0:07:10 - At 214-th epoch with lr 0.000865.
+INFO - 01/12/26 17:03:51 - 0:07:12 - Running average train loss is 0.7130866932868958 at epoch 214
+INFO - 01/12/26 17:03:51 - 0:07:12 - At 215-th epoch with lr 0.000863.
+INFO - 01/12/26 17:03:53 - 0:07:14 - Running average train loss is 0.7136000418663024 at epoch 215
+INFO - 01/12/26 17:03:53 - 0:07:14 - At 216-th epoch with lr 0.000861.
+INFO - 01/12/26 17:03:55 - 0:07:16 - Running average train loss is 0.7131038498878479 at epoch 216
+INFO - 01/12/26 17:03:55 - 0:07:16 - At 217-th epoch with lr 0.000859.
+INFO - 01/12/26 17:03:57 - 0:07:18 - Running average train loss is 0.7128138828277588 at epoch 217
+INFO - 01/12/26 17:03:57 - 0:07:18 - At 218-th epoch with lr 0.000857.
+INFO - 01/12/26 17:03:59 - 0:07:19 - Running average train loss is 0.711713798046112 at epoch 218
+INFO - 01/12/26 17:03:59 - 0:07:19 - At 219-th epoch with lr 0.000855.
+INFO - 01/12/26 17:04:00 - 0:07:21 - Running average train loss is 0.7118492722511292 at epoch 219
+INFO - 01/12/26 17:04:00 - 0:07:21 - At 220-th epoch with lr 0.000853.
+INFO - 01/12/26 17:04:02 - 0:07:23 - Running average train loss is 0.7113879013061524 at epoch 220
+INFO - 01/12/26 17:04:02 - 0:07:23 - At 221-th epoch with lr 0.000851.
+INFO - 01/12/26 17:04:04 - 0:07:25 - Running average train loss is 0.7121507596969604 at epoch 221
+INFO - 01/12/26 17:04:04 - 0:07:25 - At 222-th epoch with lr 0.000849.
+INFO - 01/12/26 17:04:06 - 0:07:27 - Running average train loss is 0.7119321942329406 at epoch 222
+INFO - 01/12/26 17:04:06 - 0:07:27 - At 223-th epoch with lr 0.000847.
+INFO - 01/12/26 17:04:08 - 0:07:29 - Running average train loss is 0.7115347528457642 at epoch 223
+INFO - 01/12/26 17:04:08 - 0:07:29 - At 224-th epoch with lr 0.000845.
+INFO - 01/12/26 17:04:09 - 0:07:30 - Running average train loss is 0.71146244764328 at epoch 224
+INFO - 01/12/26 17:04:09 - 0:07:30 - Average dev loss is 0.8343429764111837 at epoch 224
+INFO - 01/12/26 17:04:10 - 0:07:31 - dev accuracy is 77.1 at epoch 224
+INFO - 01/12/26 17:04:10 - 0:07:31 - dev average edit distance is 0.528 at epoch 224
+INFO - 01/12/26 17:04:10 - 0:07:31 - At 225-th epoch with lr 0.000843.
+INFO - 01/12/26 17:04:12 - 0:07:33 - Running average train loss is 0.7105836153030396 at epoch 225
+INFO - 01/12/26 17:04:12 - 0:07:33 - At 226-th epoch with lr 0.000841.
+INFO - 01/12/26 17:04:14 - 0:07:35 - Running average train loss is 0.7103446388244629 at epoch 226
+INFO - 01/12/26 17:04:14 - 0:07:35 - At 227-th epoch with lr 0.000840.
+INFO - 01/12/26 17:04:16 - 0:07:37 - Running average train loss is 0.711254894733429 at epoch 227
+INFO - 01/12/26 17:04:16 - 0:07:37 - At 228-th epoch with lr 0.000838.
+INFO - 01/12/26 17:04:18 - 0:07:39 - Running average train loss is 0.7109070062637329 at epoch 228
+INFO - 01/12/26 17:04:18 - 0:07:39 - At 229-th epoch with lr 0.000836.
+INFO - 01/12/26 17:04:19 - 0:07:40 - Running average train loss is 0.7107591199874878 at epoch 229
+INFO - 01/12/26 17:04:19 - 0:07:40 - At 230-th epoch with lr 0.000834.
+INFO - 01/12/26 17:04:21 - 0:07:42 - Running average train loss is 0.7106717157363892 at epoch 230
+INFO - 01/12/26 17:04:21 - 0:07:42 - At 231-th epoch with lr 0.000832.
+INFO - 01/12/26 17:04:23 - 0:07:44 - Running average train loss is 0.7104110407829285 at epoch 231
+INFO - 01/12/26 17:04:23 - 0:07:44 - At 232-th epoch with lr 0.000830.
+INFO - 01/12/26 17:04:25 - 0:07:46 - Running average train loss is 0.7101150989532471 at epoch 232
+INFO - 01/12/26 17:04:25 - 0:07:46 - At 233-th epoch with lr 0.000829.
+INFO - 01/12/26 17:04:27 - 0:07:48 - Running average train loss is 0.711037654876709 at epoch 233
+INFO - 01/12/26 17:04:27 - 0:07:48 - At 234-th epoch with lr 0.000827.
+INFO - 01/12/26 17:04:28 - 0:07:49 - Running average train loss is 0.709506983757019 at epoch 234
+INFO - 01/12/26 17:04:28 - 0:07:49 - At 235-th epoch with lr 0.000825.
+INFO - 01/12/26 17:04:30 - 0:07:51 - Running average train loss is 0.7097898292541504 at epoch 235
+INFO - 01/12/26 17:04:30 - 0:07:51 - At 236-th epoch with lr 0.000823.
+INFO - 01/12/26 17:04:32 - 0:07:53 - Running average train loss is 0.709188060760498 at epoch 236
+INFO - 01/12/26 17:04:32 - 0:07:53 - At 237-th epoch with lr 0.000822.
+INFO - 01/12/26 17:04:34 - 0:07:55 - Running average train loss is 0.7092861032485962 at epoch 237
+INFO - 01/12/26 17:04:34 - 0:07:55 - At 238-th epoch with lr 0.000820.
+INFO - 01/12/26 17:04:36 - 0:07:57 - Running average train loss is 0.7096293497085572 at epoch 238
+INFO - 01/12/26 17:04:36 - 0:07:57 - At 239-th epoch with lr 0.000818.
+INFO - 01/12/26 17:04:37 - 0:07:58 - Running average train loss is 0.7106479287147522 at epoch 239
+INFO - 01/12/26 17:04:37 - 0:07:58 - At 240-th epoch with lr 0.000816.
+INFO - 01/12/26 17:04:39 - 0:08:00 - Running average train loss is 0.7090282154083252 at epoch 240
+INFO - 01/12/26 17:04:39 - 0:08:00 - Average dev loss is 0.8555962840716044 at epoch 240
+INFO - 01/12/26 17:04:40 - 0:08:01 - dev accuracy is 74.4 at epoch 240
+INFO - 01/12/26 17:04:40 - 0:08:01 - dev average edit distance is 0.621 at epoch 240
+INFO - 01/12/26 17:04:40 - 0:08:01 - At 241-th epoch with lr 0.000815.
+INFO - 01/12/26 17:04:42 - 0:08:03 - Running average train loss is 0.7091099452972413 at epoch 241
+INFO - 01/12/26 17:04:42 - 0:08:03 - At 242-th epoch with lr 0.000813.
+INFO - 01/12/26 17:04:44 - 0:08:05 - Running average train loss is 0.7098947930335998 at epoch 242
+INFO - 01/12/26 17:04:44 - 0:08:05 - At 243-th epoch with lr 0.000811.
+INFO - 01/12/26 17:04:45 - 0:08:06 - Running average train loss is 0.7086268424987793 at epoch 243
+INFO - 01/12/26 17:04:45 - 0:08:06 - At 244-th epoch with lr 0.000810.
+INFO - 01/12/26 17:04:47 - 0:08:08 - Running average train loss is 0.7085028362274169 at epoch 244
+INFO - 01/12/26 17:04:47 - 0:08:08 - At 245-th epoch with lr 0.000808.
+INFO - 01/12/26 17:04:49 - 0:08:10 - Running average train loss is 0.7082801795005799 at epoch 245
+INFO - 01/12/26 17:04:49 - 0:08:10 - At 246-th epoch with lr 0.000806.
+INFO - 01/12/26 17:04:51 - 0:08:12 - Running average train loss is 0.7082541418075562 at epoch 246
+INFO - 01/12/26 17:04:51 - 0:08:12 - At 247-th epoch with lr 0.000805.
+INFO - 01/12/26 17:04:53 - 0:08:14 - Running average train loss is 0.7082157158851623 at epoch 247
+INFO - 01/12/26 17:04:53 - 0:08:14 - At 248-th epoch with lr 0.000803.
+INFO - 01/12/26 17:04:54 - 0:08:15 - Running average train loss is 0.7078477382659912 at epoch 248
+INFO - 01/12/26 17:04:54 - 0:08:15 - At 249-th epoch with lr 0.000802.
+INFO - 01/12/26 17:04:56 - 0:08:17 - Running average train loss is 0.7082729172706604 at epoch 249
+INFO - 01/12/26 17:04:56 - 0:08:17 - At 250-th epoch with lr 0.000800.
+INFO - 01/12/26 17:04:58 - 0:08:19 - Running average train loss is 0.7080657601356506 at epoch 250
+INFO - 01/12/26 17:04:58 - 0:08:19 - At 251-th epoch with lr 0.000798.
+INFO - 01/12/26 17:05:00 - 0:08:21 - Running average train loss is 0.7084585022926331 at epoch 251
+INFO - 01/12/26 17:05:00 - 0:08:21 - At 252-th epoch with lr 0.000797.
+INFO - 01/12/26 17:05:02 - 0:08:23 - Running average train loss is 0.709714572429657 at epoch 252
+INFO - 01/12/26 17:05:02 - 0:08:23 - At 253-th epoch with lr 0.000795.
+INFO - 01/12/26 17:05:03 - 0:08:24 - Running average train loss is 0.7087470483779907 at epoch 253
+INFO - 01/12/26 17:05:03 - 0:08:24 - At 254-th epoch with lr 0.000794.
+INFO - 01/12/26 17:05:05 - 0:08:26 - Running average train loss is 0.7075079059600831 at epoch 254
+INFO - 01/12/26 17:05:05 - 0:08:26 - At 255-th epoch with lr 0.000792.
+INFO - 01/12/26 17:05:07 - 0:08:28 - Running average train loss is 0.7072001051902771 at epoch 255
+INFO - 01/12/26 17:05:07 - 0:08:28 - At 256-th epoch with lr 0.000791.
+INFO - 01/12/26 17:05:09 - 0:08:30 - Running average train loss is 0.7069463396072387 at epoch 256
+INFO - 01/12/26 17:05:09 - 0:08:30 - Average dev loss is 0.857288142045339 at epoch 256
+INFO - 01/12/26 17:05:09 - 0:08:30 - dev accuracy is 72.7 at epoch 256
+INFO - 01/12/26 17:05:09 - 0:08:30 - dev average edit distance is 0.673 at epoch 256
+INFO - 01/12/26 17:05:10 - 0:08:30 - At 257-th epoch with lr 0.000789.
+INFO - 01/12/26 17:05:11 - 0:08:32 - Running average train loss is 0.706847825050354 at epoch 257
+INFO - 01/12/26 17:05:11 - 0:08:32 - At 258-th epoch with lr 0.000787.
+INFO - 01/12/26 17:05:13 - 0:08:34 - Running average train loss is 0.706260576248169 at epoch 258
+INFO - 01/12/26 17:05:13 - 0:08:34 - At 259-th epoch with lr 0.000786.
+INFO - 01/12/26 17:05:15 - 0:08:36 - Running average train loss is 0.7062424993515015 at epoch 259
+INFO - 01/12/26 17:05:15 - 0:08:36 - At 260-th epoch with lr 0.000784.
+INFO - 01/12/26 17:05:17 - 0:08:38 - Running average train loss is 0.7062877655029297 at epoch 260
+INFO - 01/12/26 17:05:17 - 0:08:38 - At 261-th epoch with lr 0.000783.
+INFO - 01/12/26 17:05:19 - 0:08:40 - Running average train loss is 0.7072190308570862 at epoch 261
+INFO - 01/12/26 17:05:19 - 0:08:40 - At 262-th epoch with lr 0.000781.
+INFO - 01/12/26 17:05:20 - 0:08:41 - Running average train loss is 0.7072419190406799 at epoch 262
+INFO - 01/12/26 17:05:20 - 0:08:41 - At 263-th epoch with lr 0.000780.
+INFO - 01/12/26 17:05:22 - 0:08:43 - Running average train loss is 0.7068870258331299 at epoch 263
+INFO - 01/12/26 17:05:22 - 0:08:43 - At 264-th epoch with lr 0.000778.
+INFO - 01/12/26 17:05:24 - 0:08:45 - Running average train loss is 0.7067875003814698 at epoch 264
+INFO - 01/12/26 17:05:24 - 0:08:45 - At 265-th epoch with lr 0.000777.
+INFO - 01/12/26 17:05:26 - 0:08:47 - Running average train loss is 0.7071353220939636 at epoch 265
+INFO - 01/12/26 17:05:26 - 0:08:47 - At 266-th epoch with lr 0.000776.
+INFO - 01/12/26 17:05:28 - 0:08:49 - Running average train loss is 0.7066559886932373 at epoch 266
+INFO - 01/12/26 17:05:28 - 0:08:49 - At 267-th epoch with lr 0.000774.
+INFO - 01/12/26 17:05:29 - 0:08:50 - Running average train loss is 0.7056063866615295 at epoch 267
+INFO - 01/12/26 17:05:29 - 0:08:50 - At 268-th epoch with lr 0.000773.
+INFO - 01/12/26 17:05:31 - 0:08:52 - Running average train loss is 0.7069397091865539 at epoch 268
+INFO - 01/12/26 17:05:31 - 0:08:52 - At 269-th epoch with lr 0.000771.
+INFO - 01/12/26 17:05:33 - 0:08:54 - Running average train loss is 0.7060841155052185 at epoch 269
+INFO - 01/12/26 17:05:33 - 0:08:54 - At 270-th epoch with lr 0.000770.
+INFO - 01/12/26 17:05:35 - 0:08:56 - Running average train loss is 0.70608069896698 at epoch 270
+INFO - 01/12/26 17:05:35 - 0:08:56 - At 271-th epoch with lr 0.000768.
+INFO - 01/12/26 17:05:37 - 0:08:58 - Running average train loss is 0.7047393560409546 at epoch 271
+INFO - 01/12/26 17:05:37 - 0:08:58 - At 272-th epoch with lr 0.000767.
+INFO - 01/12/26 17:05:39 - 0:09:00 - Running average train loss is 0.7067968010902405 at epoch 272
+INFO - 01/12/26 17:05:39 - 0:09:00 - Average dev loss is 0.8425487677256266 at epoch 272
+INFO - 01/12/26 17:05:39 - 0:09:00 - dev accuracy is 76.1 at epoch 272
+INFO - 01/12/26 17:05:39 - 0:09:00 - dev average edit distance is 0.583 at epoch 272
+INFO - 01/12/26 17:05:40 - 0:09:00 - At 273-th epoch with lr 0.000766.
+INFO - 01/12/26 17:05:41 - 0:09:02 - Running average train loss is 0.7065078616142273 at epoch 273
+INFO - 01/12/26 17:05:41 - 0:09:02 - At 274-th epoch with lr 0.000764.
+INFO - 01/12/26 17:05:43 - 0:09:04 - Running average train loss is 0.7063881850242615 at epoch 274
+INFO - 01/12/26 17:05:43 - 0:09:04 - At 275-th epoch with lr 0.000763.
+INFO - 01/12/26 17:05:45 - 0:09:06 - Running average train loss is 0.7059936404228211 at epoch 275
+INFO - 01/12/26 17:05:45 - 0:09:06 - At 276-th epoch with lr 0.000761.
+INFO - 01/12/26 17:05:47 - 0:09:08 - Running average train loss is 0.7062627220153809 at epoch 276
+INFO - 01/12/26 17:05:47 - 0:09:08 - At 277-th epoch with lr 0.000760.
+INFO - 01/12/26 17:05:49 - 0:09:10 - Running average train loss is 0.7058356642723084 at epoch 277
+INFO - 01/12/26 17:05:49 - 0:09:10 - At 278-th epoch with lr 0.000759.
+INFO - 01/12/26 17:05:50 - 0:09:11 - Running average train loss is 0.7055941963195801 at epoch 278
+INFO - 01/12/26 17:05:50 - 0:09:11 - At 279-th epoch with lr 0.000757.
+INFO - 01/12/26 17:05:52 - 0:09:13 - Running average train loss is 0.7055294322967529 at epoch 279
+INFO - 01/12/26 17:05:52 - 0:09:13 - At 280-th epoch with lr 0.000756.
+INFO - 01/12/26 17:05:54 - 0:09:15 - Running average train loss is 0.7057714128494262 at epoch 280
+INFO - 01/12/26 17:05:54 - 0:09:15 - At 281-th epoch with lr 0.000755.
+INFO - 01/12/26 17:05:56 - 0:09:17 - Running average train loss is 0.7057430386543274 at epoch 281
+INFO - 01/12/26 17:05:56 - 0:09:17 - At 282-th epoch with lr 0.000753.
+INFO - 01/12/26 17:05:58 - 0:09:19 - Running average train loss is 0.705863561630249 at epoch 282
+INFO - 01/12/26 17:05:58 - 0:09:19 - At 283-th epoch with lr 0.000752.
+INFO - 01/12/26 17:05:59 - 0:09:20 - Running average train loss is 0.7055318021774292 at epoch 283
+INFO - 01/12/26 17:05:59 - 0:09:20 - At 284-th epoch with lr 0.000751.
+INFO - 01/12/26 17:06:01 - 0:09:22 - Running average train loss is 0.705221209526062 at epoch 284
+INFO - 01/12/26 17:06:01 - 0:09:22 - At 285-th epoch with lr 0.000749.
+INFO - 01/12/26 17:06:03 - 0:09:24 - Running average train loss is 0.7054091358184814 at epoch 285
+INFO - 01/12/26 17:06:03 - 0:09:24 - At 286-th epoch with lr 0.000748.
+INFO - 01/12/26 17:06:05 - 0:09:26 - Running average train loss is 0.705187463760376 at epoch 286
+INFO - 01/12/26 17:06:05 - 0:09:26 - At 287-th epoch with lr 0.000747.
+INFO - 01/12/26 17:06:07 - 0:09:28 - Running average train loss is 0.7046693158149719 at epoch 287
+INFO - 01/12/26 17:06:07 - 0:09:28 - At 288-th epoch with lr 0.000745.
+INFO - 01/12/26 17:06:08 - 0:09:29 - Running average train loss is 0.7044340586662292 at epoch 288
+INFO - 01/12/26 17:06:09 - 0:09:29 - Average dev loss is 0.8592002193133036 at epoch 288
+INFO - 01/12/26 17:06:09 - 0:09:30 - dev accuracy is 75.1 at epoch 288
+INFO - 01/12/26 17:06:09 - 0:09:30 - dev average edit distance is 0.575 at epoch 288
+INFO - 01/12/26 17:06:09 - 0:09:30 - At 289-th epoch with lr 0.000744.
+INFO - 01/12/26 17:06:11 - 0:09:32 - Running average train loss is 0.7028023505210876 at epoch 289
+INFO - 01/12/26 17:06:11 - 0:09:32 - At 290-th epoch with lr 0.000743.
+INFO - 01/12/26 17:06:13 - 0:09:34 - Running average train loss is 0.7040401148796082 at epoch 290
+INFO - 01/12/26 17:06:13 - 0:09:34 - At 291-th epoch with lr 0.000742.
+INFO - 01/12/26 17:06:15 - 0:09:36 - Running average train loss is 0.7042461705207824 at epoch 291
+INFO - 01/12/26 17:06:15 - 0:09:36 - At 292-th epoch with lr 0.000740.
+INFO - 01/12/26 17:06:16 - 0:09:37 - Running average train loss is 0.7046235990524292 at epoch 292
+INFO - 01/12/26 17:06:16 - 0:09:37 - At 293-th epoch with lr 0.000739.
+INFO - 01/12/26 17:06:18 - 0:09:39 - Running average train loss is 0.7043091678619384 at epoch 293
+INFO - 01/12/26 17:06:18 - 0:09:39 - At 294-th epoch with lr 0.000738.
+INFO - 01/12/26 17:06:20 - 0:09:41 - Running average train loss is 0.7050449538230896 at epoch 294
+INFO - 01/12/26 17:06:20 - 0:09:41 - At 295-th epoch with lr 0.000736.
+INFO - 01/12/26 17:06:22 - 0:09:43 - Running average train loss is 0.704604823589325 at epoch 295
+INFO - 01/12/26 17:06:22 - 0:09:43 - At 296-th epoch with lr 0.000735.
+INFO - 01/12/26 17:06:24 - 0:09:45 - Running average train loss is 0.7038855934143067 at epoch 296
+INFO - 01/12/26 17:06:24 - 0:09:45 - At 297-th epoch with lr 0.000734.
+INFO - 01/12/26 17:06:25 - 0:09:46 - Running average train loss is 0.7035373520851135 at epoch 297
+INFO - 01/12/26 17:06:25 - 0:09:46 - At 298-th epoch with lr 0.000733.
+INFO - 01/12/26 17:06:27 - 0:09:48 - Running average train loss is 0.7031318497657776 at epoch 298
+INFO - 01/12/26 17:06:27 - 0:09:48 - At 299-th epoch with lr 0.000732.
+INFO - 01/12/26 17:06:29 - 0:09:50 - Running average train loss is 0.7040548515319824 at epoch 299
+INFO - 01/12/26 17:06:29 - 0:09:50 - At 300-th epoch with lr 0.000730.
+INFO - 01/12/26 17:06:31 - 0:09:52 - Running average train loss is 0.7043097138404846 at epoch 300
+INFO - 01/12/26 17:06:31 - 0:09:52 - At 301-th epoch with lr 0.000729.
+INFO - 01/12/26 17:06:33 - 0:09:54 - Running average train loss is 0.7032770991325379 at epoch 301
+INFO - 01/12/26 17:06:33 - 0:09:54 - At 302-th epoch with lr 0.000728.
+INFO - 01/12/26 17:06:35 - 0:09:56 - Running average train loss is 0.7037589120864868 at epoch 302
+INFO - 01/12/26 17:06:35 - 0:09:56 - At 303-th epoch with lr 0.000727.
+INFO - 01/12/26 17:06:37 - 0:09:58 - Running average train loss is 0.7037113380432128 at epoch 303
+INFO - 01/12/26 17:06:37 - 0:09:58 - At 304-th epoch with lr 0.000725.
+INFO - 01/12/26 17:06:38 - 0:09:59 - Running average train loss is 0.7038883376121521 at epoch 304
+INFO - 01/12/26 17:06:38 - 0:09:59 - Average dev loss is 0.8633058865865072 at epoch 304
+INFO - 01/12/26 17:06:39 - 0:10:00 - dev accuracy is 74.4 at epoch 304
+INFO - 01/12/26 17:06:39 - 0:10:00 - dev average edit distance is 0.686 at epoch 304
+INFO - 01/12/26 17:06:39 - 0:10:00 - At 305-th epoch with lr 0.000724.
+INFO - 01/12/26 17:06:41 - 0:10:02 - Running average train loss is 0.7046408081054687 at epoch 305
+INFO - 01/12/26 17:06:41 - 0:10:02 - At 306-th epoch with lr 0.000723.
+INFO - 01/12/26 17:06:43 - 0:10:04 - Running average train loss is 0.7035160088539123 at epoch 306
+INFO - 01/12/26 17:06:43 - 0:10:04 - At 307-th epoch with lr 0.000722.
+INFO - 01/12/26 17:06:44 - 0:10:05 - Running average train loss is 0.7037894034385681 at epoch 307
+INFO - 01/12/26 17:06:44 - 0:10:05 - At 308-th epoch with lr 0.000721.
+INFO - 01/12/26 17:06:46 - 0:10:07 - Running average train loss is 0.703495798110962 at epoch 308
+INFO - 01/12/26 17:06:46 - 0:10:07 - At 309-th epoch with lr 0.000720.
+INFO - 01/12/26 17:06:48 - 0:10:09 - Running average train loss is 0.7038982892036438 at epoch 309
+INFO - 01/12/26 17:06:48 - 0:10:09 - At 310-th epoch with lr 0.000718.
+INFO - 01/12/26 17:06:50 - 0:10:11 - Running average train loss is 0.7026778888702393 at epoch 310
+INFO - 01/12/26 17:06:50 - 0:10:11 - At 311-th epoch with lr 0.000717.
+INFO - 01/12/26 17:06:52 - 0:10:13 - Running average train loss is 0.7019927453994751 at epoch 311
+INFO - 01/12/26 17:06:52 - 0:10:13 - At 312-th epoch with lr 0.000716.
+INFO - 01/12/26 17:06:54 - 0:10:14 - Running average train loss is 0.7028604817390441 at epoch 312
+INFO - 01/12/26 17:06:54 - 0:10:14 - At 313-th epoch with lr 0.000715.
+INFO - 01/12/26 17:06:55 - 0:10:16 - Running average train loss is 0.7048800587654114 at epoch 313
+INFO - 01/12/26 17:06:55 - 0:10:16 - At 314-th epoch with lr 0.000714.
+INFO - 01/12/26 17:06:57 - 0:10:18 - Running average train loss is 0.7033491325378418 at epoch 314
+INFO - 01/12/26 17:06:57 - 0:10:18 - At 315-th epoch with lr 0.000713.
+INFO - 01/12/26 17:06:59 - 0:10:20 - Running average train loss is 0.7032237982749939 at epoch 315
+INFO - 01/12/26 17:06:59 - 0:10:20 - At 316-th epoch with lr 0.000712.
+INFO - 01/12/26 17:07:01 - 0:10:22 - Running average train loss is 0.7032749247550965 at epoch 316
+INFO - 01/12/26 17:07:01 - 0:10:22 - At 317-th epoch with lr 0.000710.
+INFO - 01/12/26 17:07:03 - 0:10:24 - Running average train loss is 0.7025260019302368 at epoch 317
+INFO - 01/12/26 17:07:03 - 0:10:24 - At 318-th epoch with lr 0.000709.
+INFO - 01/12/26 17:07:04 - 0:10:25 - Running average train loss is 0.7028476500511169 at epoch 318
+INFO - 01/12/26 17:07:04 - 0:10:25 - At 319-th epoch with lr 0.000708.
+INFO - 01/12/26 17:07:06 - 0:10:27 - Running average train loss is 0.7043486285209656 at epoch 319
+INFO - 01/12/26 17:07:06 - 0:10:27 - At 320-th epoch with lr 0.000707.
+INFO - 01/12/26 17:07:08 - 0:10:29 - Running average train loss is 0.7024199414253235 at epoch 320
+INFO - 01/12/26 17:07:08 - 0:10:29 - Average dev loss is 0.8499614596366882 at epoch 320
+INFO - 01/12/26 17:07:09 - 0:10:30 - dev accuracy is 76.0 at epoch 320
+INFO - 01/12/26 17:07:09 - 0:10:30 - dev average edit distance is 0.575 at epoch 320
+INFO - 01/12/26 17:07:09 - 0:10:30 - At 321-th epoch with lr 0.000706.
+INFO - 01/12/26 17:07:11 - 0:10:32 - Running average train loss is 0.7023348832130432 at epoch 321
+INFO - 01/12/26 17:07:11 - 0:10:32 - At 322-th epoch with lr 0.000705.
+INFO - 01/12/26 17:07:12 - 0:10:33 - Running average train loss is 0.7028444170951843 at epoch 322
+INFO - 01/12/26 17:07:12 - 0:10:33 - At 323-th epoch with lr 0.000704.
+INFO - 01/12/26 17:07:14 - 0:10:35 - Running average train loss is 0.7029137325286865 at epoch 323
+INFO - 01/12/26 17:07:14 - 0:10:35 - At 324-th epoch with lr 0.000703.
+INFO - 01/12/26 17:07:16 - 0:10:37 - Running average train loss is 0.7021005463600158 at epoch 324
+INFO - 01/12/26 17:07:16 - 0:10:37 - At 325-th epoch with lr 0.000702.
+INFO - 01/12/26 17:07:18 - 0:10:39 - Running average train loss is 0.7027350211143494 at epoch 325
+INFO - 01/12/26 17:07:18 - 0:10:39 - At 326-th epoch with lr 0.000701.
+INFO - 01/12/26 17:07:20 - 0:10:41 - Running average train loss is 0.7024207019805908 at epoch 326
+INFO - 01/12/26 17:07:20 - 0:10:41 - At 327-th epoch with lr 0.000699.
+INFO - 01/12/26 17:07:22 - 0:10:42 - Running average train loss is 0.7026470136642456 at epoch 327
+INFO - 01/12/26 17:07:22 - 0:10:42 - At 328-th epoch with lr 0.000698.
+INFO - 01/12/26 17:07:23 - 0:10:44 - Running average train loss is 0.7018523478507995 at epoch 328
+INFO - 01/12/26 17:07:23 - 0:10:44 - At 329-th epoch with lr 0.000697.
+INFO - 01/12/26 17:07:25 - 0:10:46 - Running average train loss is 0.701941213607788 at epoch 329
+INFO - 01/12/26 17:07:25 - 0:10:46 - At 330-th epoch with lr 0.000696.
+INFO - 01/12/26 17:07:28 - 0:10:49 - Running average train loss is 0.7027416706085206 at epoch 330
+INFO - 01/12/26 17:07:28 - 0:10:49 - At 331-th epoch with lr 0.000695.
+INFO - 01/12/26 17:07:30 - 0:10:51 - Running average train loss is 0.7027012038230896 at epoch 331
+INFO - 01/12/26 17:07:30 - 0:10:51 - At 332-th epoch with lr 0.000694.
+INFO - 01/12/26 17:07:32 - 0:10:53 - Running average train loss is 0.7030256605148315 at epoch 332
+INFO - 01/12/26 17:07:32 - 0:10:53 - At 333-th epoch with lr 0.000693.
+INFO - 01/12/26 17:07:34 - 0:10:55 - Running average train loss is 0.7027532768249511 at epoch 333
+INFO - 01/12/26 17:07:34 - 0:10:55 - At 334-th epoch with lr 0.000692.
+INFO - 01/12/26 17:07:36 - 0:10:57 - Running average train loss is 0.7015139079093933 at epoch 334
+INFO - 01/12/26 17:07:36 - 0:10:57 - At 335-th epoch with lr 0.000691.
+INFO - 01/12/26 17:07:38 - 0:10:59 - Running average train loss is 0.7027465105056763 at epoch 335
+INFO - 01/12/26 17:07:38 - 0:10:59 - At 336-th epoch with lr 0.000690.
+INFO - 01/12/26 17:07:40 - 0:11:01 - Running average train loss is 0.7026492667198181 at epoch 336
+INFO - 01/12/26 17:07:41 - 0:11:02 - Average dev loss is 0.871459941069285 at epoch 336
+INFO - 01/12/26 17:07:41 - 0:11:02 - dev accuracy is 74.2 at epoch 336
+INFO - 01/12/26 17:07:41 - 0:11:02 - dev average edit distance is 0.689 at epoch 336
+INFO - 01/12/26 17:07:41 - 0:11:02 - At 337-th epoch with lr 0.000689.
+INFO - 01/12/26 17:07:43 - 0:11:04 - Running average train loss is 0.7025370836257935 at epoch 337
+INFO - 01/12/26 17:07:43 - 0:11:04 - At 338-th epoch with lr 0.000688.
+INFO - 01/12/26 17:07:46 - 0:11:06 - Running average train loss is 0.7020305848121643 at epoch 338
+INFO - 01/12/26 17:07:46 - 0:11:06 - At 339-th epoch with lr 0.000687.
+INFO - 01/12/26 17:07:48 - 0:11:09 - Running average train loss is 0.7017379999160767 at epoch 339
+INFO - 01/12/26 17:07:48 - 0:11:09 - At 340-th epoch with lr 0.000686.
+INFO - 01/12/26 17:07:50 - 0:11:11 - Running average train loss is 0.7021006488800049 at epoch 340
+INFO - 01/12/26 17:07:50 - 0:11:11 - At 341-th epoch with lr 0.000685.
+INFO - 01/12/26 17:07:52 - 0:11:13 - Running average train loss is 0.7017459177970886 at epoch 341
+INFO - 01/12/26 17:07:52 - 0:11:13 - At 342-th epoch with lr 0.000684.
+INFO - 01/12/26 17:07:54 - 0:11:15 - Running average train loss is 0.7022318196296692 at epoch 342
+INFO - 01/12/26 17:07:54 - 0:11:15 - At 343-th epoch with lr 0.000683.
+INFO - 01/12/26 17:07:56 - 0:11:17 - Running average train loss is 0.7022726130485535 at epoch 343
+INFO - 01/12/26 17:07:56 - 0:11:17 - At 344-th epoch with lr 0.000682.
+INFO - 01/12/26 17:07:58 - 0:11:19 - Running average train loss is 0.701743814945221 at epoch 344
+INFO - 01/12/26 17:07:58 - 0:11:19 - At 345-th epoch with lr 0.000681.
+INFO - 01/12/26 17:08:00 - 0:11:21 - Running average train loss is 0.7012710118293762 at epoch 345
+INFO - 01/12/26 17:08:00 - 0:11:21 - At 346-th epoch with lr 0.000680.
+INFO - 01/12/26 17:08:02 - 0:11:23 - Running average train loss is 0.7015313172340393 at epoch 346
+INFO - 01/12/26 17:08:02 - 0:11:23 - At 347-th epoch with lr 0.000679.
+INFO - 01/12/26 17:08:04 - 0:11:25 - Running average train loss is 0.7013907814025879 at epoch 347
+INFO - 01/12/26 17:08:04 - 0:11:25 - At 348-th epoch with lr 0.000678.
+INFO - 01/12/26 17:08:06 - 0:11:27 - Running average train loss is 0.7016279792785645 at epoch 348
+INFO - 01/12/26 17:08:06 - 0:11:27 - At 349-th epoch with lr 0.000677.
+INFO - 01/12/26 17:08:08 - 0:11:28 - Running average train loss is 0.701061007976532 at epoch 349
+INFO - 01/12/26 17:08:08 - 0:11:28 - At 350-th epoch with lr 0.000676.
+INFO - 01/12/26 17:08:09 - 0:11:30 - Running average train loss is 0.7014661359786988 at epoch 350
+INFO - 01/12/26 17:08:09 - 0:11:30 - At 351-th epoch with lr 0.000675.
+INFO - 01/12/26 17:08:11 - 0:11:32 - Running average train loss is 0.701430983543396 at epoch 351
+INFO - 01/12/26 17:08:11 - 0:11:32 - At 352-th epoch with lr 0.000674.
+INFO - 01/12/26 17:08:13 - 0:11:34 - Running average train loss is 0.7003405570983887 at epoch 352
+INFO - 01/12/26 17:08:13 - 0:11:34 - Average dev loss is 0.8617008725802103 at epoch 352
+INFO - 01/12/26 17:08:14 - 0:11:35 - dev accuracy is 74.9 at epoch 352
+INFO - 01/12/26 17:08:14 - 0:11:35 - dev average edit distance is 0.565 at epoch 352
+INFO - 01/12/26 17:08:14 - 0:11:35 - At 353-th epoch with lr 0.000673.
+INFO - 01/12/26 17:08:15 - 0:11:36 - Running average train loss is 0.7004575777053833 at epoch 353
+INFO - 01/12/26 17:08:15 - 0:11:36 - At 354-th epoch with lr 0.000672.
+INFO - 01/12/26 17:08:17 - 0:11:38 - Running average train loss is 0.7017370319366455 at epoch 354
+INFO - 01/12/26 17:08:17 - 0:11:38 - At 355-th epoch with lr 0.000671.
+INFO - 01/12/26 17:08:19 - 0:11:40 - Running average train loss is 0.7019710326194764 at epoch 355
+INFO - 01/12/26 17:08:19 - 0:11:40 - At 356-th epoch with lr 0.000670.
+INFO - 01/12/26 17:08:21 - 0:11:42 - Running average train loss is 0.7018283319473266 at epoch 356
+INFO - 01/12/26 17:08:21 - 0:11:42 - At 357-th epoch with lr 0.000669.
+INFO - 01/12/26 17:08:23 - 0:11:44 - Running average train loss is 0.7009716820716858 at epoch 357
+INFO - 01/12/26 17:08:23 - 0:11:44 - At 358-th epoch with lr 0.000669.
+INFO - 01/12/26 17:08:25 - 0:11:45 - Running average train loss is 0.700724892616272 at epoch 358
+INFO - 01/12/26 17:08:25 - 0:11:45 - At 359-th epoch with lr 0.000668.
+INFO - 01/12/26 17:08:26 - 0:11:47 - Running average train loss is 0.7015533089637757 at epoch 359
+INFO - 01/12/26 17:08:26 - 0:11:47 - At 360-th epoch with lr 0.000667.
+INFO - 01/12/26 17:08:28 - 0:11:49 - Running average train loss is 0.7010014963150024 at epoch 360
+INFO - 01/12/26 17:08:28 - 0:11:49 - At 361-th epoch with lr 0.000666.
+INFO - 01/12/26 17:08:30 - 0:11:51 - Running average train loss is 0.7010478568077088 at epoch 361
+INFO - 01/12/26 17:08:30 - 0:11:51 - At 362-th epoch with lr 0.000665.
+INFO - 01/12/26 17:08:32 - 0:11:53 - Running average train loss is 0.7011537790298462 at epoch 362
+INFO - 01/12/26 17:08:32 - 0:11:53 - At 363-th epoch with lr 0.000664.
+INFO - 01/12/26 17:08:34 - 0:11:55 - Running average train loss is 0.7008434891700744 at epoch 363
+INFO - 01/12/26 17:08:34 - 0:11:55 - At 364-th epoch with lr 0.000663.
+INFO - 01/12/26 17:08:35 - 0:11:56 - Running average train loss is 0.7005650639533997 at epoch 364
+INFO - 01/12/26 17:08:35 - 0:11:56 - At 365-th epoch with lr 0.000662.
+INFO - 01/12/26 17:08:37 - 0:11:58 - Running average train loss is 0.7008218908309937 at epoch 365
+INFO - 01/12/26 17:08:37 - 0:11:58 - At 366-th epoch with lr 0.000661.
+INFO - 01/12/26 17:08:39 - 0:12:00 - Running average train loss is 0.701284897327423 at epoch 366
+INFO - 01/12/26 17:08:39 - 0:12:00 - At 367-th epoch with lr 0.000660.
+INFO - 01/12/26 17:08:41 - 0:12:02 - Running average train loss is 0.7007312607765198 at epoch 367
+INFO - 01/12/26 17:08:41 - 0:12:02 - At 368-th epoch with lr 0.000659.
+INFO - 01/12/26 17:08:43 - 0:12:04 - Running average train loss is 0.7005718541145325 at epoch 368
+INFO - 01/12/26 17:08:43 - 0:12:04 - Average dev loss is 0.8602988521258036 at epoch 368
+INFO - 01/12/26 17:08:43 - 0:12:04 - dev accuracy is 74.8 at epoch 368
+INFO - 01/12/26 17:08:43 - 0:12:04 - dev average edit distance is 0.636 at epoch 368
+INFO - 01/12/26 17:08:43 - 0:12:04 - At 369-th epoch with lr 0.000658.
+INFO - 01/12/26 17:08:45 - 0:12:06 - Running average train loss is 0.700294497013092 at epoch 369
+INFO - 01/12/26 17:08:45 - 0:12:06 - At 370-th epoch with lr 0.000658.
+INFO - 01/12/26 17:08:47 - 0:12:08 - Running average train loss is 0.7001898574829102 at epoch 370
+INFO - 01/12/26 17:08:47 - 0:12:08 - At 371-th epoch with lr 0.000657.
+INFO - 01/12/26 17:08:49 - 0:12:10 - Running average train loss is 0.7007433152198792 at epoch 371
+INFO - 01/12/26 17:08:49 - 0:12:10 - At 372-th epoch with lr 0.000656.
+INFO - 01/12/26 17:08:51 - 0:12:12 - Running average train loss is 0.7011978435516357 at epoch 372
+INFO - 01/12/26 17:08:51 - 0:12:12 - At 373-th epoch with lr 0.000655.
+INFO - 01/12/26 17:08:52 - 0:12:13 - Running average train loss is 0.700884530544281 at epoch 373
+INFO - 01/12/26 17:08:52 - 0:12:13 - At 374-th epoch with lr 0.000654.
+INFO - 01/12/26 17:08:54 - 0:12:15 - Running average train loss is 0.7007525801658631 at epoch 374
+INFO - 01/12/26 17:08:54 - 0:12:15 - At 375-th epoch with lr 0.000653.
+INFO - 01/12/26 17:08:56 - 0:12:17 - Running average train loss is 0.7025941038131713 at epoch 375
+INFO - 01/12/26 17:08:56 - 0:12:17 - At 376-th epoch with lr 0.000652.
+INFO - 01/12/26 17:08:58 - 0:12:19 - Running average train loss is 0.7007436394691468 at epoch 376
+INFO - 01/12/26 17:08:58 - 0:12:19 - At 377-th epoch with lr 0.000651.
+INFO - 01/12/26 17:09:00 - 0:12:21 - Running average train loss is 0.6999289059638977 at epoch 377
+INFO - 01/12/26 17:09:00 - 0:12:21 - At 378-th epoch with lr 0.000651.
+INFO - 01/12/26 17:09:02 - 0:12:22 - Running average train loss is 0.7002099132537842 at epoch 378
+INFO - 01/12/26 17:09:02 - 0:12:22 - At 379-th epoch with lr 0.000650.
+INFO - 01/12/26 17:09:03 - 0:12:24 - Running average train loss is 0.7005126070976258 at epoch 379
+INFO - 01/12/26 17:09:03 - 0:12:24 - At 380-th epoch with lr 0.000649.
+INFO - 01/12/26 17:09:05 - 0:12:26 - Running average train loss is 0.6998572611808777 at epoch 380
+INFO - 01/12/26 17:09:05 - 0:12:26 - At 381-th epoch with lr 0.000648.
+INFO - 01/12/26 17:09:07 - 0:12:28 - Running average train loss is 0.7001992511749268 at epoch 381
+INFO - 01/12/26 17:09:07 - 0:12:28 - At 382-th epoch with lr 0.000647.
+INFO - 01/12/26 17:09:09 - 0:12:30 - Running average train loss is 0.6998987650871277 at epoch 382
+INFO - 01/12/26 17:09:09 - 0:12:30 - At 383-th epoch with lr 0.000646.
+INFO - 01/12/26 17:09:11 - 0:12:32 - Running average train loss is 0.7002272868156433 at epoch 383
+INFO - 01/12/26 17:09:11 - 0:12:32 - At 384-th epoch with lr 0.000645.
+INFO - 01/12/26 17:09:12 - 0:12:33 - Running average train loss is 0.7010700631141663 at epoch 384
+INFO - 01/12/26 17:09:12 - 0:12:33 - Average dev loss is 0.8582104643185934 at epoch 384
+INFO - 01/12/26 17:09:13 - 0:12:34 - dev accuracy is 75.6 at epoch 384
+INFO - 01/12/26 17:09:13 - 0:12:34 - dev average edit distance is 0.455 at epoch 384
+INFO - 01/12/26 17:09:13 - 0:12:34 - At 385-th epoch with lr 0.000645.
+INFO - 01/12/26 17:09:15 - 0:12:36 - Running average train loss is 0.7006894493103027 at epoch 385
+INFO - 01/12/26 17:09:15 - 0:12:36 - At 386-th epoch with lr 0.000644.
+INFO - 01/12/26 17:09:17 - 0:12:38 - Running average train loss is 0.6998319506645203 at epoch 386
+INFO - 01/12/26 17:09:17 - 0:12:38 - At 387-th epoch with lr 0.000643.
+INFO - 01/12/26 17:09:19 - 0:12:39 - Running average train loss is 0.7001946496963501 at epoch 387
+INFO - 01/12/26 17:09:19 - 0:12:39 - At 388-th epoch with lr 0.000642.
+INFO - 01/12/26 17:09:20 - 0:12:41 - Running average train loss is 0.7003798604011535 at epoch 388
+INFO - 01/12/26 17:09:20 - 0:12:41 - At 389-th epoch with lr 0.000641.
+INFO - 01/12/26 17:09:22 - 0:12:43 - Running average train loss is 0.7003985953330993 at epoch 389
+INFO - 01/12/26 17:09:22 - 0:12:43 - At 390-th epoch with lr 0.000641.
+INFO - 01/12/26 17:09:24 - 0:12:45 - Running average train loss is 0.6998695039749145 at epoch 390
+INFO - 01/12/26 17:09:24 - 0:12:45 - At 391-th epoch with lr 0.000640.
+INFO - 01/12/26 17:09:26 - 0:12:47 - Running average train loss is 0.6998273253440856 at epoch 391
+INFO - 01/12/26 17:09:26 - 0:12:47 - At 392-th epoch with lr 0.000639.
+INFO - 01/12/26 17:09:28 - 0:12:49 - Running average train loss is 0.7004594826698303 at epoch 392
+INFO - 01/12/26 17:09:28 - 0:12:49 - At 393-th epoch with lr 0.000638.
+INFO - 01/12/26 17:09:29 - 0:12:50 - Running average train loss is 0.6998663902282715 at epoch 393
+INFO - 01/12/26 17:09:29 - 0:12:50 - At 394-th epoch with lr 0.000637.
+INFO - 01/12/26 17:09:31 - 0:12:52 - Running average train loss is 0.6998815488815308 at epoch 394
+INFO - 01/12/26 17:09:31 - 0:12:52 - At 395-th epoch with lr 0.000636.
+INFO - 01/12/26 17:09:33 - 0:12:54 - Running average train loss is 0.7004792857170105 at epoch 395
+INFO - 01/12/26 17:09:33 - 0:12:54 - At 396-th epoch with lr 0.000636.
+INFO - 01/12/26 17:09:35 - 0:12:56 - Running average train loss is 0.7009542536735535 at epoch 396
+INFO - 01/12/26 17:09:35 - 0:12:56 - At 397-th epoch with lr 0.000635.
+INFO - 01/12/26 17:09:37 - 0:12:58 - Running average train loss is 0.6989861249923706 at epoch 397
+INFO - 01/12/26 17:09:37 - 0:12:58 - At 398-th epoch with lr 0.000634.
+INFO - 01/12/26 17:09:38 - 0:12:59 - Running average train loss is 0.6989939904212952 at epoch 398
+INFO - 01/12/26 17:09:38 - 0:12:59 - At 399-th epoch with lr 0.000633.
+INFO - 01/12/26 17:09:40 - 0:13:01 - Running average train loss is 0.6996036720275879 at epoch 399
+INFO - 01/12/26 17:09:40 - 0:13:01 - At 400-th epoch with lr 0.000632.
+INFO - 01/12/26 17:09:42 - 0:13:03 - Running average train loss is 0.6992830228805542 at epoch 400
+INFO - 01/12/26 17:09:42 - 0:13:03 - Average dev loss is 0.8649435440699259 at epoch 400
+INFO - 01/12/26 17:09:43 - 0:13:04 - dev accuracy is 74.9 at epoch 400
+INFO - 01/12/26 17:09:43 - 0:13:04 - dev average edit distance is 0.557 at epoch 400
+INFO - 01/12/26 17:09:43 - 0:13:04 - At 401-th epoch with lr 0.000632.
+INFO - 01/12/26 17:09:45 - 0:13:06 - Running average train loss is 0.6995287013053894 at epoch 401
+INFO - 01/12/26 17:09:45 - 0:13:06 - At 402-th epoch with lr 0.000631.
+INFO - 01/12/26 17:09:46 - 0:13:07 - Running average train loss is 0.6999791502952576 at epoch 402
+INFO - 01/12/26 17:09:46 - 0:13:07 - At 403-th epoch with lr 0.000630.
+INFO - 01/12/26 17:09:48 - 0:13:09 - Running average train loss is 0.699930727481842 at epoch 403
+INFO - 01/12/26 17:09:48 - 0:13:09 - At 404-th epoch with lr 0.000629.
+INFO - 01/12/26 17:09:50 - 0:13:11 - Running average train loss is 0.6996972250938416 at epoch 404
+INFO - 01/12/26 17:09:50 - 0:13:11 - At 405-th epoch with lr 0.000629.
+INFO - 01/12/26 17:09:52 - 0:13:13 - Running average train loss is 0.6996255111694336 at epoch 405
+INFO - 01/12/26 17:09:52 - 0:13:13 - At 406-th epoch with lr 0.000628.
+INFO - 01/12/26 17:09:54 - 0:13:15 - Running average train loss is 0.6996361923217773 at epoch 406
+INFO - 01/12/26 17:09:54 - 0:13:15 - At 407-th epoch with lr 0.000627.
+INFO - 01/12/26 17:09:55 - 0:13:16 - Running average train loss is 0.6999517774581909 at epoch 407
+INFO - 01/12/26 17:09:55 - 0:13:16 - At 408-th epoch with lr 0.000626.
+INFO - 01/12/26 17:09:57 - 0:13:18 - Running average train loss is 0.7000561761856079 at epoch 408
+INFO - 01/12/26 17:09:57 - 0:13:18 - At 409-th epoch with lr 0.000625.
+INFO - 01/12/26 17:09:59 - 0:13:20 - Running average train loss is 0.7000481629371643 at epoch 409
+INFO - 01/12/26 17:09:59 - 0:13:20 - At 410-th epoch with lr 0.000625.
+INFO - 01/12/26 17:10:01 - 0:13:22 - Running average train loss is 0.6998584198951722 at epoch 410
+INFO - 01/12/26 17:10:01 - 0:13:22 - At 411-th epoch with lr 0.000624.
+INFO - 01/12/26 17:10:03 - 0:13:24 - Running average train loss is 0.6996866369247436 at epoch 411
+INFO - 01/12/26 17:10:03 - 0:13:24 - At 412-th epoch with lr 0.000623.
+INFO - 01/12/26 17:10:05 - 0:13:25 - Running average train loss is 0.6998206090927124 at epoch 412
+INFO - 01/12/26 17:10:05 - 0:13:25 - At 413-th epoch with lr 0.000622.
+INFO - 01/12/26 17:10:06 - 0:13:27 - Running average train loss is 0.6986933279037476 at epoch 413
+INFO - 01/12/26 17:10:06 - 0:13:27 - At 414-th epoch with lr 0.000622.
+INFO - 01/12/26 17:10:08 - 0:13:29 - Running average train loss is 0.699152512550354 at epoch 414
+INFO - 01/12/26 17:10:08 - 0:13:29 - At 415-th epoch with lr 0.000621.
+INFO - 01/12/26 17:10:10 - 0:13:31 - Running average train loss is 0.6995117783546447 at epoch 415
+INFO - 01/12/26 17:10:10 - 0:13:31 - At 416-th epoch with lr 0.000620.
+INFO - 01/12/26 17:10:12 - 0:13:33 - Running average train loss is 0.6993160223960877 at epoch 416
+INFO - 01/12/26 17:10:12 - 0:13:33 - Average dev loss is 0.8598639965057373 at epoch 416
+INFO - 01/12/26 17:10:12 - 0:13:33 - dev accuracy is 75.5 at epoch 416
+INFO - 01/12/26 17:10:12 - 0:13:33 - dev average edit distance is 0.57 at epoch 416
+INFO - 01/12/26 17:10:12 - 0:13:33 - At 417-th epoch with lr 0.000619.
+INFO - 01/12/26 17:10:14 - 0:13:35 - Running average train loss is 0.6988715362548829 at epoch 417
+INFO - 01/12/26 17:10:14 - 0:13:35 - At 418-th epoch with lr 0.000619.
+INFO - 01/12/26 17:10:16 - 0:13:37 - Running average train loss is 0.6984969902038575 at epoch 418
+INFO - 01/12/26 17:10:16 - 0:13:37 - At 419-th epoch with lr 0.000618.
+INFO - 01/12/26 17:10:18 - 0:13:39 - Running average train loss is 0.6992238426208496 at epoch 419
+INFO - 01/12/26 17:10:18 - 0:13:39 - At 420-th epoch with lr 0.000617.
+INFO - 01/12/26 17:10:20 - 0:13:41 - Running average train loss is 0.6997111058235168 at epoch 420
+INFO - 01/12/26 17:10:20 - 0:13:41 - At 421-th epoch with lr 0.000616.
+INFO - 01/12/26 17:10:22 - 0:13:43 - Running average train loss is 0.6991449975967408 at epoch 421
+INFO - 01/12/26 17:10:22 - 0:13:43 - At 422-th epoch with lr 0.000616.
+INFO - 01/12/26 17:10:23 - 0:13:44 - Running average train loss is 0.6992971181869507 at epoch 422
+INFO - 01/12/26 17:10:23 - 0:13:44 - At 423-th epoch with lr 0.000615.
+INFO - 01/12/26 17:10:25 - 0:13:46 - Running average train loss is 0.6984939789772033 at epoch 423
+INFO - 01/12/26 17:10:25 - 0:13:46 - At 424-th epoch with lr 0.000614.
+INFO - 01/12/26 17:10:27 - 0:13:48 - Running average train loss is 0.6989558291435242 at epoch 424
+INFO - 01/12/26 17:10:27 - 0:13:48 - At 425-th epoch with lr 0.000614.
+INFO - 01/12/26 17:10:29 - 0:13:50 - Running average train loss is 0.6992754793167114 at epoch 425
+INFO - 01/12/26 17:10:29 - 0:13:50 - At 426-th epoch with lr 0.000613.
+INFO - 01/12/26 17:10:31 - 0:13:52 - Running average train loss is 0.6987037515640259 at epoch 426
+INFO - 01/12/26 17:10:31 - 0:13:52 - At 427-th epoch with lr 0.000612.
+INFO - 01/12/26 17:10:32 - 0:13:53 - Running average train loss is 0.699107403755188 at epoch 427
+INFO - 01/12/26 17:10:32 - 0:13:53 - At 428-th epoch with lr 0.000611.
+INFO - 01/12/26 17:10:34 - 0:13:55 - Running average train loss is 0.6985712790489197 at epoch 428
+INFO - 01/12/26 17:10:34 - 0:13:55 - At 429-th epoch with lr 0.000611.
+INFO - 01/12/26 17:10:36 - 0:13:57 - Running average train loss is 0.6991259551048279 at epoch 429
+INFO - 01/12/26 17:10:36 - 0:13:57 - At 430-th epoch with lr 0.000610.
+INFO - 01/12/26 17:10:38 - 0:13:59 - Running average train loss is 0.6996416640281677 at epoch 430
+INFO - 01/12/26 17:10:38 - 0:13:59 - At 431-th epoch with lr 0.000609.
+INFO - 01/12/26 17:10:40 - 0:14:01 - Running average train loss is 0.6994269299507141 at epoch 431
+INFO - 01/12/26 17:10:40 - 0:14:01 - At 432-th epoch with lr 0.000609.
+INFO - 01/12/26 17:10:41 - 0:14:02 - Running average train loss is 0.6999380421638489 at epoch 432
+INFO - 01/12/26 17:10:41 - 0:14:02 - Average dev loss is 0.8697906335194906 at epoch 432
+INFO - 01/12/26 17:10:42 - 0:14:03 - dev accuracy is 73.3 at epoch 432
+INFO - 01/12/26 17:10:42 - 0:14:03 - dev average edit distance is 0.696 at epoch 432
+INFO - 01/12/26 17:10:42 - 0:14:03 - At 433-th epoch with lr 0.000608.
+INFO - 01/12/26 17:10:44 - 0:14:05 - Running average train loss is 0.6985739469528198 at epoch 433
+INFO - 01/12/26 17:10:44 - 0:14:05 - At 434-th epoch with lr 0.000607.
+INFO - 01/12/26 17:10:46 - 0:14:07 - Running average train loss is 0.6986772179603576 at epoch 434
+INFO - 01/12/26 17:10:46 - 0:14:07 - At 435-th epoch with lr 0.000606.
+INFO - 01/12/26 17:10:48 - 0:14:09 - Running average train loss is 0.6986970710754394 at epoch 435
+INFO - 01/12/26 17:10:48 - 0:14:09 - At 436-th epoch with lr 0.000606.
+INFO - 01/12/26 17:10:49 - 0:14:10 - Running average train loss is 0.6993376207351685 at epoch 436
+INFO - 01/12/26 17:10:49 - 0:14:10 - At 437-th epoch with lr 0.000605.
+INFO - 01/12/26 17:10:51 - 0:14:12 - Running average train loss is 0.6988973736763 at epoch 437
+INFO - 01/12/26 17:10:51 - 0:14:12 - At 438-th epoch with lr 0.000604.
+INFO - 01/12/26 17:10:53 - 0:14:14 - Running average train loss is 0.6987372565269471 at epoch 438
+INFO - 01/12/26 17:10:53 - 0:14:14 - At 439-th epoch with lr 0.000604.
+INFO - 01/12/26 17:10:55 - 0:14:16 - Running average train loss is 0.6992195653915405 at epoch 439
+INFO - 01/12/26 17:10:55 - 0:14:16 - At 440-th epoch with lr 0.000603.
+INFO - 01/12/26 17:10:57 - 0:14:18 - Running average train loss is 0.6984150290489197 at epoch 440
+INFO - 01/12/26 17:10:57 - 0:14:18 - At 441-th epoch with lr 0.000602.
+INFO - 01/12/26 17:10:58 - 0:14:19 - Running average train loss is 0.6987028908729553 at epoch 441
+INFO - 01/12/26 17:10:58 - 0:14:19 - At 442-th epoch with lr 0.000602.
+INFO - 01/12/26 17:11:00 - 0:14:21 - Running average train loss is 0.6983510756492615 at epoch 442
+INFO - 01/12/26 17:11:00 - 0:14:21 - At 443-th epoch with lr 0.000601.
+INFO - 01/12/26 17:11:02 - 0:14:23 - Running average train loss is 0.6983170986175538 at epoch 443
+INFO - 01/12/26 17:11:02 - 0:14:23 - At 444-th epoch with lr 0.000600.
+INFO - 01/12/26 17:11:04 - 0:14:25 - Running average train loss is 0.6987904047966004 at epoch 444
+INFO - 01/12/26 17:11:04 - 0:14:25 - At 445-th epoch with lr 0.000600.
+INFO - 01/12/26 17:11:06 - 0:14:27 - Running average train loss is 0.6986928153038025 at epoch 445
+INFO - 01/12/26 17:11:06 - 0:14:27 - At 446-th epoch with lr 0.000599.
+INFO - 01/12/26 17:11:08 - 0:14:28 - Running average train loss is 0.6984013628959655 at epoch 446
+INFO - 01/12/26 17:11:08 - 0:14:28 - At 447-th epoch with lr 0.000598.
+INFO - 01/12/26 17:11:09 - 0:14:30 - Running average train loss is 0.6983053231239319 at epoch 447
+INFO - 01/12/26 17:11:09 - 0:14:30 - At 448-th epoch with lr 0.000598.
+INFO - 01/12/26 17:11:11 - 0:14:32 - Running average train loss is 0.6996185398101806 at epoch 448
+INFO - 01/12/26 17:11:11 - 0:14:32 - Average dev loss is 0.8669164578119913 at epoch 448
+INFO - 01/12/26 17:11:12 - 0:14:33 - dev accuracy is 74.5 at epoch 448
+INFO - 01/12/26 17:11:12 - 0:14:33 - dev average edit distance is 0.684 at epoch 448
+INFO - 01/12/26 17:11:12 - 0:14:33 - At 449-th epoch with lr 0.000597.
+INFO - 01/12/26 17:11:14 - 0:14:35 - Running average train loss is 0.699617908000946 at epoch 449
+INFO - 01/12/26 17:11:14 - 0:14:35 - At 450-th epoch with lr 0.000596.
+INFO - 01/12/26 17:11:16 - 0:14:36 - Running average train loss is 0.6991669940948486 at epoch 450
+INFO - 01/12/26 17:11:16 - 0:14:36 - At 451-th epoch with lr 0.000596.
+INFO - 01/12/26 17:11:17 - 0:14:38 - Running average train loss is 0.6980972266197205 at epoch 451
+INFO - 01/12/26 17:11:17 - 0:14:38 - At 452-th epoch with lr 0.000595.
+INFO - 01/12/26 17:11:19 - 0:14:40 - Running average train loss is 0.6983797335624695 at epoch 452
+INFO - 01/12/26 17:11:19 - 0:14:40 - At 453-th epoch with lr 0.000594.
+INFO - 01/12/26 17:11:21 - 0:14:42 - Running average train loss is 0.6984650707244873 at epoch 453
+INFO - 01/12/26 17:11:21 - 0:14:42 - At 454-th epoch with lr 0.000594.
+INFO - 01/12/26 17:11:23 - 0:14:44 - Running average train loss is 0.6986132144927979 at epoch 454
+INFO - 01/12/26 17:11:23 - 0:14:44 - At 455-th epoch with lr 0.000593.
+INFO - 01/12/26 17:11:25 - 0:14:46 - Running average train loss is 0.6986156892776489 at epoch 455
+INFO - 01/12/26 17:11:25 - 0:14:46 - At 456-th epoch with lr 0.000592.
+INFO - 01/12/26 17:11:26 - 0:14:47 - Running average train loss is 0.6981925272941589 at epoch 456
+INFO - 01/12/26 17:11:26 - 0:14:47 - At 457-th epoch with lr 0.000592.
+INFO - 01/12/26 17:11:28 - 0:14:49 - Running average train loss is 0.698448793888092 at epoch 457
+INFO - 01/12/26 17:11:28 - 0:14:49 - At 458-th epoch with lr 0.000591.
+INFO - 01/12/26 17:11:30 - 0:14:51 - Running average train loss is 0.6981778168678283 at epoch 458
+INFO - 01/12/26 17:11:30 - 0:14:51 - At 459-th epoch with lr 0.000590.
+INFO - 01/12/26 17:11:32 - 0:14:53 - Running average train loss is 0.698571286201477 at epoch 459
+INFO - 01/12/26 17:11:32 - 0:14:53 - At 460-th epoch with lr 0.000590.
+INFO - 01/12/26 17:11:34 - 0:14:55 - Running average train loss is 0.6975474548339844 at epoch 460
+INFO - 01/12/26 17:11:34 - 0:14:55 - At 461-th epoch with lr 0.000589.
+INFO - 01/12/26 17:11:35 - 0:14:56 - Running average train loss is 0.6983619213104248 at epoch 461
+INFO - 01/12/26 17:11:35 - 0:14:56 - At 462-th epoch with lr 0.000588.
+INFO - 01/12/26 17:11:37 - 0:14:58 - Running average train loss is 0.6980643486976623 at epoch 462
+INFO - 01/12/26 17:11:37 - 0:14:58 - At 463-th epoch with lr 0.000588.
+INFO - 01/12/26 17:11:39 - 0:15:00 - Running average train loss is 0.6984731078147888 at epoch 463
+INFO - 01/12/26 17:11:39 - 0:15:00 - At 464-th epoch with lr 0.000587.
+INFO - 01/12/26 17:11:41 - 0:15:02 - Running average train loss is 0.6980968308448792 at epoch 464
+INFO - 01/12/26 17:11:41 - 0:15:02 - Average dev loss is 0.8596364855766296 at epoch 464
+INFO - 01/12/26 17:11:41 - 0:15:02 - dev accuracy is 74.4 at epoch 464
+INFO - 01/12/26 17:11:41 - 0:15:02 - dev average edit distance is 0.618 at epoch 464
+INFO - 01/12/26 17:11:42 - 0:15:03 - At 465-th epoch with lr 0.000587.
+INFO - 01/12/26 17:11:43 - 0:15:04 - Running average train loss is 0.6987445235252381 at epoch 465
+INFO - 01/12/26 17:11:43 - 0:15:04 - At 466-th epoch with lr 0.000586.
+INFO - 01/12/26 17:11:45 - 0:15:06 - Running average train loss is 0.6990947222709656 at epoch 466
+INFO - 01/12/26 17:11:45 - 0:15:06 - At 467-th epoch with lr 0.000585.
+INFO - 01/12/26 17:11:47 - 0:15:08 - Running average train loss is 0.6985260057449341 at epoch 467
+INFO - 01/12/26 17:11:47 - 0:15:08 - At 468-th epoch with lr 0.000585.
+INFO - 01/12/26 17:11:49 - 0:15:10 - Running average train loss is 0.6984127950668335 at epoch 468
+INFO - 01/12/26 17:11:49 - 0:15:10 - At 469-th epoch with lr 0.000584.
+INFO - 01/12/26 17:11:51 - 0:15:12 - Running average train loss is 0.697541000843048 at epoch 469
+INFO - 01/12/26 17:11:51 - 0:15:12 - At 470-th epoch with lr 0.000583.
+INFO - 01/12/26 17:11:52 - 0:15:13 - Running average train loss is 0.6972842860221863 at epoch 470
+INFO - 01/12/26 17:11:52 - 0:15:13 - At 471-th epoch with lr 0.000583.
+INFO - 01/12/26 17:11:54 - 0:15:15 - Running average train loss is 0.6979042291641235 at epoch 471
+INFO - 01/12/26 17:11:54 - 0:15:15 - At 472-th epoch with lr 0.000582.
+INFO - 01/12/26 17:11:56 - 0:15:17 - Running average train loss is 0.6986109375953674 at epoch 472
+INFO - 01/12/26 17:11:56 - 0:15:17 - At 473-th epoch with lr 0.000582.
+INFO - 01/12/26 17:11:58 - 0:15:19 - Running average train loss is 0.6986469531059265 at epoch 473
+INFO - 01/12/26 17:11:58 - 0:15:19 - At 474-th epoch with lr 0.000581.
+INFO - 01/12/26 17:12:00 - 0:15:21 - Running average train loss is 0.6975733685493469 at epoch 474
+INFO - 01/12/26 17:12:00 - 0:15:21 - At 475-th epoch with lr 0.000580.
+INFO - 01/12/26 17:12:01 - 0:15:22 - Running average train loss is 0.6976918005943298 at epoch 475
+INFO - 01/12/26 17:12:01 - 0:15:22 - At 476-th epoch with lr 0.000580.
+INFO - 01/12/26 17:12:03 - 0:15:24 - Running average train loss is 0.6978786182403565 at epoch 476
+INFO - 01/12/26 17:12:03 - 0:15:24 - At 477-th epoch with lr 0.000579.
+INFO - 01/12/26 17:12:05 - 0:15:26 - Running average train loss is 0.6983538556098938 at epoch 477
+INFO - 01/12/26 17:12:05 - 0:15:26 - At 478-th epoch with lr 0.000579.
+INFO - 01/12/26 17:12:07 - 0:15:28 - Running average train loss is 0.697975504398346 at epoch 478
+INFO - 01/12/26 17:12:07 - 0:15:28 - At 479-th epoch with lr 0.000578.
+INFO - 01/12/26 17:12:09 - 0:15:30 - Running average train loss is 0.6980425286293029 at epoch 479
+INFO - 01/12/26 17:12:09 - 0:15:30 - At 480-th epoch with lr 0.000577.
+INFO - 01/12/26 17:12:10 - 0:15:31 - Running average train loss is 0.6980747723579407 at epoch 480
+INFO - 01/12/26 17:12:11 - 0:15:31 - Average dev loss is 0.8542141914367676 at epoch 480
+INFO - 01/12/26 17:12:11 - 0:15:32 - dev accuracy is 75.1 at epoch 480
+INFO - 01/12/26 17:12:11 - 0:15:32 - dev average edit distance is 0.565 at epoch 480
+INFO - 01/12/26 17:12:11 - 0:15:32 - At 481-th epoch with lr 0.000577.
+INFO - 01/12/26 17:12:13 - 0:15:34 - Running average train loss is 0.6976690745353699 at epoch 481
+INFO - 01/12/26 17:12:13 - 0:15:34 - At 482-th epoch with lr 0.000576.
+INFO - 01/12/26 17:12:15 - 0:15:36 - Running average train loss is 0.6978663825988769 at epoch 482
+INFO - 01/12/26 17:12:15 - 0:15:36 - At 483-th epoch with lr 0.000576.
+INFO - 01/12/26 17:12:17 - 0:15:38 - Running average train loss is 0.697924234867096 at epoch 483
+INFO - 01/12/26 17:12:17 - 0:15:38 - At 484-th epoch with lr 0.000575.
+INFO - 01/12/26 17:12:18 - 0:15:39 - Running average train loss is 0.6975779938697815 at epoch 484
+INFO - 01/12/26 17:12:18 - 0:15:39 - At 485-th epoch with lr 0.000574.
+INFO - 01/12/26 17:12:20 - 0:15:41 - Running average train loss is 0.6973630475997925 at epoch 485
+INFO - 01/12/26 17:12:20 - 0:15:41 - At 486-th epoch with lr 0.000574.
+INFO - 01/12/26 17:12:22 - 0:15:43 - Running average train loss is 0.6982464790344238 at epoch 486
+INFO - 01/12/26 17:12:22 - 0:15:43 - At 487-th epoch with lr 0.000573.
+INFO - 01/12/26 17:12:24 - 0:15:45 - Running average train loss is 0.6981758832931518 at epoch 487
+INFO - 01/12/26 17:12:24 - 0:15:45 - At 488-th epoch with lr 0.000573.
+INFO - 01/12/26 17:12:26 - 0:15:47 - Running average train loss is 0.6978603577613831 at epoch 488
+INFO - 01/12/26 17:12:26 - 0:15:47 - At 489-th epoch with lr 0.000572.
+INFO - 01/12/26 17:12:27 - 0:15:48 - Running average train loss is 0.6971937537193298 at epoch 489
+INFO - 01/12/26 17:12:27 - 0:15:48 - At 490-th epoch with lr 0.000571.
+INFO - 01/12/26 17:12:29 - 0:15:50 - Running average train loss is 0.6971049976348876 at epoch 490
+INFO - 01/12/26 17:12:29 - 0:15:50 - At 491-th epoch with lr 0.000571.
+INFO - 01/12/26 17:12:31 - 0:15:52 - Running average train loss is 0.6978974270820618 at epoch 491
+INFO - 01/12/26 17:12:31 - 0:15:52 - At 492-th epoch with lr 0.000570.
+INFO - 01/12/26 17:12:33 - 0:15:54 - Running average train loss is 0.6976673126220703 at epoch 492
+INFO - 01/12/26 17:12:33 - 0:15:54 - At 493-th epoch with lr 0.000570.
+INFO - 01/12/26 17:12:35 - 0:15:56 - Running average train loss is 0.6978336143493652 at epoch 493
+INFO - 01/12/26 17:12:35 - 0:15:56 - At 494-th epoch with lr 0.000569.
+INFO - 01/12/26 17:12:37 - 0:15:57 - Running average train loss is 0.6975820684432983 at epoch 494
+INFO - 01/12/26 17:12:37 - 0:15:57 - At 495-th epoch with lr 0.000569.
+INFO - 01/12/26 17:12:38 - 0:15:59 - Running average train loss is 0.6977607154846192 at epoch 495
+INFO - 01/12/26 17:12:38 - 0:15:59 - At 496-th epoch with lr 0.000568.
+INFO - 01/12/26 17:12:40 - 0:16:01 - Running average train loss is 0.6974918556213379 at epoch 496
+INFO - 01/12/26 17:12:40 - 0:16:01 - Average dev loss is 0.8684744834899902 at epoch 496
+INFO - 01/12/26 17:12:41 - 0:16:02 - dev accuracy is 74.0 at epoch 496
+INFO - 01/12/26 17:12:41 - 0:16:02 - dev average edit distance is 0.678 at epoch 496
+INFO - 01/12/26 17:12:41 - 0:16:02 - At 497-th epoch with lr 0.000567.
+INFO - 01/12/26 17:12:43 - 0:16:04 - Running average train loss is 0.6980096697807312 at epoch 497
+INFO - 01/12/26 17:12:43 - 0:16:04 - At 498-th epoch with lr 0.000567.
+INFO - 01/12/26 17:12:44 - 0:16:05 - Running average train loss is 0.6978885459899903 at epoch 498
+INFO - 01/12/26 17:12:44 - 0:16:05 - At 499-th epoch with lr 0.000566.
+INFO - 01/12/26 17:12:46 - 0:16:07 - Running average train loss is 0.6977620434761047 at epoch 499
+INFO - 01/12/26 17:12:46 - 0:16:07 - At 500-th epoch with lr 0.000566.
+INFO - 01/12/26 17:12:48 - 0:16:09 - Running average train loss is 0.698746817111969 at epoch 500
+INFO - 01/12/26 17:12:48 - 0:16:09 - At 501-th epoch with lr 0.000565.
+INFO - 01/12/26 17:12:50 - 0:16:11 - Running average train loss is 0.6970345997810363 at epoch 501
+INFO - 01/12/26 17:12:50 - 0:16:11 - At 502-th epoch with lr 0.000565.
+INFO - 01/12/26 17:12:52 - 0:16:13 - Running average train loss is 0.6975144219398498 at epoch 502
+INFO - 01/12/26 17:12:52 - 0:16:13 - At 503-th epoch with lr 0.000564.
+INFO - 01/12/26 17:12:53 - 0:16:14 - Running average train loss is 0.6980182290077209 at epoch 503
+INFO - 01/12/26 17:12:53 - 0:16:14 - At 504-th epoch with lr 0.000563.
+INFO - 01/12/26 17:12:55 - 0:16:16 - Running average train loss is 0.6976989102363587 at epoch 504
+INFO - 01/12/26 17:12:55 - 0:16:16 - At 505-th epoch with lr 0.000563.
+INFO - 01/12/26 17:12:57 - 0:16:18 - Running average train loss is 0.6975897717475891 at epoch 505
+INFO - 01/12/26 17:12:57 - 0:16:18 - At 506-th epoch with lr 0.000562.
+INFO - 01/12/26 17:12:59 - 0:16:20 - Running average train loss is 0.6972911548614502 at epoch 506
+INFO - 01/12/26 17:12:59 - 0:16:20 - At 507-th epoch with lr 0.000562.
+INFO - 01/12/26 17:13:01 - 0:16:22 - Running average train loss is 0.6974499654769898 at epoch 507
+INFO - 01/12/26 17:13:01 - 0:16:22 - At 508-th epoch with lr 0.000561.
+INFO - 01/12/26 17:13:03 - 0:16:23 - Running average train loss is 0.6972162628173828 at epoch 508
+INFO - 01/12/26 17:13:03 - 0:16:23 - At 509-th epoch with lr 0.000561.
+INFO - 01/12/26 17:13:04 - 0:16:25 - Running average train loss is 0.697323534488678 at epoch 509
+INFO - 01/12/26 17:13:04 - 0:16:25 - At 510-th epoch with lr 0.000560.
+INFO - 01/12/26 17:13:06 - 0:16:27 - Running average train loss is 0.6972123575210571 at epoch 510
+INFO - 01/12/26 17:13:06 - 0:16:27 - At 511-th epoch with lr 0.000560.
+INFO - 01/12/26 17:13:08 - 0:16:29 - Running average train loss is 0.6975081443786622 at epoch 511
+INFO - 01/12/26 17:13:08 - 0:16:29 - At 512-th epoch with lr 0.000559.
+INFO - 01/12/26 17:13:10 - 0:16:31 - Running average train loss is 0.697632281780243 at epoch 512
+INFO - 01/12/26 17:13:10 - 0:16:31 - Average dev loss is 0.8621529142061869 at epoch 512
+INFO - 01/12/26 17:13:10 - 0:16:31 - dev accuracy is 74.6 at epoch 512
+INFO - 01/12/26 17:13:10 - 0:16:31 - dev average edit distance is 0.628 at epoch 512
+INFO - 01/12/26 17:13:11 - 0:16:31 - At 513-th epoch with lr 0.000558.
+INFO - 01/12/26 17:13:12 - 0:16:33 - Running average train loss is 0.6974377059936523 at epoch 513
+INFO - 01/12/26 17:13:12 - 0:16:33 - At 514-th epoch with lr 0.000558.
+INFO - 01/12/26 17:13:14 - 0:16:35 - Running average train loss is 0.6981573510169983 at epoch 514
+INFO - 01/12/26 17:13:14 - 0:16:35 - At 515-th epoch with lr 0.000557.
+INFO - 01/12/26 17:13:16 - 0:16:37 - Running average train loss is 0.697827935218811 at epoch 515
+INFO - 01/12/26 17:13:16 - 0:16:37 - At 516-th epoch with lr 0.000557.
+INFO - 01/12/26 17:13:18 - 0:16:39 - Running average train loss is 0.6972741651535034 at epoch 516
+INFO - 01/12/26 17:13:18 - 0:16:39 - At 517-th epoch with lr 0.000556.
+INFO - 01/12/26 17:13:20 - 0:16:40 - Running average train loss is 0.6972904634475708 at epoch 517
+INFO - 01/12/26 17:13:20 - 0:16:40 - At 518-th epoch with lr 0.000556.
+INFO - 01/12/26 17:13:21 - 0:16:42 - Running average train loss is 0.6972784686088562 at epoch 518
+INFO - 01/12/26 17:13:21 - 0:16:42 - At 519-th epoch with lr 0.000555.
+INFO - 01/12/26 17:13:23 - 0:16:44 - Running average train loss is 0.6980193996429443 at epoch 519
+INFO - 01/12/26 17:13:23 - 0:16:44 - At 520-th epoch with lr 0.000555.
+INFO - 01/12/26 17:13:25 - 0:16:46 - Running average train loss is 0.6978652882575989 at epoch 520
+INFO - 01/12/26 17:13:25 - 0:16:46 - At 521-th epoch with lr 0.000554.
+INFO - 01/12/26 17:13:27 - 0:16:48 - Running average train loss is 0.6969739460945129 at epoch 521
+INFO - 01/12/26 17:13:27 - 0:16:48 - At 522-th epoch with lr 0.000554.
+INFO - 01/12/26 17:13:29 - 0:16:50 - Running average train loss is 0.6972476887702942 at epoch 522
+INFO - 01/12/26 17:13:29 - 0:16:50 - At 523-th epoch with lr 0.000553.
+INFO - 01/12/26 17:13:30 - 0:16:51 - Running average train loss is 0.6969638323783874 at epoch 523
+INFO - 01/12/26 17:13:30 - 0:16:51 - At 524-th epoch with lr 0.000553.
+INFO - 01/12/26 17:13:32 - 0:16:53 - Running average train loss is 0.6981826615333557 at epoch 524
+INFO - 01/12/26 17:13:32 - 0:16:53 - At 525-th epoch with lr 0.000552.
+INFO - 01/12/26 17:13:34 - 0:16:55 - Running average train loss is 0.6966077327728272 at epoch 525
+INFO - 01/12/26 17:13:34 - 0:16:55 - At 526-th epoch with lr 0.000552.
+INFO - 01/12/26 17:13:36 - 0:16:57 - Running average train loss is 0.6971249794960022 at epoch 526
+INFO - 01/12/26 17:13:36 - 0:16:57 - At 527-th epoch with lr 0.000551.
+INFO - 01/12/26 17:13:38 - 0:16:59 - Running average train loss is 0.6970972061157227 at epoch 527
+INFO - 01/12/26 17:13:38 - 0:16:59 - At 528-th epoch with lr 0.000550.
+INFO - 01/12/26 17:13:39 - 0:17:00 - Running average train loss is 0.697732458114624 at epoch 528
+INFO - 01/12/26 17:13:40 - 0:17:00 - Average dev loss is 0.8615580002466837 at epoch 528
+INFO - 01/12/26 17:13:40 - 0:17:01 - dev accuracy is 75.2 at epoch 528
+INFO - 01/12/26 17:13:40 - 0:17:01 - dev average edit distance is 0.603 at epoch 528
+INFO - 01/12/26 17:13:40 - 0:17:01 - At 529-th epoch with lr 0.000550.
+INFO - 01/12/26 17:13:42 - 0:17:03 - Running average train loss is 0.6967833399772644 at epoch 529
+INFO - 01/12/26 17:13:42 - 0:17:03 - At 530-th epoch with lr 0.000549.
+INFO - 01/12/26 17:13:44 - 0:17:05 - Running average train loss is 0.6972173523902893 at epoch 530
+INFO - 01/12/26 17:13:44 - 0:17:05 - At 531-th epoch with lr 0.000549.
+INFO - 01/12/26 17:13:46 - 0:17:07 - Running average train loss is 0.6970554995536804 at epoch 531
+INFO - 01/12/26 17:13:46 - 0:17:07 - At 532-th epoch with lr 0.000548.
+INFO - 01/12/26 17:13:47 - 0:17:08 - Running average train loss is 0.6973359680175781 at epoch 532
+INFO - 01/12/26 17:13:47 - 0:17:08 - At 533-th epoch with lr 0.000548.
+INFO - 01/12/26 17:13:49 - 0:17:10 - Running average train loss is 0.6972338652610779 at epoch 533
+INFO - 01/12/26 17:13:49 - 0:17:10 - At 534-th epoch with lr 0.000547.
+INFO - 01/12/26 17:13:51 - 0:17:12 - Running average train loss is 0.6969365811347962 at epoch 534
+INFO - 01/12/26 17:13:51 - 0:17:12 - At 535-th epoch with lr 0.000547.
+INFO - 01/12/26 17:13:53 - 0:17:14 - Running average train loss is 0.6967740678787231 at epoch 535
+INFO - 01/12/26 17:13:53 - 0:17:14 - At 536-th epoch with lr 0.000546.
+INFO - 01/12/26 17:13:55 - 0:17:16 - Running average train loss is 0.6970526385307312 at epoch 536
+INFO - 01/12/26 17:13:55 - 0:17:16 - At 537-th epoch with lr 0.000546.
+INFO - 01/12/26 17:13:57 - 0:17:17 - Running average train loss is 0.697955629825592 at epoch 537
+INFO - 01/12/26 17:13:57 - 0:17:17 - At 538-th epoch with lr 0.000545.
+INFO - 01/12/26 17:13:58 - 0:17:19 - Running average train loss is 0.6969389271736145 at epoch 538
+INFO - 01/12/26 17:13:58 - 0:17:19 - At 539-th epoch with lr 0.000545.
+INFO - 01/12/26 17:14:00 - 0:17:21 - Running average train loss is 0.6973731255531311 at epoch 539
+INFO - 01/12/26 17:14:00 - 0:17:21 - At 540-th epoch with lr 0.000544.
+INFO - 01/12/26 17:14:02 - 0:17:23 - Running average train loss is 0.6969179081916809 at epoch 540
+INFO - 01/12/26 17:14:02 - 0:17:23 - At 541-th epoch with lr 0.000544.
+INFO - 01/12/26 17:14:04 - 0:17:25 - Running average train loss is 0.6961279368400574 at epoch 541
+INFO - 01/12/26 17:14:04 - 0:17:25 - At 542-th epoch with lr 0.000543.
+INFO - 01/12/26 17:14:06 - 0:17:26 - Running average train loss is 0.6963681888580322 at epoch 542
+INFO - 01/12/26 17:14:06 - 0:17:26 - At 543-th epoch with lr 0.000543.
+INFO - 01/12/26 17:14:07 - 0:17:28 - Running average train loss is 0.6966627645492554 at epoch 543
+INFO - 01/12/26 17:14:07 - 0:17:28 - At 544-th epoch with lr 0.000542.
+INFO - 01/12/26 17:14:09 - 0:17:30 - Running average train loss is 0.6968343997001648 at epoch 544
+INFO - 01/12/26 17:14:09 - 0:17:30 - Average dev loss is 0.8725111484527588 at epoch 544
+INFO - 01/12/26 17:14:10 - 0:17:31 - dev accuracy is 74.0 at epoch 544
+INFO - 01/12/26 17:14:10 - 0:17:31 - dev average edit distance is 0.652 at epoch 544
+INFO - 01/12/26 17:14:10 - 0:17:31 - At 545-th epoch with lr 0.000542.
+INFO - 01/12/26 17:14:12 - 0:17:33 - Running average train loss is 0.6972485518455506 at epoch 545
+INFO - 01/12/26 17:14:12 - 0:17:33 - At 546-th epoch with lr 0.000541.
+INFO - 01/12/26 17:14:13 - 0:17:34 - Running average train loss is 0.6972608280181884 at epoch 546
+INFO - 01/12/26 17:14:13 - 0:17:34 - At 547-th epoch with lr 0.000541.
+INFO - 01/12/26 17:14:15 - 0:17:36 - Running average train loss is 0.6964208865165711 at epoch 547
+INFO - 01/12/26 17:14:15 - 0:17:36 - At 548-th epoch with lr 0.000540.
+INFO - 01/12/26 17:14:17 - 0:17:38 - Running average train loss is 0.6965862369537353 at epoch 548
+INFO - 01/12/26 17:14:17 - 0:17:38 - At 549-th epoch with lr 0.000540.
+INFO - 01/12/26 17:14:19 - 0:17:40 - Running average train loss is 0.696118242740631 at epoch 549
+INFO - 01/12/26 17:14:19 - 0:17:40 - At 550-th epoch with lr 0.000539.
+INFO - 01/12/26 17:14:21 - 0:17:42 - Running average train loss is 0.6974003386497497 at epoch 550
+INFO - 01/12/26 17:14:21 - 0:17:42 - At 551-th epoch with lr 0.000539.
+INFO - 01/12/26 17:14:23 - 0:17:43 - Running average train loss is 0.6968022918701172 at epoch 551
+INFO - 01/12/26 17:14:23 - 0:17:43 - At 552-th epoch with lr 0.000538.
+INFO - 01/12/26 17:14:24 - 0:17:45 - Running average train loss is 0.6968079018592834 at epoch 552
+INFO - 01/12/26 17:14:24 - 0:17:45 - At 553-th epoch with lr 0.000538.
+INFO - 01/12/26 17:14:26 - 0:17:47 - Running average train loss is 0.6964261698722839 at epoch 553
+INFO - 01/12/26 17:14:26 - 0:17:47 - At 554-th epoch with lr 0.000537.
+INFO - 01/12/26 17:14:28 - 0:17:49 - Running average train loss is 0.6962984490394593 at epoch 554
+INFO - 01/12/26 17:14:28 - 0:17:49 - At 555-th epoch with lr 0.000537.
+INFO - 01/12/26 17:14:30 - 0:17:51 - Running average train loss is 0.6968679881095886 at epoch 555
+INFO - 01/12/26 17:14:30 - 0:17:51 - At 556-th epoch with lr 0.000536.
+INFO - 01/12/26 17:14:32 - 0:17:53 - Running average train loss is 0.6970816707611084 at epoch 556
+INFO - 01/12/26 17:14:32 - 0:17:53 - At 557-th epoch with lr 0.000536.
+INFO - 01/12/26 17:14:33 - 0:17:54 - Running average train loss is 0.6966090703010559 at epoch 557
+INFO - 01/12/26 17:14:33 - 0:17:54 - At 558-th epoch with lr 0.000535.
+INFO - 01/12/26 17:14:35 - 0:17:56 - Running average train loss is 0.6963027167320252 at epoch 558
+INFO - 01/12/26 17:14:35 - 0:17:56 - At 559-th epoch with lr 0.000535.
+INFO - 01/12/26 17:14:37 - 0:17:58 - Running average train loss is 0.6968424081802368 at epoch 559
+INFO - 01/12/26 17:14:37 - 0:17:58 - At 560-th epoch with lr 0.000535.
+INFO - 01/12/26 17:14:39 - 0:18:00 - Running average train loss is 0.696903932094574 at epoch 560
+INFO - 01/12/26 17:14:39 - 0:18:00 - Average dev loss is 0.8650986552238464 at epoch 560
+INFO - 01/12/26 17:14:39 - 0:18:00 - dev accuracy is 74.4 at epoch 560
+INFO - 01/12/26 17:14:39 - 0:18:00 - dev average edit distance is 0.638 at epoch 560
+INFO - 01/12/26 17:14:40 - 0:18:00 - At 561-th epoch with lr 0.000534.
+INFO - 01/12/26 17:14:41 - 0:18:02 - Running average train loss is 0.6971767020225524 at epoch 561
+INFO - 01/12/26 17:14:41 - 0:18:02 - At 562-th epoch with lr 0.000534.
+INFO - 01/12/26 17:14:43 - 0:18:04 - Running average train loss is 0.6962994003295898 at epoch 562
+INFO - 01/12/26 17:14:43 - 0:18:04 - At 563-th epoch with lr 0.000533.
+INFO - 01/12/26 17:14:45 - 0:18:06 - Running average train loss is 0.696236367225647 at epoch 563
+INFO - 01/12/26 17:14:45 - 0:18:06 - At 564-th epoch with lr 0.000533.
+INFO - 01/12/26 17:14:47 - 0:18:08 - Running average train loss is 0.6970705604553222 at epoch 564
+INFO - 01/12/26 17:14:47 - 0:18:08 - At 565-th epoch with lr 0.000532.
+INFO - 01/12/26 17:14:49 - 0:18:10 - Running average train loss is 0.6967741537094116 at epoch 565
+INFO - 01/12/26 17:14:49 - 0:18:10 - At 566-th epoch with lr 0.000532.
+INFO - 01/12/26 17:14:50 - 0:18:11 - Running average train loss is 0.6967114782333375 at epoch 566
+INFO - 01/12/26 17:14:50 - 0:18:11 - At 567-th epoch with lr 0.000531.
+INFO - 01/12/26 17:14:52 - 0:18:13 - Running average train loss is 0.6963614535331726 at epoch 567
+INFO - 01/12/26 17:14:52 - 0:18:13 - At 568-th epoch with lr 0.000531.
+INFO - 01/12/26 17:14:54 - 0:18:15 - Running average train loss is 0.6963579106330872 at epoch 568
+INFO - 01/12/26 17:14:54 - 0:18:15 - At 569-th epoch with lr 0.000530.
+INFO - 01/12/26 17:14:56 - 0:18:17 - Running average train loss is 0.6970664072036743 at epoch 569
+INFO - 01/12/26 17:14:56 - 0:18:17 - At 570-th epoch with lr 0.000530.
+INFO - 01/12/26 17:14:58 - 0:18:19 - Running average train loss is 0.6969157361984253 at epoch 570
+INFO - 01/12/26 17:14:58 - 0:18:19 - At 571-th epoch with lr 0.000529.
+INFO - 01/12/26 17:14:59 - 0:18:20 - Running average train loss is 0.696504156589508 at epoch 571
+INFO - 01/12/26 17:14:59 - 0:18:20 - At 572-th epoch with lr 0.000529.
+INFO - 01/12/26 17:15:01 - 0:18:22 - Running average train loss is 0.6964199042320252 at epoch 572
+INFO - 01/12/26 17:15:01 - 0:18:22 - At 573-th epoch with lr 0.000528.
+INFO - 01/12/26 17:15:03 - 0:18:24 - Running average train loss is 0.696532289981842 at epoch 573
+INFO - 01/12/26 17:15:03 - 0:18:24 - At 574-th epoch with lr 0.000528.
+INFO - 01/12/26 17:15:05 - 0:18:26 - Running average train loss is 0.6964412999153137 at epoch 574
+INFO - 01/12/26 17:15:05 - 0:18:26 - At 575-th epoch with lr 0.000528.
+INFO - 01/12/26 17:15:07 - 0:18:28 - Running average train loss is 0.6970229601860046 at epoch 575
+INFO - 01/12/26 17:15:07 - 0:18:28 - At 576-th epoch with lr 0.000527.
+INFO - 01/12/26 17:15:08 - 0:18:29 - Running average train loss is 0.6965568494796753 at epoch 576
+INFO - 01/12/26 17:15:08 - 0:18:29 - Average dev loss is 0.8713319500287374 at epoch 576
+INFO - 01/12/26 17:15:09 - 0:18:30 - dev accuracy is 74.5 at epoch 576
+INFO - 01/12/26 17:15:09 - 0:18:30 - dev average edit distance is 0.608 at epoch 576
+INFO - 01/12/26 17:15:09 - 0:18:30 - At 577-th epoch with lr 0.000527.
+INFO - 01/12/26 17:15:11 - 0:18:32 - Running average train loss is 0.6970064854621887 at epoch 577
+INFO - 01/12/26 17:15:11 - 0:18:32 - At 578-th epoch with lr 0.000526.
+INFO - 01/12/26 17:15:13 - 0:18:34 - Running average train loss is 0.695946273803711 at epoch 578
+INFO - 01/12/26 17:15:13 - 0:18:34 - At 579-th epoch with lr 0.000526.
+INFO - 01/12/26 17:15:15 - 0:18:36 - Running average train loss is 0.6963831520080567 at epoch 579
+INFO - 01/12/26 17:15:15 - 0:18:36 - At 580-th epoch with lr 0.000525.
+INFO - 01/12/26 17:15:16 - 0:18:37 - Running average train loss is 0.6967850470542908 at epoch 580
+INFO - 01/12/26 17:15:16 - 0:18:37 - At 581-th epoch with lr 0.000525.
+INFO - 01/12/26 17:15:18 - 0:18:39 - Running average train loss is 0.696460063457489 at epoch 581
+INFO - 01/12/26 17:15:18 - 0:18:39 - At 582-th epoch with lr 0.000524.
+INFO - 01/12/26 17:15:20 - 0:18:41 - Running average train loss is 0.6962947177886963 at epoch 582
+INFO - 01/12/26 17:15:20 - 0:18:41 - At 583-th epoch with lr 0.000524.
+INFO - 01/12/26 17:15:22 - 0:18:43 - Running average train loss is 0.6964320206642151 at epoch 583
+INFO - 01/12/26 17:15:22 - 0:18:43 - At 584-th epoch with lr 0.000523.
+INFO - 01/12/26 17:15:24 - 0:18:45 - Running average train loss is 0.6965435886383057 at epoch 584
+INFO - 01/12/26 17:15:24 - 0:18:45 - At 585-th epoch with lr 0.000523.
+INFO - 01/12/26 17:15:25 - 0:18:46 - Running average train loss is 0.6971604585647583 at epoch 585
+INFO - 01/12/26 17:15:25 - 0:18:46 - At 586-th epoch with lr 0.000523.
+INFO - 01/12/26 17:15:27 - 0:18:48 - Running average train loss is 0.6960572504997253 at epoch 586
+INFO - 01/12/26 17:15:27 - 0:18:48 - At 587-th epoch with lr 0.000522.
+INFO - 01/12/26 17:15:29 - 0:18:50 - Running average train loss is 0.6969943904876709 at epoch 587
+INFO - 01/12/26 17:15:29 - 0:18:50 - At 588-th epoch with lr 0.000522.
+INFO - 01/12/26 17:15:31 - 0:18:52 - Running average train loss is 0.6959346795082092 at epoch 588
+INFO - 01/12/26 17:15:31 - 0:18:52 - At 589-th epoch with lr 0.000521.
+INFO - 01/12/26 17:15:33 - 0:18:54 - Running average train loss is 0.6968800806999207 at epoch 589
+INFO - 01/12/26 17:15:33 - 0:18:54 - At 590-th epoch with lr 0.000521.
+INFO - 01/12/26 17:15:34 - 0:18:55 - Running average train loss is 0.6967776131629944 at epoch 590
+INFO - 01/12/26 17:15:34 - 0:18:55 - At 591-th epoch with lr 0.000520.
+INFO - 01/12/26 17:15:36 - 0:18:57 - Running average train loss is 0.6965266394615174 at epoch 591
+INFO - 01/12/26 17:15:36 - 0:18:57 - At 592-th epoch with lr 0.000520.
+INFO - 01/12/26 17:15:38 - 0:18:59 - Running average train loss is 0.696394464969635 at epoch 592
+INFO - 01/12/26 17:15:38 - 0:18:59 - Average dev loss is 0.8709610303243002 at epoch 592
+INFO - 01/12/26 17:15:39 - 0:19:00 - dev accuracy is 74.8 at epoch 592
+INFO - 01/12/26 17:15:39 - 0:19:00 - dev average edit distance is 0.61 at epoch 592
+INFO - 01/12/26 17:15:39 - 0:19:00 - At 593-th epoch with lr 0.000519.
+INFO - 01/12/26 17:15:41 - 0:19:02 - Running average train loss is 0.696468334197998 at epoch 593
+INFO - 01/12/26 17:15:41 - 0:19:02 - At 594-th epoch with lr 0.000519.
+INFO - 01/12/26 17:15:42 - 0:19:03 - Running average train loss is 0.6962673592567444 at epoch 594
+INFO - 01/12/26 17:15:42 - 0:19:03 - At 595-th epoch with lr 0.000519.
+INFO - 01/12/26 17:15:44 - 0:19:05 - Running average train loss is 0.6961574912071228 at epoch 595
+INFO - 01/12/26 17:15:44 - 0:19:05 - At 596-th epoch with lr 0.000518.
+INFO - 01/12/26 17:15:46 - 0:19:07 - Running average train loss is 0.6964775919914246 at epoch 596
+INFO - 01/12/26 17:15:46 - 0:19:07 - At 597-th epoch with lr 0.000518.
+INFO - 01/12/26 17:15:48 - 0:19:09 - Running average train loss is 0.6965484476089477 at epoch 597
+INFO - 01/12/26 17:15:48 - 0:19:09 - At 598-th epoch with lr 0.000517.
+INFO - 01/12/26 17:15:50 - 0:19:11 - Running average train loss is 0.6961936640739441 at epoch 598
+INFO - 01/12/26 17:15:50 - 0:19:11 - At 599-th epoch with lr 0.000517.
+INFO - 01/12/26 17:15:51 - 0:19:12 - Running average train loss is 0.6967208456993103 at epoch 599
+INFO - 01/12/26 17:15:51 - 0:19:12 - At 600-th epoch with lr 0.000516.
+INFO - 01/12/26 17:15:53 - 0:19:14 - Running average train loss is 0.6962683320045471 at epoch 600
+INFO - 01/12/26 17:15:53 - 0:19:14 - At 601-th epoch with lr 0.000516.
+INFO - 01/12/26 17:15:55 - 0:19:16 - Running average train loss is 0.69622878074646 at epoch 601
+INFO - 01/12/26 17:15:55 - 0:19:16 - At 602-th epoch with lr 0.000516.
+INFO - 01/12/26 17:15:57 - 0:19:18 - Running average train loss is 0.6963452267646789 at epoch 602
+INFO - 01/12/26 17:15:57 - 0:19:18 - At 603-th epoch with lr 0.000515.
+INFO - 01/12/26 17:15:59 - 0:19:20 - Running average train loss is 0.6960675144195556 at epoch 603
+INFO - 01/12/26 17:15:59 - 0:19:20 - At 604-th epoch with lr 0.000515.
+INFO - 01/12/26 17:16:01 - 0:19:21 - Running average train loss is 0.6966892075538635 at epoch 604
+INFO - 01/12/26 17:16:01 - 0:19:21 - At 605-th epoch with lr 0.000514.
+INFO - 01/12/26 17:16:02 - 0:19:23 - Running average train loss is 0.696636393070221 at epoch 605
+INFO - 01/12/26 17:16:02 - 0:19:23 - At 606-th epoch with lr 0.000514.
+INFO - 01/12/26 17:16:04 - 0:19:25 - Running average train loss is 0.6965161156654358 at epoch 606
+INFO - 01/12/26 17:16:04 - 0:19:25 - At 607-th epoch with lr 0.000513.
+INFO - 01/12/26 17:16:06 - 0:19:27 - Running average train loss is 0.6960684132575988 at epoch 607
+INFO - 01/12/26 17:16:06 - 0:19:27 - At 608-th epoch with lr 0.000513.
+INFO - 01/12/26 17:16:08 - 0:19:29 - Running average train loss is 0.6965381574630737 at epoch 608
+INFO - 01/12/26 17:16:08 - 0:19:29 - Average dev loss is 0.864769458770752 at epoch 608
+INFO - 01/12/26 17:16:08 - 0:19:29 - dev accuracy is 74.5 at epoch 608
+INFO - 01/12/26 17:16:08 - 0:19:29 - dev average edit distance is 0.611 at epoch 608
+INFO - 01/12/26 17:16:08 - 0:19:29 - At 609-th epoch with lr 0.000513.
+INFO - 01/12/26 17:16:10 - 0:19:31 - Running average train loss is 0.6958966946601868 at epoch 609
+INFO - 01/12/26 17:16:10 - 0:19:31 - At 610-th epoch with lr 0.000512.
+INFO - 01/12/26 17:16:12 - 0:19:33 - Running average train loss is 0.6965061306953431 at epoch 610
+INFO - 01/12/26 17:16:12 - 0:19:33 - At 611-th epoch with lr 0.000512.
+INFO - 01/12/26 17:16:14 - 0:19:35 - Running average train loss is 0.6962053823471069 at epoch 611
+INFO - 01/12/26 17:16:14 - 0:19:35 - At 612-th epoch with lr 0.000511.
+INFO - 01/12/26 17:16:16 - 0:19:37 - Running average train loss is 0.6962764358520508 at epoch 612
+INFO - 01/12/26 17:16:16 - 0:19:37 - At 613-th epoch with lr 0.000511.
+INFO - 01/12/26 17:16:18 - 0:19:38 - Running average train loss is 0.6959758734703064 at epoch 613
+INFO - 01/12/26 17:16:18 - 0:19:38 - At 614-th epoch with lr 0.000510.
+INFO - 01/12/26 17:16:19 - 0:19:40 - Running average train loss is 0.6956815552711487 at epoch 614
+INFO - 01/12/26 17:16:19 - 0:19:40 - At 615-th epoch with lr 0.000510.
+INFO - 01/12/26 17:16:21 - 0:19:42 - Running average train loss is 0.6961261987686157 at epoch 615
+INFO - 01/12/26 17:16:21 - 0:19:42 - At 616-th epoch with lr 0.000510.
+INFO - 01/12/26 17:16:23 - 0:19:44 - Running average train loss is 0.6957976984977722 at epoch 616
+INFO - 01/12/26 17:16:23 - 0:19:44 - At 617-th epoch with lr 0.000509.
+INFO - 01/12/26 17:16:25 - 0:19:46 - Running average train loss is 0.6961569952964782 at epoch 617
+INFO - 01/12/26 17:16:25 - 0:19:46 - At 618-th epoch with lr 0.000509.
+INFO - 01/12/26 17:16:27 - 0:19:48 - Running average train loss is 0.6961036205291748 at epoch 618
+INFO - 01/12/26 17:16:27 - 0:19:48 - At 619-th epoch with lr 0.000508.
+INFO - 01/12/26 17:16:28 - 0:19:49 - Running average train loss is 0.6962915802001953 at epoch 619
+INFO - 01/12/26 17:16:28 - 0:19:49 - At 620-th epoch with lr 0.000508.
+INFO - 01/12/26 17:16:30 - 0:19:51 - Running average train loss is 0.6964715099334717 at epoch 620
+INFO - 01/12/26 17:16:30 - 0:19:51 - At 621-th epoch with lr 0.000508.
+INFO - 01/12/26 17:16:32 - 0:19:53 - Running average train loss is 0.6961326432228089 at epoch 621
+INFO - 01/12/26 17:16:32 - 0:19:53 - At 622-th epoch with lr 0.000507.
+INFO - 01/12/26 17:16:34 - 0:19:55 - Running average train loss is 0.6962750387191773 at epoch 622
+INFO - 01/12/26 17:16:34 - 0:19:55 - At 623-th epoch with lr 0.000507.
+INFO - 01/12/26 17:16:36 - 0:19:57 - Running average train loss is 0.6958031606674194 at epoch 623
+INFO - 01/12/26 17:16:36 - 0:19:57 - At 624-th epoch with lr 0.000506.
+INFO - 01/12/26 17:16:37 - 0:19:58 - Running average train loss is 0.6960921382904053 at epoch 624
+INFO - 01/12/26 17:16:38 - 0:19:58 - Average dev loss is 0.8577098250389099 at epoch 624
+INFO - 01/12/26 17:16:38 - 0:19:59 - dev accuracy is 75.1 at epoch 624
+INFO - 01/12/26 17:16:38 - 0:19:59 - dev average edit distance is 0.55 at epoch 624
+INFO - 01/12/26 17:16:38 - 0:19:59 - At 625-th epoch with lr 0.000506.
+INFO - 01/12/26 17:16:40 - 0:20:01 - Running average train loss is 0.696475555896759 at epoch 625
+INFO - 01/12/26 17:16:40 - 0:20:01 - At 626-th epoch with lr 0.000506.
+INFO - 01/12/26 17:16:42 - 0:20:03 - Running average train loss is 0.6961325263977051 at epoch 626
+INFO - 01/12/26 17:16:42 - 0:20:03 - At 627-th epoch with lr 0.000505.
+INFO - 01/12/26 17:16:44 - 0:20:05 - Running average train loss is 0.6964712810516357 at epoch 627
+INFO - 01/12/26 17:16:44 - 0:20:05 - At 628-th epoch with lr 0.000505.
+INFO - 01/12/26 17:16:45 - 0:20:06 - Running average train loss is 0.6961399865150452 at epoch 628
+INFO - 01/12/26 17:16:45 - 0:20:06 - At 629-th epoch with lr 0.000504.
+INFO - 01/12/26 17:16:47 - 0:20:08 - Running average train loss is 0.6962273621559143 at epoch 629
+INFO - 01/12/26 17:16:47 - 0:20:08 - At 630-th epoch with lr 0.000504.
+INFO - 01/12/26 17:16:49 - 0:20:10 - Running average train loss is 0.6951752591133118 at epoch 630
+INFO - 01/12/26 17:16:49 - 0:20:10 - At 631-th epoch with lr 0.000504.
+INFO - 01/12/26 17:16:51 - 0:20:12 - Running average train loss is 0.6960193848609925 at epoch 631
+INFO - 01/12/26 17:16:51 - 0:20:12 - At 632-th epoch with lr 0.000503.
+INFO - 01/12/26 17:16:53 - 0:20:14 - Running average train loss is 0.6957394194602966 at epoch 632
+INFO - 01/12/26 17:16:53 - 0:20:14 - At 633-th epoch with lr 0.000503.
+INFO - 01/12/26 17:16:55 - 0:20:15 - Running average train loss is 0.6952598881721497 at epoch 633
+INFO - 01/12/26 17:16:55 - 0:20:15 - At 634-th epoch with lr 0.000502.
+INFO - 01/12/26 17:16:56 - 0:20:17 - Running average train loss is 0.6962820672988892 at epoch 634
+INFO - 01/12/26 17:16:56 - 0:20:17 - At 635-th epoch with lr 0.000502.
+INFO - 01/12/26 17:16:58 - 0:20:19 - Running average train loss is 0.6959873604774475 at epoch 635
+INFO - 01/12/26 17:16:58 - 0:20:19 - At 636-th epoch with lr 0.000502.
+INFO - 01/12/26 17:17:00 - 0:20:21 - Running average train loss is 0.6958736896514892 at epoch 636
+INFO - 01/12/26 17:17:00 - 0:20:21 - At 637-th epoch with lr 0.000501.
+INFO - 01/12/26 17:17:02 - 0:20:23 - Running average train loss is 0.6962357902526856 at epoch 637
+INFO - 01/12/26 17:17:02 - 0:20:23 - At 638-th epoch with lr 0.000501.
+INFO - 01/12/26 17:17:04 - 0:20:24 - Running average train loss is 0.6959636878967285 at epoch 638
+INFO - 01/12/26 17:17:04 - 0:20:24 - At 639-th epoch with lr 0.000500.
+INFO - 01/12/26 17:17:05 - 0:20:26 - Running average train loss is 0.6961401200294495 at epoch 639
+INFO - 01/12/26 17:17:05 - 0:20:26 - At 640-th epoch with lr 0.000500.
+INFO - 01/12/26 17:17:07 - 0:20:28 - Running average train loss is 0.6957276391983033 at epoch 640
+INFO - 01/12/26 17:17:07 - 0:20:28 - Average dev loss is 0.873673677444458 at epoch 640
+INFO - 01/12/26 17:17:08 - 0:20:29 - dev accuracy is 74.9 at epoch 640
+INFO - 01/12/26 17:17:08 - 0:20:29 - dev average edit distance is 0.614 at epoch 640
+INFO - 01/12/26 17:17:08 - 0:20:29 - At 641-th epoch with lr 0.000500.
+INFO - 01/12/26 17:17:10 - 0:20:31 - Running average train loss is 0.6959040093421937 at epoch 641
+INFO - 01/12/26 17:17:10 - 0:20:31 - At 642-th epoch with lr 0.000499.
+INFO - 01/12/26 17:17:12 - 0:20:32 - Running average train loss is 0.6954731369018554 at epoch 642
+INFO - 01/12/26 17:17:12 - 0:20:32 - At 643-th epoch with lr 0.000499.
+INFO - 01/12/26 17:17:13 - 0:20:34 - Running average train loss is 0.6963489437103272 at epoch 643
+INFO - 01/12/26 17:17:13 - 0:20:34 - At 644-th epoch with lr 0.000498.
+INFO - 01/12/26 17:17:15 - 0:20:36 - Running average train loss is 0.6963092041015625 at epoch 644
+INFO - 01/12/26 17:17:15 - 0:20:36 - At 645-th epoch with lr 0.000498.
+INFO - 01/12/26 17:17:17 - 0:20:38 - Running average train loss is 0.6961879253387451 at epoch 645
+INFO - 01/12/26 17:17:17 - 0:20:38 - At 646-th epoch with lr 0.000498.
+INFO - 01/12/26 17:17:19 - 0:20:40 - Running average train loss is 0.6962283205986023 at epoch 646
+INFO - 01/12/26 17:17:19 - 0:20:40 - At 647-th epoch with lr 0.000497.
+INFO - 01/12/26 17:17:21 - 0:20:42 - Running average train loss is 0.6960147166252136 at epoch 647
+INFO - 01/12/26 17:17:21 - 0:20:42 - At 648-th epoch with lr 0.000497.
+INFO - 01/12/26 17:17:22 - 0:20:43 - Running average train loss is 0.6963122725486756 at epoch 648
+INFO - 01/12/26 17:17:22 - 0:20:43 - At 649-th epoch with lr 0.000497.
+INFO - 01/12/26 17:17:24 - 0:20:45 - Running average train loss is 0.6956634902954102 at epoch 649
+INFO - 01/12/26 17:17:24 - 0:20:45 - At 650-th epoch with lr 0.000496.
+INFO - 01/12/26 17:17:26 - 0:20:47 - Running average train loss is 0.6959375476837159 at epoch 650
+INFO - 01/12/26 17:17:26 - 0:20:47 - At 651-th epoch with lr 0.000496.
+INFO - 01/12/26 17:17:28 - 0:20:49 - Running average train loss is 0.6959812736511231 at epoch 651
+INFO - 01/12/26 17:17:28 - 0:20:49 - At 652-th epoch with lr 0.000495.
+INFO - 01/12/26 17:17:30 - 0:20:51 - Running average train loss is 0.6960885095596313 at epoch 652
+INFO - 01/12/26 17:17:30 - 0:20:51 - At 653-th epoch with lr 0.000495.
+INFO - 01/12/26 17:17:31 - 0:20:52 - Running average train loss is 0.6955365991592407 at epoch 653
+INFO - 01/12/26 17:17:31 - 0:20:52 - At 654-th epoch with lr 0.000495.
+INFO - 01/12/26 17:17:33 - 0:20:54 - Running average train loss is 0.6957344007492066 at epoch 654
+INFO - 01/12/26 17:17:33 - 0:20:54 - At 655-th epoch with lr 0.000494.
+INFO - 01/12/26 17:17:35 - 0:20:56 - Running average train loss is 0.6957973670959473 at epoch 655
+INFO - 01/12/26 17:17:35 - 0:20:56 - At 656-th epoch with lr 0.000494.
+INFO - 01/12/26 17:17:37 - 0:20:58 - Running average train loss is 0.6955415415763855 at epoch 656
+INFO - 01/12/26 17:17:37 - 0:20:58 - Average dev loss is 0.8731075525283813 at epoch 656
+INFO - 01/12/26 17:17:37 - 0:20:58 - dev accuracy is 74.4 at epoch 656
+INFO - 01/12/26 17:17:37 - 0:20:58 - dev average edit distance is 0.573 at epoch 656
+INFO - 01/12/26 17:17:38 - 0:20:59 - At 657-th epoch with lr 0.000493.
+INFO - 01/12/26 17:17:39 - 0:21:00 - Running average train loss is 0.6961474919319153 at epoch 657
+INFO - 01/12/26 17:17:39 - 0:21:00 - At 658-th epoch with lr 0.000493.
+INFO - 01/12/26 17:17:41 - 0:21:02 - Running average train loss is 0.6960797309875488 at epoch 658
+INFO - 01/12/26 17:17:41 - 0:21:02 - At 659-th epoch with lr 0.000493.
+INFO - 01/12/26 17:17:43 - 0:21:04 - Running average train loss is 0.6958325338363648 at epoch 659
+INFO - 01/12/26 17:17:43 - 0:21:04 - At 660-th epoch with lr 0.000492.
+INFO - 01/12/26 17:17:45 - 0:21:06 - Running average train loss is 0.6960231781005859 at epoch 660
+INFO - 01/12/26 17:17:45 - 0:21:06 - At 661-th epoch with lr 0.000492.
+INFO - 01/12/26 17:17:47 - 0:21:08 - Running average train loss is 0.6955939626693726 at epoch 661
+INFO - 01/12/26 17:17:47 - 0:21:08 - At 662-th epoch with lr 0.000492.
+INFO - 01/12/26 17:17:48 - 0:21:09 - Running average train loss is 0.6950879597663879 at epoch 662
+INFO - 01/12/26 17:17:48 - 0:21:09 - At 663-th epoch with lr 0.000491.
+INFO - 01/12/26 17:17:50 - 0:21:11 - Running average train loss is 0.696083025932312 at epoch 663
+INFO - 01/12/26 17:17:50 - 0:21:11 - At 664-th epoch with lr 0.000491.
+INFO - 01/12/26 17:17:52 - 0:21:13 - Running average train loss is 0.6959025049209595 at epoch 664
+INFO - 01/12/26 17:17:52 - 0:21:13 - At 665-th epoch with lr 0.000491.
+INFO - 01/12/26 17:17:54 - 0:21:15 - Running average train loss is 0.6955430793762207 at epoch 665
+INFO - 01/12/26 17:17:54 - 0:21:15 - At 666-th epoch with lr 0.000490.
+INFO - 01/12/26 17:17:56 - 0:21:17 - Running average train loss is 0.6954933547973633 at epoch 666
+INFO - 01/12/26 17:17:56 - 0:21:17 - At 667-th epoch with lr 0.000490.
+INFO - 01/12/26 17:17:57 - 0:21:18 - Running average train loss is 0.6953423714637756 at epoch 667
+INFO - 01/12/26 17:17:57 - 0:21:18 - At 668-th epoch with lr 0.000489.
+INFO - 01/12/26 17:17:59 - 0:21:20 - Running average train loss is 0.6956928968429565 at epoch 668
+INFO - 01/12/26 17:17:59 - 0:21:20 - At 669-th epoch with lr 0.000489.
+INFO - 01/12/26 17:18:01 - 0:21:22 - Running average train loss is 0.695771484375 at epoch 669
+INFO - 01/12/26 17:18:01 - 0:21:22 - At 670-th epoch with lr 0.000489.
+INFO - 01/12/26 17:18:03 - 0:21:24 - Running average train loss is 0.6956699562072753 at epoch 670
+INFO - 01/12/26 17:18:03 - 0:21:24 - At 671-th epoch with lr 0.000488.
+INFO - 01/12/26 17:18:05 - 0:21:26 - Running average train loss is 0.6962990283966064 at epoch 671
+INFO - 01/12/26 17:18:05 - 0:21:26 - At 672-th epoch with lr 0.000488.
+INFO - 01/12/26 17:18:07 - 0:21:27 - Running average train loss is 0.695696632862091 at epoch 672
+INFO - 01/12/26 17:18:07 - 0:21:28 - Average dev loss is 0.8764642675717672 at epoch 672
+INFO - 01/12/26 17:18:07 - 0:21:28 - dev accuracy is 74.4 at epoch 672
+INFO - 01/12/26 17:18:07 - 0:21:28 - dev average edit distance is 0.669 at epoch 672
+INFO - 01/12/26 17:18:07 - 0:21:28 - At 673-th epoch with lr 0.000488.
+INFO - 01/12/26 17:18:09 - 0:21:30 - Running average train loss is 0.6956467771530152 at epoch 673
+INFO - 01/12/26 17:18:09 - 0:21:30 - At 674-th epoch with lr 0.000487.
+INFO - 01/12/26 17:18:11 - 0:21:32 - Running average train loss is 0.6956500768661499 at epoch 674
+INFO - 01/12/26 17:18:11 - 0:21:32 - At 675-th epoch with lr 0.000487.
+INFO - 01/12/26 17:18:13 - 0:21:34 - Running average train loss is 0.6956407403945923 at epoch 675
+INFO - 01/12/26 17:18:13 - 0:21:34 - At 676-th epoch with lr 0.000487.
+INFO - 01/12/26 17:18:15 - 0:21:35 - Running average train loss is 0.6954278779029847 at epoch 676
+INFO - 01/12/26 17:18:15 - 0:21:35 - At 677-th epoch with lr 0.000486.
+INFO - 01/12/26 17:18:16 - 0:21:37 - Running average train loss is 0.6952345132827759 at epoch 677
+INFO - 01/12/26 17:18:16 - 0:21:37 - At 678-th epoch with lr 0.000486.
+INFO - 01/12/26 17:18:18 - 0:21:39 - Running average train loss is 0.6955067229270935 at epoch 678
+INFO - 01/12/26 17:18:18 - 0:21:39 - At 679-th epoch with lr 0.000485.
+INFO - 01/12/26 17:18:20 - 0:21:41 - Running average train loss is 0.695344111919403 at epoch 679
+INFO - 01/12/26 17:18:20 - 0:21:41 - At 680-th epoch with lr 0.000485.
+INFO - 01/12/26 17:18:22 - 0:21:43 - Running average train loss is 0.6957249665260314 at epoch 680
+INFO - 01/12/26 17:18:22 - 0:21:43 - At 681-th epoch with lr 0.000485.
+INFO - 01/12/26 17:18:24 - 0:21:45 - Running average train loss is 0.6956391048431396 at epoch 681
+INFO - 01/12/26 17:18:24 - 0:21:45 - At 682-th epoch with lr 0.000484.
+INFO - 01/12/26 17:18:25 - 0:21:46 - Running average train loss is 0.6956757950782776 at epoch 682
+INFO - 01/12/26 17:18:25 - 0:21:46 - At 683-th epoch with lr 0.000484.
+INFO - 01/12/26 17:18:27 - 0:21:48 - Running average train loss is 0.6952870321273804 at epoch 683
+INFO - 01/12/26 17:18:27 - 0:21:48 - At 684-th epoch with lr 0.000484.
+INFO - 01/12/26 17:18:29 - 0:21:50 - Running average train loss is 0.6955556225776672 at epoch 684
+INFO - 01/12/26 17:18:29 - 0:21:50 - At 685-th epoch with lr 0.000483.
+INFO - 01/12/26 17:18:31 - 0:21:52 - Running average train loss is 0.6951916432380676 at epoch 685
+INFO - 01/12/26 17:18:31 - 0:21:52 - At 686-th epoch with lr 0.000483.
+INFO - 01/12/26 17:18:33 - 0:21:54 - Running average train loss is 0.6958315801620484 at epoch 686
+INFO - 01/12/26 17:18:33 - 0:21:54 - At 687-th epoch with lr 0.000483.
+INFO - 01/12/26 17:18:34 - 0:21:55 - Running average train loss is 0.6952955460548401 at epoch 687
+INFO - 01/12/26 17:18:34 - 0:21:55 - At 688-th epoch with lr 0.000482.
+INFO - 01/12/26 17:18:36 - 0:21:57 - Running average train loss is 0.695171103477478 at epoch 688
+INFO - 01/12/26 17:18:36 - 0:21:57 - Average dev loss is 0.8792183597882589 at epoch 688
+INFO - 01/12/26 17:18:37 - 0:21:58 - dev accuracy is 74.0 at epoch 688
+INFO - 01/12/26 17:18:37 - 0:21:58 - dev average edit distance is 0.666 at epoch 688
+INFO - 01/12/26 17:18:37 - 0:21:58 - At 689-th epoch with lr 0.000482.
+INFO - 01/12/26 17:18:39 - 0:22:00 - Running average train loss is 0.6957231593132019 at epoch 689
+INFO - 01/12/26 17:18:39 - 0:22:00 - At 690-th epoch with lr 0.000482.
+INFO - 01/12/26 17:18:41 - 0:22:02 - Running average train loss is 0.6955316948890686 at epoch 690
+INFO - 01/12/26 17:18:41 - 0:22:02 - At 691-th epoch with lr 0.000481.
+INFO - 01/12/26 17:18:42 - 0:22:03 - Running average train loss is 0.6958795714378357 at epoch 691
+INFO - 01/12/26 17:18:42 - 0:22:03 - At 692-th epoch with lr 0.000481.
+INFO - 01/12/26 17:18:44 - 0:22:05 - Running average train loss is 0.6953650116920471 at epoch 692
+INFO - 01/12/26 17:18:44 - 0:22:05 - At 693-th epoch with lr 0.000480.
+INFO - 01/12/26 17:18:46 - 0:22:07 - Running average train loss is 0.6952803659439087 at epoch 693
+INFO - 01/12/26 17:18:46 - 0:22:07 - At 694-th epoch with lr 0.000480.
+INFO - 01/12/26 17:18:48 - 0:22:09 - Running average train loss is 0.695204050540924 at epoch 694
+INFO - 01/12/26 17:18:48 - 0:22:09 - At 695-th epoch with lr 0.000480.
+INFO - 01/12/26 17:18:50 - 0:22:11 - Running average train loss is 0.6953550386428833 at epoch 695
+INFO - 01/12/26 17:18:50 - 0:22:11 - At 696-th epoch with lr 0.000479.
+INFO - 01/12/26 17:18:51 - 0:22:12 - Running average train loss is 0.695882248878479 at epoch 696
+INFO - 01/12/26 17:18:51 - 0:22:12 - At 697-th epoch with lr 0.000479.
+INFO - 01/12/26 17:18:53 - 0:22:14 - Running average train loss is 0.6956639122962952 at epoch 697
+INFO - 01/12/26 17:18:53 - 0:22:14 - At 698-th epoch with lr 0.000479.
+INFO - 01/12/26 17:18:55 - 0:22:16 - Running average train loss is 0.6959125614166259 at epoch 698
+INFO - 01/12/26 17:18:55 - 0:22:16 - At 699-th epoch with lr 0.000478.
+INFO - 01/12/26 17:18:57 - 0:22:18 - Running average train loss is 0.6956634831428528 at epoch 699
+INFO - 01/12/26 17:18:57 - 0:22:18 - At 700-th epoch with lr 0.000478.
+INFO - 01/12/26 17:18:59 - 0:22:20 - Running average train loss is 0.6955110025405884 at epoch 700
+INFO - 01/12/26 17:18:59 - 0:22:20 - At 701-th epoch with lr 0.000478.
+INFO - 01/12/26 17:19:00 - 0:22:21 - Running average train loss is 0.695399055480957 at epoch 701
+INFO - 01/12/26 17:19:00 - 0:22:21 - At 702-th epoch with lr 0.000477.
+INFO - 01/12/26 17:19:02 - 0:22:23 - Running average train loss is 0.695634868144989 at epoch 702
+INFO - 01/12/26 17:19:02 - 0:22:23 - At 703-th epoch with lr 0.000477.
+INFO - 01/12/26 17:19:04 - 0:22:25 - Running average train loss is 0.6954903936386109 at epoch 703
+INFO - 01/12/26 17:19:04 - 0:22:25 - At 704-th epoch with lr 0.000477.
+INFO - 01/12/26 17:19:06 - 0:22:27 - Running average train loss is 0.6957745099067688 at epoch 704
+INFO - 01/12/26 17:19:06 - 0:22:27 - Average dev loss is 0.8752209544181824 at epoch 704
+INFO - 01/12/26 17:19:07 - 0:22:28 - dev accuracy is 74.9 at epoch 704
+INFO - 01/12/26 17:19:07 - 0:22:28 - dev average edit distance is 0.584 at epoch 704
+INFO - 01/12/26 17:19:07 - 0:22:28 - At 705-th epoch with lr 0.000476.
+INFO - 01/12/26 17:19:08 - 0:22:29 - Running average train loss is 0.6959951138496399 at epoch 705
+INFO - 01/12/26 17:19:08 - 0:22:29 - At 706-th epoch with lr 0.000476.
+INFO - 01/12/26 17:19:10 - 0:22:31 - Running average train loss is 0.6954364228248596 at epoch 706
+INFO - 01/12/26 17:19:10 - 0:22:31 - At 707-th epoch with lr 0.000476.
+INFO - 01/12/26 17:19:12 - 0:22:33 - Running average train loss is 0.6958492040634155 at epoch 707
+INFO - 01/12/26 17:19:12 - 0:22:33 - At 708-th epoch with lr 0.000475.
+INFO - 01/12/26 17:19:14 - 0:22:35 - Running average train loss is 0.6953500819206238 at epoch 708
+INFO - 01/12/26 17:19:14 - 0:22:35 - At 709-th epoch with lr 0.000475.
+INFO - 01/12/26 17:19:16 - 0:22:37 - Running average train loss is 0.6955321955680848 at epoch 709
+INFO - 01/12/26 17:19:16 - 0:22:37 - At 710-th epoch with lr 0.000475.
+INFO - 01/12/26 17:19:17 - 0:22:38 - Running average train loss is 0.6956686973571777 at epoch 710
+INFO - 01/12/26 17:19:17 - 0:22:38 - At 711-th epoch with lr 0.000474.
+INFO - 01/12/26 17:19:19 - 0:22:40 - Running average train loss is 0.6950553584098816 at epoch 711
+INFO - 01/12/26 17:19:19 - 0:22:40 - At 712-th epoch with lr 0.000474.
+INFO - 01/12/26 17:19:21 - 0:22:42 - Running average train loss is 0.6952670884132385 at epoch 712
+INFO - 01/12/26 17:19:21 - 0:22:42 - At 713-th epoch with lr 0.000474.
+INFO - 01/12/26 17:19:23 - 0:22:44 - Running average train loss is 0.695034635066986 at epoch 713
+INFO - 01/12/26 17:19:23 - 0:22:44 - At 714-th epoch with lr 0.000473.
+INFO - 01/12/26 17:19:25 - 0:22:46 - Running average train loss is 0.6952684116363526 at epoch 714
+INFO - 01/12/26 17:19:25 - 0:22:46 - At 715-th epoch with lr 0.000473.
+INFO - 01/12/26 17:19:27 - 0:22:47 - Running average train loss is 0.6955966448783875 at epoch 715
+INFO - 01/12/26 17:19:27 - 0:22:47 - At 716-th epoch with lr 0.000473.
+INFO - 01/12/26 17:19:28 - 0:22:49 - Running average train loss is 0.6950685715675354 at epoch 716
+INFO - 01/12/26 17:19:28 - 0:22:49 - At 717-th epoch with lr 0.000472.
+INFO - 01/12/26 17:19:30 - 0:22:51 - Running average train loss is 0.6953843092918396 at epoch 717
+INFO - 01/12/26 17:19:30 - 0:22:51 - At 718-th epoch with lr 0.000472.
+INFO - 01/12/26 17:19:32 - 0:22:53 - Running average train loss is 0.6957455730438232 at epoch 718
+INFO - 01/12/26 17:19:32 - 0:22:53 - At 719-th epoch with lr 0.000472.
+INFO - 01/12/26 17:19:34 - 0:22:55 - Running average train loss is 0.6952288007736206 at epoch 719
+INFO - 01/12/26 17:19:34 - 0:22:55 - At 720-th epoch with lr 0.000471.
+INFO - 01/12/26 17:19:36 - 0:22:57 - Running average train loss is 0.6953473567962647 at epoch 720
+INFO - 01/12/26 17:19:36 - 0:22:57 - Average dev loss is 0.8771642446517944 at epoch 720
+INFO - 01/12/26 17:19:36 - 0:22:57 - dev accuracy is 74.5 at epoch 720
+INFO - 01/12/26 17:19:36 - 0:22:57 - dev average edit distance is 0.555 at epoch 720
+INFO - 01/12/26 17:19:36 - 0:22:57 - At 721-th epoch with lr 0.000471.
+INFO - 01/12/26 17:19:38 - 0:22:59 - Running average train loss is 0.6954639863967895 at epoch 721
+INFO - 01/12/26 17:19:38 - 0:22:59 - At 722-th epoch with lr 0.000471.
+INFO - 01/12/26 17:19:40 - 0:23:01 - Running average train loss is 0.6954482460021972 at epoch 722
+INFO - 01/12/26 17:19:40 - 0:23:01 - At 723-th epoch with lr 0.000470.
+INFO - 01/12/26 17:19:42 - 0:23:03 - Running average train loss is 0.6957555532455444 at epoch 723
+INFO - 01/12/26 17:19:42 - 0:23:03 - At 724-th epoch with lr 0.000470.
+INFO - 01/12/26 17:19:44 - 0:23:04 - Running average train loss is 0.6957466316223144 at epoch 724
+INFO - 01/12/26 17:19:44 - 0:23:04 - At 725-th epoch with lr 0.000470.
+INFO - 01/12/26 17:19:45 - 0:23:06 - Running average train loss is 0.6950853395462037 at epoch 725
+INFO - 01/12/26 17:19:45 - 0:23:06 - At 726-th epoch with lr 0.000469.
+INFO - 01/12/26 17:19:47 - 0:23:08 - Running average train loss is 0.6951894688606263 at epoch 726
+INFO - 01/12/26 17:19:47 - 0:23:08 - At 727-th epoch with lr 0.000469.
+INFO - 01/12/26 17:19:49 - 0:23:10 - Running average train loss is 0.6951120662689209 at epoch 727
+INFO - 01/12/26 17:19:49 - 0:23:10 - At 728-th epoch with lr 0.000469.
+INFO - 01/12/26 17:19:51 - 0:23:12 - Running average train loss is 0.694685914516449 at epoch 728
+INFO - 01/12/26 17:19:51 - 0:23:12 - At 729-th epoch with lr 0.000468.
+INFO - 01/12/26 17:19:53 - 0:23:14 - Running average train loss is 0.6952090430259704 at epoch 729
+INFO - 01/12/26 17:19:53 - 0:23:14 - At 730-th epoch with lr 0.000468.
+INFO - 01/12/26 17:19:54 - 0:23:15 - Running average train loss is 0.6948994278907776 at epoch 730
+INFO - 01/12/26 17:19:54 - 0:23:15 - At 731-th epoch with lr 0.000468.
+INFO - 01/12/26 17:19:56 - 0:23:17 - Running average train loss is 0.6949091911315918 at epoch 731
+INFO - 01/12/26 17:19:56 - 0:23:17 - At 732-th epoch with lr 0.000468.
+INFO - 01/12/26 17:19:58 - 0:23:19 - Running average train loss is 0.6953520154953003 at epoch 732
+INFO - 01/12/26 17:19:58 - 0:23:19 - At 733-th epoch with lr 0.000467.
+INFO - 01/12/26 17:20:00 - 0:23:21 - Running average train loss is 0.6947729825973511 at epoch 733
+INFO - 01/12/26 17:20:00 - 0:23:21 - At 734-th epoch with lr 0.000467.
+INFO - 01/12/26 17:20:02 - 0:23:23 - Running average train loss is 0.6955419135093689 at epoch 734
+INFO - 01/12/26 17:20:02 - 0:23:23 - At 735-th epoch with lr 0.000467.
+INFO - 01/12/26 17:20:03 - 0:23:24 - Running average train loss is 0.6948633289337158 at epoch 735
+INFO - 01/12/26 17:20:03 - 0:23:24 - At 736-th epoch with lr 0.000466.
+INFO - 01/12/26 17:20:05 - 0:23:26 - Running average train loss is 0.695470130443573 at epoch 736
+INFO - 01/12/26 17:20:05 - 0:23:26 - Average dev loss is 0.8897877335548401 at epoch 736
+INFO - 01/12/26 17:20:06 - 0:23:27 - dev accuracy is 72.2 at epoch 736
+INFO - 01/12/26 17:20:06 - 0:23:27 - dev average edit distance is 0.644 at epoch 736
+INFO - 01/12/26 17:20:06 - 0:23:27 - At 737-th epoch with lr 0.000466.
+INFO - 01/12/26 17:20:08 - 0:23:29 - Running average train loss is 0.6948744034767151 at epoch 737
+INFO - 01/12/26 17:20:08 - 0:23:29 - At 738-th epoch with lr 0.000466.
+INFO - 01/12/26 17:20:10 - 0:23:31 - Running average train loss is 0.6948077178001404 at epoch 738
+INFO - 01/12/26 17:20:10 - 0:23:31 - At 739-th epoch with lr 0.000465.
+INFO - 01/12/26 17:20:11 - 0:23:32 - Running average train loss is 0.6949769353866577 at epoch 739
+INFO - 01/12/26 17:20:11 - 0:23:32 - At 740-th epoch with lr 0.000465.
+INFO - 01/12/26 17:20:13 - 0:23:34 - Running average train loss is 0.6952462410926818 at epoch 740
+INFO - 01/12/26 17:20:13 - 0:23:34 - At 741-th epoch with lr 0.000465.
+INFO - 01/12/26 17:20:15 - 0:23:36 - Running average train loss is 0.6948377633094788 at epoch 741
+INFO - 01/12/26 17:20:15 - 0:23:36 - At 742-th epoch with lr 0.000464.
+INFO - 01/12/26 17:20:17 - 0:23:38 - Running average train loss is 0.6952009606361389 at epoch 742
+INFO - 01/12/26 17:20:17 - 0:23:38 - At 743-th epoch with lr 0.000464.
+INFO - 01/12/26 17:20:19 - 0:23:40 - Running average train loss is 0.6951263546943665 at epoch 743
+INFO - 01/12/26 17:20:19 - 0:23:40 - At 744-th epoch with lr 0.000464.
+INFO - 01/12/26 17:20:20 - 0:23:41 - Running average train loss is 0.6947312784194947 at epoch 744
+INFO - 01/12/26 17:20:20 - 0:23:41 - At 745-th epoch with lr 0.000463.
+INFO - 01/12/26 17:20:22 - 0:23:43 - Running average train loss is 0.6950882697105407 at epoch 745
+INFO - 01/12/26 17:20:22 - 0:23:43 - At 746-th epoch with lr 0.000463.
+INFO - 01/12/26 17:20:24 - 0:23:45 - Running average train loss is 0.6951391863822937 at epoch 746
+INFO - 01/12/26 17:20:24 - 0:23:45 - At 747-th epoch with lr 0.000463.
+INFO - 01/12/26 17:20:26 - 0:23:47 - Running average train loss is 0.6955619168281555 at epoch 747
+INFO - 01/12/26 17:20:26 - 0:23:47 - At 748-th epoch with lr 0.000462.
+INFO - 01/12/26 17:20:28 - 0:23:49 - Running average train loss is 0.6950796484947205 at epoch 748
+INFO - 01/12/26 17:20:28 - 0:23:49 - At 749-th epoch with lr 0.000462.
+INFO - 01/12/26 17:20:30 - 0:23:50 - Running average train loss is 0.6951030850410461 at epoch 749
+INFO - 01/12/26 17:20:30 - 0:23:50 - At 750-th epoch with lr 0.000462.
+INFO - 01/12/26 17:20:31 - 0:23:52 - Running average train loss is 0.6955177640914917 at epoch 750
+INFO - 01/12/26 17:20:31 - 0:23:52 - At 751-th epoch with lr 0.000462.
+INFO - 01/12/26 17:20:33 - 0:23:54 - Running average train loss is 0.6950802946090698 at epoch 751
+INFO - 01/12/26 17:20:33 - 0:23:54 - At 752-th epoch with lr 0.000461.
+INFO - 01/12/26 17:20:35 - 0:23:56 - Running average train loss is 0.6948890948295593 at epoch 752
+INFO - 01/12/26 17:20:35 - 0:23:56 - Average dev loss is 0.8704468607902527 at epoch 752
+INFO - 01/12/26 17:20:36 - 0:23:57 - dev accuracy is 75.2 at epoch 752
+INFO - 01/12/26 17:20:36 - 0:23:57 - dev average edit distance is 0.575 at epoch 752
+INFO - 01/12/26 17:20:36 - 0:23:57 - At 753-th epoch with lr 0.000461.
+INFO - 01/12/26 17:20:37 - 0:23:58 - Running average train loss is 0.6948970437049866 at epoch 753
+INFO - 01/12/26 17:20:37 - 0:23:58 - At 754-th epoch with lr 0.000461.
+INFO - 01/12/26 17:20:39 - 0:24:00 - Running average train loss is 0.6953870248794556 at epoch 754
+INFO - 01/12/26 17:20:39 - 0:24:00 - At 755-th epoch with lr 0.000460.
+INFO - 01/12/26 17:20:41 - 0:24:02 - Running average train loss is 0.69487713098526 at epoch 755
+INFO - 01/12/26 17:20:41 - 0:24:02 - At 756-th epoch with lr 0.000460.
+INFO - 01/12/26 17:20:43 - 0:24:04 - Running average train loss is 0.6947889947891235 at epoch 756
+INFO - 01/12/26 17:20:43 - 0:24:04 - At 757-th epoch with lr 0.000460.
+INFO - 01/12/26 17:20:45 - 0:24:06 - Running average train loss is 0.6945077228546143 at epoch 757
+INFO - 01/12/26 17:20:45 - 0:24:06 - At 758-th epoch with lr 0.000459.
+INFO - 01/12/26 17:20:47 - 0:24:07 - Running average train loss is 0.6950219535827636 at epoch 758
+INFO - 01/12/26 17:20:47 - 0:24:07 - At 759-th epoch with lr 0.000459.
+INFO - 01/12/26 17:20:48 - 0:24:09 - Running average train loss is 0.6956398177146912 at epoch 759
+INFO - 01/12/26 17:20:48 - 0:24:09 - At 760-th epoch with lr 0.000459.
+INFO - 01/12/26 17:20:50 - 0:24:11 - Running average train loss is 0.6950413155555725 at epoch 760
+INFO - 01/12/26 17:20:50 - 0:24:11 - At 761-th epoch with lr 0.000459.
+INFO - 01/12/26 17:20:52 - 0:24:13 - Running average train loss is 0.6953459882736206 at epoch 761
+INFO - 01/12/26 17:20:52 - 0:24:13 - At 762-th epoch with lr 0.000458.
+INFO - 01/12/26 17:20:54 - 0:24:15 - Running average train loss is 0.694760775566101 at epoch 762
+INFO - 01/12/26 17:20:54 - 0:24:15 - At 763-th epoch with lr 0.000458.
+INFO - 01/12/26 17:20:56 - 0:24:17 - Running average train loss is 0.6949185919761658 at epoch 763
+INFO - 01/12/26 17:20:56 - 0:24:17 - At 764-th epoch with lr 0.000458.
+INFO - 01/12/26 17:20:57 - 0:24:18 - Running average train loss is 0.6952688407897949 at epoch 764
+INFO - 01/12/26 17:20:57 - 0:24:18 - At 765-th epoch with lr 0.000457.
+INFO - 01/12/26 17:20:59 - 0:24:20 - Running average train loss is 0.6949679327011108 at epoch 765
+INFO - 01/12/26 17:20:59 - 0:24:20 - At 766-th epoch with lr 0.000457.
+INFO - 01/12/26 17:21:01 - 0:24:22 - Running average train loss is 0.6948788285255432 at epoch 766
+INFO - 01/12/26 17:21:01 - 0:24:22 - At 767-th epoch with lr 0.000457.
+INFO - 01/12/26 17:21:03 - 0:24:24 - Running average train loss is 0.6949811911582947 at epoch 767
+INFO - 01/12/26 17:21:03 - 0:24:24 - At 768-th epoch with lr 0.000456.
+INFO - 01/12/26 17:21:05 - 0:24:26 - Running average train loss is 0.6952517938613891 at epoch 768
+INFO - 01/12/26 17:21:05 - 0:24:26 - Average dev loss is 0.8814233938852946 at epoch 768
+INFO - 01/12/26 17:21:05 - 0:24:26 - dev accuracy is 73.4 at epoch 768
+INFO - 01/12/26 17:21:05 - 0:24:26 - dev average edit distance is 0.633 at epoch 768
+INFO - 01/12/26 17:21:05 - 0:24:26 - At 769-th epoch with lr 0.000456.
+INFO - 01/12/26 17:21:07 - 0:24:28 - Running average train loss is 0.6946919465065002 at epoch 769
+INFO - 01/12/26 17:21:07 - 0:24:28 - At 770-th epoch with lr 0.000456.
+INFO - 01/12/26 17:21:09 - 0:24:30 - Running average train loss is 0.6951027679443359 at epoch 770
+INFO - 01/12/26 17:21:09 - 0:24:30 - At 771-th epoch with lr 0.000456.
+INFO - 01/12/26 17:21:11 - 0:24:32 - Running average train loss is 0.6943512105941773 at epoch 771
+INFO - 01/12/26 17:21:11 - 0:24:32 - At 772-th epoch with lr 0.000455.
+INFO - 01/12/26 17:21:13 - 0:24:34 - Running average train loss is 0.694744017124176 at epoch 772
+INFO - 01/12/26 17:21:13 - 0:24:34 - At 773-th epoch with lr 0.000455.
+INFO - 01/12/26 17:21:15 - 0:24:35 - Running average train loss is 0.6952926945686341 at epoch 773
+INFO - 01/12/26 17:21:15 - 0:24:35 - At 774-th epoch with lr 0.000455.
+INFO - 01/12/26 17:21:16 - 0:24:37 - Running average train loss is 0.6943039059638977 at epoch 774
+INFO - 01/12/26 17:21:16 - 0:24:37 - At 775-th epoch with lr 0.000454.
+INFO - 01/12/26 17:21:18 - 0:24:39 - Running average train loss is 0.694422914981842 at epoch 775
+INFO - 01/12/26 17:21:18 - 0:24:39 - At 776-th epoch with lr 0.000454.
+INFO - 01/12/26 17:21:20 - 0:24:41 - Running average train loss is 0.6947650957107544 at epoch 776
+INFO - 01/12/26 17:21:20 - 0:24:41 - At 777-th epoch with lr 0.000454.
+INFO - 01/12/26 17:21:22 - 0:24:43 - Running average train loss is 0.6954548001289368 at epoch 777
+INFO - 01/12/26 17:21:22 - 0:24:43 - At 778-th epoch with lr 0.000453.
+INFO - 01/12/26 17:21:24 - 0:24:45 - Running average train loss is 0.6949051976203918 at epoch 778
+INFO - 01/12/26 17:21:24 - 0:24:45 - At 779-th epoch with lr 0.000453.
+INFO - 01/12/26 17:21:25 - 0:24:46 - Running average train loss is 0.6950121974945068 at epoch 779
+INFO - 01/12/26 17:21:25 - 0:24:46 - At 780-th epoch with lr 0.000453.
+INFO - 01/12/26 17:21:27 - 0:24:48 - Running average train loss is 0.6951065707206726 at epoch 780
+INFO - 01/12/26 17:21:27 - 0:24:48 - At 781-th epoch with lr 0.000453.
+INFO - 01/12/26 17:21:29 - 0:24:50 - Running average train loss is 0.694873013496399 at epoch 781
+INFO - 01/12/26 17:21:29 - 0:24:50 - At 782-th epoch with lr 0.000452.
+INFO - 01/12/26 17:21:31 - 0:24:52 - Running average train loss is 0.6948020601272583 at epoch 782
+INFO - 01/12/26 17:21:31 - 0:24:52 - At 783-th epoch with lr 0.000452.
+INFO - 01/12/26 17:21:33 - 0:24:54 - Running average train loss is 0.6950867486000061 at epoch 783
+INFO - 01/12/26 17:21:33 - 0:24:54 - At 784-th epoch with lr 0.000452.
+INFO - 01/12/26 17:21:34 - 0:24:55 - Running average train loss is 0.6952266550064087 at epoch 784
+INFO - 01/12/26 17:21:34 - 0:24:55 - Average dev loss is 0.8688231507937113 at epoch 784
+INFO - 01/12/26 17:21:35 - 0:24:56 - dev accuracy is 74.4 at epoch 784
+INFO - 01/12/26 17:21:35 - 0:24:56 - dev average edit distance is 0.622 at epoch 784
+INFO - 01/12/26 17:21:35 - 0:24:56 - At 785-th epoch with lr 0.000451.
+INFO - 01/12/26 17:21:37 - 0:24:58 - Running average train loss is 0.6948897242546082 at epoch 785
+INFO - 01/12/26 17:21:37 - 0:24:58 - At 786-th epoch with lr 0.000451.
+INFO - 01/12/26 17:21:39 - 0:25:00 - Running average train loss is 0.6947175765037537 at epoch 786
+INFO - 01/12/26 17:21:39 - 0:25:00 - At 787-th epoch with lr 0.000451.
+INFO - 01/12/26 17:21:41 - 0:25:02 - Running average train loss is 0.6946875858306885 at epoch 787
+INFO - 01/12/26 17:21:41 - 0:25:02 - At 788-th epoch with lr 0.000451.
+INFO - 01/12/26 17:21:42 - 0:25:03 - Running average train loss is 0.6948978614807129 at epoch 788
+INFO - 01/12/26 17:21:42 - 0:25:03 - At 789-th epoch with lr 0.000450.
+INFO - 01/12/26 17:21:44 - 0:25:05 - Running average train loss is 0.6949082279205322 at epoch 789
+INFO - 01/12/26 17:21:44 - 0:25:05 - At 790-th epoch with lr 0.000450.
+INFO - 01/12/26 17:21:46 - 0:25:07 - Running average train loss is 0.6954110383987426 at epoch 790
+INFO - 01/12/26 17:21:46 - 0:25:07 - At 791-th epoch with lr 0.000450.
+INFO - 01/12/26 17:21:48 - 0:25:09 - Running average train loss is 0.6948860883712769 at epoch 791
+INFO - 01/12/26 17:21:48 - 0:25:09 - At 792-th epoch with lr 0.000449.
+INFO - 01/12/26 17:21:50 - 0:25:11 - Running average train loss is 0.6953453755378723 at epoch 792
+INFO - 01/12/26 17:21:50 - 0:25:11 - At 793-th epoch with lr 0.000449.
+INFO - 01/12/26 17:21:52 - 0:25:12 - Running average train loss is 0.6948153638839721 at epoch 793
+INFO - 01/12/26 17:21:52 - 0:25:12 - At 794-th epoch with lr 0.000449.
+INFO - 01/12/26 17:21:53 - 0:25:14 - Running average train loss is 0.6947014975547791 at epoch 794
+INFO - 01/12/26 17:21:53 - 0:25:14 - At 795-th epoch with lr 0.000449.
+INFO - 01/12/26 17:21:55 - 0:25:16 - Running average train loss is 0.6947507047653199 at epoch 795
+INFO - 01/12/26 17:21:55 - 0:25:16 - At 796-th epoch with lr 0.000448.
+INFO - 01/12/26 17:21:57 - 0:25:18 - Running average train loss is 0.6947162389755249 at epoch 796
+INFO - 01/12/26 17:21:57 - 0:25:18 - At 797-th epoch with lr 0.000448.
+INFO - 01/12/26 17:21:59 - 0:25:20 - Running average train loss is 0.69445729970932 at epoch 797
+INFO - 01/12/26 17:21:59 - 0:25:20 - At 798-th epoch with lr 0.000448.
+INFO - 01/12/26 17:22:01 - 0:25:22 - Running average train loss is 0.6948152375221253 at epoch 798
+INFO - 01/12/26 17:22:01 - 0:25:22 - At 799-th epoch with lr 0.000447.
+INFO - 01/12/26 17:22:02 - 0:25:23 - Running average train loss is 0.6953809523582458 at epoch 799
+INFO - 01/12/26 17:22:02 - 0:25:23 - Average dev loss is 0.878160317738851 at epoch 799
+INFO - 01/12/26 17:22:03 - 0:25:24 - dev accuracy is 73.3 at epoch 799
+INFO - 01/12/26 17:22:03 - 0:25:24 - dev average edit distance is 0.65 at epoch 799
+INFO - 01/12/26 17:22:03 - 0:25:24 - loading checkpoints/sig23/tagtransformer/bel.nll_0.8343.acc_77.1.dist_0.528.epoch_224 for testing
+INFO - 01/12/26 17:22:03 - 0:25:24 - load model in checkpoints/sig23/tagtransformer/bel.nll_0.8343.acc_77.1.dist_0.528.epoch_224
+INFO - 01/12/26 17:22:03 - 0:25:24 - Average dev loss is 0.8343429764111837 at epoch -1
+INFO - 01/12/26 17:22:03 - 0:25:24 - decoding dev set
+INFO - 01/12/26 17:22:04 - 0:25:25 - finished decoding 1000 dev instance
+INFO - 01/12/26 17:22:04 - 0:25:25 - DEV accuracy is 77.1 at epoch -1
+INFO - 01/12/26 17:22:04 - 0:25:25 - DEV average edit distance is 0.528 at epoch -1
+INFO - 01/12/26 17:22:04 - 0:25:25 - DEV bel acc 77.1 dist 0.528
+INFO - 01/12/26 17:22:04 - 0:25:25 - Average test loss is 0.8550749023755392 at epoch -1
+INFO - 01/12/26 17:22:04 - 0:25:25 - decoding test set
+INFO - 01/12/26 17:22:05 - 0:25:26 - finished decoding 1000 test instance
+INFO - 01/12/26 17:22:05 - 0:25:26 - TEST accuracy is 77.0 at epoch -1
+INFO - 01/12/26 17:22:05 - 0:25:26 - TEST average edit distance is 0.514 at epoch -1
+INFO - 01/12/26 17:22:05 - 0:25:26 - TEST bel acc 77.0 dist 0.514

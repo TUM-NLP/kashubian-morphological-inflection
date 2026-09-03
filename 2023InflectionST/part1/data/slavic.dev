@@ -1,0 +1,4000 @@
+wolniejszy	ADJ;NOM(PL,MASC,HUM)	wolniejsi
+wolniejszy	ADJ;ACC(SG,FEM)	wolniejszą
+wolniejszy	ADJ;INS(SG,FEM)	wolniejszą
+wolniejszy	ADJ;NOM(SG,FEM)	wolniejsza
+wolniejszy	ADJ;ACC(PL)	wolniejsze
+wolniejszy	ADJ;GEN(SG,MASC)	wolniejszego
+wolniejszy	ADJ;GEN(SG,NEUT)	wolniejszego
+wolniejszy	ADJ;DAT(SG,FEM)	wolniejszej
+wolniejszy	ADJ;ESS(SG,FEM)	wolniejszej
+wolniejszy	ADJ;ACC(SG,MASC,INAN)	wolniejszy
+wolniejszy	ADJ;ESS(PL)	wolniejszych
+wolniejszy	ADJ;GEN(PL)	wolniejszych
+wolniejszy	ADJ;ACC(PL,MASC,HUM)	wolniejszych
+wolniejszy	ADJ;DAT(PL)	wolniejszym
+wolniejszy	ADJ;ESS(SG,MASC)	wolniejszym
+wolniejszy	ADJ;INS(SG,MASC)	wolniejszym
+wolniejszy	ADJ;INS(SG,NEUT)	wolniejszym
+wolniejszy	ADJ;INS(PL)	wolniejszymi
+oglądanie	N;INS(SG)	oglądaniem
+oglądanie	N;ACC(SG)	oglądanie
+oglądanie	N;DAT(SG)	oglądaniu
+oglądanie	N;ESS(SG)	oglądaniu
+ginekolog	N;NOM(PL)	ginekolodzy
+ginekolog	N;ESS(PL)	ginekologach
+ginekolog	N;ACC(SG)	ginekologa
+ginekolog	N;GEN(SG)	ginekologa
+ginekolog	N;NOM(SG)	ginekolog
+ginekolog	N;DAT(PL)	ginekologom
+ginekolog	N;DAT(SG)	ginekologowi
+ginekolog	N;ACC(PL)	ginekologów
+ginekolog	N;GEN(PL)	ginekologów
+budowla	N;INS(PL)	budowlami
+budowla	N;NOM(SG)	budowla
+budowla	N;ACC(PL)	budowle
+budowla	N;ACC(SG)	budowlę
+budowla	N;DAT(SG)	budowli
+budowla	N;ESS(SG)	budowli
+budowla	N;GEN(PL)	budowli
+budowla	N;GEN(SG)	budowli
+budowla	N;VOC(SG)	budowlo
+helisa	N;INS(PL)	helisami
+helisa	N;NOM(SG)	helisa
+helisa	N;ACC(SG)	helisę
+helisa	N;DAT(PL)	helisom
+helisa	N;VOC(SG)	heliso
+helisa	N;ACC(PL)	helisy
+helisa	N;GEN(SG)	helisy
+helisa	N;NOM(PL)	helisy
+helisa	N;VOC(PL)	helisy
+śrubokręt	N;VOC(SG)	śrubokręcie
+śrubokręt	N;ESS(PL)	śrubokrętach
+śrubokręt	N;INS(PL)	śrubokrętami
+śrubokręt	N;INS(SG)	śrubokrętem
+śrubokręt	N;NOM(SG)	śrubokręt
+śrubokręt	N;DAT(PL)	śrubokrętom
+śrubokręt	N;DAT(SG)	śrubokrętowi
+śrubokręt	N;GEN(PL)	śrubokrętów
+śrubokręt	N;GEN(SG)	śrubokrętu
+śrubokręt	N;ACC(PL)	śrubokręty
+śrubokręt	N;NOM(PL)	śrubokręty
+śrubokręt	N;VOC(PL)	śrubokręty
+charkać	V;FUT;1;SG;MASC	będę charkał
+charkać	V;FUT;3;SG;FEM	będzie charkała
+charkać	V;FUT;3;SG;NEUT	będzie charkało
+charkać	V;FUT;3;SG;MASC	będzie charkał
+charkać	V;FUT;2;PL	będziecie charkały
+charkać	V;FUT;1;PL;MASC;HUM	będziemy charkali
+charkać	V;FUT;2;SG;FEM	będziesz charkała
+charkać	V;FUT;2;SG;MASC	będziesz charkał
+charkać	V;PRS;2;PL	charkacie
+charkać	V.PTCP;PST;ACT;SG;FEM	charkająca
+charkać	V.PTCP;PST;ACT;SG;MASC	charkający
+charkać	V;PRS;3;PL	charkają
+charkać	V;IMP;2;PL	charkajcie
+charkać	V;IMP;1;PL	charkajmy
+charkać	V;IMP;2;SG	charkaj
+charkać	V;COND;1;SG;FEM	charkałabym
+charkać	V;COND;3;SG;FEM	charkałaby
+charkać	V;PST;1;SG;FEM	charkałam
+charkać	V;PST;2;SG;FEM	charkałaś
+charkać	V;PST;3;SG;FEM	charkała
+charkać	V;PST;2;SG;MASC	charkałeś
+charkać	V;COND;1;PL;MASC;HUM	charkalibyśmy
+charkać	V;COND;3;PL;MASC;HUM	charkaliby
+charkać	V;PST;2;PL;MASC;HUM	charkaliście
+charkać	V;PST;1;PL;MASC;HUM	charkaliśmy
+charkać	V;PST;3;PL;MASC;HUM	charkali
+charkać	V;COND;3;SG;NEUT	charkałoby
+charkać	V;PST;3;SG;NEUT	charkało
+charkać	V;COND;2;PL	charkałybyście
+charkać	V;COND;3;PL	charkałyby
+charkać	V;PST;1;PL	charkałyśmy
+charkać	V;PRS;1;SG	charkam
+charkać	V;PRS;1;PL	charkamy
+charkać	V.MSDR	charkanie
+charkać	V.PTCP;PST;PASS	charkano
+charkać	V;PRS;2;SG	charkasz
+charkać	V;PRS;3;SG	charka
+charkać	V;IMP;3;PL	niech charkają
+charkać	V;IMP;3;SG	niech charka
+torcik	N;INS(SG)	torcikiem
+torcik	N;NOM(PL)	torciki
+torcik	N;VOC(PL)	torciki
+torcik	N;DAT(PL)	torcikom
+torcik	N;DAT(SG)	torcikowi
+żyroskop	N;INS(SG)	żyroskopem
+żyroskop	N;ACC(SG)	żyroskop
+żyroskop	N;NOM(SG)	żyroskop
+żyroskop	N;DAT(PL)	żyroskopom
+żyroskop	N;DAT(SG)	żyroskopowi
+żyroskop	N;GEN(PL)	żyroskopów
+żyroskop	N;ACC(PL)	żyroskopy
+żyroskop	N;NOM(PL)	żyroskopy
+żyroskop	N;VOC(PL)	żyroskopy
+wizja	N;NOM(SG)	wizja
+wizja	N;VOC(PL)	wizje
+wizja	N;DAT(SG)	wizji
+wizja	N;ESS(SG)	wizji
+wizja	N;GEN(PL)	wizji
+wizja	N;DAT(PL)	wizjom
+wizja	N;VOC(SG)	wizjo
+Żyd	N;GEN(PL)	Żydów
+topaz	N;INS(PL)	topazami
+topaz	N;INS(SG)	topazem
+topaz	N;NOM(SG)	topaz
+topaz	N;DAT(SG)	topazowi
+topaz	N;NOM(PL)	topazy
+topaz	N;VOC(PL)	topazy
+sprzęgło	N;INS(PL)	sprzęgłami
+sprzęgło	N;ACC(PL)	sprzęgła
+sprzęgło	N;NOM(PL)	sprzęgła
+sprzęgło	N;VOC(PL)	sprzęgła
+sprzęgło	N;INS(SG)	sprzęgłem
+sprzęgło	N;DAT(PL)	sprzęgłom
+sprzęgło	N;NOM(SG)	sprzęgło
+sprzęgło	N;DAT(SG)	sprzęgłu
+parasol	N;ESS(PL)	parasolach
+parasol	N;GEN(SG)	parasola
+parasol	N;INS(SG)	parasolem
+parasol	N;ACC(PL)	parasole
+parasol	N;NOM(PL)	parasole
+parasol	N;VOC(PL)	parasole
+parasol	N;ACC(SG)	parasol
+parasol	N;DAT(PL)	parasolom
+parasol	N;ESS(SG)	parasolu
+telefoniczny	ADJ;ACC(SG,FEM)	telefoniczną
+telefoniczny	ADJ;ACC(SG,NEUT)	telefoniczne
+telefoniczny	ADJ;NOM(SG,NEUT)	telefoniczne
+telefoniczny	ADJ;NOM(PL)	telefoniczne
+telefoniczny	ADJ;ACC(SG,MASC,HUM)	telefonicznego
+telefoniczny	ADJ;GEN(SG,NEUT)	telefonicznego
+telefoniczny	ADJ;DAT(SG,FEM)	telefonicznej
+telefoniczny	ADJ;GEN(SG,FEM)	telefonicznej
+telefoniczny	ADJ;DAT(SG,MASC)	telefonicznemu
+telefoniczny	ADJ;DAT(SG,NEUT)	telefonicznemu
+telefoniczny	ADJ;ACC(SG,MASC,INAN)	telefoniczny
+telefoniczny	ADJ;NOM(SG,MASC)	telefoniczny
+telefoniczny	ADJ;ESS(PL)	telefonicznych
+telefoniczny	ADJ;GEN(PL)	telefonicznych
+telefoniczny	ADJ;ACC(PL,MASC,HUM)	telefonicznych
+telefoniczny	ADJ;DAT(PL)	telefonicznym
+telefoniczny	ADJ;INS(SG,MASC)	telefonicznym
+telefoniczny	ADJ;INS(SG,NEUT)	telefonicznym
+telefoniczny	ADJ;INS(PL)	telefonicznymi
+kanarek	N;NOM(SG)	kanarek
+kanarek	N;ACC(SG)	kanarka
+kanarek	N;NOM(PL)	kanarki
+kanarek	N;VOC(PL)	kanarki
+kanarek	N;DAT(PL)	kanarkom
+kanarek	N;DAT(SG)	kanarkowi
+kanarek	N;GEN(PL)	kanarków
+prywaciarz	N;ESS(PL)	prywaciarzach
+prywaciarz	N;INS(PL)	prywaciarzami
+prywaciarz	N;VOC(PL)	prywaciarze
+prywaciarz	N;DAT(PL)	prywaciarzom
+prywaciarz	N;ESS(SG)	prywaciarzu
+prywaciarz	N;VOC(SG)	prywaciarzu
+prywaciarz	N;GEN(PL)	prywaciarzy
+proroctwo	N;INS(PL)	proroctwami
+proroctwo	N;ACC(PL)	proroctwa
+proroctwo	N;NOM(PL)	proroctwa
+proroctwo	N;VOC(PL)	proroctwa
+proroctwo	N;INS(SG)	proroctwem
+proroctwo	N;GEN(PL)	proroctw
+proroctwo	N;DAT(PL)	proroctwom
+proroctwo	N;ACC(SG)	proroctwo
+proroctwo	N;VOC(SG)	proroctwo
+chciwy	ADJ;INS(SG,FEM)	chciwą
+chciwy	ADJ;NOM(SG,FEM)	chciwa
+chciwy	ADJ;NOM(SG,NEUT)	chciwe
+chciwy	ADJ;NOM(PL)	chciwe
+chciwy	ADJ;ACC(SG,MASC,ANIM)	chciwego
+chciwy	ADJ;GEN(SG,MASC)	chciwego
+chciwy	ADJ;GEN(SG,NEUT)	chciwego
+chciwy	ADJ;DAT(SG,FEM)	chciwej
+chciwy	ADJ;GEN(SG,FEM)	chciwej
+chciwy	ADJ;DAT(SG,MASC)	chciwemu
+chciwy	ADJ;NOM(PL,MASC,HUM)	chciwi
+chciwy	ADJ;NOM(SG,MASC)	chciwy
+chciwy	ADJ;ESS(PL)	chciwych
+chciwy	ADJ;GEN(PL)	chciwych
+chciwy	ADJ;ACC(PL,MASC,HUM)	chciwych
+chciwy	ADJ;ESS(SG,MASC)	chciwym
+chciwy	ADJ;INS(SG,MASC)	chciwym
+chciwy	ADJ;ESS(SG,NEUT)	chciwym
+chciwy	ADJ;INS(SG,NEUT)	chciwym
+chciwy	ADJ;INS(PL)	chciwymi
+robocizna	N;ESS(PL)	robociznach
+robocizna	N;INS(SG)	robocizną
+robocizna	N;ESS(SG)	robociźnie
+robocizna	N;DAT(PL)	robociznom
+robocizna	N;VOC(SG)	robocizno
+robocizna	N;ACC(PL)	robocizny
+robocizna	N;NOM(PL)	robocizny
+spojówka	N;DAT(SG)	spojówce
+spojówka	N;GEN(PL)	spojówek
+spojówka	N;INS(PL)	spojówkami
+spojówka	N;INS(SG)	spojówką
+spojówka	N;NOM(SG)	spojówka
+spojówka	N;ACC(SG)	spojówkę
+spojówka	N;GEN(SG)	spojówki
+spojówka	N;NOM(PL)	spojówki
+spojówka	N;VOC(PL)	spojówki
+spojówka	N;DAT(PL)	spojówkom
+spojówka	N;VOC(SG)	spojówko
+paradoksalny	ADJ;ACC(SG,FEM)	paradoksalną
+paradoksalny	ADJ;INS(SG,FEM)	paradoksalną
+paradoksalny	ADJ;NOM(SG,FEM)	paradoksalna
+paradoksalny	ADJ;ACC(SG,NEUT)	paradoksalne
+paradoksalny	ADJ;NOM(SG,NEUT)	paradoksalne
+paradoksalny	ADJ;NOM(PL)	paradoksalne
+paradoksalny	ADJ;ACC(SG,MASC,HUM)	paradoksalnego
+paradoksalny	ADJ;DAT(SG,FEM)	paradoksalnej
+paradoksalny	ADJ;ESS(SG,FEM)	paradoksalnej
+paradoksalny	ADJ;GEN(SG,FEM)	paradoksalnej
+paradoksalny	ADJ;DAT(SG,MASC)	paradoksalnemu
+paradoksalny	ADJ;DAT(SG,NEUT)	paradoksalnemu
+paradoksalny	ADJ;NOM(PL,MASC,HUM)	paradoksalni
+paradoksalny	ADJ;ACC(SG,MASC,INAN)	paradoksalny
+paradoksalny	ADJ;NOM(SG,MASC)	paradoksalny
+paradoksalny	ADJ;ESS(PL)	paradoksalnych
+paradoksalny	ADJ;GEN(PL)	paradoksalnych
+paradoksalny	ADJ;DAT(PL)	paradoksalnym
+paradoksalny	ADJ;ESS(SG,MASC)	paradoksalnym
+paradoksalny	ADJ;ESS(SG,NEUT)	paradoksalnym
+paradoksalny	ADJ;INS(SG,NEUT)	paradoksalnym
+paradoksalny	ADJ;INS(PL)	paradoksalnymi
+gwiazdozbiór	N;ESS(PL)	gwiazdozbiorach
+gwiazdozbiór	N;INS(SG)	gwiazdozbiorem
+gwiazdozbiór	N;ACC(SG)	gwiazdozbiór
+gwiazdozbiór	N;DAT(PL)	gwiazdozbiorom
+gwiazdozbiór	N;DAT(SG)	gwiazdozbiorowi
+gwiazdozbiór	N;GEN(PL)	gwiazdozbiorów
+gwiazdozbiór	N;GEN(SG)	gwiazdozbioru
+gwiazdozbiór	N;ACC(PL)	gwiazdozbiory
+gwiazdozbiór	N;ESS(SG)	gwiazdozbiorze
+gwiazdozbiór	N;VOC(SG)	gwiazdozbiorze
+iguana	N;ESS(PL)	iguanach
+iguana	N;INS(PL)	iguanami
+iguana	N;INS(SG)	iguaną
+iguana	N;NOM(SG)	iguana
+iguana	N;ACC(SG)	iguanę
+iguana	N;DAT(SG)	iguanie
+iguana	N;GEN(PL)	iguan
+iguana	N;DAT(PL)	iguanom
+iguana	N;VOC(SG)	iguano
+oddać	V;IMP;1;SG	niech oddam
+oddać	V;IMP;3;SG	niech odda
+oddać	V;FUT;2;PL	oddacie
+oddać	V;FUT;3;PL	oddadzą
+oddać	V;IMP;2;PL	oddajcie
+oddać	V;IMP;1;PL	oddajmy
+oddać	V;COND;1;SG;FEM	oddałabym
+oddać	V;COND;3;SG;FEM	oddałaby
+oddać	V;PST;1;SG;FEM	oddałam
+oddać	V;PST;2;SG;FEM	oddałaś
+oddać	V;PST;3;SG;FEM	oddała
+oddać	V;COND;1;SG;MASC	oddałbym
+oddać	V;COND;2;SG;MASC	oddałbyś
+oddać	V;COND;3;SG;MASC	oddałby
+oddać	V;PST;2;SG;MASC	oddałeś
+oddać	V;COND;2;PL;MASC;HUM	oddalibyście
+oddać	V;COND;1;PL;MASC;HUM	oddalibyśmy
+oddać	V;COND;3;PL;MASC;HUM	oddaliby
+oddać	V;PST;2;PL;MASC;HUM	oddaliście
+oddać	V;PST;1;PL;MASC;HUM	oddaliśmy
+oddać	V;COND;3;SG;NEUT	oddałoby
+oddać	V;PST;3;SG;NEUT	oddało
+oddać	V;COND;2;PL	oddałybyście
+oddać	V;COND;1;PL	oddałybyśmy
+oddać	V;COND;3;PL	oddałyby
+oddać	V;PST;1;PL	oddałyśmy
+oddać	V;FUT;1;SG	oddam
+oddać	V.PTCP;PST;PASS;PL;MASC;HUM	oddani
+oddać	V.PTCP;PST;PASS	oddano
+oddać	V.PTCP;PST;PASS;SG;MASC	oddany
+oddać	V;FUT;2;SG	oddasz
+oddać	V;FUT;3;SG	odda
+olcha	N;INS(PL)	olchami
+olcha	N;INS(SG)	olchą
+olcha	N;NOM(SG)	olcha
+olcha	N;ACC(SG)	olchę
+olcha	N;GEN(PL)	olch
+olcha	N;VOC(SG)	olcho
+olcha	N;GEN(SG)	olchy
+olcha	N;NOM(PL)	olchy
+olcha	N;DAT(SG)	olsze
+olcha	N;ESS(SG)	olsze
+prewencja	N;ACC(SG)	prewencję
+prewencja	N;ESS(SG)	prewencji
+prewencja	N;GEN(SG)	prewencji
+liściowy	ADJ;ACC(SG,FEM)	liściową
+liściowy	ADJ;INS(SG,FEM)	liściową
+liściowy	ADJ;NOM(SG,FEM)	liściowa
+liściowy	ADJ;ACC(PL)	liściowe
+liściowy	ADJ;ACC(SG,NEUT)	liściowe
+liściowy	ADJ;GEN(SG,MASC)	liściowego
+liściowy	ADJ;ACC(SG,MASC,HUM)	liściowego
+liściowy	ADJ;GEN(SG,NEUT)	liściowego
+liściowy	ADJ;ESS(SG,FEM)	liściowej
+liściowy	ADJ;GEN(SG,FEM)	liściowej
+liściowy	ADJ;DAT(SG,NEUT)	liściowemu
+liściowy	ADJ;ACC(SG,MASC,INAN)	liściowy
+liściowy	ADJ;GEN(PL)	liściowych
+liściowy	ADJ;ACC(PL,MASC,HUM)	liściowych
+liściowy	ADJ;ESS(SG,MASC)	liściowym
+liściowy	ADJ;INS(SG,MASC)	liściowym
+liściowy	ADJ;INS(SG,NEUT)	liściowym
+liściowy	ADJ;INS(PL)	liściowymi
+mól	N;INS(PL)	molami
+mól	N;ACC(SG)	mola
+pobożny	ADJ;ACC(SG,FEM)	pobożną
+pobożny	ADJ;INS(SG,FEM)	pobożną
+pobożny	ADJ;NOM(SG,FEM)	pobożna
+pobożny	ADJ;ACC(PL)	pobożne
+pobożny	ADJ;NOM(SG,NEUT)	pobożne
+pobożny	ADJ;NOM(PL)	pobożne
+pobożny	ADJ;ACC(SG,MASC,ANIM)	pobożnego
+pobożny	ADJ;GEN(SG,MASC)	pobożnego
+pobożny	ADJ;GEN(SG,NEUT)	pobożnego
+pobożny	ADJ;DAT(SG,FEM)	pobożnej
+pobożny	ADJ;ESS(SG,FEM)	pobożnej
+pobożny	ADJ;GEN(SG,FEM)	pobożnej
+pobożny	ADJ;DAT(SG,MASC)	pobożnemu
+pobożny	ADJ;DAT(SG,NEUT)	pobożnemu
+pobożny	ADJ;NOM(PL,MASC,HUM)	pobożni
+pobożny	ADJ;NOM(SG,MASC)	pobożny
+pobożny	ADJ;GEN(PL)	pobożnych
+pobożny	ADJ;DAT(PL)	pobożnym
+pobożny	ADJ;INS(SG,MASC)	pobożnym
+pobożny	ADJ;INS(SG,NEUT)	pobożnym
+pobożny	ADJ;INS(PL)	pobożnymi
+zgniły	ADJ;NOM(SG,FEM)	zgniła
+zgniły	ADJ;ACC(PL)	zgniłe
+zgniły	ADJ;ACC(SG,NEUT)	zgniłe
+zgniły	ADJ;NOM(PL)	zgniłe
+zgniły	ADJ;GEN(SG,MASC)	zgniłego
+zgniły	ADJ;ACC(SG,MASC,HUM)	zgniłego
+zgniły	ADJ;GEN(SG,NEUT)	zgniłego
+zgniły	ADJ;ESS(SG,FEM)	zgniłej
+zgniły	ADJ;GEN(SG,FEM)	zgniłej
+zgniły	ADJ;DAT(SG,MASC)	zgniłemu
+zgniły	ADJ;DAT(SG,NEUT)	zgniłemu
+zgniły	ADJ;NOM(PL,MASC,HUM)	zgnili
+zgniły	ADJ;ACC(SG,MASC,INAN)	zgniły
+zgniły	ADJ;NOM(SG,MASC)	zgniły
+zgniły	ADJ;ESS(PL)	zgniłych
+zgniły	ADJ;ACC(PL,MASC,HUM)	zgniłych
+zgniły	ADJ;ESS(SG,MASC)	zgniłym
+zgniły	ADJ;INS(SG,MASC)	zgniłym
+zgniły	ADJ;ESS(SG,NEUT)	zgniłym
+pastwisko	N;INS(PL)	pastwiskami
+pastwisko	N;ACC(PL)	pastwiska
+pastwisko	N;NOM(PL)	pastwiska
+pastwisko	N;INS(SG)	pastwiskiem
+pastwisko	N;ACC(SG)	pastwisko
+pastwisko	N;NOM(SG)	pastwisko
+pastwisko	N;VOC(SG)	pastwisko
+pastwisko	N;DAT(SG)	pastwisku
+fonon	N;ESS(PL)	fononach
+fonon	N;INS(SG)	fononem
+fonon	N;ESS(SG)	fononie
+fonon	N;VOC(SG)	fononie
+fonon	N;NOM(SG)	fonon
+fonon	N;DAT(PL)	fononom
+fonon	N;GEN(PL)	fononów
+fonon	N;GEN(SG)	fononu
+fonon	N;ACC(PL)	fonony
+malarka	N;DAT(SG)	malarce
+malarka	N;GEN(PL)	malarek
+malarka	N;ESS(PL)	malarkach
+malarka	N;INS(PL)	malarkami
+malarka	N;INS(SG)	malarką
+malarka	N;NOM(SG)	malarka
+malarka	N;GEN(SG)	malarki
+malarka	N;NOM(PL)	malarki
+malarka	N;DAT(PL)	malarkom
+malarka	N;VOC(SG)	malarko
+brutalny	ADJ;ACC(SG,FEM)	brutalną
+brutalny	ADJ;NOM(SG,FEM)	brutalna
+brutalny	ADJ;ACC(PL)	brutalne
+brutalny	ADJ;ACC(SG,NEUT)	brutalne
+brutalny	ADJ;NOM(SG,NEUT)	brutalne
+brutalny	ADJ;NOM(PL)	brutalne
+brutalny	ADJ;GEN(SG,MASC)	brutalnego
+brutalny	ADJ;ACC(SG,MASC,HUM)	brutalnego
+brutalny	ADJ;DAT(SG,FEM)	brutalnej
+brutalny	ADJ;ESS(SG,FEM)	brutalnej
+brutalny	ADJ;DAT(SG,MASC)	brutalnemu
+brutalny	ADJ;NOM(PL,MASC,HUM)	brutalni
+brutalny	ADJ;ACC(SG,MASC,INAN)	brutalny
+brutalny	ADJ;NOM(SG,MASC)	brutalny
+brutalny	ADJ;ESS(PL)	brutalnych
+brutalny	ADJ;GEN(PL)	brutalnych
+brutalny	ADJ;DAT(PL)	brutalnym
+brutalny	ADJ;ESS(SG,MASC)	brutalnym
+brutalny	ADJ;INS(SG,MASC)	brutalnym
+brutalny	ADJ;INS(SG,NEUT)	brutalnym
+brutalny	ADJ;INS(PL)	brutalnymi
+step	N;ESS(PL)	stepach
+przymierzalnia	N;ESS(PL)	przymierzalniach
+przymierzalnia	N;INS(PL)	przymierzalniami
+przymierzalnia	N;NOM(SG)	przymierzalnia
+przymierzalnia	N;ACC(PL)	przymierzalnie
+przymierzalnia	N;GEN(PL)	przymierzalni
+przymierzalnia	N;GEN(SG)	przymierzalni
+przymierzalnia	N;DAT(PL)	przymierzalniom
+przymierzalnia	N;VOC(SG)	przymierzalnio
+bateria	N;INS(SG)	baterią
+bateria	N;NOM(SG)	bateria
+bateria	N;ACC(PL)	baterie
+bateria	N;ACC(SG)	baterię
+bateria	N;VOC(PL)	baterie
+bateria	N;ESS(SG)	baterii
+bateria	N;GEN(PL)	baterii
+bateria	N;GEN(SG)	baterii
+bateria	N;DAT(PL)	bateriom
+Szwajcar	N;NOM(SG)	Szwajcar
+żłobek	N;ACC(PL)	żłobki
+jastrząb	N;NOM(SG)	jastrząb
+jastrząb	N;ESS(PL)	jastrzębiach
+jastrząb	N;INS(PL)	jastrzębiami
+jastrząb	N;ACC(SG)	jastrzębia
+jastrząb	N;GEN(SG)	jastrzębia
+jastrząb	N;NOM(PL)	jastrzębie
+jastrząb	N;VOC(PL)	jastrzębie
+jastrząb	N;GEN(PL)	jastrzębi
+jastrząb	N;DAT(SG)	jastrzębiowi
+jastrząb	N;ESS(SG)	jastrzębiu
+jastrząb	N;VOC(SG)	jastrzębiu
+wybrzeże	N;ESS(PL)	wybrzeżach
+wybrzeże	N;GEN(SG)	wybrzeża
+wybrzeże	N;NOM(PL)	wybrzeża
+wybrzeże	N;INS(SG)	wybrzeżem
+wybrzeże	N;ACC(SG)	wybrzeże
+wybrzeże	N;NOM(SG)	wybrzeże
+wybrzeże	N;VOC(SG)	wybrzeże
+wybrzeże	N;DAT(PL)	wybrzeżom
+wybrzeże	N;GEN(PL)	wybrzeży
+piekarka	N;ESS(SG)	piekarce
+piekarka	N;INS(SG)	piekarką
+piekarka	N;NOM(SG)	piekarka
+piekarka	N;ACC(SG)	piekarkę
+piekarka	N;ACC(PL)	piekarki
+piekarka	N;NOM(PL)	piekarki
+piekarka	N;DAT(PL)	piekarkom
+piekarka	N;VOC(SG)	piekarko
+płotka	N;NOM(SG)	płotka
+koszula	N;ESS(PL)	koszulach
+koszula	N;INS(SG)	koszulą
+koszula	N;ACC(PL)	koszule
+koszula	N;VOC(PL)	koszule
+koszula	N;ESS(SG)	koszuli
+koszula	N;GEN(SG)	koszuli
+koszula	N;GEN(PL)	koszul
+żelazo	N;GEN(SG)	żelaza
+żelazo	N;ACC(SG)	żelazo
+żelazo	N;VOC(SG)	żelazo
+leksykografia	N;INS(SG)	leksykografią
+leksykografia	N;DAT(SG)	leksykografii
+leksykografia	N;ESS(SG)	leksykografii
+leksykografia	N;GEN(SG)	leksykografii
+leksykografia	N;VOC(SG)	leksykografio
+symulacja	N;ESS(PL)	symulacjach
+symulacja	N;INS(SG)	symulacją
+symulacja	N;ACC(PL)	symulacje
+symulacja	N;DAT(SG)	symulacji
+symulacja	N;ESS(SG)	symulacji
+symulacja	N;GEN(SG)	symulacji
+symulacja	N;DAT(PL)	symulacjom
+symulacja	N;VOC(SG)	symulacjo
+bułgarski	ADJ;NOM(PL,MASC,HUM)	bułgarscy
+bułgarski	ADJ;ACC(SG,FEM)	bułgarską
+bułgarski	ADJ;INS(SG,FEM)	bułgarską
+bułgarski	ADJ;ACC(SG,MASC,INAN)	bułgarski
+bułgarski	ADJ;NOM(SG,MASC)	bułgarski
+bułgarski	ADJ;ESS(PL)	bułgarskich
+bułgarski	ADJ;ACC(PL)	bułgarskie
+bułgarski	ADJ;ACC(SG,NEUT)	bułgarskie
+bułgarski	ADJ;NOM(SG,NEUT)	bułgarskie
+bułgarski	ADJ;NOM(PL)	bułgarskie
+bułgarski	ADJ;GEN(SG,MASC)	bułgarskiego
+bułgarski	ADJ;ACC(SG,MASC,HUM)	bułgarskiego
+bułgarski	ADJ;GEN(SG,NEUT)	bułgarskiego
+bułgarski	ADJ;DAT(SG,FEM)	bułgarskiej
+bułgarski	ADJ;GEN(SG,FEM)	bułgarskiej
+bułgarski	ADJ;DAT(SG,NEUT)	bułgarskiemu
+bułgarski	ADJ;DAT(PL)	bułgarskim
+bułgarski	ADJ;ESS(SG,NEUT)	bułgarskim
+bułgarski	ADJ;INS(SG,NEUT)	bułgarskim
+bułgarski	ADJ;INS(PL)	bułgarskimi
+paronim	N;ESS(PL)	paronimach
+paronim	N;INS(PL)	paronimami
+paronim	N;ESS(SG)	paronimie
+paronim	N;VOC(SG)	paronimie
+paronim	N;ACC(SG)	paronim
+paronim	N;DAT(PL)	paronimom
+paronim	N;DAT(SG)	paronimowi
+paronim	N;GEN(SG)	paronimu
+paronim	N;ACC(PL)	paronimy
+paronim	N;VOC(PL)	paronimy
+krąg	N;ESS(PL)	kręgach
+krąg	N;INS(SG)	kręgiem
+krąg	N;ACC(PL)	kręgi
+krąg	N;NOM(PL)	kręgi
+krąg	N;VOC(PL)	kręgi
+krąg	N;GEN(PL)	kręgów
+krąg	N;ESS(SG)	kręgu
+przypowieść	N;ESS(PL)	przypowieściach
+przypowieść	N;INS(SG)	przypowieścią
+przypowieść	N;DAT(SG)	przypowieści
+przypowieść	N;ESS(SG)	przypowieści
+przypowieść	N;GEN(SG)	przypowieści
+przypowieść	N;NOM(PL)	przypowieści
+przypowieść	N;VOC(SG)	przypowieści
+przypowieść	N;DAT(PL)	przypowieściom
+przypowieść	N;ACC(SG)	przypowieść
+cielsko	N;ESS(PL)	cielskach
+cielsko	N;INS(PL)	cielskami
+cielsko	N;ACC(PL)	cielska
+cielsko	N;GEN(SG)	cielska
+cielsko	N;VOC(PL)	cielska
+cielsko	N;INS(SG)	cielskiem
+cielsko	N;DAT(PL)	cielskom
+cielsko	N;ACC(SG)	cielsko
+cielsko	N;ESS(SG)	cielsku
+furan	N;VOC(SG)	furanie
+furan	N;NOM(SG)	furan
+furan	N;DAT(PL)	furanom
+furan	N;DAT(SG)	furanowi
+furan	N;GEN(PL)	furanów
+furan	N;ACC(PL)	furany
+furan	N;NOM(PL)	furany
+furan	N;VOC(PL)	furany
+tilaka	N;DAT(SG)	tilace
+tilaka	N;ESS(SG)	tilace
+tilaka	N;INS(PL)	tilakami
+tilaka	N;INS(SG)	tilaką
+tilaka	N;NOM(SG)	tilaka
+tilaka	N;ACC(SG)	tilakę
+tilaka	N;ACC(PL)	tilaki
+tilaka	N;NOM(PL)	tilaki
+tilaka	N;VOC(PL)	tilaki
+tilaka	N;GEN(PL)	tilak
+tilaka	N;VOC(SG)	tilako
+sąd	N;INS(SG)	sądem
+obłęd	N;INS(PL)	obłędami
+obłęd	N;DAT(SG)	obłędowi
+obłęd	N;GEN(PL)	obłędów
+obłęd	N;GEN(SG)	obłędu
+obłęd	N;ESS(SG)	obłędzie
+perfekcja	N;ACC(SG)	perfekcję
+perfekcja	N;VOC(PL)	perfekcje
+perfekcja	N;ESS(SG)	perfekcji
+perfekcja	N;GEN(PL)	perfekcji
+perfekcja	N;GEN(SG)	perfekcji
+perfekcja	N;DAT(PL)	perfekcjom
+perfekcja	N;VOC(SG)	perfekcjo
+Belgijka	N;DAT(SG)	Belgijce
+Belgijka	N;ESS(SG)	Belgijce
+Belgijka	N;ESS(PL)	Belgijkach
+Belgijka	N;INS(PL)	Belgijkami
+Belgijka	N;GEN(SG)	Belgijki
+Belgijka	N;VOC(SG)	Belgijko
+habit	N;ESS(SG)	habicie
+habit	N;VOC(SG)	habicie
+habit	N;ESS(PL)	habitach
+habit	N;INS(PL)	habitami
+habit	N;ACC(SG)	habit
+habit	N;DAT(PL)	habitom
+habit	N;VOC(PL)	habity
+pozwalać	V;FUT;3;PL;MASC;HUM	będą pozwalali
+pozwalać	V;FUT;1;SG;MASC	będę pozwalał
+pozwalać	V;FUT;2;PL;MASC;HUM	będziecie pozwalali
+pozwalać	V;FUT;2;PL	będziecie pozwalały
+pozwalać	V;FUT;1;PL;MASC;HUM	będziemy pozwalali
+pozwalać	V;FUT;3;SG;FEM	będzie pozwalała
+pozwalać	V;FUT;3;SG;NEUT	będzie pozwalało
+pozwalać	V;FUT;3;SG;MASC	będzie pozwalał
+pozwalać	V;FUT;2;SG;FEM	będziesz pozwalała
+pozwalać	V;FUT;2;SG;MASC	będziesz pozwalał
+pozwalać	V;NFIN	pozwalać
+pozwalać	V.PTCP;PST;ACT;SG;FEM	pozwalająca
+pozwalać	V.PTCP;PST;ACT;PL	pozwalające
+pozwalać	V.PTCP;PST;ACT;SG;NEUT	pozwalające
+pozwalać	V.PTCP;PST;ACT;PL;MASC;HUM	pozwalający
+pozwalać	V.PTCP;PST;ACT;SG;MASC	pozwalający
+pozwalać	V;PRS;3;PL	pozwalają
+pozwalać	V;IMP;2;PL	pozwalajcie
+pozwalać	V;IMP;2;SG	pozwalaj
+pozwalać	V;COND;1;SG;FEM	pozwalałabym
+pozwalać	V;COND;2;SG;FEM	pozwalałabyś
+pozwalać	V;PST;1;SG;FEM	pozwalałam
+pozwalać	V;PST;2;SG;FEM	pozwalałaś
+pozwalać	V;COND;1;SG;MASC	pozwalałbym
+pozwalać	V;PST;1;SG;MASC	pozwalałem
+pozwalać	V;PST;2;SG;MASC	pozwalałeś
+pozwalać	V;COND;2;PL;MASC;HUM	pozwalalibyście
+pozwalać	V;COND;3;PL;MASC;HUM	pozwalaliby
+pozwalać	V;PST;1;PL;MASC;HUM	pozwalaliśmy
+pozwalać	V;PST;3;PL;MASC;HUM	pozwalali
+pozwalać	V;COND;3;SG;NEUT	pozwalałoby
+pozwalać	V;COND;1;PL	pozwalałybyśmy
+pozwalać	V;COND;3;PL	pozwalałyby
+pozwalać	V;PST;2;PL	pozwalałyście
+pozwalać	V;PST;1;PL	pozwalałyśmy
+pozwalać	V;PRS;1;SG	pozwalam
+pozwalać	V;PRS;1;PL	pozwalamy
+pozwalać	V.MSDR	pozwalanie
+pozwalać	V.PTCP;PST;PASS	pozwalano
+pozwalać	V;PRS;3;SG	pozwala
+plucha	N;ESS(PL)	pluchach
+plucha	N;INS(PL)	pluchami
+plucha	N;NOM(SG)	plucha
+plucha	N;ACC(SG)	pluchę
+plucha	N;GEN(PL)	pluch
+plucha	N;DAT(PL)	pluchom
+plucha	N;VOC(SG)	plucho
+plucha	N;ACC(PL)	pluchy
+plucha	N;VOC(PL)	pluchy
+plucha	N;DAT(SG)	plusze
+plucha	N;ESS(SG)	plusze
+najciemniejszy	ADJ;NOM(PL,MASC,HUM)	najciemniejsi
+najciemniejszy	ADJ;ACC(SG,FEM)	najciemniejszą
+najciemniejszy	ADJ;INS(SG,FEM)	najciemniejszą
+najciemniejszy	ADJ;ACC(SG,NEUT)	najciemniejsze
+najciemniejszy	ADJ;NOM(PL)	najciemniejsze
+najciemniejszy	ADJ;ACC(SG,MASC,ANIM)	najciemniejszego
+najciemniejszy	ADJ;GEN(SG,MASC)	najciemniejszego
+najciemniejszy	ADJ;ACC(SG,MASC,HUM)	najciemniejszego
+najciemniejszy	ADJ;ACC(SG,MASC,INAN)	najciemniejszy
+najciemniejszy	ADJ;NOM(SG,MASC)	najciemniejszy
+najciemniejszy	ADJ;GEN(PL)	najciemniejszych
+najciemniejszy	ADJ;ACC(PL,MASC,HUM)	najciemniejszych
+najciemniejszy	ADJ;DAT(PL)	najciemniejszym
+najciemniejszy	ADJ;ESS(SG,MASC)	najciemniejszym
+najciemniejszy	ADJ;INS(SG,MASC)	najciemniejszym
+najciemniejszy	ADJ;ESS(SG,NEUT)	najciemniejszym
+najciemniejszy	ADJ;INS(SG,NEUT)	najciemniejszym
+najciemniejszy	ADJ;INS(PL)	najciemniejszymi
+brat	N;NOM(PL)	bracia
+brat	N;VOC(PL)	bracia
+brat	N;ESS(SG)	bracie
+brat	N;ACC(PL)	braci
+brat	N;GEN(PL)	braci
+brat	N;DAT(PL)	braciom
+brat	N;INS(PL)	braćmi
+brat	N;GEN(SG)	brata
+brat	N;INS(SG)	bratem
+brat	N;DAT(SG)	bratu
+argon	N;INS(SG)	argonem
+argon	N;ACC(SG)	argon
+pestycyd	N;INS(PL)	pestycydami
+pestycyd	N;ACC(SG)	pestycyd
+pestycyd	N;NOM(SG)	pestycyd
+pestycyd	N;DAT(PL)	pestycydom
+pestycyd	N;DAT(SG)	pestycydowi
+pestycyd	N;GEN(PL)	pestycydów
+pestycyd	N;GEN(SG)	pestycydu
+pestycyd	N;NOM(PL)	pestycydy
+pestycyd	N;VOC(PL)	pestycydy
+pestycyd	N;ESS(SG)	pestycydzie
+pestycyd	N;VOC(SG)	pestycydzie
+przeciąg	N;ESS(PL)	przeciągach
+przeciąg	N;INS(PL)	przeciągami
+przeciąg	N;INS(SG)	przeciągiem
+przeciąg	N;NOM(PL)	przeciągi
+przeciąg	N;VOC(PL)	przeciągi
+przeciąg	N;ACC(SG)	przeciąg
+przeciąg	N;NOM(SG)	przeciąg
+przeciąg	N;DAT(SG)	przeciągowi
+przeciąg	N;GEN(SG)	przeciągu
+skarpeta	N;ESS(SG)	skarpecie
+skarpeta	N;ESS(PL)	skarpetach
+skarpeta	N;INS(SG)	skarpetą
+skarpeta	N;NOM(SG)	skarpeta
+skarpeta	N;GEN(PL)	skarpet
+skarpeta	N;DAT(PL)	skarpetom
+skarpeta	N;ACC(PL)	skarpety
+skarpeta	N;GEN(SG)	skarpety
+skarpeta	N;NOM(PL)	skarpety
+skarpeta	N;VOC(PL)	skarpety
+tęsknota	N;ESS(SG)	tęsknocie
+tęsknota	N;ESS(PL)	tęsknotach
+tęsknota	N;INS(PL)	tęsknotami
+tęsknota	N;INS(SG)	tęsknotą
+tęsknota	N;ACC(SG)	tęsknotę
+tęsknota	N;GEN(PL)	tęsknot
+tęsknota	N;ACC(PL)	tęsknoty
+tęsknota	N;GEN(SG)	tęsknoty
+tęsknota	N;NOM(PL)	tęsknoty
+tęsknota	N;VOC(PL)	tęsknoty
+żółtawy	ADJ;ACC(SG,FEM)	żółtawą
+żółtawy	ADJ;INS(SG,FEM)	żółtawą
+żółtawy	ADJ;GEN(SG,MASC)	żółtawego
+żółtawy	ADJ;ACC(SG,MASC,HUM)	żółtawego
+żółtawy	ADJ;DAT(SG,FEM)	żółtawej
+żółtawy	ADJ;ESS(SG,FEM)	żółtawej
+żółtawy	ADJ;GEN(SG,FEM)	żółtawej
+żółtawy	ADJ;DAT(SG,NEUT)	żółtawemu
+żółtawy	ADJ;NOM(PL,MASC,HUM)	żółtawi
+żółtawy	ADJ;ACC(SG,MASC,INAN)	żółtawy
+żółtawy	ADJ;NOM(SG,MASC)	żółtawy
+żółtawy	ADJ;ESS(SG,NEUT)	żółtawym
+żółtawy	ADJ;INS(PL)	żółtawymi
+pieśń	N;ACC(PL)	pieśni
+pieśń	N;ESS(SG)	pieśni
+pieśń	N;GEN(PL)	pieśni
+pieśń	N;GEN(SG)	pieśni
+pieśń	N;NOM(PL)	pieśni
+pieśń	N;VOC(PL)	pieśni
+pieśń	N;NOM(SG)	pieśń
+mgławica	N;ESS(PL)	mgławicach
+mgławica	N;INS(SG)	mgławicą
+mgławica	N;ACC(PL)	mgławice
+mgławica	N;VOC(PL)	mgławice
+mgławica	N;GEN(PL)	mgławic
+mgławica	N;DAT(PL)	mgławicom
+mgławica	N;VOC(SG)	mgławico
+mgławica	N;DAT(SG)	mgławicy
+mgławica	N;GEN(SG)	mgławicy
+zajebisty	ADJ;ACC(SG,FEM)	zajebistą
+zajebisty	ADJ;INS(SG,FEM)	zajebistą
+zajebisty	ADJ;ACC(PL)	zajebiste
+zajebisty	ADJ;NOM(SG,NEUT)	zajebiste
+zajebisty	ADJ;ACC(SG,MASC,ANIM)	zajebistego
+zajebisty	ADJ;GEN(SG,MASC)	zajebistego
+zajebisty	ADJ;ACC(SG,MASC,HUM)	zajebistego
+zajebisty	ADJ;GEN(SG,NEUT)	zajebistego
+zajebisty	ADJ;DAT(SG,FEM)	zajebistej
+zajebisty	ADJ;ESS(SG,FEM)	zajebistej
+zajebisty	ADJ;GEN(SG,FEM)	zajebistej
+zajebisty	ADJ;DAT(SG,NEUT)	zajebistemu
+zajebisty	ADJ;NOM(SG,MASC)	zajebisty
+zajebisty	ADJ;ESS(PL)	zajebistych
+zajebisty	ADJ;ACC(PL,MASC,HUM)	zajebistych
+zajebisty	ADJ;ESS(SG,MASC)	zajebistym
+zajebisty	ADJ;INS(SG,MASC)	zajebistym
+zajebisty	ADJ;ESS(SG,NEUT)	zajebistym
+zajebisty	ADJ;INS(SG,NEUT)	zajebistym
+zajebisty	ADJ;INS(PL)	zajebistymi
+mol	N;GEN(PL)	moli
+ławka	N;DAT(SG)	ławce
+ławka	N;ESS(SG)	ławce
+ławka	N;GEN(PL)	ławek
+ławka	N;NOM(SG)	ławka
+ławka	N;ACC(SG)	ławkę
+ławka	N;ACC(PL)	ławki
+ławka	N;GEN(SG)	ławki
+ławka	N;VOC(PL)	ławki
+ławka	N;VOC(SG)	ławko
+wapno	N;NOM(PL)	wapna
+wapno	N;ESS(SG)	wapnie
+wapno	N;GEN(PL)	wapn
+wapno	N;NOM(SG)	wapno
+wapno	N;DAT(SG)	wapnu
+Bułgarka	N;DAT(SG)	Bułgarce
+Bułgarka	N;ESS(SG)	Bułgarce
+Bułgarka	N;ESS(PL)	Bułgarkach
+Bułgarka	N;INS(PL)	Bułgarkami
+Bułgarka	N;NOM(SG)	Bułgarka
+Bułgarka	N;NOM(PL)	Bułgarki
+Bułgarka	N;VOC(PL)	Bułgarki
+skała	N;INS(PL)	skałami
+lwica	N;ESS(PL)	lwicach
+lwica	N;INS(PL)	lwicami
+lwica	N;NOM(SG)	lwica
+lwica	N;ACC(SG)	lwicę
+lwica	N;GEN(PL)	lwic
+lwica	N;VOC(SG)	lwico
+samobójca	N;ESS(PL)	samobójcach
+samobójca	N;INS(SG)	samobójcą
+samobójca	N;ACC(SG)	samobójcę
+samobójca	N;ACC(PL)	samobójców
+samobójca	N;DAT(SG)	samobójcy
+samobójca	N;NOM(PL)	samobójcy
+samobójca	N;VOC(PL)	samobójcy
+histydyna	N;INS(PL)	histydynami
+histydyna	N;NOM(SG)	histydyna
+histydyna	N;DAT(SG)	histydynie
+histydyna	N;ESS(SG)	histydynie
+histydyna	N;DAT(PL)	histydynom
+histydyna	N;VOC(SG)	histydyno
+histydyna	N;ACC(PL)	histydyny
+histydyna	N;GEN(SG)	histydyny
+histydyna	N;VOC(PL)	histydyny
+kupiec	N;ACC(SG)	kupca
+kupiec	N;GEN(SG)	kupca
+kupiec	N;DAT(PL)	kupcom
+kupiec	N;DAT(SG)	kupcowi
+kupiec	N;GEN(PL)	kupców
+kupiec	N;ESS(SG)	kupcu
+kupiec	N;VOC(SG)	kupcu
+kupiec	N;NOM(PL)	kupcy
+kupiec	N;NOM(SG)	kupiec
+elektrochemiczny	ADJ;ACC(SG,FEM)	elektrochemiczną
+elektrochemiczny	ADJ;NOM(SG,FEM)	elektrochemiczna
+elektrochemiczny	ADJ;ACC(PL)	elektrochemiczne
+elektrochemiczny	ADJ;ACC(SG,NEUT)	elektrochemiczne
+elektrochemiczny	ADJ;NOM(SG,NEUT)	elektrochemiczne
+elektrochemiczny	ADJ;GEN(SG,MASC)	elektrochemicznego
+elektrochemiczny	ADJ;ACC(SG,MASC,HUM)	elektrochemicznego
+elektrochemiczny	ADJ;GEN(SG,NEUT)	elektrochemicznego
+elektrochemiczny	ADJ;DAT(SG,FEM)	elektrochemicznej
+elektrochemiczny	ADJ;ESS(SG,FEM)	elektrochemicznej
+elektrochemiczny	ADJ;GEN(SG,FEM)	elektrochemicznej
+elektrochemiczny	ADJ;DAT(SG,MASC)	elektrochemicznemu
+elektrochemiczny	ADJ;DAT(SG,NEUT)	elektrochemicznemu
+elektrochemiczny	ADJ;ACC(SG,MASC,INAN)	elektrochemiczny
+elektrochemiczny	ADJ;NOM(SG,MASC)	elektrochemiczny
+elektrochemiczny	ADJ;GEN(PL)	elektrochemicznych
+elektrochemiczny	ADJ;DAT(PL)	elektrochemicznym
+elektrochemiczny	ADJ;INS(SG,MASC)	elektrochemicznym
+elektrochemiczny	ADJ;ESS(SG,NEUT)	elektrochemicznym
+elektrochemiczny	ADJ;INS(SG,NEUT)	elektrochemicznym
+aglutynacyjny	ADJ;NOM(SG,FEM)	aglutynacyjna
+aglutynacyjny	ADJ;ACC(SG,NEUT)	aglutynacyjne
+aglutynacyjny	ADJ;NOM(SG,NEUT)	aglutynacyjne
+aglutynacyjny	ADJ;NOM(PL)	aglutynacyjne
+aglutynacyjny	ADJ;ACC(SG,MASC,ANIM)	aglutynacyjnego
+aglutynacyjny	ADJ;ACC(SG,MASC,HUM)	aglutynacyjnego
+aglutynacyjny	ADJ;GEN(SG,NEUT)	aglutynacyjnego
+aglutynacyjny	ADJ;DAT(SG,FEM)	aglutynacyjnej
+aglutynacyjny	ADJ;ESS(SG,FEM)	aglutynacyjnej
+aglutynacyjny	ADJ;GEN(SG,FEM)	aglutynacyjnej
+aglutynacyjny	ADJ;DAT(SG,MASC)	aglutynacyjnemu
+aglutynacyjny	ADJ;NOM(PL,MASC,HUM)	aglutynacyjni
+aglutynacyjny	ADJ;ACC(SG,MASC,INAN)	aglutynacyjny
+aglutynacyjny	ADJ;ACC(PL,MASC,HUM)	aglutynacyjnych
+aglutynacyjny	ADJ;DAT(PL)	aglutynacyjnym
+aglutynacyjny	ADJ;INS(SG,MASC)	aglutynacyjnym
+aglutynacyjny	ADJ;INS(SG,NEUT)	aglutynacyjnym
+aglutynacyjny	ADJ;INS(PL)	aglutynacyjnymi
+ustny	ADJ;ACC(SG,FEM)	ustną
+ustny	ADJ;ACC(SG,NEUT)	ustne
+ustny	ADJ;NOM(SG,NEUT)	ustne
+ustny	ADJ;GEN(SG,MASC)	ustnego
+ustny	ADJ;GEN(SG,NEUT)	ustnego
+ustny	ADJ;DAT(SG,FEM)	ustnej
+ustny	ADJ;GEN(SG,FEM)	ustnej
+ustny	ADJ;DAT(SG,NEUT)	ustnemu
+ustny	ADJ;NOM(PL,MASC,HUM)	ustni
+ustny	ADJ;NOM(SG,MASC)	ustny
+ustny	ADJ;GEN(PL)	ustnych
+ustny	ADJ;ACC(PL,MASC,HUM)	ustnych
+ustny	ADJ;DAT(PL)	ustnym
+ustny	ADJ;ESS(SG,MASC)	ustnym
+ustny	ADJ;INS(SG,MASC)	ustnym
+ustny	ADJ;ESS(SG,NEUT)	ustnym
+ustny	ADJ;INS(SG,NEUT)	ustnym
+ustny	ADJ;INS(PL)	ustnymi
+średnik	N;ESS(PL)	średnikach
+średnik	N;INS(PL)	średnikami
+średnik	N;INS(SG)	średnikiem
+średnik	N;ACC(PL)	średniki
+średnik	N;NOM(PL)	średniki
+średnik	N;VOC(PL)	średniki
+średnik	N;ACC(SG)	średnik
+średnik	N;NOM(SG)	średnik
+średnik	N;DAT(SG)	średnikowi
+średnik	N;GEN(PL)	średników
+średnik	N;ESS(SG)	średniku
+średnik	N;VOC(SG)	średniku
+przepraszać	V;FUT;3;PL	będą przepraszały
+przepraszać	V;FUT;1;SG;FEM	będę przepraszała
+przepraszać	V;FUT;1;SG;MASC	będę przepraszał
+przepraszać	V;FUT;2;PL;MASC;HUM	będziecie przepraszali
+przepraszać	V;FUT;1;PL;MASC;HUM	będziemy przepraszali
+przepraszać	V;FUT;3;SG;FEM	będzie przepraszała
+przepraszać	V;FUT;3;SG;NEUT	będzie przepraszało
+przepraszać	V;FUT;3;SG;MASC	będzie przepraszał
+przepraszać	V;FUT;2;SG;FEM	będziesz przepraszała
+przepraszać	V;FUT;2;SG;MASC	będziesz przepraszał
+przepraszać	V;IMP;3;SG	niech przeprasza
+przepraszać	V;PRS;2;PL	przepraszacie
+przepraszać	V.PTCP;PST;ACT;SG;NEUT	przepraszające
+przepraszać	V.CVB	przepraszając
+przepraszać	V.PTCP;PST;ACT;PL;MASC;HUM	przepraszający
+przepraszać	V;PRS;3;PL	przepraszają
+przepraszać	V;COND;2;SG;FEM	przepraszałabyś
+przepraszać	V;PST;1;SG;FEM	przepraszałam
+przepraszać	V;PST;2;SG;FEM	przepraszałaś
+przepraszać	V;PST;3;SG;FEM	przepraszała
+przepraszać	V;COND;2;SG;MASC	przepraszałbyś
+przepraszać	V;PST;1;SG;MASC	przepraszałem
+przepraszać	V;COND;2;PL;MASC;HUM	przepraszalibyście
+przepraszać	V;COND;3;SG;NEUT	przepraszałoby
+przepraszać	V;PST;3;SG;NEUT	przepraszało
+przepraszać	V;PST;3;SG;MASC	przepraszał
+przepraszać	V;COND;2;PL	przepraszałybyście
+przepraszać	V;COND;3;PL	przepraszałyby
+przepraszać	V;PST;1;PL	przepraszałyśmy
+przepraszać	V;PST;3;PL	przepraszały
+przepraszać	V;PRS;1;SG	przepraszam
+przepraszać	V.PTCP;PST;PASS	przepraszano
+trącić	V;COND;3;PL	trąciłyby
+amazonit	N;VOC(SG)	amazonicie
+amazonit	N;INS(PL)	amazonitami
+amazonit	N;ACC(SG)	amazonit
+amazonit	N;NOM(SG)	amazonit
+amazonit	N;DAT(PL)	amazonitom
+amazonit	N;GEN(PL)	amazonitów
+amazonit	N;ACC(PL)	amazonity
+amazonit	N;NOM(PL)	amazonity
+najneutralniejszy	ADJ;ACC(SG,FEM)	najneutralniejszą
+najneutralniejszy	ADJ;INS(SG,FEM)	najneutralniejszą
+najneutralniejszy	ADJ;ACC(SG,MASC,HUM)	najneutralniejszego
+najneutralniejszy	ADJ;GEN(SG,NEUT)	najneutralniejszego
+najneutralniejszy	ADJ;DAT(SG,FEM)	najneutralniejszej
+najneutralniejszy	ADJ;ESS(SG,FEM)	najneutralniejszej
+najneutralniejszy	ADJ;GEN(SG,FEM)	najneutralniejszej
+najneutralniejszy	ADJ;DAT(SG,NEUT)	najneutralniejszemu
+najneutralniejszy	ADJ;ACC(SG,MASC,INAN)	najneutralniejszy
+najneutralniejszy	ADJ;NOM(SG,MASC)	najneutralniejszy
+najneutralniejszy	ADJ;ESS(PL)	najneutralniejszych
+najneutralniejszy	ADJ;GEN(PL)	najneutralniejszych
+najneutralniejszy	ADJ;ESS(SG,MASC)	najneutralniejszym
+najneutralniejszy	ADJ;ESS(SG,NEUT)	najneutralniejszym
+najneutralniejszy	ADJ;INS(SG,NEUT)	najneutralniejszym
+najneutralniejszy	ADJ;INS(PL)	najneutralniejszymi
+storczyk	N;ESS(PL)	storczykach
+storczyk	N;INS(PL)	storczykami
+storczyk	N;INS(SG)	storczykiem
+storczyk	N;NOM(PL)	storczyki
+storczyk	N;ACC(SG)	storczyk
+storczyk	N;NOM(SG)	storczyk
+storczyk	N;DAT(SG)	storczykowi
+storczyk	N;ESS(SG)	storczyku
+storczyk	N;VOC(SG)	storczyku
+rytuał	N;ESS(PL)	rytuałach
+rytuał	N;INS(PL)	rytuałami
+rytuał	N;INS(SG)	rytuałem
+rytuał	N;ACC(SG)	rytuał
+rytuał	N;NOM(SG)	rytuał
+rytuał	N;DAT(PL)	rytuałom
+rytuał	N;GEN(PL)	rytuałów
+rytuał	N;GEN(SG)	rytuału
+rytuał	N;ACC(PL)	rytuały
+rytuał	N;NOM(PL)	rytuały
+rytuał	N;VOC(PL)	rytuały
+perkoz	N;INS(SG)	perkozem
+perkoz	N;ESS(SG)	perkozie
+perkoz	N;DAT(PL)	perkozom
+perkoz	N;DAT(SG)	perkozowi
+perkoz	N;GEN(PL)	perkozów
+perkoz	N;ACC(PL)	perkozy
+perkoz	N;VOC(PL)	perkozy
+cykloida	N;INS(PL)	cykloidami
+cykloida	N;INS(SG)	cykloidą
+cykloida	N;NOM(SG)	cykloida
+cykloida	N;ACC(SG)	cykloidę
+cykloida	N;DAT(PL)	cykloidom
+cykloida	N;ACC(PL)	cykloidy
+cykloida	N;GEN(SG)	cykloidy
+cykloida	N;NOM(PL)	cykloidy
+cykloida	N;VOC(PL)	cykloidy
+cykloida	N;DAT(SG)	cykloidzie
+słoniowy	ADJ;ACC(SG,FEM)	słoniową
+słoniowy	ADJ;INS(SG,FEM)	słoniową
+słoniowy	ADJ;ACC(PL)	słoniowe
+słoniowy	ADJ;ACC(SG,NEUT)	słoniowe
+słoniowy	ADJ;NOM(SG,NEUT)	słoniowe
+słoniowy	ADJ;NOM(PL)	słoniowe
+słoniowy	ADJ;ACC(SG,MASC,ANIM)	słoniowego
+słoniowy	ADJ;GEN(SG,MASC)	słoniowego
+słoniowy	ADJ;ACC(SG,MASC,HUM)	słoniowego
+słoniowy	ADJ;GEN(SG,NEUT)	słoniowego
+słoniowy	ADJ;GEN(SG,FEM)	słoniowej
+słoniowy	ADJ;DAT(SG,MASC)	słoniowemu
+słoniowy	ADJ;DAT(SG,NEUT)	słoniowemu
+słoniowy	ADJ;NOM(PL,MASC,HUM)	słoniowi
+słoniowy	ADJ;ACC(SG,MASC,INAN)	słoniowy
+słoniowy	ADJ;NOM(SG,MASC)	słoniowy
+słoniowy	ADJ;ESS(PL)	słoniowych
+słoniowy	ADJ;GEN(PL)	słoniowych
+słoniowy	ADJ;ACC(PL,MASC,HUM)	słoniowych
+słoniowy	ADJ;DAT(PL)	słoniowym
+słoniowy	ADJ;ESS(SG,MASC)	słoniowym
+słoniowy	ADJ;INS(SG,MASC)	słoniowym
+słoniowy	ADJ;INS(SG,NEUT)	słoniowym
+górka	N;GEN(PL)	górkow
+pódomk	N;GEN(PL)	pódomka
+pódomk	N;NOM(PL)	pódomk
+pódomk	N;ESS(PL)	pódomku
+chóry	ADJ;NOM(SG,MASC)	chóry
+mack	N;ESS(PL)	mackach
+mack	N;ACC(DU)	macka
+mack	N;GEN(SG)	macka
+mack	N;NOM(PL)	macki
+mack	N;ACC(SG)	mack
+mack	N;DAT(DU)	mackoma
+mack	N;ESS(DU)	mackoma
+mack	N;INS(SG)	mackom
+mack	N;GEN(PL)	mackow
+mack	N;GEN(DU)	mackowu
+wós	N;ACC(DU)	wósy
+graś	V;PST;1;DU	grajachmej
+graś	V;PST;1;PL	grajachmy
+graś	V;PST;3;PL	grajachu
+graś	V;PST;1;SG	grajach
+graś	V;PST;2;SG	grajašo
+graś	V;PST;3;SG	grajašo
+graś	V;PST;2;DU	grajaštej
+graś	V;PST;3;DU	grajaštej
+graś	V;PRS;2;PL	grajośo
+graś	V;PRS;2;DU	grajotej
+graś	V;IMP;2;PL	grajśo
+graś	V;IMP;2;DU	grajtej
+graś	V;PRS;1;SG	graju
+graś	V;PRS;3;PL	graju
+graś	V;IMP;2;SG	graj
+nastwark	N;ESS(PL)	nastwarkach
+nastwark	N;DAT(PL)	nastwarkam
+nastwark	N;GEN(SG)	nastwarka
+nastwark	N;NOM(DU)	nastwarka
+nastwark	N;NOM(SG)	nastwark
+nastwark	N;DAT(SG)	nastwarkoju
+nastwark	N;DAT(DU)	nastwarkoma
+nastwark	N;ESS(DU)	nastwarkoma
+nastwark	N;INS(DU)	nastwarkoma
+plasć	V;IMP;2;PL	pleśćo
+plasć	V;PST;3;PL	pleśechu
+plasć	V;PST;2;SG	pleśešo
+plasć	V;PST;3;SG	pleśešo
+plasć	V;PRS;1;PL	pleśomy
+plasć	V;PRS;2;SG	pleśoš
+plasć	V;PRS;2;DU	pleśotej
+plasć	V;PRS;3;DU	pleśotej
+plasć	V;PRS;1;SG	pletu
+plasć	V;PRS;3;PL	pletu
+krotki	ADJ;NOM(SG,NEUT)	krotke
+krotki	ADJ;ACC(SG,MASC,ANIM)	krotkego
+krotki	ADJ;GEN(SG,MASC)	krotkego
+krotki	ADJ;GEN(SG,NEUT)	krotkego
+krotki	ADJ;ACC(DU,INAN)	krotkej
+krotki	ADJ;ESS(SG,FEM)	krotkej
+krotki	ADJ;ACC(DU,ANIM)	krotkeju
+krotki	ADJ;INS(SG,FEM)	krotkeju
+krotki	ADJ;ESS(SG,NEUT)	krotkem
+krotki	ADJ;DAT(SG,MASC)	krotkemu
+krotki	ADJ;ACC(SG,MASC,INAN)	krotki
+krotki	ADJ;NOM(SG,MASC)	krotki
+krotki	ADJ;ACC(PL,ANIM)	krotkich
+krotki	ADJ;ESS(PL)	krotkich
+krotki	ADJ;GEN(PL)	krotkich
+krotki	ADJ;INS(DU)	krotkima
+krotki	ADJ;DAT(PL)	krotkim
+krotki	ADJ;INS(SG,MASC)	krotkim
+krotki	ADJ;INS(SG,NEUT)	krotkim
+Albanarka	N;ACC(DU)	Albanarce
+Albanarka	N;DAT(SG)	Albanarce
+Albanarka	N;ESS(SG)	Albanarce
+Albanarka	N;NOM(DU)	Albanarce
+Albanarka	N;ACC(PL)	Albanarki
+Albanarka	N;NOM(PL)	Albanarki
+Albanarka	N;DAT(DU)	Albanarkoma
+Albanarka	N;ESS(DU)	Albanarkoma
+Albanarka	N;GEN(PL)	Albanarkow
+Albanarka	N;GEN(DU)	Albanarkowu
+Albanarka	N;INS(SG)	Albanarku
+włos	N;ESS(PL)	włosach
+włos	N;INS(PL)	włosami
+włos	N;DAT(PL)	włosam
+włos	N;ACC(DU)	włosa
+włos	N;NOM(PL)	włose
+włos	N;ACC(SG)	włos
+włos	N;NOM(SG)	włos
+włos	N;DAT(DU)	włosoma
+włos	N;ESS(DU)	włosoma
+włos	N;INS(SG)	włosom
+włos	N;ESS(SG)	włosu
+most	N;ACC(PL)	mosty
+wutšoba	N;DAT(PL)	wutšobam
+wutšoba	N;NOM(SG)	wutšoba
+wutšoba	N;ACC(DU)	wutšobje
+wutšoba	N;DAT(SG)	wutšobje
+wutšoba	N;NOM(DU)	wutšobje
+wutšoba	N;INS(DU)	wutšoboma
+wutšoba	N;GEN(PL)	wutšobow
+wutšoba	N;ACC(SG)	wutšobu
+wutšoba	N;ACC(PL)	wutšoby
+chórgojnik	N;ESS(PL)	chórgojnikach
+chórgojnik	N;INS(PL)	chórgojnikami
+chórgojnik	N;DAT(PL)	chórgojnikam
+chórgojnik	N;DAT(DU)	chórgojnikoma
+chórgojnik	N;INS(SG)	chórgojnikom
+chórgojnik	N;ACC(DU)	chórgojnikowu
+mol	N;GEN(DU)	molowu
+měch	N;ESS(SG)	měchu
+gorka	N;NOM(DU)	gorce
+gólc	N;ESS(PL)	gólcach
+gólc	N;INS(PL)	gólcami
+gólc	N;DAT(PL)	gólcam
+gólc	N;ACC(SG)	gólca
+gólc	N;GEN(SG)	gólca
+gólc	N;DAT(DU)	gólcoma
+gólc	N;ESS(DU)	gólcoma
+gólc	N;INS(SG)	gólcom
+gólc	N;GEN(PL)	gólcow
+gólc	N;GEN(DU)	gólcowu
+gólc	N;NOM(PL)	gólcy
+gorka	N;ESS(SG)	gorce
+mól	N;ACC(DU)	mólowu
+piś	V;PST;1;PL	pijachmy
+piś	V;PST;2;PL	pijašćo
+piś	V;PST;2;DU	pijaštej
+piś	V;PRS;1;PL	pijomy
+piś	V;PRS;2;SG	pijoš
+piś	V;PRS;3;DU	pijotej
+piś	V;PRS;3;SG	pijo
+piś	V;IMP;2;PL	pijśo
+piś	V;PRS;1;SG	piju
+piś	V;IMP;2;SG	pij
+módry	ADJ;ACC(PL,INAN)	módre
+źiśecy	ADJ;NOM(SG,FEM)	źiśeca
+źiśecy	ADJ;NOM(SG,NEUT)	źiśece
+źiśecy	ADJ;NOM(PL)	źiśece
+źiśecy	ADJ;ACC(SG,MASC,ANIM)	źiśecego
+źiśecy	ADJ;GEN(SG,NEUT)	źiśecego
+źiśecy	ADJ;DAT(SG,FEM)	źiśecej
+źiśecy	ADJ;NOM(DU)	źiśecej
+źiśecy	ADJ;ACC(DU,ANIM)	źiśeceju
+źiśecy	ADJ;GEN(DU)	źiśeceju
+źiśecy	ADJ;INS(SG,FEM)	źiśeceju
+źiśecy	ADJ;ESS(SG,MASC)	źiśecem
+źiśecy	ADJ;ACC(PL,ANIM)	źiśecych
+źiśecy	ADJ;ESS(PL)	źiśecych
+źiśecy	ADJ;GEN(PL)	źiśecych
+źiśecy	ADJ;DAT(DU)	źiśecyma
+źiśecy	ADJ;ESS(DU)	źiśecyma
+źiśecy	ADJ;DAT(PL)	źiśecym
+źiśecy	ADJ;INS(SG,MASC)	źiśecym
+źiśecy	ADJ;INS(PL)	źiśecymi
+mórjo	N;NOM(PL)	mórja
+snědanje	N;INS(SG)	snědanim
+snědanje	N;ESS(PL)	snědanjach
+snědanje	N;INS(PL)	snědanjami
+snědanje	N;GEN(SG)	snědanja
+snědanje	N;DAT(SG)	snědanjeju
+snědanje	N;NOM(SG)	snědanje
+snědanje	N;ESS(DU)	snědanjoma
+snědanje	N;GEN(PL)	snědanjow
+snědanje	N;GEN(DU)	snědanjowu
+snědanje	N;ESS(SG)	snědanju
+módry	ADJ;ESS(SG,FEM)	módrej
+kokoška	N;ACC(DU)	kokošce
+kokoška	N;DAT(SG)	kokošce
+kokoška	N;ESS(SG)	kokošce
+kokoška	N;INS(PL)	kokoškami
+kokoška	N;DAT(PL)	kokoškam
+kokoška	N;NOM(SG)	kokoška
+kokoška	N;ACC(PL)	kokoški
+kokoška	N;GEN(SG)	kokoški
+kokoška	N;NOM(PL)	kokoški
+kokoška	N;DAT(DU)	kokoškoma
+kokoška	N;ESS(DU)	kokoškoma
+kokoška	N;INS(DU)	kokoškoma
+kokoška	N;GEN(DU)	kokoškowu
+kokoška	N;ACC(SG)	kokošku
+kokoška	N;INS(SG)	kokošku
+strowy	ADJ;ACC(SG,NEUT)	strowe
+strowy	ADJ;ACC(PL,INAN)	strowe
+strowy	ADJ;NOM(SG,NEUT)	strowe
+strowy	ADJ;ACC(SG,MASC,ANIM)	strowego
+strowy	ADJ;GEN(SG,MASC)	strowego
+strowy	ADJ;DAT(SG,FEM)	strowej
+strowy	ADJ;NOM(DU)	strowej
+strowy	ADJ;GEN(SG,FEM)	stroweje
+strowy	ADJ;ACC(DU,ANIM)	stroweju
+strowy	ADJ;DAT(SG,MASC)	strowemu
+strowy	ADJ;DAT(SG,NEUT)	strowemu
+strowy	ADJ;ACC(SG,MASC,INAN)	strowy
+strowy	ADJ;ESS(PL)	strowych
+strowy	ADJ;ESS(DU)	strowyma
+strowy	ADJ;INS(DU)	strowyma
+strowy	ADJ;INS(SG,MASC)	strowym
+strowy	ADJ;INS(SG,NEUT)	strowym
+strowy	ADJ;INS(PL)	strowymi
+jězyk	N;GEN(PL)	jězykow
+cesć	N;ACC(DU)	cesći
+cesć	N;GEN(SG)	cesći
+cesć	N;NOM(DU)	cesći
+cesć	N;ACC(SG)	cesć
+cesć	N;DAT(DU)	cesćoma
+cesć	N;INS(SG)	cesću
+źěsna	N;ESS(PL)	źěsnach
+źěsna	N;INS(PL)	źěsnami
+źěsna	N;DAT(PL)	źěsnam
+źěsna	N;ACC(PL)	źěsna
+źěsna	N;GEN(PL)	źěsnow
+stoł	N;ESS(PL)	stołach
+stoł	N;DAT(PL)	stołam
+stoł	N;ACC(DU)	stoła
+stoł	N;GEN(SG)	stoła
+stoł	N;NOM(DU)	stoła
+stoł	N;ACC(SG)	stoł
+stoł	N;DAT(SG)	stołoju
+stoł	N;DAT(DU)	stołoma
+stoł	N;ACC(PL)	stoły
+kóza	N;GEN(DU)	kózowu
+mól	N;ACC(SG)	móla
+polack	N;ESS(SG)	polacku
+módry	ADJ;INS(PL)	módrymi
+gumno	N;ACC(PL)	gumna
+gumno	N;NOM(PL)	gumna
+gumno	N;ESS(SG)	gumnje
+gumno	N;NOM(DU)	gumnje
+gumno	N;DAT(SG)	gumnoju
+gumno	N;ESS(DU)	gumnoma
+gumno	N;INS(SG)	gumnom
+gumno	N;ACC(SG)	gumno
+gumno	N;GEN(DU)	gumnowu
+wóda	N;NOM(SG)	wóda
+kóza	N;ESS(PL)	kózach
+móla	N;GEN(DU)	mólowu
+jerjeł	N;GEN(SG)	jerła
+jerjeł	N;NOM(DU)	jerła
+jerjeł	N;ESS(SG)	jerle
+jerjeł	N;DAT(DU)	jerłoma
+jerjeł	N;ESS(DU)	jerłoma
+jerjeł	N;INS(DU)	jerłoma
+jerjeł	N;GEN(PL)	jerłow
+jerjeł	N;GEN(DU)	jerłowu
+jerjeł	N;ACC(PL)	jerły
+wusmjerśiś	V;PST;1;DU	wusmjerśichmej
+wusmjerśiś	V;PST;1;PL	wusmjerśichmy
+wusmjerśiś	V;PST;3;PL	wusmjerśichu
+wusmjerśiś	V;PST;1;SG	wusmjerśich
+wusmjerśiś	V;PRS;2;PL	wusmjerśijośo
+wusmjerśiś	V;PRS;2;SG	wusmjerśijoš
+wusmjerśiś	V;PRS;2;DU	wusmjerśijotej
+wusmjerśiś	V;PRS;3;DU	wusmjerśijotej
+wusmjerśiś	V;PRS;1;SG	wusmjerśiju
+wusmjerśiś	V;PRS;3;PL	wusmjerśiju
+wusmjerśiś	V;IMP;2;DU	wusmjerśtej
+wusmjerśiś	V;IMP;2;SG	wusmjerś
+jězyk	N;NOM(PL)	jězyki
+wjeliki	ADJ;ACC(PL,INAN)	wjelike
+wjeliki	ADJ;NOM(PL)	wjelike
+wjeliki	ADJ;ACC(SG,MASC,ANIM)	wjelikego
+wjeliki	ADJ;GEN(SG,MASC)	wjelikego
+wjeliki	ADJ;GEN(SG,NEUT)	wjelikego
+wjeliki	ADJ;ESS(SG,FEM)	wjelikej
+wjeliki	ADJ;NOM(DU)	wjelikej
+wjeliki	ADJ;GEN(SG,FEM)	wjelikeje
+wjeliki	ADJ;DAT(SG,MASC)	wjelikemu
+wjeliki	ADJ;DAT(SG,NEUT)	wjelikemu
+wjeliki	ADJ;ACC(SG,MASC,INAN)	wjeliki
+wjeliki	ADJ;NOM(SG,MASC)	wjeliki
+wjeliki	ADJ;DAT(DU)	wjelikima
+wjeliki	ADJ;ESS(DU)	wjelikima
+wjeliki	ADJ;INS(DU)	wjelikima
+wjeliki	ADJ;INS(SG,MASC)	wjelikim
+wjeliki	ADJ;INS(PL)	wjelikimi
+wjeliki	ADJ;ACC(SG,FEM)	wjeliku
+gótowy	ADJ;DAT(SG,NEUT)	gótowemu
+gótowy	ADJ;ESS(SG,NEUT)	gótowem
+dešć	N;ESS(PL)	dešćach
+dešć	N;INS(PL)	dešćami
+dešć	N;DAT(PL)	dešćam
+dešć	N;ACC(DU)	dešća
+dešć	N;NOM(DU)	dešća
+dešć	N;ACC(PL)	dešće
+dešć	N;NOM(PL)	dešće
+dešć	N;DAT(SG)	dešćoju
+dešć	N;ESS(DU)	dešćoma
+dešć	N;INS(DU)	dešćoma
+dešć	N;INS(SG)	dešćom
+plasta	N;ESS(SG)	plasće
+plasta	N;ESS(PL)	plastach
+plasta	N;INS(PL)	plastami
+plasta	N;DAT(PL)	plastam
+plasta	N;NOM(SG)	plasta
+plasta	N;ESS(DU)	plastoma
+plasta	N;INS(DU)	plastoma
+plasta	N;GEN(PL)	plastow
+plasta	N;INS(SG)	plastu
+plasta	N;ACC(PL)	plasty
+móst	N;ESS(PL)	móstach
+nakup	N;ACC(DU)	nakupi
+nakup	N;ACC(PL)	nakupi
+nakup	N;NOM(DU)	nakupi
+nakup	N;NOM(PL)	nakupi
+nakup	N;ESS(PL)	nakupjach
+nakup	N;DAT(PL)	nakupjam
+nakup	N;ESS(DU)	nakupjoma
+nakup	N;INS(SG)	nakupju
+nakup	N;NOM(SG)	nakup
+kněžna	N;ESS(PL)	kněžnach
+kněžna	N;INS(PL)	kněžnami
+kněžna	N;ACC(DU)	kněžnje
+kněžna	N;DAT(SG)	kněžnje
+kněžna	N;ESS(SG)	kněžnje
+kněžna	N;NOM(DU)	kněžnje
+kněžna	N;DAT(DU)	kněžnoma
+cołn	N;DAT(PL)	cołnam
+cołn	N;NOM(DU)	cołna
+cołn	N;ESS(SG)	cołnje
+cołn	N;ACC(SG)	cołn
+cołn	N;DAT(SG)	cołnoju
+cołn	N;ESS(DU)	cołnoma
+cołn	N;INS(SG)	cołnom
+cołn	N;ACC(PL)	cołny
+cołn	N;NOM(PL)	cołny
+łojś	V;PST;3;PL	łojachu
+łojś	V;PST;1;SG	łojach
+łojś	V;PST;3;SG	łojašo
+łojś	V;PST;2;DU	łojaštej
+łojś	V;IMP;2;PL	łojśo
+łojś	V;PRS;2;PL	łojśo
+łojś	V;PRS;2;SG	łojš
+łojś	V;IMP;2;DU	łojtej
+łojś	V;PRS;2;DU	łojtej
+łojś	V;PRS;3;DU	łojtej
+łojś	V;PRS;3;SG	łoj
+crjono	N;ESS(PL)	crjonach
+crjono	N;INS(PL)	crjonami
+crjono	N;ACC(PL)	crjona
+crjono	N;GEN(SG)	crjona
+crjono	N;ACC(DU)	crjonje
+crjono	N;DAT(SG)	crjonoju
+crjono	N;ESS(DU)	crjonoma
+crjono	N;INS(SG)	crjonom
+wosk	N;ESS(DU)	woskoma
+zmijica	N;NOM(SG)	zmijica
+zmijica	N;DAT(DU)	zmijicoma
+zmijica	N;ESS(DU)	zmijicoma
+zmijica	N;GEN(PL)	zmijicow
+zmijica	N;ACC(SG)	zmijicu
+zmijica	N;INS(SG)	zmijicu
+zmijica	N;ACC(DU)	zmijicy
+zmijica	N;DAT(SG)	zmijicy
+zmijica	N;NOM(DU)	zmijicy
+šołta	N;DAT(PL)	šołtam
+šołta	N;NOM(SG)	šołta
+šołta	N;DAT(DU)	šołtoma
+šołta	N;INS(DU)	šołtoma
+šołta	N;GEN(PL)	šołtow
+šołta	N;ACC(DU)	šołtowu
+šołta	N;GEN(DU)	šołtowu
+šołta	N;ACC(SG)	šołtu
+šołta	N;INS(SG)	šołtu
+šołta	N;NOM(PL)	šołty
+kóń	N;GEN(PL)	kónjow
+łakomnik	N;INS(PL)	łakomnikami
+łakomnik	N;DAT(PL)	łakomnikam
+łakomnik	N;ACC(SG)	łakomnika
+łakomnik	N;GEN(SG)	łakomnika
+łakomnik	N;NOM(DU)	łakomnika
+łakomnik	N;NOM(SG)	łakomnik
+łakomnik	N;DAT(SG)	łakomnikoju
+łakomnik	N;INS(DU)	łakomnikoma
+łakomnik	N;ACC(DU)	łakomnikowu
+łakomnik	N;GEN(DU)	łakomnikowu
+mysliś	V;PST;1;PL	myslachmy
+mysliś	V;PST;2;SG	myslašo
+mysliś	V;PST;3;SG	myslašo
+mysliś	V;PST;2;DU	myslaštej
+mysliś	V;PRS;1;DU	myslimej
+mysliś	V;PRS;2;SG	mysliš
+mysliś	V;PRS;2;DU	myslitej
+mysliś	V;IMP;2;SG	mysli
+gotowy	ADJ;ESS(PL)	gotowych
+fonem	N;INS(PL)	fonemami
+fonem	N;DAT(PL)	fonemam
+fonem	N;ACC(DU)	fonema
+fonem	N;NOM(DU)	fonema
+fonem	N;ESS(SG)	fonemje
+fonem	N;ACC(SG)	fonem
+fonem	N;NOM(SG)	fonem
+fonem	N;DAT(DU)	fonemoma
+fonem	N;ESS(DU)	fonemoma
+fonem	N;GEN(PL)	fonemow
+fonem	N;GEN(DU)	fonemowu
+fonem	N;ACC(PL)	fonemy
+fonem	N;NOM(PL)	fonemy
+dawny	ADJ;ACC(PL,INAN)	dawne
+dawny	ADJ;NOM(SG,NEUT)	dawne
+dawny	ADJ;GEN(SG,NEUT)	dawnego
+dawny	ADJ;DAT(SG,FEM)	dawnej
+dawny	ADJ;GEN(SG,FEM)	dawneje
+dawny	ADJ;ACC(DU,ANIM)	dawneju
+dawny	ADJ;DAT(SG,MASC)	dawnemu
+dawny	ADJ;ACC(SG,MASC,INAN)	dawny
+dawny	ADJ;ACC(PL,ANIM)	dawnych
+dawny	ADJ;GEN(PL)	dawnych
+dawny	ADJ;ESS(DU)	dawnyma
+dawny	ADJ;INS(DU)	dawnyma
+dawny	ADJ;INS(SG,MASC)	dawnym
+dawny	ADJ;INS(SG,NEUT)	dawnym
+dawny	ADJ;INS(PL)	dawnymi
+mórjo	N;NOM(SG)	mórjo
+połny	ADJ;NOM(SG,FEM)	połna
+połny	ADJ;ESS(SG,FEM)	połnej
+połny	ADJ;GEN(DU)	połneju
+połny	ADJ;ESS(SG,NEUT)	połnem
+połny	ADJ;DAT(SG,MASC)	połnemu
+połny	ADJ;DAT(SG,NEUT)	połnemu
+połny	ADJ;ACC(SG,FEM)	połnu
+połny	ADJ;GEN(PL)	połnych
+połny	ADJ;DAT(DU)	połnyma
+połny	ADJ;ESS(DU)	połnyma
+połny	ADJ;INS(DU)	połnyma
+połny	ADJ;DAT(PL)	połnym
+połny	ADJ;INS(PL)	połnymi
+śěło	N;INS(PL)	śěłami
+śěło	N;ACC(PL)	śěła
+śěło	N;NOM(PL)	śěła
+śěło	N;ESS(SG)	śěle
+śěło	N;NOM(DU)	śěle
+śěło	N;DAT(SG)	śěłoju
+śěło	N;DAT(DU)	śěłoma
+śěło	N;ESS(DU)	śěłoma
+śěło	N;INS(DU)	śěłoma
+śěło	N;ACC(SG)	śěło
+śěło	N;GEN(PL)	śěłow
+śěło	N;GEN(DU)	śěłowu
+koryto	N;NOM(DU)	koryśe
+wišnja	N;ACC(DU)	wišni
+wišnja	N;NOM(DU)	wišni
+wišnja	N;ESS(PL)	wišnjach
+wišnja	N;INS(PL)	wišnjami
+wišnja	N;DAT(PL)	wišnjam
+wišnja	N;NOM(SG)	wišnja
+wišnja	N;ACC(PL)	wišnje
+wišnja	N;NOM(PL)	wišnje
+wišnja	N;DAT(DU)	wišnjoma
+wišnja	N;ESS(DU)	wišnjoma
+wišnja	N;GEN(PL)	wišnjow
+wišnja	N;GEN(DU)	wišnjowu
+wišnja	N;INS(SG)	wišnju
+dejaś	V;PST;3;PL	dejachu
+dejaś	V;PST;1;SG	dejach
+dejaś	V;PST;2;PL	dejašćo
+dejaś	V;PST;2;DU	dejaštej
+dejaś	V;PST;3;DU	dejaštej
+dejaś	V;PRS;3;PL	deje
+dejaś	V;PRS;1;SG	dejm
+dejaś	V;PRS;1;PL	dejmy
+dejaś	V;PRS;2;SG	dejš
+bogojski	ADJ;NOM(SG,FEM)	bogojska
+bogojski	ADJ;ACC(PL,INAN)	bogojske
+bogojski	ADJ;NOM(PL)	bogojske
+bogojski	ADJ;ACC(SG,MASC,ANIM)	bogojskego
+bogojski	ADJ;ACC(DU,INAN)	bogojskej
+bogojski	ADJ;DAT(SG,FEM)	bogojskej
+bogojski	ADJ;NOM(DU)	bogojskej
+bogojski	ADJ;ESS(SG,NEUT)	bogojskem
+bogojski	ADJ;NOM(SG,MASC)	bogojski
+bogojski	ADJ;GEN(PL)	bogojskich
+bogojski	ADJ;DAT(DU)	bogojskima
+bogojski	ADJ;ESS(DU)	bogojskima
+bogojski	ADJ;DAT(PL)	bogojskim
+bogojski	ADJ;INS(SG,MASC)	bogojskim
+palack	N;INS(PL)	palackami
+palack	N;DAT(PL)	palackam
+palack	N;ACC(DU)	palacka
+palack	N;GEN(SG)	palacka
+palack	N;NOM(DU)	palacka
+palack	N;ACC(SG)	palack
+palack	N;DAT(SG)	palackoju
+palack	N;ESS(DU)	palackoma
+palack	N;INS(DU)	palackoma
+palack	N;ESS(SG)	palacku
+njerěšny	ADJ;NOM(SG,FEM)	njerěšna
+njerěšny	ADJ;ACC(SG,NEUT)	njerěšne
+njerěšny	ADJ;NOM(SG,NEUT)	njerěšne
+njerěšny	ADJ;ACC(DU,INAN)	njerěšnej
+njerěšny	ADJ;DAT(SG,FEM)	njerěšnej
+njerěšny	ADJ;ESS(SG,FEM)	njerěšnej
+njerěšny	ADJ;NOM(DU)	njerěšnej
+njerěšny	ADJ;GEN(SG,FEM)	njerěšneje
+njerěšny	ADJ;ACC(DU,ANIM)	njerěšneju
+njerěšny	ADJ;INS(SG,FEM)	njerěšneju
+njerěšny	ADJ;ESS(SG,MASC)	njerěšnem
+njerěšny	ADJ;ESS(SG,NEUT)	njerěšnem
+njerěšny	ADJ;DAT(SG,MASC)	njerěšnemu
+njerěšny	ADJ;DAT(SG,NEUT)	njerěšnemu
+njerěšny	ADJ;ACC(SG,FEM)	njerěšnu
+njerěšny	ADJ;NOM(SG,MASC)	njerěšny
+njerěšny	ADJ;GEN(PL)	njerěšnych
+njerěšny	ADJ;DAT(DU)	njerěšnyma
+njerěšny	ADJ;INS(DU)	njerěšnyma
+njerěšny	ADJ;INS(SG,MASC)	njerěšnym
+njerěšny	ADJ;INS(SG,NEUT)	njerěšnym
+njerěšny	ADJ;INS(PL)	njerěšnymi
+cŕop	N;INS(PL)	cŕopami
+cŕop	N;DAT(SG)	cŕopoju
+cŕop	N;ESS(DU)	cŕopoma
+cŕop	N;INS(DU)	cŕopoma
+cŕop	N;INS(SG)	cŕopom
+cŕop	N;GEN(PL)	cŕopow
+cŕop	N;ACC(PL)	cŕopy
+cŕop	N;NOM(PL)	cŕopy
+hugoŕ	N;ESS(PL)	hugoŕach
+hugoŕ	N;ACC(SG)	hugoŕa
+hugoŕ	N;NOM(SG)	hugoŕ
+hugoŕ	N;DAT(SG)	hugoŕoju
+hugoŕ	N;INS(DU)	hugoŕoma
+hugoŕ	N;INS(SG)	hugoŕom
+hugoŕ	N;GEN(PL)	hugoŕow
+hugoŕ	N;ESS(SG)	hugoŕu
+tyźeń	N;ESS(PL)	tyźenjach
+tyźeń	N;INS(PL)	tyźenjami
+tyźeń	N;DAT(PL)	tyźenjam
+tyźeń	N;ACC(DU)	tyźenja
+tyźeń	N;NOM(DU)	tyźenja
+tyźeń	N;ACC(PL)	tyźenje
+tyźeń	N;DAT(SG)	tyźenjoju
+tyźeń	N;DAT(DU)	tyźenjoma
+tyźeń	N;ESS(DU)	tyźenjoma
+tyźeń	N;GEN(PL)	tyźenjow
+tyźeń	N;ESS(SG)	tyźenju
+tyźeń	N;ACC(SG)	tyźeń
+tyźeń	N;NOM(SG)	tyźeń
+polack	N;INS(SG)	polackom
+dłoń	N;DAT(SG)	dłoni
+dłoń	N;ESS(SG)	dłoni
+dłoń	N;GEN(SG)	dłoni
+dłoń	N;NOM(PL)	dłoni
+dłoń	N;DAT(PL)	dłonjam
+dłoń	N;DAT(DU)	dłonjoma
+dłoń	N;GEN(DU)	dłonjowu
+dłoń	N;NOM(SG)	dłoń
+licyś	V;PST;1;DU	licachmej
+licyś	V;PST;1;PL	licachmy
+licyś	V;PST;3;SG	licašo
+licyś	V;PST;2;DU	licaštej
+licyś	V;PST;3;DU	licaštej
+licyś	V;PRS;1;DU	licymej
+licyś	V;PRS;1;SG	licym
+licyś	V;PRS;2;PL	licyśo
+licyś	V;PRS;2;DU	licytej
+licyś	V;PRS;3;DU	licytej
+licyś	V;PRS;3;SG	licy
+wósk	N;ACC(DU)	wóska
+roj	N;NOM(DU)	roja
+roj	N;NOM(PL)	roje
+roj	N;DAT(SG)	rojoju
+roj	N;INS(DU)	rojoma
+roj	N;GEN(PL)	rojow
+baz	N;NOM(SG)	baz
+baz	N;DAT(SG)	bazoju
+baz	N;INS(DU)	bazoma
+baz	N;INS(SG)	bazom
+polo	N;ESS(DU)	poloma
+žołw	N;ACC(PL)	žołwi
+žołw	N;ESS(SG)	žołwi
+žołw	N;NOM(PL)	žołwi
+žołw	N;INS(PL)	žołwjami
+žołw	N;INS(DU)	žołwjoma
+žołw	N;GEN(PL)	žołwjow
+žołw	N;GEN(DU)	žołwjowu
+žołw	N;INS(SG)	žołwju
+žołw	N;ACC(SG)	žołw
+górka	N;NOM(SG)	górka
+mech	N;GEN(PL)	mechow
+mlaś	V;PST;1;PL	mlejachmy
+mlaś	V;PST;2;PL	mlejašćo
+mlaś	V;PST;2;SG	mlejašo
+mlaś	V;PRS;2;PL	mlejośo
+mlaś	V;PRS;2;SG	mlejoš
+mlaś	V;PRS;2;DU	mlejotej
+mlaś	V;PRS;3;SG	mlejo
+mlaś	V;IMP;2;DU	mlejtej
+mlaś	V;PRS;1;SG	mleju
+mlaś	V;PRS;3;PL	mleju
+mlaś	V;IMP;2;SG	mlej
+wogon	N;INS(PL)	wogonami
+wogon	N;DAT(PL)	wogonam
+wogon	N;NOM(DU)	wogona
+wogon	N;ACC(SG)	wogon
+wogon	N;NOM(SG)	wogon
+wogon	N;DAT(SG)	wogonoju
+wogon	N;ESS(DU)	wogonoma
+wogon	N;INS(SG)	wogonom
+wogon	N;GEN(PL)	wogonow
+wogon	N;GEN(DU)	wogonowu
+wogon	N;ACC(PL)	wogony
+móla	N;INS(DU)	móloma
+wobjed	N;ESS(PL)	wobjedach
+wobjed	N;DAT(PL)	wobjedam
+wobjed	N;ACC(DU)	wobjeda
+wobjed	N;ACC(SG)	wobjed
+wobjed	N;DAT(SG)	wobjedoju
+wobjed	N;INS(SG)	wobjedom
+wobjed	N;GEN(DU)	wobjedowu
+wobjed	N;ACC(PL)	wobjedy
+wobjed	N;NOM(PL)	wobjedy
+wobjed	N;ESS(SG)	wobjeźe
+módliś	V;PST;1;DU	módlachmej
+módliś	V;PST;1;PL	módlachmy
+módliś	V;PST;1;SG	módlach
+módliś	V;PST;2;PL	módlašćo
+módliś	V;PST;2;DU	módlaštej
+módliś	V;PST;3;DU	módlaštej
+módliś	V;PRS;1;SG	módlim
+módliś	V;PRS;2;PL	módliśo
+módliś	V;IMP;2;DU	módltej
+módliś	V;IMP;2;SG	módl
+jězyk	N;DAT(SG)	jězykoju
+mušla	N;INS(PL)	mušlami
+mušla	N;DAT(PL)	mušlam
+mušla	N;ACC(PL)	mušle
+mušla	N;NOM(PL)	mušle
+mušla	N;DAT(SG)	mušli
+mušla	N;NOM(DU)	mušli
+mušla	N;DAT(DU)	mušloma
+mušla	N;GEN(PL)	mušlow
+mušla	N;GEN(DU)	mušlowu
+mušla	N;ACC(SG)	mušlu
+sława	N;ESS(PL)	sławach
+sława	N;DAT(PL)	sławam
+sława	N;NOM(SG)	sława
+sława	N;DAT(SG)	sławje
+sława	N;NOM(DU)	sławje
+sława	N;ESS(DU)	sławoma
+sława	N;INS(DU)	sławoma
+sława	N;GEN(PL)	sławow
+sława	N;GEN(DU)	sławowu
+sława	N;ACC(SG)	sławu
+sława	N;ACC(PL)	sławy
+sława	N;NOM(PL)	sławy
+kócka	N;ESS(SG)	kócce
+kraba	N;ESS(PL)	krabach
+kraba	N;DAT(PL)	krabam
+kraba	N;NOM(SG)	kraba
+kraba	N;ACC(DU)	krabje
+kraba	N;DAT(DU)	kraboma
+kraba	N;ESS(DU)	kraboma
+kraba	N;GEN(DU)	krabowu
+kraba	N;ACC(SG)	krabu
+kraba	N;INS(SG)	krabu
+kraba	N;ACC(PL)	kraby
+kraba	N;GEN(SG)	kraby
+kraba	N;NOM(PL)	kraby
+měsćanaŕ	N;DAT(PL)	měsćanarjam
+měsćanaŕ	N;ACC(SG)	měsćanarja
+měsćanaŕ	N;NOM(DU)	měsćanarja
+měsćanaŕ	N;DAT(SG)	měsćanarjeju
+měsćanaŕ	N;NOM(PL)	měsćanarje
+měsćanaŕ	N;DAT(DU)	měsćanarjoma
+měsćanaŕ	N;INS(SG)	měsćanarjom
+měsćanaŕ	N;ACC(DU)	měsćanarjowu
+měsćanaŕ	N;GEN(DU)	měsćanarjowu
+wódka	N;GEN(DU)	wódkowu
+modry	ADJ;ESS(SG,MASC)	modrem
+mokšy	ADJ;NOM(SG,FEM)	mokša
+mokšy	ADJ;NOM(SG,NEUT)	mokše
+mokšy	ADJ;ACC(SG,MASC,ANIM)	mokšego
+mokšy	ADJ;GEN(SG,MASC)	mokšego
+mokšy	ADJ;DAT(SG,FEM)	mokšej
+mokšy	ADJ;ESS(SG,FEM)	mokšej
+mokšy	ADJ;NOM(DU)	mokšej
+mokšy	ADJ;ACC(DU,ANIM)	mokšeju
+mokšy	ADJ;GEN(DU)	mokšeju
+mokšy	ADJ;INS(SG,FEM)	mokšeju
+mokšy	ADJ;ESS(SG,MASC)	mokšem
+mokšy	ADJ;DAT(SG,MASC)	mokšemu
+mokšy	ADJ;DAT(SG,NEUT)	mokšemu
+mokšy	ADJ;ACC(SG,MASC,INAN)	mokšy
+mokšy	ADJ;ACC(PL,ANIM)	mokšych
+mokšy	ADJ;ESS(PL)	mokšych
+mokšy	ADJ;ESS(DU)	mokšyma
+mokšy	ADJ;INS(SG,NEUT)	mokšym
+mokšy	ADJ;INS(PL)	mokšymi
+gymnazium	N;DAT(PL)	gymnaziumam
+gymnazium	N;NOM(DU)	gymnaziuma
+gymnazium	N;ACC(SG)	gymnazium
+gymnazium	N;NOM(SG)	gymnazium
+gymnazium	N;DAT(DU)	gymnaziumoma
+gymnazium	N;ESS(DU)	gymnaziumoma
+gymnazium	N;INS(DU)	gymnaziumoma
+žołź	N;ESS(PL)	žołźach
+žołź	N;INS(PL)	žołźami
+žołź	N;DAT(PL)	žołźam
+žołź	N;GEN(SG)	žołźa
+žołź	N;DAT(DU)	žołźoma
+žołź	N;INS(SG)	žołźom
+žołź	N;GEN(DU)	žołźowu
+jazor	N;ESS(PL)	jazorach
+jazor	N;INS(PL)	jazorami
+jazor	N;DAT(PL)	jazoram
+jazor	N;GEN(SG)	jazora
+jazor	N;NOM(DU)	jazora
+jazor	N;ESS(SG)	jazorje
+jazor	N;ACC(SG)	jazor
+jazor	N;DAT(SG)	jazoroju
+jazor	N;ESS(DU)	jazoroma
+jazor	N;INS(DU)	jazoroma
+jazor	N;INS(SG)	jazorom
+jazor	N;GEN(PL)	jazorow
+jazor	N;GEN(DU)	jazorowu
+jazor	N;ACC(PL)	jazory
+jazor	N;NOM(PL)	jazory
+běžaś	V;PST;1;PL	běžachmy
+běžaś	V;PST;3;SG	běžašo
+běžaś	V;PRS;3;PL	běže
+běžaś	V;PRS;1;SG	běžym
+běžaś	V;PRS;2;PL	běžyśo
+běžaś	V;PRS;3;DU	běžytej
+běžaś	V;PRS;3;SG	běžy
+kos	N;DAT(PL)	kosam
+góla	N;ESS(PL)	gólach
+góla	N;INS(PL)	gólami
+góla	N;DAT(PL)	gólam
+góla	N;NOM(SG)	góla
+góla	N;GEN(SG)	góle
+góla	N;NOM(PL)	góle
+góla	N;ACC(DU)	góli
+góla	N;NOM(DU)	góli
+góla	N;ESS(DU)	góloma
+góla	N;INS(DU)	góloma
+góla	N;ACC(SG)	gólu
+němski	ADJ;NOM(SG,FEM)	němska
+němski	ADJ;ACC(SG,NEUT)	němske
+němski	ADJ;NOM(PL)	němske
+němski	ADJ;ACC(SG,MASC,ANIM)	němskego
+němski	ADJ;NOM(DU)	němskej
+němski	ADJ;GEN(DU)	němskeju
+němski	ADJ;INS(SG,FEM)	němskeju
+němski	ADJ;DAT(SG,NEUT)	němskemu
+němski	ADJ;ACC(SG,MASC,INAN)	němski
+němski	ADJ;NOM(SG,MASC)	němski
+němski	ADJ;ACC(PL,ANIM)	němskich
+němski	ADJ;ESS(PL)	němskich
+němski	ADJ;DAT(DU)	němskima
+němski	ADJ;ESS(DU)	němskima
+němski	ADJ;INS(DU)	němskima
+němski	ADJ;DAT(PL)	němskim
+němski	ADJ;INS(SG,MASC)	němskim
+kós	N;ESS(DU)	kósoma
+jagoda	N;ESS(PL)	jagodach
+jagoda	N;INS(PL)	jagodami
+jagoda	N;NOM(SG)	jagoda
+jagoda	N;ESS(DU)	jagodoma
+jagoda	N;ACC(SG)	jagodu
+jagoda	N;ACC(PL)	jagody
+jagoda	N;ACC(DU)	jagoźe
+jagoda	N;ESS(SG)	jagoźe
+śele	N;NOM(SG)	śele
+śele	N;INS(SG)	śeleśim
+śele	N;DAT(DU)	śeleśoma
+śele	N;ESS(DU)	śeleśoma
+śele	N;ESS(SG)	śeleśu
+śele	N;DAT(PL)	śeletam
+śele	N;ACC(PL)	śeleta
+stilist	N;ESS(SG)	stilisće
+stilist	N;ESS(PL)	stilistach
+stilist	N;INS(PL)	stilistami
+stilist	N;ACC(DU)	stilista
+stilist	N;ACC(SG)	stilist
+stilist	N;NOM(SG)	stilist
+stilist	N;DAT(SG)	stilistoju
+stilist	N;DAT(DU)	stilistoma
+stilist	N;ESS(DU)	stilistoma
+stilist	N;GEN(PL)	stilistow
+stilist	N;GEN(DU)	stilistowu
+stilist	N;ACC(PL)	stilisty
+nimy	ADJ;NOM(SG,FEM)	nima
+nimy	ADJ;ACC(SG,NEUT)	nime
+nimy	ADJ;ACC(PL,INAN)	nime
+nimy	ADJ;NOM(SG,NEUT)	nime
+nimy	ADJ;NOM(PL)	nime
+nimy	ADJ;ACC(SG,MASC,ANIM)	nimego
+nimy	ADJ;ACC(DU,INAN)	nimej
+nimy	ADJ;ESS(SG,FEM)	nimej
+nimy	ADJ;NOM(DU)	nimej
+nimy	ADJ;GEN(DU)	nimeju
+nimy	ADJ;INS(SG,FEM)	nimeju
+nimy	ADJ;DAT(SG,MASC)	nimemu
+nimy	ADJ;ACC(SG,FEM)	nimu
+nimy	ADJ;ESS(PL)	nimych
+nimy	ADJ;GEN(PL)	nimych
+nimy	ADJ;INS(DU)	nimyma
+nimy	ADJ;DAT(PL)	nimym
+nimy	ADJ;INS(PL)	nimymi
+koryto	N;ACC(PL)	koryta
+wódka	N;INS(SG)	wódku
+chory	ADJ;INS(DU)	choryma
+mól	N;ACC(PL)	móle
+śopły	ADJ;ACC(SG,NEUT)	śopłe
+śopły	ADJ;NOM(SG,NEUT)	śopłe
+śopły	ADJ;NOM(PL)	śopłe
+śopły	ADJ;GEN(SG,MASC)	śopłego
+śopły	ADJ;ACC(DU,INAN)	śopłej
+śopły	ADJ;DAT(SG,FEM)	śopłej
+śopły	ADJ;NOM(DU)	śopłej
+śopły	ADJ;GEN(SG,FEM)	śopłeje
+śopły	ADJ;GEN(DU)	śopłeju
+śopły	ADJ;INS(SG,FEM)	śopłeju
+śopły	ADJ;ACC(SG,FEM)	śopłu
+śopły	ADJ;ACC(SG,MASC,INAN)	śopły
+śopły	ADJ;ACC(PL,ANIM)	śopłych
+śopły	ADJ;ESS(PL)	śopłych
+śopły	ADJ;GEN(PL)	śopłych
+śopły	ADJ;INS(DU)	śopłyma
+śopły	ADJ;INS(SG,MASC)	śopłym
+śopły	ADJ;INS(PL)	śopłymi
+kot	N;ESS(PL)	kotach
+prěcny	ADJ;ACC(PL,INAN)	prěcne
+prěcny	ADJ;NOM(SG,NEUT)	prěcne
+prěcny	ADJ;NOM(PL)	prěcne
+prěcny	ADJ;GEN(SG,MASC)	prěcnego
+prěcny	ADJ;GEN(SG,NEUT)	prěcnego
+prěcny	ADJ;DAT(SG,FEM)	prěcnej
+prěcny	ADJ;NOM(DU)	prěcnej
+prěcny	ADJ;ESS(SG,MASC)	prěcnem
+prěcny	ADJ;ACC(SG,MASC,INAN)	prěcny
+prěcny	ADJ;ESS(PL)	prěcnych
+prěcny	ADJ;GEN(PL)	prěcnych
+prěcny	ADJ;INS(DU)	prěcnyma
+prěcny	ADJ;DAT(PL)	prěcnym
+prěcny	ADJ;INS(PL)	prěcnymi
+wós	N;DAT(SG)	wósy
+mol	N;GEN(SG)	mola
+sowa	N;ACC(DU)	sowje
+sowa	N;NOM(DU)	sowje
+sowa	N;DAT(DU)	sowoma
+sowa	N;ESS(DU)	sowoma
+sowa	N;GEN(PL)	sowow
+sowa	N;INS(SG)	sowu
+sowa	N;ACC(PL)	sowy
+sowa	N;GEN(SG)	sowy
+sowa	N;NOM(PL)	sowy
+kós	N;ACC(PL)	kóse
+rumnosć	N;DAT(PL)	rumnosćam
+rumnosć	N;ACC(PL)	rumnosći
+rumnosć	N;DAT(SG)	rumnosći
+rumnosć	N;NOM(PL)	rumnosći
+rumnosć	N;ACC(SG)	rumnosć
+rumnosć	N;ESS(DU)	rumnosćoma
+rumnosć	N;INS(DU)	rumnosćoma
+rumnosć	N;GEN(DU)	rumnosćowu
+sec	V;IMP;2;PL	secćo
+sec	V;PST;1;PL	secechmy
+sec	V;PST;1;SG	secech
+sec	V;PST;2;SG	secešo
+sec	V;PST;3;SG	secešo
+sec	V;PST;2;DU	seceštej
+sec	V;PRS;1;DU	secomej
+sec	V;PRS;1;PL	secomy
+sec	V;PRS;2;PL	secośo
+sec	V;PRS;3;SG	seco
+sec	V;IMP;2;DU	sectej
+sec	V;PRS;3;PL	seku
+wóda	N;ESS(SG)	wóźe
+wósk	N;NOM(DU)	wóska
+wóda	N;NOM(PL)	wódy
+kós	N;GEN(PL)	kósow
+mórjo	N;INS(DU)	mórjoma
+dłymoki	ADJ;NOM(SG,FEM)	dłymoka
+dłymoki	ADJ;ACC(SG,NEUT)	dłymoke
+dłymoki	ADJ;NOM(SG,NEUT)	dłymoke
+dłymoki	ADJ;NOM(PL)	dłymoke
+dłymoki	ADJ;ACC(SG,MASC,ANIM)	dłymokego
+dłymoki	ADJ;GEN(SG,MASC)	dłymokego
+dłymoki	ADJ;GEN(SG,NEUT)	dłymokego
+dłymoki	ADJ;DAT(SG,FEM)	dłymokej
+dłymoki	ADJ;NOM(DU)	dłymokej
+dłymoki	ADJ;GEN(SG,FEM)	dłymokeje
+dłymoki	ADJ;ACC(DU,ANIM)	dłymokeju
+dłymoki	ADJ;GEN(DU)	dłymokeju
+dłymoki	ADJ;INS(SG,FEM)	dłymokeju
+dłymoki	ADJ;ESS(SG,NEUT)	dłymokem
+dłymoki	ADJ;DAT(SG,MASC)	dłymokemu
+dłymoki	ADJ;ACC(SG,MASC,INAN)	dłymoki
+dłymoki	ADJ;ACC(PL,ANIM)	dłymokich
+dłymoki	ADJ;GEN(PL)	dłymokich
+dłymoki	ADJ;DAT(DU)	dłymokima
+dłymoki	ADJ;INS(DU)	dłymokima
+dłymoki	ADJ;DAT(PL)	dłymokim
+dłymoki	ADJ;INS(SG,NEUT)	dłymokim
+dłymoki	ADJ;INS(PL)	dłymokimi
+njeźela	N;DAT(PL)	njeźelam
+njeźela	N;GEN(SG)	njeźele
+njeźela	N;DAT(SG)	njeźeli
+njeźela	N;ESS(SG)	njeźeli
+njeźela	N;DAT(DU)	njeźeloma
+njeźela	N;INS(DU)	njeźeloma
+njeźela	N;GEN(DU)	njeźelowu
+njeźela	N;ACC(SG)	njeźelu
+leśeś	V;IMP;2;PL	leśćo
+leśeś	V;PST;1;SG	leśech
+leśeś	V;PST;2;PL	leśešćo
+leśeś	V;PST;2;DU	leśeštej
+leśeś	V;PST;3;DU	leśeštej
+leśeś	V;PRS;1;SG	leśim
+leśeś	V;PRS;2;SG	leśiš
+leśeś	V;PRS;2;DU	leśitej
+leśeś	V;PRS;3;DU	leśitej
+leśeś	V;IMP;2;DU	leśtej
+leśeś	V;IMP;2;SG	leś
+interpret	N;ESS(SG)	interpreśe
+interpret	N;DAT(PL)	interpretam
+interpret	N;DAT(DU)	interpretoma
+interpret	N;GEN(DU)	interpretowu
+interpret	N;ACC(PL)	interprety
+interpret	N;NOM(PL)	interprety
+gowjedo	N;DAT(PL)	gowjedam
+gowjedo	N;NOM(PL)	gowjeda
+gowjedo	N;DAT(SG)	gowjedoju
+gowjedo	N;INS(DU)	gowjedoma
+gowjedo	N;INS(SG)	gowjedom
+gowjedo	N;GEN(PL)	gowjedow
+gowjedo	N;GEN(DU)	gowjedowu
+gowjedo	N;ACC(DU)	gowjeźe
+gowjedo	N;ESS(SG)	gowjeźe
+cłowjek	N;DAT(PL)	cłowjekam
+cłowjek	N;GEN(SG)	cłowjeka
+cłowjek	N;NOM(DU)	cłowjeka
+cłowjek	N;ACC(PL)	cłowjeki
+cłowjek	N;DAT(SG)	cłowjekoju
+cłowjek	N;DAT(DU)	cłowjekoma
+cłowjek	N;ESS(DU)	cłowjekoma
+cłowjek	N;INS(DU)	cłowjekoma
+cłowjek	N;INS(SG)	cłowjekom
+cłowjek	N;GEN(PL)	cłowjekow
+cłowjek	N;ACC(DU)	cłowjekowu
+cłowjek	N;ESS(SG)	cłowjeku
+garona	N;ESS(PL)	garonach
+garona	N;INS(PL)	garonami
+garona	N;NOM(SG)	garona
+garona	N;NOM(DU)	garonje
+garona	N;ESS(DU)	garonoma
+garona	N;GEN(DU)	garonowu
+garona	N;ACC(SG)	garonu
+garona	N;INS(SG)	garonu
+garona	N;GEN(SG)	garony
+garona	N;NOM(PL)	garony
+bruk	N;ESS(PL)	brukach
+bruk	N;INS(PL)	brukami
+bruk	N;GEN(SG)	bruka
+bruk	N;NOM(PL)	bruki
+bruk	N;NOM(SG)	bruk
+bruk	N;ESS(DU)	brukoma
+bruk	N;INS(DU)	brukoma
+bruk	N;INS(SG)	brukom
+bruk	N;GEN(PL)	brukow
+bruk	N;ACC(DU)	brukowu
+bruk	N;ESS(SG)	bruku
+dirigentka	N;ESS(SG)	dirigentce
+dirigentka	N;NOM(DU)	dirigentce
+dirigentka	N;ESS(PL)	dirigentkach
+dirigentka	N;INS(PL)	dirigentkami
+dirigentka	N;NOM(PL)	dirigentki
+dirigentka	N;GEN(PL)	dirigentkow
+dirigentka	N;GEN(DU)	dirigentkowu
+dirigentka	N;INS(SG)	dirigentku
+sajźiś	V;IMP;2;PL	sajźćo
+sajźiś	V;PST;3;PL	sajźichu
+sajźiś	V;PST;1;SG	sajźich
+sajźiś	V;PRS;1;DU	sajźijomej
+sajźiś	V;PRS;1;PL	sajźijomy
+sajźiś	V;PRS;2;SG	sajźijoš
+sajźiś	V;PRS;3;PL	sajźiju
+sajźiś	V;PST;2;PL	sajźišćo
+sajźiś	V;PST;2;SG	sajźi
+sajźiś	V;PST;3;SG	sajźi
+sajźiś	V;IMP;2;DU	sajźtej
+chory	ADJ;NOM(DU)	chorej
+mórjo	N;INS(SG)	mórjom
+jeleń	N;INS(PL)	jelenjami
+jeleń	N;DAT(PL)	jelenjam
+jeleń	N;ACC(SG)	jelenja
+jeleń	N;ACC(PL)	jelenje
+jeleń	N;DAT(DU)	jelenjoma
+jeleń	N;ESS(DU)	jelenjoma
+jeleń	N;INS(SG)	jelenjom
+jeleń	N;GEN(DU)	jelenjowu
+jeleń	N;NOM(SG)	jeleń
+syto	N;ACC(DU)	syśe
+syto	N;NOM(DU)	syśe
+syto	N;INS(PL)	sytami
+syto	N;DAT(PL)	sytam
+syto	N;GEN(SG)	syta
+syto	N;DAT(SG)	sytoju
+syto	N;ACC(SG)	syto
+syto	N;GEN(DU)	sytowu
+woda	N;NOM(PL)	wody
+sedemmíľový	ADJ;ACC(SG,FEM)	sedemmíľovú
+sedemmíľový	ADJ;VOC(SG,NEUT)	sedemmíľové
+sedemmíľový	ADJ;NOM(PL,FEM)	sedemmíľové
+sedemmíľový	ADJ;SPRL;ESS(SG,MASC,INAN)	najsedemmíľovejšom
+sedemmíľový	ADJ;CMPR;DAT(SG,MASC,ANIM)	sedemmíľovejšiemu
+sedemmíľový	ADJ;ACC(SG,MASC,ANIM)	sedemmíľového
+sedemmíľový	ADJ;VOC(SG,MASC,ANIM)	sedemmíľový
+sedemmíľový	ADJ;ACC(SG,MASC,INAN)	sedemmíľový
+sedemmíľový	ADJ;CMPR;DAT(PL,NEUT)	sedemmíľovejším
+sedemmíľový	ADJ;SPRL;DAT(PL,NEUT)	najsedemmíľovejším
+sedemmíľový	ADJ;CMPR;NOM(SG,FEM)	sedemmíľovejšia
+sedemmíľový	ADJ;NOM(SG,FEM)	sedemmíľová
+sedemmíľový	ADJ;CMPR;NOM(SG,MASC,ANIM)	sedemmíľovejší
+sedemmíľový	ADJ;SPRL;NOM(SG,MASC,ANIM)	najsedemmíľovejší
+sedemmíľový	ADJ;CMPR;NOM(PL,MASC,ANIM)	sedemmíľovejší
+sedemmíľový	ADJ;CMPR;VOC(PL,MASC,ANIM)	sedemmíľovejší
+sedemmíľový	ADJ;SPRL;ACC(PL,MASC,ANIM)	najsedemmíľovejších
+sedemmíľový	ADJ;SPRL;ESS(PL,MASC,ANIM)	najsedemmíľovejších
+sedemmíľový	ADJ;CMPR;GEN(PL,MASC,INAN)	sedemmíľovejších
+sedemmíľový	ADJ;SPRL;ESS(PL,MASC,INAN)	najsedemmíľovejších
+sedemmíľový	ADJ;CMPR;GEN(PL,FEM)	sedemmíľovejších
+sedemmíľový	ADJ;CMPR;ESS(PL,FEM)	sedemmíľovejších
+sedemmíľový	ADJ;SPRL;VOC(PL,MASC,INAN)	najsedemmíľovejšie
+sedemmíľový	ADJ;SPRL;NOM(SG,NEUT)	najsedemmíľovejšie
+sedemmíľový	ADJ;CMPR;VOC(SG,NEUT)	sedemmíľovejšie
+sedemmíľový	ADJ;SPRL;NOM(PL,NEUT)	najsedemmíľovejšie
+sedemmíľový	ADJ;SPRL;NOM(PL,FEM)	najsedemmíľovejšie
+sedemmíľový	ADJ;ESS(PL,MASC,ANIM)	sedemmíľových
+sedemmíľový	ADJ;ESS(PL,MASC,INAN)	sedemmíľových
+sedemmíľový	ADJ;GEN(PL,FEM)	sedemmíľových
+sedemmíľový	ADJ;CMPR;GEN(SG,FEM)	sedemmíľovejšej
+sedemmíľový	ADJ;CMPR;ESS(SG,FEM)	sedemmíľovejšej
+sedemmíľový	ADJ;DAT(SG,MASC,INAN)	sedemmíľovému
+sedemmíľový	ADJ;CMPR;ACC(SG,MASC,ANIM)	sedemmíľovejšieho
+sedemmíľový	ADJ;CMPR;GEN(SG,MASC,INAN)	sedemmíľovejšieho
+sedemmíľový	ADJ;CMPR;GEN(SG,NEUT)	sedemmíľovejšieho
+sedemmíľový	ADJ;DAT(PL,MASC,INAN)	sedemmíľovým
+sedemmíľový	ADJ;INS(SG,NEUT)	sedemmíľovým
+sedemmíľový	ADJ;DAT(SG,FEM)	sedemmíľovej
+sedemmíľový	ADJ;ESS(SG,FEM)	sedemmíľovej
+sedemmíľový	ADJ;CMPR;INS(PL,MASC,INAN)	sedemmíľovejšími
+sedemmíľový	ADJ;SPRL;INS(PL,MASC,INAN)	najsedemmíľovejšími
+emočný	ADJ;GEN(SG,FEM)	emočnej
+emočný	ADJ;DAT(PL,FEM)	emočným
+emočný	ADJ;CMPR;GEN(SG,FEM)	emočnejšej
+emočný	ADJ;SPRL;DAT(SG,FEM)	najemočnejšej
+emočný	ADJ;SPRL;ACC(SG,MASC,ANIM)	najemočnejšieho
+emočný	ADJ;SPRL;GEN(SG,MASC,INAN)	najemočnejšieho
+emočný	ADJ;CMPR;GEN(SG,NEUT)	emočnejšieho
+emočný	ADJ;DAT(SG,MASC,ANIM)	emočnému
+emočný	ADJ;ESS(PL,FEM)	emočných
+emočný	ADJ;VOC(PL,MASC,ANIM)	emoční
+emočný	ADJ;SPRL;NOM(PL,MASC,ANIM)	najemočnejší
+emočný	ADJ;CMPR;VOC(PL,MASC,ANIM)	emočnejší
+emočný	ADJ;SPRL;VOC(PL,MASC,ANIM)	najemočnejší
+emočný	ADJ;SPRL;ACC(PL,MASC,ANIM)	najemočnejších
+emočný	ADJ;CMPR;ESS(PL,MASC,ANIM)	emočnejších
+emočný	ADJ;SPRL;ESS(PL,NEUT)	najemočnejších
+emočný	ADJ;CMPR;GEN(PL,FEM)	emočnejších
+emočný	ADJ;CMPR;ESS(PL,FEM)	emočnejších
+emočný	ADJ;CMPR;NOM(PL,MASC,INAN)	emočnejšie
+emočný	ADJ;CMPR;VOC(PL,MASC,INAN)	emočnejšie
+emočný	ADJ;SPRL;NOM(SG,NEUT)	najemočnejšie
+emočný	ADJ;CMPR;ACC(SG,NEUT)	emočnejšie
+emočný	ADJ;CMPR;VOC(SG,NEUT)	emočnejšie
+emočný	ADJ;SPRL;NOM(PL,NEUT)	najemočnejšie
+emočný	ADJ;CMPR;VOC(PL,FEM)	emočnejšie
+emočný	ADJ;SPRL;VOC(SG,FEM)	najemočnejšia
+emočný	ADJ;CMPR;INS(SG,MASC,ANIM)	emočnejším
+emočný	ADJ;SPRL;INS(SG,MASC,ANIM)	najemočnejším
+emočný	ADJ;SPRL;DAT(PL,MASC,ANIM)	najemočnejším
+emočný	ADJ;CMPR;INS(SG,MASC,INAN)	emočnejším
+emočný	ADJ;VOC(SG,MASC,ANIM)	emočný
+emočný	ADJ;ACC(SG,MASC,INAN)	emočný
+emočný	ADJ;GEN(SG,NEUT)	emočného
+emočný	ADJ;SPRL;DAT(SG,MASC,INAN)	najemočnejšiemu
+emočný	ADJ;CMPR;DAT(SG,NEUT)	emočnejšiemu
+emočný	ADJ;INS(SG,FEM)	emočnou
+emočný	ADJ;CMPR;ESS(SG,MASC,ANIM)	emočnejšom
+emočný	ADJ;SPRL;ESS(SG,MASC,ANIM)	najemočnejšom
+emočný	ADJ;CMPR;ESS(SG,MASC,INAN)	emočnejšom
+emočný	ADJ;ESS(SG,NEUT)	emočnom
+emočný	ADJ;VOC(PL,MASC,INAN)	emočné
+emočný	ADJ;VOC(PL,NEUT)	emočné
+emočný	ADJ;NOM(PL,FEM)	emočné
+stravovanosť	N;NOM(PL,FEM)	stravovanosti
+stravovanosť	N;INS(SG,FEM)	stravovanosťou
+pseudomonádový	ADJ;ESS(SG,MASC,INAN)	pseudomonádovom
+pseudomonádový	ADJ;NOM(PL,FEM)	pseudomonádové
+pseudomonádový	ADJ;DAT(SG,NEUT)	pseudomonádovému
+pseudomonádový	ADJ;ESS(PL,MASC,ANIM)	pseudomonádových
+pseudomonádový	ADJ;INS(SG,FEM)	pseudomonádovou
+pseudomonádový	ADJ;GEN(SG,MASC,ANIM)	pseudomonádového
+pseudomonádový	ADJ;ACC(SG,MASC,ANIM)	pseudomonádového
+pseudomonádový	ADJ;GEN(SG,MASC,INAN)	pseudomonádového
+pseudomonádový	ADJ;GEN(SG,NEUT)	pseudomonádového
+pseudomonádový	ADJ;GEN(SG,FEM)	pseudomonádovej
+pseudomonádový	ADJ;ESS(SG,FEM)	pseudomonádovej
+pseudomonádový	ADJ;INS(SG,MASC,INAN)	pseudomonádovým
+zavodňovávanosť	N;NOM(SG,FEM)	zavodňovávanosť
+zavodňovávanosť	N;GEN(SG,FEM)	zavodňovávanosti
+zavodňovávanosť	N;ESS(PL,FEM)	zavodňovávanostiach
+dokomprimovací	ADJ;NOM(SG,FEM)	dokomprimovacia
+dokomprimovací	ADJ;ACC(SG,FEM)	dokomprimovaciu
+dokomprimovací	ADJ;ESS(PL,MASC,INAN)	dokomprimovacích
+dokomprimovací	ADJ;ESS(PL,NEUT)	dokomprimovacích
+dokomprimovací	ADJ;GEN(SG,MASC,INAN)	dokomprimovacieho
+dokomprimovací	ADJ;ESS(SG,FEM)	dokomprimovacej
+dokomprimovací	ADJ;ACC(PL,MASC,INAN)	dokomprimovacie
+dokomprimovací	ADJ;NOM(PL,NEUT)	dokomprimovacie
+dokomprimovací	ADJ;NOM(PL,FEM)	dokomprimovacie
+dokomprimovací	ADJ;DAT(SG,NEUT)	dokomprimovaciemu
+dokomprimovací	ADJ;INS(PL,MASC,ANIM)	dokomprimovacími
+dokomprimovací	ADJ;INS(PL,MASC,INAN)	dokomprimovacími
+dokomprimovací	ADJ;DAT(PL,NEUT)	dokomprimovacím
+dokomprimovací	ADJ;ESS(SG,MASC,INAN)	dokomprimovacom
+dokomprimovací	ADJ;VOC(PL,MASC,ANIM)	dokomprimovací
+vynálezcovstvo	N;VOC(PL,NEUT)	vynálezcovstvá
+sestrička	N;DAT(SG,FEM)	sestričke
+sestrička	N;VOC(SG,FEM)	sestrička
+zhodnuteľnosť	N;NOM(SG,FEM)	zhodnuteľnosť
+zhodnuteľnosť	N;INS(PL,FEM)	zhodnuteľnosťami
+zhodnuteľnosť	N;ESS(SG,FEM)	zhodnuteľnosti
+zhodnuteľnosť	N;VOC(PL,FEM)	zhodnuteľnosti
+zhodnuteľnosť	N;DAT(PL,FEM)	zhodnuteľnostiam
+zapaľovanie	N;GEN(PL,NEUT)	zapaľovaní
+zapaľovanie	N;GEN(SG,NEUT)	zapaľovania
+zapaľovanie	N;VOC(PL,NEUT)	zapaľovania
+zapaľovanie	N;ESS(PL,NEUT)	zapaľovaniach
+nevedomcov	ADJ;ACC(SG,NEUT)	nevedomcovo
+nevedomcov	ADJ;DAT(SG,FEM)	nevedomcovej
+nevedomcov	ADJ;ESS(SG,FEM)	nevedomcovej
+nevedomcov	ADJ;INS(PL,MASC,ANIM)	nevedomcovými
+nevedomcov	ADJ;INS(SG,MASC,INAN)	nevedomcovým
+nevedomcov	ADJ;INS(SG,NEUT)	nevedomcovým
+nevedomcov	ADJ;ESS(SG,NEUT)	nevedomcovom
+nevedomcov	ADJ;VOC(PL,MASC,INAN)	nevedomcove
+nevedomcov	ADJ;NOM(PL,NEUT)	nevedomcove
+nevedomcov	ADJ;VOC(PL,NEUT)	nevedomcove
+nevedomcov	ADJ;NOM(PL,FEM)	nevedomcove
+nevedomcov	ADJ;ACC(PL,FEM)	nevedomcove
+nevedomcov	ADJ;ACC(PL,MASC,ANIM)	nevedomcových
+nevedomcov	ADJ;GEN(PL,MASC,INAN)	nevedomcových
+nevedomcov	ADJ;ESS(PL,MASC,INAN)	nevedomcových
+vyškrabnutosť	N;ACC(SG,FEM)	vyškrabnutosť
+vyškrabnutosť	N;VOC(SG,FEM)	vyškrabnutosť
+vyškrabnutosť	N;GEN(SG,FEM)	vyškrabnutosti
+vyškrabnutosť	N;NOM(PL,FEM)	vyškrabnutosti
+vyškrabnutosť	N;VOC(PL,FEM)	vyškrabnutosti
+vyškrabnutosť	N;INS(SG,FEM)	vyškrabnutosťou
+dointerpolovávací	ADJ;ESS(PL,FEM)	dointerpolovávacích
+dointerpolovávací	ADJ;GEN(SG,MASC,INAN)	dointerpolovávacieho
+dointerpolovávací	ADJ;GEN(SG,NEUT)	dointerpolovávacieho
+dointerpolovávací	ADJ;NOM(PL,FEM)	dointerpolovávacie
+dointerpolovávací	ADJ;DAT(SG,NEUT)	dointerpolovávaciemu
+dointerpolovávací	ADJ;INS(PL,MASC,ANIM)	dointerpolovávacími
+dointerpolovávací	ADJ;INS(PL,FEM)	dointerpolovávacími
+dointerpolovávací	ADJ;DAT(PL,MASC,INAN)	dointerpolovávacím
+dointerpolovávací	ADJ;DAT(PL,NEUT)	dointerpolovávacím
+dointerpolovávací	ADJ;DAT(PL,FEM)	dointerpolovávacím
+dointerpolovávací	ADJ;ESS(SG,MASC,ANIM)	dointerpolovávacom
+dointerpolovávací	ADJ;ESS(SG,NEUT)	dointerpolovávacom
+dointerpolovávací	ADJ;NOM(SG,MASC,ANIM)	dointerpolovávací
+dointerpolovávací	ADJ;NOM(PL,MASC,ANIM)	dointerpolovávací
+pozahadzúvanie	N;INS(SG,NEUT)	pozahadzúvaním
+pozahadzúvanie	N;ESS(SG,NEUT)	pozahadzúvaní
+pozahadzúvanie	N;GEN(SG,NEUT)	pozahadzúvania
+obnažúvanie	N;DAT(SG,NEUT)	obnažúvaniu
+šteklievať	V;PRS;IND;NEG;IPFV;2;SG	nešteklievaš
+šteklievať	V;COND;PRS;IPFV;1;SG;FEM	šteklievala by som štekali
+šteklievať	V;PST;IND;PFV;3;SG;FEM	šteklievala
+šteklievať	V;PST;IND;PFV;1;SG;FEM	šteklievala som
+šteklievať	V;COND;PRS;PFV;3;SG;FEM	šteklievala by šteklievala
+šteklievať	V;COND;PRS;PFV;2;SG;FEM	šteklievala by si šteklievala
+šteklievať	V;COND;PST;PFV;3;SG;FEM	bola by šteklievala
+šteklievať	V;COND;PST;PFV;1;SG;FEM	bola by som šteklievala
+šteklievať	V;PRS;IND;NEG;IPFV;1;SG	nešteklievam
+šteklievať	V.PTCP;PASS;PFV;ACC;NOM(3,SG,FEM)	šteklievanú
+šteklievať	V;PST;IND;NEG;IPFV;3;SG;FEM	nešteklievala
+šteklievať	V;PST;IND;NEG;IPFV;1;SG;FEM	nešteklievala som
+šteklievať	V;COND;PST;NEG;IPFV;1;SG;FEM	nebola by som šteklievala
+šteklievať	V;PST;IND;NEG;PFV;3;SG;FEM	nešteklievala
+šteklievať	V;COND;PST;NEG;PFV;2;SG;FEM	nebola by si šteklievala
+šteklievať	V.PTCP;PASS;NEG;IPFV;NOM;NOM(3,PL,MASC,ANIM)	nešteklievaní
+šteklievať	V;PST;IND;NEG;IPFV;3;PL;MASC;ANIM	nešteklievali
+šteklievať	V;COND;PRS;NEG;IPFV;2;PL;MASC;ANIM	nešteklievali by ste
+šteklievať	V;PST;IND;NEG;PFV;3;PL;MASC;ANIM	nešteklievali
+šteklievať	V;COND;PRS;NEG;PFV;3;PL;MASC;ANIM	nešteklievali by
+šteklievať	V;COND;PRS;NEG;PFV;2;PL;MASC;ANIM	nešteklievali by ste
+šteklievať	V;COND;PST;NEG;PFV;1;PL;MASC;ANIM	neboli by sme šteklievali
+šteklievať	V;COND;PST;NEG;PFV;2;PL;MASC;ANIM	neboli by ste šteklievali
+šteklievať	V;COND;PRS;NEG;IPFV;1;PL;MASC;INAN	nešteklievali by sme
+šteklievať	V;COND;PST;NEG;IPFV;3;PL;MASC;INAN	neboli by šteklievali
+šteklievať	V;COND;PST;NEG;IPFV;2;PL;MASC;INAN	neboli by ste šteklievali
+šteklievať	V;PST;IND;NEG;PFV;1;PL;MASC;INAN	nešteklievali sme
+šteklievať	V;COND;PST;NEG;PFV;2;PL;MASC;INAN	neboli by ste šteklievali
+šteklievať	V;COND;PRS;NEG;IPFV;1;PL;FEM	nešteklievali by sme
+šteklievať	V;COND;PST;NEG;IPFV;2;PL;FEM	neboli by ste šteklievali
+šteklievať	V;COND;PRS;NEG;PFV;3;PL;FEM	nešteklievali by
+šteklievať	V;COND;PST;NEG;PFV;2;PL;FEM	neboli by ste šteklievali
+šteklievať	V;PST;IND;NEG;IPFV;3;PL;NEUT	nešteklievali
+šteklievať	V;PST;IND;NEG;IPFV;1;PL;NEUT	nešteklievali sme
+šteklievať	V;COND;PRS;NEG;PFV;3;PL;NEUT	nešteklievali by
+šteklievať	V;COND;PRS;NEG;PFV;1;PL;NEUT	nešteklievali by sme
+šteklievať	V;COND;PRS;NEG;PFV;2;PL;NEUT	nešteklievali by ste
+šteklievať	V;COND;PST;NEG;PFV;3;PL;NEUT	neboli by šteklievali
+šteklievať	V;COND;PST;NEG;PFV;1;PL;NEUT	neboli by sme šteklievali
+šteklievať	V;COND;PST;IPFV;3;SG;MASC	bol by šteklieval
+šteklievať	V;COND;PST;PFV;3;SG;MASC	bol by šteklieval
+šteklievať	V;PRS;IND;PFV;3;PL	šteklievajú
+šteklievať	V;PST;IND;IPFV;1;SG;NEUT	šteklievalo som
+šteklievať	V;COND;PRS;IPFV;3;SG;NEUT	šteklievalo by šteklieval
+šteklievať	V;COND;PRS;IPFV;2;SG;NEUT	šteklievalo by si šteklieval
+šteklievať	V;COND;PRS;PFV;1;SG;NEUT	šteklievalo by som šteklievalo
+šteklievať	V;COND;PST;PFV;1;SG;NEUT	bolo by som šteklievalo
+šteklievať	V;COND;PST;PFV;2;SG;NEUT	bolo by si šteklievalo
+šteklievať	V.PTCP;PASS;IPFV;NOM;NOM(3,SG,FEM)	šteklievaná
+šteklievať	V.PTCP;PASS;PFV;NOM;NOM(3,SG,FEM)	šteklievaná
+šteklievať	V;NFIN;NEG;PFV	nešteklievať
+šteklievať	V;IMP;PFV;2;PL	šteklievajte
+šteklievať	V.PTCP;PASS;NEG;IPFV;NOM;NOM(3,SG,FEM)	nešteklievaná
+šteklievať	V.PTCP;PASS;NEG;PFV;NOM;NOM(3,PL,FEM)	nešteklievané
+šteklievať	V;PRS;IND;NEG;IPFV;3;PL	nešteklievajú
+šteklievať	V;PST;IND;IPFV;3;PL;MASC;ANIM	šteklievali
+šteklievať	V;COND;PRS;IPFV;3;PL;MASC;ANIM	šteklievali by
+šteklievať	V;COND;PRS;IPFV;2;PL;MASC;ANIM	šteklievali by ste
+šteklievať	V;PST;IND;PFV;1;PL;MASC;ANIM	šteklievali sme
+šteklievať	V;PST;IND;PFV;2;PL;MASC;ANIM	šteklievali ste
+šteklievať	V;COND;PST;PFV;2;PL;MASC;ANIM	boli by ste šteklievali
+šteklievať	V;PST;IND;IPFV;2;PL;MASC;INAN	šteklievali ste
+šteklievať	V;PST;IND;PFV;3;PL;MASC;INAN	šteklievali
+šteklievať	V;PST;IND;PFV;2;PL;MASC;INAN	šteklievali ste
+šteklievať	V;COND;PST;PFV;3;PL;MASC;INAN	boli by šteklievali
+šteklievať	V;PST;IND;IPFV;3;PL;FEM	šteklievali
+šteklievať	V;PST;IND;IPFV;2;PL;FEM	šteklievali ste
+šteklievať	V;COND;PRS;IPFV;2;PL;FEM	šteklievali by ste
+šteklievať	V;COND;PST;IPFV;3;PL;FEM	boli by šteklievali
+šteklievať	V;PST;IND;PFV;3;PL;FEM	šteklievali
+šteklievať	V;COND;PRS;PFV;1;PL;FEM	šteklievali by sme
+šteklievať	V;COND;PST;PFV;1;PL;FEM	boli by sme šteklievali
+šteklievať	V;COND;PST;PFV;2;PL;FEM	boli by ste šteklievali
+šteklievať	V;PST;IND;IPFV;2;PL;NEUT	šteklievali ste
+šteklievať	V;COND;PST;IPFV;1;PL;NEUT	boli by sme šteklievali
+šteklievať	V;COND;PST;IPFV;2;PL;NEUT	boli by ste šteklievali
+šteklievať	V;COND;PST;PFV;3;PL;NEUT	boli by šteklievali
+šteklievať	V;COND;PST;PFV;1;PL;NEUT	boli by sme šteklievali
+šteklievať	V;COND;PST;PFV;2;PL;NEUT	boli by ste šteklievali
+šteklievať	V;NFIN;IPFV	šteklievať
+šteklievať	V;FUT;IND;IPFV;1;SG	budem šteklievať
+šteklievať	V;FUT;IND;NEG;IPFV;1;SG	nebudem šteklievať
+šteklievať	V;FUT;IND;IPFV;3;SG	bude šteklievať
+šteklievať	V;FUT;IND;IPFV;2;PL	budete šteklievať
+šteklievať	V;PST;IND;NEG;IPFV;1;SG;MASC	nešteklieval som
+šteklievať	V;COND;PRS;NEG;IPFV;3;SG;MASC	nešteklieval by šteklievali
+šteklievať	V;COND;PST;NEG;IPFV;3;SG;MASC	nebol by šteklieval
+šteklievať	V;COND;PST;NEG;IPFV;1;SG;MASC	nebol by som šteklieval
+šteklievať	V;COND;PST;NEG;IPFV;2;SG;MASC	nebol by si šteklieval
+šteklievať	V;COND;PST;NEG;PFV;1;SG;MASC	nebol by som šteklieval
+šteklievať	V;PRS;IND;NEG;IPFV;1;PL	nešteklievame
+šteklievať	V;PRS;IND;IPFV;2;PL	šteklievate
+šteklievať	V;PST;IND;NEG;IPFV;3;SG;NEUT	nešteklievalo
+šteklievať	V;PST;IND;NEG;IPFV;1;SG;NEUT	nešteklievalo som
+šteklievať	V;PST;IND;NEG;IPFV;2;SG;NEUT	nešteklievalo si
+šteklievať	V;COND;PST;NEG;IPFV;2;SG;NEUT	nebolo by si šteklievalo
+šteklievať	V;PRS;IND;IPFV;2;SG	šteklievaš
+šteklievať	V;PRS;IND;PFV;2;SG	šteklievaš
+šteklievať	V.PTCP;PASS;NEG;IPFV;ACC;NOM(3,SG,FEM)	nešteklievanú
+šteklievať	V.PTCP;PASS;NEG;PFV;ACC;NOM(3,SG,FEM)	nešteklievanú
+panteistov	ADJ;GEN(SG,FEM)	panteistovej
+panteistov	ADJ;INS(PL,NEUT)	panteistovými
+panteistov	ADJ;DAT(PL,MASC,INAN)	panteistovým
+panteistov	ADJ;NOM(SG,FEM)	panteistova
+panteistov	ADJ;ACC(PL,MASC,INAN)	panteistove
+panteistov	ADJ;NOM(PL,FEM)	panteistove
+panteistov	ADJ;ACC(PL,FEM)	panteistove
+panteistov	ADJ;ACC(PL,MASC,ANIM)	panteistových
+panteistov	ADJ;GEN(PL,NEUT)	panteistových
+vyporiadavavací	ADJ;INS(SG,FEM)	vyporiadavavacou
+vyporiadavavací	ADJ;NOM(SG,NEUT)	vyporiadavavacie
+vyporiadavavací	ADJ;ACC(SG,MASC,INAN)	vyporiadavavací
+vyporiadavavací	ADJ;ESS(PL,FEM)	vyporiadavavacích
+vyporiadavavací	ADJ;ACC(PL,MASC,INAN)	vyporiadavavacie
+vyporiadavavací	ADJ;VOC(PL,FEM)	vyporiadavavacie
+vyporiadavavací	ADJ;INS(SG,MASC,INAN)	vyporiadavavacím
+vyporiadavavací	ADJ;GEN(PL,FEM)	vyporiadavavacích
+vyporiadavavací	ADJ;INS(PL,MASC,ANIM)	vyporiadavavacími
+vyporiadavavací	ADJ;VOC(SG,FEM)	vyporiadavavacia
+vyporiadavavací	ADJ;GEN(SG,MASC,INAN)	vyporiadavavacieho
+vyporiadavavací	ADJ;GEN(SG,NEUT)	vyporiadavavacieho
+vyporiadavavací	ADJ;NOM(PL,NEUT)	vyporiadavavacie
+vyporiadavavací	ADJ;GEN(PL,NEUT)	vyporiadavavacích
+vyporiadavavací	ADJ;ACC(PL,FEM)	vyporiadavavacie
+vyporiadavavací	ADJ;DAT(PL,NEUT)	vyporiadavavacím
+vyporiadavavací	ADJ;VOC(SG,MASC,INAN)	vyporiadavavací
+dopreložene	ADV	nedopreložene
+dopreložene	ADV;SPRL	najnedopreloženejšie
+blamovane	ADV	blamovane
+blamovane	ADV;SPRL	najblamovanejšie
+dekretovateľnosť	N;INS(PL,FEM)	dekretovateľnosťami
+dekretovateľnosť	N;NOM(PL,FEM)	dekretovateľnosti
+dekretovateľnosť	N;ACC(PL,FEM)	dekretovateľnosti
+poľakací	ADJ;VOC(SG,FEM)	poľakacia
+poľakací	ADJ;ACC(SG,FEM)	poľakaciu
+poľakací	ADJ;GEN(PL,MASC,ANIM)	poľakacích
+poľakací	ADJ;ACC(PL,MASC,ANIM)	poľakacích
+poľakací	ADJ;ESS(PL,NEUT)	poľakacích
+poľakací	ADJ;ESS(PL,FEM)	poľakacích
+poľakací	ADJ;ACC(SG,MASC,ANIM)	poľakacieho
+poľakací	ADJ;GEN(SG,MASC,INAN)	poľakacieho
+poľakací	ADJ;ESS(SG,FEM)	poľakacej
+poľakací	ADJ;VOC(PL,MASC,INAN)	poľakacie
+poľakací	ADJ;ACC(SG,NEUT)	poľakacie
+poľakací	ADJ;VOC(SG,NEUT)	poľakacie
+poľakací	ADJ;DAT(SG,NEUT)	poľakaciemu
+poľakací	ADJ;INS(PL,MASC,INAN)	poľakacími
+poľakací	ADJ;INS(PL,NEUT)	poľakacími
+poľakací	ADJ;INS(PL,FEM)	poľakacími
+poľakací	ADJ;INS(SG,MASC,ANIM)	poľakacím
+poľakací	ADJ;DAT(PL,MASC,ANIM)	poľakacím
+poľakací	ADJ;NOM(SG,MASC,ANIM)	poľakací
+poľakací	ADJ;ACC(SG,MASC,INAN)	poľakací
+rozdivený	ADJ;ACC(SG,NEUT)	rozdivené
+rozdivený	ADJ;CMPR;ESS(SG,MASC,ANIM)	rozdivenejšom
+rozdivený	ADJ;CMPR;ESS(SG,NEUT)	rozdivenejšom
+rozdivený	ADJ;CMPR;DAT(SG,NEUT)	rozdivenejšiemu
+rozdivený	ADJ;INS(PL,MASC,ANIM)	rozdivenými
+rozdivený	ADJ;INS(PL,MASC,INAN)	rozdivenými
+rozdivený	ADJ;INS(PL,NEUT)	rozdivenými
+rozdivený	ADJ;GEN(SG,MASC,INAN)	rozdiveného
+rozdivený	ADJ;GEN(SG,NEUT)	rozdiveného
+rozdivený	ADJ;NOM(SG,MASC,INAN)	rozdivený
+rozdivený	ADJ;ACC(SG,MASC,INAN)	rozdivený
+rozdivený	ADJ;SPRL;DAT(PL,MASC,ANIM)	najrozdivenejším
+rozdivený	ADJ;SPRL;INS(SG,MASC,INAN)	najrozdivenejším
+rozdivený	ADJ;CMPR;DAT(PL,MASC,INAN)	rozdivenejším
+rozdivený	ADJ;SPRL;DAT(PL,MASC,INAN)	najrozdivenejším
+rozdivený	ADJ;SPRL;INS(SG,NEUT)	najrozdivenejším
+rozdivený	ADJ;NOM(SG,FEM)	rozdivená
+rozdivený	ADJ;VOC(SG,FEM)	rozdivená
+rozdivený	ADJ;CMPR;NOM(SG,MASC,ANIM)	rozdivenejší
+rozdivený	ADJ;SPRL;ACC(SG,MASC,INAN)	najrozdivenejší
+rozdivený	ADJ;CMPR;GEN(PL,MASC,ANIM)	rozdivenejších
+rozdivený	ADJ;CMPR;ESS(PL,MASC,INAN)	rozdivenejších
+rozdivený	ADJ;CMPR;GEN(PL,FEM)	rozdivenejších
+rozdivený	ADJ;CMPR;ACC(SG,NEUT)	rozdivenejšie
+rozdivený	ADJ;CMPR;NOM(PL,NEUT)	rozdivenejšie
+rozdivený	ADJ;CMPR;ACC(PL,NEUT)	rozdivenejšie
+rozdivený	ADJ;ESS(PL,MASC,ANIM)	rozdivených
+rozdivený	ADJ;CMPR;DAT(SG,FEM)	rozdivenejšej
+rozdivený	ADJ;CMPR;ESS(SG,FEM)	rozdivenejšej
+rozdivený	ADJ;CMPR;ACC(SG,MASC,ANIM)	rozdivenejšieho
+rozdivený	ADJ;SPRL;ACC(SG,MASC,ANIM)	najrozdivenejšieho
+rozdivený	ADJ;INS(SG,NEUT)	rozdiveným
+rozdivený	ADJ;DAT(PL,FEM)	rozdiveným
+rozdivený	ADJ;GEN(SG,FEM)	rozdivenej
+rozdivený	ADJ;SPRL;INS(PL,FEM)	najrozdivenejšími
+predbehnuteľný	ADJ;NOM(PL,NEUT)	predbehnuteľné
+predbehnuteľný	ADJ;ACC(PL,NEUT)	predbehnuteľné
+predbehnuteľný	ADJ;NOM(PL,FEM)	predbehnuteľné
+predbehnuteľný	ADJ;ESS(SG,MASC,ANIM)	predbehnuteľnom
+predbehnuteľný	ADJ;ESS(SG,MASC,INAN)	predbehnuteľnom
+predbehnuteľný	ADJ;ESS(SG,NEUT)	predbehnuteľnom
+predbehnuteľný	ADJ;SPRL;ACC(SG,FEM)	najpredbehnuteľnejšiu
+predbehnuteľný	ADJ;CMPR;ESS(SG,MASC,ANIM)	predbehnuteľnejšom
+predbehnuteľný	ADJ;SPRL;ESS(SG,MASC,ANIM)	najpredbehnuteľnejšom
+predbehnuteľný	ADJ;SPRL;ESS(SG,MASC,INAN)	najpredbehnuteľnejšom
+predbehnuteľný	ADJ;CMPR;ESS(SG,NEUT)	predbehnuteľnejšom
+predbehnuteľný	ADJ;INS(PL,FEM)	predbehnuteľnými
+predbehnuteľný	ADJ;ACC(SG,MASC,ANIM)	predbehnuteľného
+predbehnuteľný	ADJ;SPRL;INS(SG,MASC,ANIM)	najpredbehnuteľnejším
+predbehnuteľný	ADJ;SPRL;DAT(PL,MASC,ANIM)	najpredbehnuteľnejším
+predbehnuteľný	ADJ;CMPR;DAT(PL,MASC,INAN)	predbehnuteľnejším
+predbehnuteľný	ADJ;SPRL;INS(SG,NEUT)	najpredbehnuteľnejším
+predbehnuteľný	ADJ;CMPR;DAT(PL,NEUT)	predbehnuteľnejším
+predbehnuteľný	ADJ;CMPR;DAT(PL,FEM)	predbehnuteľnejším
+predbehnuteľný	ADJ;SPRL;NOM(SG,FEM)	najpredbehnuteľnejšia
+predbehnuteľný	ADJ;NOM(SG,FEM)	predbehnuteľná
+predbehnuteľný	ADJ;VOC(SG,FEM)	predbehnuteľná
+predbehnuteľný	ADJ;CMPR;ACC(SG,MASC,INAN)	predbehnuteľnejší
+predbehnuteľný	ADJ;CMPR;NOM(PL,MASC,ANIM)	predbehnuteľnejší
+predbehnuteľný	ADJ;SPRL;NOM(PL,MASC,ANIM)	najpredbehnuteľnejší
+predbehnuteľný	ADJ;CMPR;VOC(PL,MASC,ANIM)	predbehnuteľnejší
+predbehnuteľný	ADJ;SPRL;GEN(PL,MASC,ANIM)	najpredbehnuteľnejších
+predbehnuteľný	ADJ;CMPR;ACC(PL,MASC,ANIM)	predbehnuteľnejších
+predbehnuteľný	ADJ;SPRL;GEN(PL,MASC,INAN)	najpredbehnuteľnejších
+predbehnuteľný	ADJ;SPRL;ACC(PL,MASC,INAN)	najpredbehnuteľnejšie
+predbehnuteľný	ADJ;CMPR;NOM(SG,NEUT)	predbehnuteľnejšie
+predbehnuteľný	ADJ;SPRL;NOM(SG,NEUT)	najpredbehnuteľnejšie
+predbehnuteľný	ADJ;CMPR;ACC(SG,NEUT)	predbehnuteľnejšie
+predbehnuteľný	ADJ;SPRL;NOM(PL,NEUT)	najpredbehnuteľnejšie
+predbehnuteľný	ADJ;CMPR;ACC(PL,NEUT)	predbehnuteľnejšie
+predbehnuteľný	ADJ;SPRL;ACC(PL,NEUT)	najpredbehnuteľnejšie
+predbehnuteľný	ADJ;SPRL;VOC(PL,NEUT)	najpredbehnuteľnejšie
+predbehnuteľný	ADJ;SPRL;VOC(PL,FEM)	najpredbehnuteľnejšie
+predbehnuteľný	ADJ;ESS(PL,MASC,ANIM)	predbehnuteľných
+predbehnuteľný	ADJ;ESS(PL,MASC,INAN)	predbehnuteľných
+predbehnuteľný	ADJ;DAT(SG,MASC,INAN)	predbehnuteľnému
+predbehnuteľný	ADJ;SPRL;ACC(SG,MASC,ANIM)	najpredbehnuteľnejšieho
+predbehnuteľný	ADJ;CMPR;GEN(SG,MASC,INAN)	predbehnuteľnejšieho
+predbehnuteľný	ADJ;SPRL;GEN(SG,NEUT)	najpredbehnuteľnejšieho
+predbehnuteľný	ADJ;INS(SG,MASC,ANIM)	predbehnuteľným
+predbehnuteľný	ADJ;DAT(PL,MASC,ANIM)	predbehnuteľným
+predbehnuteľný	ADJ;INS(SG,NEUT)	predbehnuteľným
+predbehnuteľný	ADJ;GEN(SG,FEM)	predbehnuteľnej
+predbehnuteľný	ADJ;DAT(SG,FEM)	predbehnuteľnej
+predbehnuteľný	ADJ;ESS(SG,FEM)	predbehnuteľnej
+predbehnuteľný	ADJ;SPRL;INS(SG,FEM)	najpredbehnuteľnejšou
+predbehnuteľný	ADJ;SPRL;INS(PL,MASC,ANIM)	najpredbehnuteľnejšími
+šťastie	N;ESS(PL,NEUT)	šťastiach
+šťastie	N;ACC(PL,NEUT)	šťastia
+šťastie	N;VOC(PL,NEUT)	šťastia
+šťastie	N;DAT(PL,NEUT)	šťastiam
+šťastie	N;ESS(SG,NEUT)	šťastí
+podplukovníčkin	ADJ;ESS(SG,MASC,ANIM)	podplukovníčkinom
+podplukovníčkin	ADJ;ACC(SG,MASC,INAN)	podplukovníčkin
+podplukovníčkin	ADJ;ACC(SG,MASC,ANIM)	podplukovníčkinho
+podplukovníčkin	ADJ;NOM(PL,MASC,INAN)	podplukovníčkine
+podplukovníčkin	ADJ;NOM(PL,FEM)	podplukovníčkine
+podplukovníčkin	ADJ;ACC(PL,FEM)	podplukovníčkine
+podplukovníčkin	ADJ;GEN(PL,MASC,ANIM)	podplukovníčkiných
+podplukovníčkin	ADJ;ESS(PL,MASC,ANIM)	podplukovníčkiných
+podplukovníčkin	ADJ;GEN(PL,MASC,INAN)	podplukovníčkiných
+podplukovníčkin	ADJ;ESS(PL,NEUT)	podplukovníčkiných
+podplukovníčkin	ADJ;GEN(SG,FEM)	podplukovníčkinej
+podplukovníčkin	ADJ;ACC(SG,FEM)	podplukovníčkinu
+podplukovníčkin	ADJ;DAT(PL,MASC,ANIM)	podplukovníčkiným
+podplukovníčkin	ADJ;DAT(PL,NEUT)	podplukovníčkiným
+podplukovníčkin	ADJ;VOC(SG,NEUT)	podplukovníčkino
+oddielovosť	N;NOM(SG,FEM)	oddielovosť
+oddielovosť	N;VOC(SG,FEM)	oddielovosť
+oddielovosť	N;GEN(PL,FEM)	oddielovostí
+oddielovosť	N;INS(PL,FEM)	oddielovosťami
+oddielovosť	N;GEN(SG,FEM)	oddielovosti
+zatĺkavaný	ADJ;NOM(SG,NEUT)	zatĺkavané
+zatĺkavaný	ADJ;VOC(SG,NEUT)	zatĺkavané
+zatĺkavaný	ADJ;ACC(PL,NEUT)	zatĺkavané
+zatĺkavaný	ADJ;VOC(PL,FEM)	zatĺkavané
+zatĺkavaný	ADJ;SPRL;ESS(SG,MASC,ANIM)	najzatĺkavanejšom
+zatĺkavaný	ADJ;SPRL;ESS(SG,NEUT)	najzatĺkavanejšom
+zatĺkavaný	ADJ;INS(PL,MASC,ANIM)	zatĺkavanými
+zatĺkavaný	ADJ;GEN(SG,MASC,INAN)	zatĺkavaného
+zatĺkavaný	ADJ;VOC(SG,MASC,ANIM)	zatĺkavaný
+zatĺkavaný	ADJ;VOC(SG,MASC,INAN)	zatĺkavaný
+zatĺkavaný	ADJ;CMPR;INS(SG,MASC,ANIM)	zatĺkavanejším
+zatĺkavaný	ADJ;CMPR;INS(SG,MASC,INAN)	zatĺkavanejším
+zatĺkavaný	ADJ;SPRL;DAT(PL,MASC,INAN)	najzatĺkavanejším
+zatĺkavaný	ADJ;CMPR;VOC(SG,FEM)	zatĺkavanejšia
+zatĺkavaný	ADJ;CMPR;ACC(SG,MASC,INAN)	zatĺkavanejší
+zatĺkavaný	ADJ;SPRL;NOM(PL,MASC,ANIM)	najzatĺkavanejší
+zatĺkavaný	ADJ;CMPR;GEN(PL,MASC,ANIM)	zatĺkavanejších
+zatĺkavaný	ADJ;SPRL;ACC(PL,MASC,ANIM)	najzatĺkavanejších
+zatĺkavaný	ADJ;SPRL;GEN(PL,MASC,INAN)	najzatĺkavanejších
+zatĺkavaný	ADJ;CMPR;ESS(PL,MASC,INAN)	zatĺkavanejších
+zatĺkavaný	ADJ;SPRL;ESS(PL,FEM)	najzatĺkavanejších
+zatĺkavaný	ADJ;CMPR;ACC(PL,MASC,INAN)	zatĺkavanejšie
+zatĺkavaný	ADJ;SPRL;NOM(SG,NEUT)	najzatĺkavanejšie
+zatĺkavaný	ADJ;SPRL;ACC(PL,FEM)	najzatĺkavanejšie
+zatĺkavaný	ADJ;CMPR;VOC(PL,FEM)	zatĺkavanejšie
+zatĺkavaný	ADJ;GEN(PL,MASC,INAN)	zatĺkavaných
+zatĺkavaný	ADJ;GEN(PL,NEUT)	zatĺkavaných
+zatĺkavaný	ADJ;CMPR;GEN(SG,FEM)	zatĺkavanejšej
+zatĺkavaný	ADJ;CMPR;DAT(SG,FEM)	zatĺkavanejšej
+zatĺkavaný	ADJ;SPRL;DAT(SG,FEM)	najzatĺkavanejšej
+zatĺkavaný	ADJ;SPRL;ESS(SG,FEM)	najzatĺkavanejšej
+zatĺkavaný	ADJ;DAT(SG,MASC,INAN)	zatĺkavanému
+zatĺkavaný	ADJ;SPRL;GEN(SG,MASC,ANIM)	najzatĺkavanejšieho
+zatĺkavaný	ADJ;SPRL;ACC(SG,MASC,ANIM)	najzatĺkavanejšieho
+zatĺkavaný	ADJ;CMPR;GEN(SG,MASC,INAN)	zatĺkavanejšieho
+zatĺkavaný	ADJ;SPRL;GEN(SG,NEUT)	najzatĺkavanejšieho
+zatĺkavaný	ADJ;INS(SG,MASC,INAN)	zatĺkavaným
+zatĺkavaný	ADJ;DAT(SG,FEM)	zatĺkavanej
+zatĺkavaný	ADJ;CMPR;INS(SG,FEM)	zatĺkavanejšou
+zatĺkavaný	ADJ;CMPR;INS(PL,FEM)	zatĺkavanejšími
+podtrhovateľnosť	N;DAT(PL,FEM)	podtrhovateľnostiam
+fundúvaný	ADJ;ACC(SG,FEM)	fundúvanú
+fundúvaný	ADJ;NOM(PL,MASC,INAN)	fundúvané
+fundúvaný	ADJ;VOC(PL,NEUT)	fundúvané
+fundúvaný	ADJ;SPRL;DAT(SG,MASC,ANIM)	najfundúvanejšiemu
+fundúvaný	ADJ;SPRL;DAT(SG,MASC,INAN)	najfundúvanejšiemu
+fundúvaný	ADJ;INS(PL,MASC,INAN)	fundúvanými
+fundúvaný	ADJ;GEN(SG,NEUT)	fundúvaného
+fundúvaný	ADJ;VOC(SG,MASC,ANIM)	fundúvaný
+fundúvaný	ADJ;VOC(SG,MASC,INAN)	fundúvaný
+fundúvaný	ADJ;SPRL;INS(SG,MASC,INAN)	najfundúvanejším
+fundúvaný	ADJ;SPRL;INS(SG,NEUT)	najfundúvanejším
+fundúvaný	ADJ;CMPR;VOC(SG,FEM)	fundúvanejšia
+fundúvaný	ADJ;SPRL;VOC(SG,MASC,ANIM)	najfundúvanejší
+fundúvaný	ADJ;CMPR;VOC(SG,MASC,INAN)	fundúvanejší
+fundúvaný	ADJ;SPRL;VOC(SG,MASC,INAN)	najfundúvanejší
+fundúvaný	ADJ;SPRL;VOC(PL,MASC,ANIM)	najfundúvanejší
+fundúvaný	ADJ;CMPR;GEN(PL,MASC,ANIM)	fundúvanejších
+fundúvaný	ADJ;SPRL;GEN(PL,NEUT)	najfundúvanejších
+fundúvaný	ADJ;CMPR;NOM(PL,MASC,INAN)	fundúvanejšie
+fundúvaný	ADJ;CMPR;ACC(PL,NEUT)	fundúvanejšie
+fundúvaný	ADJ;CMPR;ACC(PL,FEM)	fundúvanejšie
+fundúvaný	ADJ;CMPR;VOC(PL,FEM)	fundúvanejšie
+fundúvaný	ADJ;VOC(PL,MASC,ANIM)	fundúvaní
+fundúvaný	ADJ;GEN(PL,MASC,ANIM)	fundúvaných
+fundúvaný	ADJ;ACC(PL,MASC,ANIM)	fundúvaných
+fundúvaný	ADJ;GEN(PL,FEM)	fundúvaných
+fundúvaný	ADJ;CMPR;ESS(SG,FEM)	fundúvanejšej
+fundúvaný	ADJ;SPRL;ESS(SG,FEM)	najfundúvanejšej
+fundúvaný	ADJ;DAT(SG,MASC,ANIM)	fundúvanému
+fundúvaný	ADJ;SPRL;GEN(SG,MASC,ANIM)	najfundúvanejšieho
+fundúvaný	ADJ;CMPR;GEN(SG,MASC,INAN)	fundúvanejšieho
+fundúvaný	ADJ;SPRL;GEN(SG,MASC,INAN)	najfundúvanejšieho
+fundúvaný	ADJ;CMPR;GEN(SG,NEUT)	fundúvanejšieho
+fundúvaný	ADJ;SPRL;GEN(SG,NEUT)	najfundúvanejšieho
+fundúvaný	ADJ;INS(SG,MASC,ANIM)	fundúvaným
+fundúvaný	ADJ;INS(SG,MASC,INAN)	fundúvaným
+fundúvaný	ADJ;DAT(PL,NEUT)	fundúvaným
+fundúvaný	ADJ;SPRL;INS(SG,FEM)	najfundúvanejšou
+fundúvaný	ADJ;CMPR;INS(PL,MASC,ANIM)	fundúvanejšími
+fundúvaný	ADJ;SPRL;INS(PL,MASC,ANIM)	najfundúvanejšími
+fundúvaný	ADJ;CMPR;INS(PL,MASC,INAN)	fundúvanejšími
+fundúvaný	ADJ;CMPR;INS(PL,NEUT)	fundúvanejšími
+preraďovávane	ADV;CMPR	preraďovávanejšie
+preraďovávane	ADV;SPRL	najpreraďovávanejšie
+pripočítavateľne	ADV;CMPR	pripočítavateľnejšie
+kovovýrobný	ADJ;ESS(SG,MASC,ANIM)	kovovýrobnom
+kovovýrobný	ADJ;ACC(SG,FEM)	kovovýrobnú
+kovovýrobný	ADJ;VOC(PL,NEUT)	kovovýrobné
+kovovýrobný	ADJ;ACC(PL,FEM)	kovovýrobné
+kovovýrobný	ADJ;DAT(SG,MASC,ANIM)	kovovýrobnému
+kovovýrobný	ADJ;GEN(PL,MASC,ANIM)	kovovýrobných
+kovovýrobný	ADJ;GEN(PL,FEM)	kovovýrobných
+kovovýrobný	ADJ;ACC(SG,MASC,ANIM)	kovovýrobného
+kovovýrobný	ADJ;DAT(PL,MASC,ANIM)	kovovýrobným
+kovovýrobný	ADJ;INS(SG,NEUT)	kovovýrobným
+kovovýrobný	ADJ;DAT(PL,NEUT)	kovovýrobným
+kovovýrobný	ADJ;DAT(PL,FEM)	kovovýrobným
+kovovýrobný	ADJ;INS(PL,MASC,ANIM)	kovovýrobnými
+kovovýrobný	ADJ;INS(PL,FEM)	kovovýrobnými
+kovovýrobný	ADJ;NOM(SG,FEM)	kovovýrobná
+kovovýrobný	ADJ;VOC(SG,FEM)	kovovýrobná
+kovovýrobný	ADJ;NOM(SG,MASC,INAN)	kovovýrobný
+kovovýrobný	ADJ;ACC(SG,MASC,INAN)	kovovýrobný
+vylízanie	N;NOM(PL,NEUT)	vylízania
+vylízanie	N;ESS(PL,NEUT)	vylízaniach
+vylízanie	N;NOM(SG,NEUT)	vylízanie
+vylízanie	N;VOC(SG,NEUT)	vylízanie
+skrátenie	N;INS(SG,NEUT)	skrátením
+oddeklarovateľný	ADJ;ACC(SG,FEM)	oddeklarovateľnú
+oddeklarovateľný	ADJ;VOC(PL,MASC,INAN)	oddeklarovateľné
+oddeklarovateľný	ADJ;ACC(PL,FEM)	oddeklarovateľné
+oddeklarovateľný	ADJ;ESS(SG,MASC,INAN)	oddeklarovateľnom
+oddeklarovateľný	ADJ;SPRL;ESS(SG,MASC,ANIM)	najoddeklarovateľnejšom
+oddeklarovateľný	ADJ;SPRL;DAT(SG,MASC,ANIM)	najoddeklarovateľnejšiemu
+oddeklarovateľný	ADJ;GEN(SG,MASC,ANIM)	oddeklarovateľného
+oddeklarovateľný	ADJ;CMPR;INS(SG,MASC,ANIM)	oddeklarovateľnejším
+oddeklarovateľný	ADJ;CMPR;DAT(PL,MASC,ANIM)	oddeklarovateľnejším
+oddeklarovateľný	ADJ;SPRL;INS(SG,MASC,INAN)	najoddeklarovateľnejším
+oddeklarovateľný	ADJ;CMPR;INS(SG,NEUT)	oddeklarovateľnejším
+oddeklarovateľný	ADJ;SPRL;DAT(PL,NEUT)	najoddeklarovateľnejším
+oddeklarovateľný	ADJ;SPRL;DAT(PL,FEM)	najoddeklarovateľnejším
+oddeklarovateľný	ADJ;SPRL;NOM(SG,FEM)	najoddeklarovateľnejšia
+oddeklarovateľný	ADJ;SPRL;VOC(SG,MASC,ANIM)	najoddeklarovateľnejší
+oddeklarovateľný	ADJ;SPRL;VOC(SG,MASC,INAN)	najoddeklarovateľnejší
+oddeklarovateľný	ADJ;CMPR;NOM(PL,MASC,ANIM)	oddeklarovateľnejší
+oddeklarovateľný	ADJ;SPRL;NOM(PL,MASC,ANIM)	najoddeklarovateľnejší
+oddeklarovateľný	ADJ;SPRL;GEN(PL,MASC,ANIM)	najoddeklarovateľnejších
+oddeklarovateľný	ADJ;CMPR;ACC(PL,MASC,ANIM)	oddeklarovateľnejších
+oddeklarovateľný	ADJ;CMPR;ESS(PL,MASC,INAN)	oddeklarovateľnejších
+oddeklarovateľný	ADJ;SPRL;ESS(PL,MASC,INAN)	najoddeklarovateľnejších
+oddeklarovateľný	ADJ;CMPR;GEN(PL,NEUT)	oddeklarovateľnejších
+oddeklarovateľný	ADJ;SPRL;ESS(PL,NEUT)	najoddeklarovateľnejších
+oddeklarovateľný	ADJ;CMPR;ESS(PL,FEM)	oddeklarovateľnejších
+oddeklarovateľný	ADJ;SPRL;ESS(PL,FEM)	najoddeklarovateľnejších
+oddeklarovateľný	ADJ;CMPR;NOM(PL,MASC,INAN)	oddeklarovateľnejšie
+oddeklarovateľný	ADJ;CMPR;ACC(PL,MASC,INAN)	oddeklarovateľnejšie
+oddeklarovateľný	ADJ;CMPR;VOC(SG,NEUT)	oddeklarovateľnejšie
+oddeklarovateľný	ADJ;CMPR;NOM(PL,NEUT)	oddeklarovateľnejšie
+oddeklarovateľný	ADJ;SPRL;NOM(PL,NEUT)	najoddeklarovateľnejšie
+oddeklarovateľný	ADJ;CMPR;ACC(PL,NEUT)	oddeklarovateľnejšie
+oddeklarovateľný	ADJ;SPRL;ACC(PL,NEUT)	najoddeklarovateľnejšie
+oddeklarovateľný	ADJ;CMPR;VOC(PL,NEUT)	oddeklarovateľnejšie
+oddeklarovateľný	ADJ;SPRL;VOC(PL,NEUT)	najoddeklarovateľnejšie
+oddeklarovateľný	ADJ;CMPR;VOC(PL,FEM)	oddeklarovateľnejšie
+oddeklarovateľný	ADJ;GEN(PL,MASC,INAN)	oddeklarovateľných
+oddeklarovateľný	ADJ;GEN(PL,NEUT)	oddeklarovateľných
+oddeklarovateľný	ADJ;ESS(PL,NEUT)	oddeklarovateľných
+oddeklarovateľný	ADJ;ESS(PL,FEM)	oddeklarovateľných
+oddeklarovateľný	ADJ;SPRL;GEN(SG,FEM)	najoddeklarovateľnejšej
+oddeklarovateľný	ADJ;SPRL;DAT(SG,FEM)	najoddeklarovateľnejšej
+oddeklarovateľný	ADJ;SPRL;ESS(SG,FEM)	najoddeklarovateľnejšej
+oddeklarovateľný	ADJ;CMPR;ACC(SG,MASC,ANIM)	oddeklarovateľnejšieho
+oddeklarovateľný	ADJ;SPRL;ACC(SG,MASC,ANIM)	najoddeklarovateľnejšieho
+oddeklarovateľný	ADJ;CMPR;GEN(SG,MASC,INAN)	oddeklarovateľnejšieho
+oddeklarovateľný	ADJ;INS(SG,MASC,INAN)	oddeklarovateľným
+oddeklarovateľný	ADJ;INS(SG,NEUT)	oddeklarovateľným
+oddeklarovateľný	ADJ;SPRL;INS(SG,FEM)	najoddeklarovateľnejšou
+oddeklarovateľný	ADJ;CMPR;INS(PL,MASC,ANIM)	oddeklarovateľnejšími
+oddeklarovateľný	ADJ;SPRL;INS(PL,MASC,ANIM)	najoddeklarovateľnejšími
+oddeklarovateľný	ADJ;CMPR;INS(PL,NEUT)	oddeklarovateľnejšími
+podivovávanosť	N;VOC(SG,FEM)	podivovávanosť
+podivovávanosť	N;GEN(PL,FEM)	podivovávaností
+podivovávanosť	N;NOM(PL,FEM)	podivovávanosti
+podivovávanosť	N;INS(SG,FEM)	podivovávanosťou
+odrubovateľný	ADJ;NOM(PL,MASC,INAN)	odrubovateľné
+odrubovateľný	ADJ;VOC(SG,NEUT)	odrubovateľné
+odrubovateľný	ADJ;NOM(PL,FEM)	odrubovateľné
+odrubovateľný	ADJ;SPRL;ACC(SG,FEM)	najodrubovateľnejšiu
+odrubovateľný	ADJ;CMPR;ESS(SG,MASC,INAN)	odrubovateľnejšom
+odrubovateľný	ADJ;CMPR;ESS(SG,NEUT)	odrubovateľnejšom
+odrubovateľný	ADJ;INS(PL,MASC,ANIM)	odrubovateľnými
+odrubovateľný	ADJ;CMPR;INS(SG,MASC,ANIM)	odrubovateľnejším
+odrubovateľný	ADJ;CMPR;DAT(PL,MASC,ANIM)	odrubovateľnejším
+odrubovateľný	ADJ;SPRL;DAT(PL,MASC,INAN)	najodrubovateľnejším
+odrubovateľný	ADJ;SPRL;INS(SG,NEUT)	najodrubovateľnejším
+odrubovateľný	ADJ;CMPR;DAT(PL,FEM)	odrubovateľnejším
+odrubovateľný	ADJ;SPRL;DAT(PL,FEM)	najodrubovateľnejším
+odrubovateľný	ADJ;CMPR;NOM(SG,FEM)	odrubovateľnejšia
+odrubovateľný	ADJ;SPRL;VOC(SG,MASC,ANIM)	najodrubovateľnejší
+odrubovateľný	ADJ;CMPR;NOM(PL,MASC,ANIM)	odrubovateľnejší
+odrubovateľný	ADJ;SPRL;GEN(PL,MASC,ANIM)	najodrubovateľnejších
+odrubovateľný	ADJ;CMPR;ACC(PL,MASC,ANIM)	odrubovateľnejších
+odrubovateľný	ADJ;SPRL;ACC(PL,MASC,ANIM)	najodrubovateľnejších
+odrubovateľný	ADJ;CMPR;ESS(PL,MASC,ANIM)	odrubovateľnejších
+odrubovateľný	ADJ;CMPR;GEN(PL,MASC,INAN)	odrubovateľnejších
+odrubovateľný	ADJ;CMPR;ESS(PL,MASC,INAN)	odrubovateľnejších
+odrubovateľný	ADJ;SPRL;GEN(PL,NEUT)	najodrubovateľnejších
+odrubovateľný	ADJ;CMPR;GEN(PL,FEM)	odrubovateľnejších
+odrubovateľný	ADJ;SPRL;GEN(PL,FEM)	najodrubovateľnejších
+odrubovateľný	ADJ;SPRL;ESS(PL,FEM)	najodrubovateľnejších
+odrubovateľný	ADJ;CMPR;ACC(PL,MASC,INAN)	odrubovateľnejšie
+odrubovateľný	ADJ;SPRL;NOM(SG,NEUT)	najodrubovateľnejšie
+odrubovateľný	ADJ;SPRL;VOC(SG,NEUT)	najodrubovateľnejšie
+odrubovateľný	ADJ;CMPR;NOM(PL,NEUT)	odrubovateľnejšie
+odrubovateľný	ADJ;CMPR;VOC(PL,NEUT)	odrubovateľnejšie
+odrubovateľný	ADJ;SPRL;VOC(PL,NEUT)	najodrubovateľnejšie
+odrubovateľný	ADJ;SPRL;ACC(PL,FEM)	najodrubovateľnejšie
+odrubovateľný	ADJ;CMPR;VOC(PL,FEM)	odrubovateľnejšie
+odrubovateľný	ADJ;GEN(PL,FEM)	odrubovateľných
+odrubovateľný	ADJ;DAT(PL,MASC,ANIM)	odrubovateľným
+odrubovateľný	ADJ;DAT(PL,MASC,INAN)	odrubovateľným
+odrubovateľný	ADJ;SPRL;INS(PL,MASC,ANIM)	najodrubovateľnejšími
+presnežený	ADJ;ACC(PL,MASC,INAN)	presnežené
+presnežený	ADJ;ACC(SG,NEUT)	presnežené
+presnežený	ADJ;NOM(PL,NEUT)	presnežené
+presnežený	ADJ;VOC(PL,NEUT)	presnežené
+presnežený	ADJ;INS(SG,FEM)	presneženou
+presnežený	ADJ;SPRL;ESS(SG,MASC,ANIM)	najpresneženejšom
+presnežený	ADJ;SPRL;ESS(SG,MASC,INAN)	najpresneženejšom
+presnežený	ADJ;SPRL;ESS(SG,NEUT)	najpresneženejšom
+presnežený	ADJ;SPRL;DAT(SG,MASC,INAN)	najpresneženejšiemu
+presnežený	ADJ;CMPR;DAT(SG,NEUT)	presneženejšiemu
+presnežený	ADJ;INS(PL,MASC,INAN)	presneženými
+presnežený	ADJ;INS(PL,NEUT)	presneženými
+presnežený	ADJ;VOC(SG,MASC,ANIM)	presnežený
+presnežený	ADJ;VOC(SG,MASC,INAN)	presnežený
+presnežený	ADJ;CMPR;INS(SG,MASC,ANIM)	presneženejším
+presnežený	ADJ;SPRL;DAT(PL,MASC,ANIM)	najpresneženejším
+presnežený	ADJ;CMPR;INS(SG,MASC,INAN)	presneženejším
+presnežený	ADJ;SPRL;NOM(SG,FEM)	najpresneženejšia
+presnežený	ADJ;SPRL;VOC(SG,FEM)	najpresneženejšia
+presnežený	ADJ;SPRL;NOM(SG,MASC,ANIM)	najpresneženejší
+presnežený	ADJ;CMPR;VOC(SG,MASC,ANIM)	presneženejší
+presnežený	ADJ;CMPR;ACC(SG,MASC,INAN)	presneženejší
+presnežený	ADJ;SPRL;VOC(PL,MASC,ANIM)	najpresneženejší
+presnežený	ADJ;SPRL;GEN(PL,MASC,ANIM)	najpresneženejších
+presnežený	ADJ;SPRL;ESS(PL,MASC,ANIM)	najpresneženejších
+presnežený	ADJ;SPRL;GEN(PL,MASC,INAN)	najpresneženejších
+presnežený	ADJ;SPRL;ESS(PL,MASC,INAN)	najpresneženejších
+presnežený	ADJ;CMPR;ESS(PL,NEUT)	presneženejších
+presnežený	ADJ;CMPR;ACC(PL,MASC,INAN)	presneženejšie
+presnežený	ADJ;SPRL;VOC(PL,MASC,INAN)	najpresneženejšie
+presnežený	ADJ;CMPR;VOC(SG,NEUT)	presneženejšie
+presnežený	ADJ;CMPR;ACC(PL,NEUT)	presneženejšie
+presnežený	ADJ;SPRL;ACC(PL,NEUT)	najpresneženejšie
+presnežený	ADJ;SPRL;VOC(PL,FEM)	najpresneženejšie
+presnežený	ADJ;VOC(PL,MASC,ANIM)	presnežení
+presnežený	ADJ;GEN(PL,MASC,ANIM)	presnežených
+presnežený	ADJ;ESS(PL,NEUT)	presnežených
+presnežený	ADJ;CMPR;GEN(SG,FEM)	presneženejšej
+presnežený	ADJ;SPRL;GEN(SG,FEM)	najpresneženejšej
+presnežený	ADJ;CMPR;DAT(SG,FEM)	presneženejšej
+presnežený	ADJ;SPRL;DAT(SG,FEM)	najpresneženejšej
+presnežený	ADJ;CMPR;ESS(SG,FEM)	presneženejšej
+presnežený	ADJ;DAT(SG,MASC,ANIM)	presneženému
+presnežený	ADJ;CMPR;GEN(SG,MASC,ANIM)	presneženejšieho
+presnežený	ADJ;CMPR;GEN(SG,MASC,INAN)	presneženejšieho
+presnežený	ADJ;SPRL;GEN(SG,MASC,INAN)	najpresneženejšieho
+presnežený	ADJ;CMPR;GEN(SG,NEUT)	presneženejšieho
+presnežený	ADJ;DAT(PL,NEUT)	presneženým
+presnežený	ADJ;ESS(SG,FEM)	presneženej
+presnežený	ADJ;SPRL;INS(PL,MASC,INAN)	najpresneženejšími
+presnežený	ADJ;CMPR;INS(PL,NEUT)	presneženejšími
+úderkovosť	N;VOC(SG,FEM)	úderkovosť
+úderkovosť	N;NOM(PL,FEM)	úderkovosti
+úderkovosť	N;ACC(PL,FEM)	úderkovosti
+úderkovosť	N;ESS(PL,FEM)	úderkovostiach
+prikročovať	V;COND;PST;NEG;IPFV;1;SG;FEM	nebola by som prikročovala
+prikročovať	V;PST;IND;NEG;PFV;3;SG;FEM	neprikročovala
+prikročovať	V;COND;PRS;NEG;PFV;1;SG;FEM	neprikročovala by som prikročovala
+prikročovať	V;COND;PRS;NEG;PFV;2;SG;FEM	neprikročovala by si prikročovala
+prikročovať	V.PTCP;PASS;NEG;IPFV;ACC;NOM(3,SG,FEM)	neprikročovanú
+prikročovať	V;PRS;IND;NEG;PFV;1;SG	neprikročujem
+prikročovať	V.PTCP;PASS;NEG;PFV;NOM;NOM(3,SG,FEM)	neprikročovaná
+prikročovať	V;PRS;IND;NEG;IPFV;3;SG	neprikročuje
+prikročovať	V;PST;IND;NEG;IPFV;3;PL;MASC;ANIM	neprikročovali
+prikročovať	V;PST;IND;NEG;IPFV;1;PL;MASC;ANIM	neprikročovali sme
+prikročovať	V;COND;PST;NEG;IPFV;2;PL;MASC;ANIM	neboli by ste prikročovali
+prikročovať	V;PST;IND;NEG;PFV;1;PL;MASC;ANIM	neprikročovali sme
+prikročovať	V;COND;PRS;NEG;PFV;1;PL;MASC;ANIM	neprikročovali by sme
+prikročovať	V;COND;PRS;NEG;IPFV;3;PL;MASC;INAN	neprikročovali by
+prikročovať	V;PST;IND;NEG;PFV;3;PL;MASC;INAN	neprikročovali
+prikročovať	V;PST;IND;NEG;PFV;1;PL;MASC;INAN	neprikročovali sme
+prikročovať	V;COND;PST;NEG;PFV;1;PL;MASC;INAN	neboli by sme prikročovali
+prikročovať	V;PST;IND;NEG;IPFV;3;PL;FEM	neprikročovali
+prikročovať	V;PST;IND;NEG;IPFV;1;PL;FEM	neprikročovali sme
+prikročovať	V;COND;PRS;NEG;IPFV;3;PL;FEM	neprikročovali by
+prikročovať	V;COND;PRS;NEG;IPFV;2;PL;FEM	neprikročovali by ste
+prikročovať	V;PST;IND;NEG;PFV;2;PL;NEUT	neprikročovali ste
+prikročovať	V;COND;PRS;IPFV;1;SG;FEM	prikročovala by som prikročovali
+prikročovať	V;COND;PRS;IPFV;2;SG;FEM	prikročovala by si prikročovali
+prikročovať	V;PST;IND;PFV;2;SG;FEM	prikročovala si
+prikročovať	V;COND;PST;PFV;3;SG;FEM	bola by prikročovala
+prikročovať	V;COND;PST;PFV;2;SG;FEM	bola by si prikročovala
+prikročovať	V.PTCP;PASS;IPFV;NOM;NOM(3,PL,MASC,ANIM)	prikročovaní
+prikročovať	V.PTCP;PASS;PFV;NOM;NOM(3,PL,MASC,ANIM)	prikročovaní
+prikročovať	V;IMP;IPFV;2;SG	prikročuj
+prikročovať	V;PRS;IND;IPFV;3;SG	prikročuje
+prikročovať	V;PST;IND;IPFV;2;PL;MASC;ANIM	prikročovali ste
+prikročovať	V;COND;PST;IPFV;3;PL;MASC;ANIM	boli by prikročovali
+prikročovať	V;COND;PST;IPFV;1;PL;MASC;ANIM	boli by sme prikročovali
+prikročovať	V;PST;IND;PFV;3;PL;MASC;ANIM	prikročovali
+prikročovať	V;PST;IND;PFV;1;PL;MASC;ANIM	prikročovali sme
+prikročovať	V;COND;PRS;PFV;3;PL;MASC;ANIM	prikročovali by
+prikročovať	V;COND;PRS;PFV;2;PL;MASC;ANIM	prikročovali by ste
+prikročovať	V;COND;PRS;IPFV;1;PL;MASC;INAN	prikročovali by sme
+prikročovať	V;COND;PST;IPFV;2;PL;MASC;INAN	boli by ste prikročovali
+prikročovať	V;PST;IND;PFV;1;PL;MASC;INAN	prikročovali sme
+prikročovať	V;COND;PRS;IPFV;1;PL;FEM	prikročovali by sme
+prikročovať	V;COND;PRS;IPFV;2;PL;FEM	prikročovali by ste
+prikročovať	V;PST;IND;PFV;3;PL;FEM	prikročovali
+prikročovať	V;PST;IND;PFV;1;PL;FEM	prikročovali sme
+prikročovať	V;PST;IND;PFV;2;PL;FEM	prikročovali ste
+prikročovať	V;COND;PRS;PFV;2;PL;FEM	prikročovali by ste
+prikročovať	V;COND;PST;PFV;1;PL;FEM	boli by sme prikročovali
+prikročovať	V;PST;IND;IPFV;2;PL;NEUT	prikročovali ste
+prikročovať	V;COND;PRS;IPFV;3;PL;NEUT	prikročovali by
+prikročovať	V;COND;PRS;IPFV;1;PL;NEUT	prikročovali by sme
+prikročovať	V;COND;PRS;IPFV;2;PL;NEUT	prikročovali by ste
+prikročovať	V;COND;PST;IPFV;3;PL;NEUT	boli by prikročovali
+prikročovať	V;COND;PRS;PFV;3;PL;NEUT	prikročovali by
+prikročovať	V;PRS;IND;IPFV;2;SG	prikročuješ
+prikročovať	V;FUT;IND;IPFV;2;SG	budeš prikročovať
+prikročovať	V;FUT;IND;NEG;IPFV;1;PL	nebudeme prikročovať
+prikročovať	V;IMP;PFV;2;PL	prikročujte
+prikročovať	V;COND;PRS;IPFV;3;SG;NEUT	prikročovalo by prikročovali
+prikročovať	V;COND;PST;IPFV;3;SG;NEUT	bolo by prikročovalo
+prikročovať	V;COND;PST;IPFV;1;SG;NEUT	bolo by som prikročovalo
+prikročovať	V;COND;PST;PFV;3;SG;NEUT	bolo by prikročovalo
+prikročovať	V;COND;PST;PFV;1;SG;NEUT	bolo by som prikročovalo
+prikročovať	V;COND;PST;PFV;2;SG;NEUT	bolo by si prikročovalo
+prikročovať	V;COND;PRS;IPFV;1;SG;MASC	prikročoval by som prikročovalo
+prikročovať	V;PST;IND;PFV;3;SG;MASC	prikročoval
+prikročovať	V;PST;IND;PFV;1;SG;MASC	prikročoval som
+prikročovať	V;COND;PRS;PFV;1;SG;MASC	prikročoval by som prikročoval
+prikročovať	V;PRS;IND;PFV;1;PL	prikročujeme
+prikročovať	V.PTCP;PASS;NEG;PFV;NOM;NOM(3,PL,FEM)	neprikročované
+prikročovať	V;PST;IND;NEG;IPFV;2;SG;MASC	neprikročoval si
+prikročovať	V;COND;PRS;NEG;IPFV;1;SG;MASC	neprikročoval by som prikročoval
+prikročovať	V;COND;PST;NEG;IPFV;1;SG;MASC	nebol by som prikročoval
+prikročovať	V;PST;IND;NEG;PFV;3;SG;MASC	neprikročoval
+prikročovať	V;COND;PRS;NEG;PFV;1;SG;MASC	neprikročoval by som prikročoval
+prikročovať	V;COND;PST;NEG;PFV;3;SG;MASC	nebol by prikročoval
+prikročovať	V;PST;IND;NEG;IPFV;1;SG;NEUT	neprikročovalo som
+prikročovať	V;COND;PRS;NEG;IPFV;3;SG;NEUT	neprikročovalo by prikročoval
+prikročovať	V;COND;PRS;NEG;IPFV;2;SG;NEUT	neprikročovalo by si prikročoval
+prikročovať	V;PST;IND;NEG;PFV;1;SG;NEUT	neprikročovalo som
+prikročovať	V;COND;PRS;NEG;PFV;2;SG;NEUT	neprikročovalo by si prikročovalo
+nachyľovane	ADV	nenachyľovane
+priadresovávaný	ADJ;ACC(PL,NEUT)	priadresovávané
+priadresovávaný	ADJ;VOC(PL,FEM)	priadresovávané
+priadresovávaný	ADJ;ESS(SG,MASC,INAN)	priadresovávanom
+priadresovávaný	ADJ;CMPR;ACC(SG,FEM)	priadresovávanejšiu
+priadresovávaný	ADJ;INS(SG,FEM)	priadresovávanou
+priadresovávaný	ADJ;SPRL;ESS(SG,MASC,INAN)	najpriadresovávanejšom
+priadresovávaný	ADJ;CMPR;DAT(SG,MASC,ANIM)	priadresovávanejšiemu
+priadresovávaný	ADJ;SPRL;DAT(SG,MASC,INAN)	najpriadresovávanejšiemu
+priadresovávaný	ADJ;INS(PL,FEM)	priadresovávanými
+priadresovávaný	ADJ;GEN(SG,MASC,ANIM)	priadresovávaného
+priadresovávaný	ADJ;CMPR;INS(SG,MASC,ANIM)	priadresovávanejším
+priadresovávaný	ADJ;SPRL;INS(SG,MASC,ANIM)	najpriadresovávanejším
+priadresovávaný	ADJ;CMPR;INS(SG,MASC,INAN)	priadresovávanejším
+priadresovávaný	ADJ;CMPR;DAT(PL,MASC,INAN)	priadresovávanejším
+priadresovávaný	ADJ;CMPR;NOM(SG,FEM)	priadresovávanejšia
+priadresovávaný	ADJ;CMPR;VOC(SG,FEM)	priadresovávanejšia
+priadresovávaný	ADJ;NOM(SG,FEM)	priadresovávaná
+priadresovávaný	ADJ;CMPR;NOM(SG,MASC,INAN)	priadresovávanejší
+priadresovávaný	ADJ;SPRL;NOM(SG,MASC,INAN)	najpriadresovávanejší
+priadresovávaný	ADJ;CMPR;VOC(PL,MASC,ANIM)	priadresovávanejší
+priadresovávaný	ADJ;CMPR;GEN(PL,MASC,ANIM)	priadresovávanejších
+priadresovávaný	ADJ;SPRL;ACC(PL,MASC,ANIM)	najpriadresovávanejších
+priadresovávaný	ADJ;SPRL;ESS(PL,MASC,ANIM)	najpriadresovávanejších
+priadresovávaný	ADJ;SPRL;GEN(PL,NEUT)	najpriadresovávanejších
+priadresovávaný	ADJ;SPRL;ESS(PL,FEM)	najpriadresovávanejších
+priadresovávaný	ADJ;CMPR;ACC(PL,FEM)	priadresovávanejšie
+priadresovávaný	ADJ;CMPR;VOC(PL,FEM)	priadresovávanejšie
+priadresovávaný	ADJ;ACC(PL,MASC,ANIM)	priadresovávaných
+priadresovávaný	ADJ;ESS(PL,NEUT)	priadresovávaných
+priadresovávaný	ADJ;SPRL;GEN(SG,FEM)	najpriadresovávanejšej
+priadresovávaný	ADJ;CMPR;DAT(SG,FEM)	priadresovávanejšej
+priadresovávaný	ADJ;SPRL;DAT(SG,FEM)	najpriadresovávanejšej
+priadresovávaný	ADJ;SPRL;GEN(SG,MASC,ANIM)	najpriadresovávanejšieho
+priadresovávaný	ADJ;SPRL;ACC(SG,MASC,ANIM)	najpriadresovávanejšieho
+priadresovávaný	ADJ;CMPR;GEN(SG,NEUT)	priadresovávanejšieho
+priadresovávaný	ADJ;INS(SG,MASC,ANIM)	priadresovávaným
+priadresovávaný	ADJ;DAT(PL,MASC,ANIM)	priadresovávaným
+priadresovávaný	ADJ;DAT(PL,MASC,INAN)	priadresovávaným
+priadresovávaný	ADJ;DAT(PL,NEUT)	priadresovávaným
+priadresovávaný	ADJ;GEN(SG,FEM)	priadresovávanej
+priadresovávaný	ADJ;ESS(SG,FEM)	priadresovávanej
+priadresovávaný	ADJ;SPRL;INS(SG,FEM)	najpriadresovávanejšou
+priadresovávaný	ADJ;CMPR;INS(PL,MASC,ANIM)	priadresovávanejšími
+priadresovávaný	ADJ;SPRL;INS(PL,NEUT)	najpriadresovávanejšími
+priadresovávaný	ADJ;CMPR;INS(PL,FEM)	priadresovávanejšími
+zatvárajúci	ADJ;NOM(SG,NEUT)	zatvárajúce
+zatvárajúci	ADJ;NOM(PL,FEM)	zatvárajúce
+zatvárajúci	ADJ;ACC(PL,FEM)	zatvárajúce
+zatvárajúci	ADJ;INS(PL,MASC,ANIM)	zatvárajúcimi
+zatvárajúci	ADJ;INS(PL,MASC,INAN)	zatvárajúcimi
+zatvárajúci	ADJ;INS(SG,FEM)	zatvárajúcou
+zatvárajúci	ADJ;INS(SG,MASC,ANIM)	zatvárajúcim
+zatvárajúci	ADJ;DAT(PL,MASC,INAN)	zatvárajúcim
+zatvárajúci	ADJ;INS(SG,NEUT)	zatvárajúcim
+zatvárajúci	ADJ;NOM(SG,MASC,ANIM)	zatvárajúci
+zatvárajúci	ADJ;VOC(SG,MASC,ANIM)	zatvárajúci
+zatvárajúci	ADJ;ACC(PL,MASC,ANIM)	zatvárajúcich
+zatvárajúci	ADJ;GEN(PL,MASC,INAN)	zatvárajúcich
+zatvárajúci	ADJ;DAT(SG,NEUT)	zatvárajúcemu
+symptomaticky	ADV;CMPR	symptomatickejšie
+symptomaticky	ADV	symptomaticky
+symptomaticky	ADV	nesymptomaticky
+zasluhovávaný	ADJ;ACC(SG,NEUT)	zasluhovávané
+zasluhovávaný	ADJ;NOM(PL,NEUT)	zasluhovávané
+zasluhovávaný	ADJ;VOC(PL,NEUT)	zasluhovávané
+zasluhovávaný	ADJ;ACC(PL,FEM)	zasluhovávané
+zasluhovávaný	ADJ;CMPR;ACC(SG,FEM)	zasluhovávanejšiu
+zasluhovávaný	ADJ;SPRL;ACC(SG,FEM)	najzasluhovávanejšiu
+zasluhovávaný	ADJ;INS(SG,FEM)	zasluhovávanou
+zasluhovávaný	ADJ;SPRL;ESS(SG,MASC,ANIM)	najzasluhovávanejšom
+zasluhovávaný	ADJ;CMPR;DAT(SG,MASC,ANIM)	zasluhovávanejšiemu
+zasluhovávaný	ADJ;SPRL;DAT(SG,MASC,ANIM)	najzasluhovávanejšiemu
+zasluhovávaný	ADJ;CMPR;DAT(SG,MASC,INAN)	zasluhovávanejšiemu
+zasluhovávaný	ADJ;CMPR;DAT(SG,NEUT)	zasluhovávanejšiemu
+zasluhovávaný	ADJ;INS(PL,MASC,ANIM)	zasluhovávanými
+zasluhovávaný	ADJ;INS(PL,FEM)	zasluhovávanými
+zasluhovávaný	ADJ;GEN(SG,NEUT)	zasluhovávaného
+zasluhovávaný	ADJ;ACC(SG,MASC,INAN)	zasluhovávaný
+zasluhovávaný	ADJ;SPRL;DAT(PL,MASC,ANIM)	najzasluhovávanejším
+zasluhovávaný	ADJ;CMPR;DAT(PL,MASC,INAN)	zasluhovávanejším
+zasluhovávaný	ADJ;CMPR;DAT(PL,NEUT)	zasluhovávanejším
+zasluhovávaný	ADJ;CMPR;DAT(PL,FEM)	zasluhovávanejším
+zasluhovávaný	ADJ;CMPR;NOM(SG,FEM)	zasluhovávanejšia
+zasluhovávaný	ADJ;SPRL;NOM(SG,FEM)	najzasluhovávanejšia
+zasluhovávaný	ADJ;SPRL;VOC(SG,FEM)	najzasluhovávanejšia
+zasluhovávaný	ADJ;CMPR;NOM(SG,MASC,INAN)	zasluhovávanejší
+zasluhovávaný	ADJ;SPRL;GEN(PL,MASC,ANIM)	najzasluhovávanejších
+zasluhovávaný	ADJ;SPRL;ACC(PL,MASC,ANIM)	najzasluhovávanejších
+zasluhovávaný	ADJ;CMPR;ESS(PL,NEUT)	zasluhovávanejších
+zasluhovávaný	ADJ;SPRL;ESS(PL,NEUT)	najzasluhovávanejších
+zasluhovávaný	ADJ;CMPR;GEN(PL,FEM)	zasluhovávanejších
+zasluhovávaný	ADJ;SPRL;NOM(PL,MASC,INAN)	najzasluhovávanejšie
+zasluhovávaný	ADJ;CMPR;ACC(PL,MASC,INAN)	zasluhovávanejšie
+zasluhovávaný	ADJ;SPRL;ACC(PL,MASC,INAN)	najzasluhovávanejšie
+zasluhovávaný	ADJ;SPRL;VOC(PL,MASC,INAN)	najzasluhovávanejšie
+zasluhovávaný	ADJ;SPRL;NOM(PL,NEUT)	najzasluhovávanejšie
+zasluhovávaný	ADJ;CMPR;ACC(PL,NEUT)	zasluhovávanejšie
+zasluhovávaný	ADJ;SPRL;VOC(PL,NEUT)	najzasluhovávanejšie
+zasluhovávaný	ADJ;GEN(PL,MASC,ANIM)	zasluhovávaných
+zasluhovávaný	ADJ;ACC(PL,MASC,ANIM)	zasluhovávaných
+zasluhovávaný	ADJ;CMPR;DAT(SG,FEM)	zasluhovávanejšej
+zasluhovávaný	ADJ;SPRL;DAT(SG,FEM)	najzasluhovávanejšej
+zasluhovávaný	ADJ;CMPR;GEN(SG,MASC,ANIM)	zasluhovávanejšieho
+zasluhovávaný	ADJ;CMPR;GEN(SG,MASC,INAN)	zasluhovávanejšieho
+zasluhovávaný	ADJ;INS(SG,MASC,ANIM)	zasluhovávaným
+zasluhovávaný	ADJ;DAT(PL,FEM)	zasluhovávaným
+zasluhovávaný	ADJ;DAT(SG,FEM)	zasluhovávanej
+zasluhovávaný	ADJ;CMPR;INS(SG,FEM)	zasluhovávanejšou
+zasluhovávaný	ADJ;CMPR;INS(PL,MASC,ANIM)	zasluhovávanejšími
+zasluhovávaný	ADJ;SPRL;INS(PL,MASC,INAN)	najzasluhovávanejšími
+zasluhovávaný	ADJ;CMPR;INS(PL,FEM)	zasluhovávanejšími
+dopremýšľací	ADJ;ACC(SG,FEM)	dopremýšľaciu
+dopremýšľací	ADJ;GEN(PL,FEM)	dopremýšľacích
+dopremýšľací	ADJ;ESS(PL,FEM)	dopremýšľacích
+dopremýšľací	ADJ;GEN(SG,MASC,INAN)	dopremýšľacieho
+dopremýšľací	ADJ;ESS(SG,FEM)	dopremýšľacej
+dopremýšľací	ADJ;ACC(PL,MASC,INAN)	dopremýšľacie
+dopremýšľací	ADJ;VOC(PL,MASC,INAN)	dopremýšľacie
+dopremýšľací	ADJ;ACC(PL,NEUT)	dopremýšľacie
+dopremýšľací	ADJ;DAT(PL,NEUT)	dopremýšľacím
+dopremýšľací	ADJ;DAT(PL,FEM)	dopremýšľacím
+dopremýšľací	ADJ;ESS(SG,NEUT)	dopremýšľacom
+dopremýšľací	ADJ;NOM(SG,MASC,INAN)	dopremýšľací
+solidarizovávať	V;PST;IND;IPFV;3;SG;MASC	solidarizovával
+solidarizovávať	V;PST;IND;IPFV;2;SG;MASC	solidarizovával si
+solidarizovávať	V;COND;PRS;IPFV;1;SG;MASC	solidarizovával by som solidarizovalo
+solidarizovávať	V;COND;PRS;IPFV;2;SG;MASC	solidarizovával by si solidarizovalo
+solidarizovávať	V;PST;IND;PFV;3;SG;MASC	solidarizovával
+solidarizovávať	V;COND;PRS;PFV;3;SG;MASC	solidarizovával by solidarizovával
+solidarizovávať	V;COND;PRS;PFV;1;SG;MASC	solidarizovával by som solidarizovával
+solidarizovávať	V;PRS;IND;NEG;IPFV;2;SG	nesolidarizovávaš
+solidarizovávať	V;PST;IND;NEG;IPFV;1;SG;MASC	nesolidarizovával som
+solidarizovávať	V;COND;PRS;NEG;IPFV;1;SG;MASC	nesolidarizovával by som solidarizovával
+solidarizovávať	V;COND;PST;NEG;IPFV;2;SG;MASC	nebol by si solidarizovával
+solidarizovávať	V;COND;PRS;NEG;PFV;3;SG;MASC	nesolidarizovával by solidarizovával
+solidarizovávať	V;COND;PRS;NEG;PFV;2;SG;MASC	nesolidarizovával by si solidarizovával
+solidarizovávať	V;COND;PST;NEG;PFV;3;SG;MASC	nebol by solidarizovával
+solidarizovávať	V;COND;PST;NEG;PFV;2;SG;MASC	nebol by si solidarizovával
+solidarizovávať	V;NFIN;IPFV	solidarizovávať
+solidarizovávať	V;FUT;IND;NEG;IPFV;1;SG	nebudem solidarizovávať
+solidarizovávať	V;FUT;IND;IPFV;3;SG	bude solidarizovávať
+solidarizovávať	V;FUT;IND;NEG;IPFV;1;PL	nebudeme solidarizovávať
+solidarizovávať	V;FUT;IND;IPFV;2;PL	budete solidarizovávať
+solidarizovávať	V;FUT;IND;NEG;IPFV;2;PL	nebudete solidarizovávať
+solidarizovávať	V.PTCP;PASS;IPFV;ACC;NOM(3,SG,FEM)	solidarizovávanú
+solidarizovávať	V.PTCP;PASS;PFV;ACC;NOM(3,SG,FEM)	solidarizovávanú
+solidarizovávať	V.PTCP;PASS;NEG;IPFV;NOM;NOM(3,SG,FEM)	nesolidarizovávaná
+solidarizovávať	V.PTCP;PASS;NEG;PFV;NOM;NOM(3,SG,FEM)	nesolidarizovávaná
+solidarizovávať	V;PRS;IND;NEG;IPFV;3;SG	nesolidarizováva
+solidarizovávať	V;PST;IND;NEG;IPFV;1;SG;NEUT	nesolidarizovávalo som
+solidarizovávať	V;COND;PRS;NEG;IPFV;3;SG;NEUT	nesolidarizovávalo by solidarizovával
+solidarizovávať	V;COND;PRS;NEG;IPFV;1;SG;NEUT	nesolidarizovávalo by som solidarizovával
+solidarizovávať	V;PST;IND;NEG;PFV;2;SG;NEUT	nesolidarizovávalo si
+solidarizovávať	V;COND;PRS;NEG;PFV;3;SG;NEUT	nesolidarizovávalo by solidarizovávalo
+solidarizovávať	V;COND;PRS;NEG;PFV;1;SG;NEUT	nesolidarizovávalo by som solidarizovávalo
+solidarizovávať	V;PRS;IND;NEG;PFV;3;PL	nesolidarizovávajú
+solidarizovávať	V;COND;PST;NEG;IPFV;1;PL;MASC;ANIM	neboli by sme solidarizovávali
+solidarizovávať	V;PST;IND;NEG;PFV;1;PL;MASC;ANIM	nesolidarizovávali sme
+solidarizovávať	V;PST;IND;NEG;IPFV;2;PL;MASC;INAN	nesolidarizovávali ste
+solidarizovávať	V;COND;PST;NEG;IPFV;3;PL;MASC;INAN	neboli by solidarizovávali
+solidarizovávať	V;COND;PST;NEG;IPFV;2;PL;MASC;INAN	neboli by ste solidarizovávali
+solidarizovávať	V;PST;IND;NEG;PFV;2;PL;MASC;INAN	nesolidarizovávali ste
+solidarizovávať	V;PST;IND;NEG;IPFV;1;PL;FEM	nesolidarizovávali sme
+solidarizovávať	V;COND;PRS;NEG;IPFV;2;PL;FEM	nesolidarizovávali by ste
+solidarizovávať	V;COND;PST;NEG;IPFV;1;PL;FEM	neboli by sme solidarizovávali
+solidarizovávať	V;PST;IND;NEG;PFV;1;PL;FEM	nesolidarizovávali sme
+solidarizovávať	V;PST;IND;NEG;IPFV;2;PL;NEUT	nesolidarizovávali ste
+solidarizovávať	V;COND;PRS;NEG;IPFV;2;PL;NEUT	nesolidarizovávali by ste
+solidarizovávať	V;COND;PST;NEG;IPFV;3;PL;NEUT	neboli by solidarizovávali
+solidarizovávať	V;COND;PRS;NEG;PFV;2;PL;NEUT	nesolidarizovávali by ste
+solidarizovávať	V;COND;PST;NEG;PFV;1;PL;NEUT	neboli by sme solidarizovávali
+solidarizovávať	V;COND;PST;NEG;PFV;2;PL;NEUT	neboli by ste solidarizovávali
+solidarizovávať	V;IMP;NEG;PFV;2;PL	nesolidarizovávajte
+solidarizovávať	V.PTCP;PASS;IPFV;NOM;NOM(3,PL,FEM)	solidarizovávané
+solidarizovávať	V;IMP;IPFV;1;PL	solidarizovávajme
+solidarizovávať	V;COND;PRS;PFV;1;SG;FEM	solidarizovávala by som solidarizovávala
+solidarizovávať	V;COND;PRS;PFV;2;SG;FEM	solidarizovávala by si solidarizovávala
+solidarizovávať	V;COND;PST;PFV;3;SG;FEM	bola by solidarizovávala
+solidarizovávať	V.PTCP;PASS;NEG;PFV;NOM;NOM(3,SG,MASC,INAN)	nesolidarizovávaný
+solidarizovávať	V;IMP;NEG;PFV;2;SG	nesolidarizovávaj
+solidarizovávať	V;COND;PST;IPFV;1;PL;MASC;ANIM	boli by sme solidarizovávali
+solidarizovávať	V;COND;PST;PFV;3;PL;MASC;ANIM	boli by solidarizovávali
+solidarizovávať	V;COND;PST;PFV;1;PL;MASC;ANIM	boli by sme solidarizovávali
+solidarizovávať	V;COND;PST;PFV;2;PL;MASC;ANIM	boli by ste solidarizovávali
+solidarizovávať	V;COND;PRS;IPFV;1;PL;MASC;INAN	solidarizovávali by sme
+solidarizovávať	V;COND;PST;IPFV;3;PL;MASC;INAN	boli by solidarizovávali
+solidarizovávať	V;COND;PRS;PFV;3;PL;MASC;INAN	solidarizovávali by
+solidarizovávať	V;COND;PST;IPFV;1;PL;FEM	boli by sme solidarizovávali
+solidarizovávať	V;PST;IND;PFV;1;PL;FEM	solidarizovávali sme
+solidarizovávať	V;COND;PRS;PFV;1;PL;FEM	solidarizovávali by sme
+solidarizovávať	V;COND;PST;PFV;2;PL;FEM	boli by ste solidarizovávali
+solidarizovávať	V;PST;IND;IPFV;1;PL;NEUT	solidarizovávali sme
+solidarizovávať	V;COND;PRS;IPFV;2;PL;NEUT	solidarizovávali by ste
+solidarizovávať	V;COND;PST;IPFV;3;PL;NEUT	boli by solidarizovávali
+solidarizovávať	V;COND;PST;IPFV;2;PL;NEUT	boli by ste solidarizovávali
+solidarizovávať	V;COND;PRS;PFV;3;PL;NEUT	solidarizovávali by
+solidarizovávať	V;COND;PST;PFV;2;PL;NEUT	boli by ste solidarizovávali
+solidarizovávať	V;COND;PRS;IPFV;1;SG;NEUT	solidarizovávalo by som solidarizovávali
+solidarizovávať	V;COND;PST;IPFV;3;SG;NEUT	bolo by solidarizovávalo
+solidarizovávať	V;PST;IND;PFV;1;SG;NEUT	solidarizovávalo som
+solidarizovávať	V;COND;PRS;PFV;2;SG;NEUT	solidarizovávalo by si solidarizovávalo
+solidarizovávať	V;COND;PST;PFV;2;SG;NEUT	bolo by si solidarizovávalo
+solidarizovávať	V;PRS;IND;IPFV;2;PL	solidarizovávate
+solidarizovávať	V.PTCP;PASS;NEG;IPFV;NOM;NOM(3,PL,NEUT)	nesolidarizovávané
+solidarizovávať	V.PTCP;PASS;IPFV;NOM;NOM(3,PL,MASC,INAN)	solidarizovávané
+solidarizovávať	V;PST;IND;NEG;PFV;3;SG;FEM	nesolidarizovávala
+solidarizovávať	V;COND;PRS;NEG;PFV;3;SG;FEM	nesolidarizovávala by solidarizovávala
+solidarizovávať	V;COND;PRS;NEG;PFV;1;SG;FEM	nesolidarizovávala by som solidarizovávala
+solidarizovávať	V;IMP;IPFV;2;SG	solidarizovávaj
+solidarizovávať	V.PTCP;PASS;PFV;NOM;NOM(3,SG,NEUT)	solidarizovávané
+solidarizovávať	V;PRS;IND;NEG;IPFV;1;SG	nesolidarizovávam
+hypotekárny	ADJ;ACC(SG,FEM)	hypotekárnu
+hypotekárny	ADJ;NOM(PL,MASC,ANIM)	hypotekárni
+hypotekárny	ADJ;DAT(SG,MASC,ANIM)	hypotekárnemu
+hypotekárny	ADJ;DAT(SG,MASC,INAN)	hypotekárnemu
+hypotekárny	ADJ;INS(SG,MASC,INAN)	hypotekárnym
+hypotekárny	ADJ;GEN(PL,FEM)	hypotekárnych
+hypotekárny	ADJ;INS(PL,FEM)	hypotekárnymi
+hypotekárny	ADJ;ACC(PL,NEUT)	hypotekárne
+hypotekárny	ADJ;VOC(PL,NEUT)	hypotekárne
+hypotekárny	ADJ;DAT(SG,FEM)	hypotekárnej
+hypotekárny	ADJ;ACC(SG,NEUT)	hypotekárne
+hypotekárny	ADJ;ESS(PL,NEUT)	hypotekárnych
+hypotekárny	ADJ;GEN(PL,MASC,ANIM)	hypotekárnych
+hypotekárny	ADJ;ACC(PL,FEM)	hypotekárne
+hypotekárny	ADJ;ESS(SG,NEUT)	hypotekárnom
+hypotekárny	ADJ;ACC(PL,MASC,ANIM)	hypotekárnych
+anekdoticky	ADV	anekdoticky
+anekdoticky	ADV;SPRL	nejanekdotičtěji
+naturščikův	ADJ;ACC(PL,FEM)	naturščikovy
+naturščikův	ADJ;VOC(PL,FEM)	naturščikovy
+naturščikův	ADJ;NOM(SG,FEM)	naturščikova
+naturščikův	ADJ;GEN(SG,FEM)	naturščikovy
+naturščikův	ADJ;DAT(SG,FEM)	naturščikově
+naturščikův	ADJ;INS(SG,FEM)	naturščikovou
+naturščikův	ADJ;ACC(PL,MASC,INAN)	naturščikovy
+naturščikův	ADJ;ESS(PL,MASC,INAN)	naturščikových
+naturščikův	ADJ;DAT(SG,MASC,INAN)	naturščikovu
+naturščikův	ADJ;ACC(PL,MASC,ANIM)	naturščikovy
+naturščikův	ADJ;INS(PL,MASC,ANIM)	naturščikovými
+naturščikův	ADJ;DAT(SG,MASC,ANIM)	naturščikovu
+naturščikův	ADJ;DAT(PL,NEUT)	naturščikovým
+naturščikův	ADJ;ACC(PL,NEUT)	naturščikova
+naturščikův	ADJ;ESS(PL,NEUT)	naturščikových
+naturščikův	ADJ;INS(PL,NEUT)	naturščikovými
+naturščikův	ADJ;NOM(SG,NEUT)	naturščikovo
+naturščikův	ADJ;DAT(SG,NEUT)	naturščikovu
+naturščikův	ADJ;ACC(SG,NEUT)	naturščikovo
+naturščikův	ADJ;INS(SG,NEUT)	naturščikovým
+vrojovávatelnost	N;GEN(PL,FEM)	vrojovávatelností
+vrojovávatelnost	N;ACC(PL,FEM)	vrojovávatelnosti
+vrojovávatelnost	N;INS(PL,FEM)	vrojovávatelnostmi
+vrojovávatelnost	N;ESS(SG,FEM)	vrojovávatelnosti
+niťař	N;NOM(PL,MASC,ANIM)	niťaři
+niťař	N;ACC(PL,MASC,ANIM)	niťaře
+niťař	N;VOC(PL,MASC,ANIM)	niťaři
+niťař	N;INS(PL,MASC,ANIM)	niťaři
+niťař	N;NOM(SG,MASC,ANIM)	niťař
+niťař	N;ACC(SG,MASC,ANIM)	niťaře
+niťař	N;INS(SG,MASC,ANIM)	niťařem
+nostalgie	N;NOM(PL,FEM)	nostalgie
+nostalgie	N;DAT(PL,FEM)	nostalgiím
+nostalgie	N;ACC(PL,FEM)	nostalgie
+nostalgie	N;ESS(PL,FEM)	nostalgiích
+nostalgie	N;GEN(SG,FEM)	nostalgie
+nostalgie	N;DAT(SG,FEM)	nostalgii
+zdrápankyně	N;GEN(PL,FEM)	zdrápankyní
+zdrápankyně	N;ESS(PL,FEM)	zdrápankyních
+zdrápankyně	N;DAT(SG,FEM)	zdrápankyni
+zdrápankyně	N;ACC(SG,FEM)	zdrápankyni
+zdrtitelnost	N;GEN(PL,FEM)	zdrtitelností
+zdrtitelnost	N;ACC(PL,FEM)	zdrtitelnosti
+zdrtitelnost	N;ESS(PL,FEM)	zdrtitelnostech
+zdrtitelnost	N;INS(PL,FEM)	zdrtitelnostmi
+zdrtitelnost	N;NOM(SG,FEM)	zdrtitelnost
+zdrtitelnost	N;DAT(SG,FEM)	zdrtitelnosti
+zdrtitelnost	N;ACC(SG,FEM)	zdrtitelnost
+refektářní	ADJ;VOC(PL,FEM)	refektářní
+refektářní	ADJ;NOM(SG,FEM)	refektářní
+refektářní	ADJ;DAT(SG,FEM)	refektářní
+refektářní	ADJ;ESS(SG,FEM)	refektářní
+refektářní	ADJ;INS(SG,FEM)	refektářní
+refektářní	ADJ;VOC(PL,MASC,INAN)	refektářní
+refektářní	ADJ;ESS(PL,MASC,INAN)	refektářních
+refektářní	ADJ;ACC(PL,MASC,ANIM)	refektářní
+refektářní	ADJ;ESS(PL,MASC,ANIM)	refektářních
+refektářní	ADJ;INS(PL,MASC,ANIM)	refektářními
+refektářní	ADJ;DAT(SG,MASC,ANIM)	refektářnímu
+refektářní	ADJ;INS(SG,MASC,ANIM)	refektářním
+refektářní	ADJ;VOC(PL,NEUT)	refektářní
+refektářní	ADJ;ESS(PL,NEUT)	refektářních
+refektářní	ADJ;INS(PL,NEUT)	refektářními
+refektářní	ADJ;NOM(SG,NEUT)	refektářní
+refektářní	ADJ;GEN(SG,NEUT)	refektářního
+refektářní	ADJ;DAT(SG,NEUT)	refektářnímu
+refektářní	ADJ;ACC(SG,NEUT)	refektářní
+refektářní	ADJ;ESS(SG,NEUT)	refektářním
+opendovávatelnost	N;NOM(SG,FEM)	opendovávatelnost
+opendovávatelnost	N;ESS(SG,FEM)	opendovávatelnosti
+opendovávatelnost	N;INS(SG,FEM)	opendovávatelností
+zprůsvitňovanost	N;DAT(SG,FEM)	zprůsvitňovanosti
+zprůsvitňovanost	N;ESS(SG,FEM)	zprůsvitňovanosti
+lenní	ADJ;INS(DU,FEM)	lenníma
+lenní	ADJ;ACC(PL,FEM)	lenní
+lenní	ADJ;INS(PL,FEM)	lenními
+lenní	ADJ;NOM(SG,FEM)	lenní
+lenní	ADJ;GEN(SG,FEM)	lenní
+lenní	ADJ;ACC(SG,FEM)	lenní
+lenní	ADJ;GEN(PL,MASC,INAN)	lenních
+lenní	ADJ;DAT(SG,MASC,INAN)	lennímu
+lenní	ADJ;ESS(SG,MASC,INAN)	lenním
+lenní	ADJ;INS(SG,MASC,INAN)	lenním
+lenní	ADJ;NOM(PL,MASC,ANIM)	lenní
+lenní	ADJ;GEN(PL,MASC,ANIM)	lenních
+lenní	ADJ;ESS(PL,MASC,ANIM)	lenních
+lenní	ADJ;ACC(SG,MASC,ANIM)	lenního
+lenní	ADJ;VOC(SG,MASC,ANIM)	lenní
+lenní	ADJ;ESS(SG,MASC,ANIM)	lenním
+lenní	ADJ;NOM(PL,NEUT)	lenní
+lenní	ADJ;GEN(PL,NEUT)	lenních
+lenní	ADJ;VOC(PL,NEUT)	lenní
+lenní	ADJ;INS(PL,NEUT)	lenními
+lenní	ADJ;NOM(SG,NEUT)	lenní
+lenní	ADJ;VOC(SG,NEUT)	lenní
+nakontraktovávání	N;ACC(PL,NEUT)	nakontraktovávání
+nakontraktovávání	N;VOC(PL,NEUT)	nakontraktovávání
+nakontraktovávání	N;ACC(SG,NEUT)	nakontraktovávání
+nakontraktovávání	N;INS(SG,NEUT)	nakontraktováváním
+boromejka	N;ACC(PL,FEM)	boromejky
+boromejka	N;VOC(PL,FEM)	boromejky
+boromejka	N;VOC(SG,FEM)	boromejko
+boromejka	N;ESS(SG,FEM)	boromejce
+stachanovec	N;DAT(PL,MASC,ANIM)	stachanovcům
+stachanovec	N;ESS(PL,MASC,ANIM)	stachanovcích
+stachanovec	N;ACC(SG,MASC,ANIM)	stachanovce
+promíchávatelný	ADJ;CMPR;INS(DU,FEM)	promíchávatelnějšíma
+promíchávatelný	ADJ;SPRL;NOM(PL,FEM)	nejpromíchávatelnější
+promíchávatelný	ADJ;GEN(PL,FEM)	promíchávatelných
+promíchávatelný	ADJ;SPRL;GEN(PL,FEM)	nejpromíchávatelnějších
+promíchávatelný	ADJ;CMPR;DAT(PL,FEM)	promíchávatelnějším
+promíchávatelný	ADJ;CMPR;ACC(PL,FEM)	promíchávatelnější
+promíchávatelný	ADJ;ESS(PL,FEM)	promíchávatelných
+promíchávatelný	ADJ;CMPR;ESS(PL,FEM)	promíchávatelnějších
+promíchávatelný	ADJ;CMPR;INS(PL,FEM)	promíchávatelnějšími
+promíchávatelný	ADJ;SPRL;DAT(SG,FEM)	nejpromíchávatelnější
+promíchávatelný	ADJ;ACC(SG,FEM)	promíchávatelnou
+promíchávatelný	ADJ;CMPR;ACC(SG,FEM)	promíchávatelnější
+promíchávatelný	ADJ;ESS(SG,FEM)	promíchávatelné
+promíchávatelný	ADJ;CMPR;INS(SG,FEM)	promíchávatelnější
+promíchávatelný	ADJ;SPRL;NOM(PL,MASC,INAN)	nejpromíchávatelnější
+promíchávatelný	ADJ;GEN(PL,MASC,INAN)	promíchávatelných
+promíchávatelný	ADJ;CMPR;GEN(PL,MASC,INAN)	promíchávatelnějších
+promíchávatelný	ADJ;DAT(PL,MASC,INAN)	promíchávatelným
+promíchávatelný	ADJ;SPRL;ESS(PL,MASC,INAN)	nejpromíchávatelnějších
+promíchávatelný	ADJ;INS(PL,MASC,INAN)	promíchávatelnými
+promíchávatelný	ADJ;CMPR;INS(PL,MASC,INAN)	promíchávatelnějšími
+promíchávatelný	ADJ;SPRL;INS(PL,MASC,INAN)	nejpromíchávatelnějšími
+promíchávatelný	ADJ;CMPR;ESS(SG,MASC,INAN)	promíchávatelnějším
+promíchávatelný	ADJ;CMPR;INS(SG,MASC,INAN)	promíchávatelnějším
+promíchávatelný	ADJ;NOM(PL,MASC,ANIM)	promíchávatelní
+promíchávatelný	ADJ;SPRL;GEN(PL,MASC,ANIM)	nejpromíchávatelnějších
+promíchávatelný	ADJ;ACC(PL,MASC,ANIM)	promíchávatelné
+promíchávatelný	ADJ;CMPR;ACC(PL,MASC,ANIM)	promíchávatelnější
+promíchávatelný	ADJ;CMPR;VOC(PL,MASC,ANIM)	promíchávatelnější
+promíchávatelný	ADJ;INS(PL,MASC,ANIM)	promíchávatelnými
+promíchávatelný	ADJ;SPRL;INS(PL,MASC,ANIM)	nejpromíchávatelnějšími
+promíchávatelný	ADJ;CMPR;GEN(SG,MASC,ANIM)	promíchávatelnějšího
+promíchávatelný	ADJ;SPRL;DAT(SG,MASC,ANIM)	nejpromíchávatelnějšímu
+promíchávatelný	ADJ;SPRL;ACC(SG,MASC,ANIM)	nejpromíchávatelnějšího
+promíchávatelný	ADJ;CMPR;VOC(SG,MASC,ANIM)	promíchávatelnější
+promíchávatelný	ADJ;ESS(SG,MASC,ANIM)	promíchávatelném
+promíchávatelný	ADJ;INS(SG,MASC,ANIM)	promíchávatelným
+promíchávatelný	ADJ;CMPR;INS(SG,MASC,ANIM)	promíchávatelnějším
+promíchávatelný	ADJ;NOM(PL,NEUT)	promíchávatelná
+promíchávatelný	ADJ;CMPR;NOM(PL,NEUT)	promíchávatelnější
+promíchávatelný	ADJ;SPRL;DAT(PL,NEUT)	nejpromíchávatelnějším
+promíchávatelný	ADJ;ACC(PL,NEUT)	promíchávatelná
+promíchávatelný	ADJ;SPRL;ACC(PL,NEUT)	nejpromíchávatelnější
+promíchávatelný	ADJ;SPRL;ESS(PL,NEUT)	nejpromíchávatelnějších
+promíchávatelný	ADJ;SPRL;NOM(SG,NEUT)	nejpromíchávatelnější
+promíchávatelný	ADJ;DAT(SG,NEUT)	promíchávatelnému
+promíchávatelný	ADJ;CMPR;DAT(SG,NEUT)	promíchávatelnějšímu
+promíchávatelný	ADJ;VOC(SG,NEUT)	promíchávatelné
+promíchávatelný	ADJ;CMPR;VOC(SG,NEUT)	promíchávatelnější
+promíchávatelný	ADJ;ESS(SG,NEUT)	promíchávatelném
+promíchávatelný	ADJ;INS(SG,NEUT)	promíchávatelným
+prohnívávat	V;PRS;IND;IPFV;3;PL	prohnívávají
+prohnívávat	V;PRS;IND;IPFV;2;SG	prohníváváš
+prohnívávat	V;FUT;IND;IPFV;1;SG	budu prohnívávat
+prohnívávat	V;FUT;IND;IPFV;3;SG	bude prohnívávat
+prohnívávat	V;FUT;IND;IPFV;1;PL	budeme prohnívávat
+prohnívávat	V;IMP;IPFV;2;PL	prohnívávejte
+prohnívávat	V;PST;IND;NEG;IPFV;2;SG;FEM	neprohnívávalas
+prohnívávat	V;COND;PRS;IPFV;1;PL;MASC;ANIM	prohnívávali bychom
+prohnívávat	V;COND;PRS;NEG;IPFV;1;PL;MASC;ANIM	neprohnívávali bychom
+prohnívávat	V;PST;IND;IPFV;1;SG;NEUT	prohnívávalo jsem
+prohnívávat	V;PST;IND;IPFV;2;SG;NEUT	prohnívávalo jsi
+prohnívávat	V;COND;PRS;IPFV;2;SG;NEUT	prohnívávalo bys
+prohnívávat	V;COND;PST;IPFV;3;SG;NEUT	bylo by prohnívávalo
+prohnívávat	V;COND;PST;IPFV;1;SG;NEUT	bylo bych prohnívávalo
+prohnívávat	V;PST;IND;NEG;IPFV;2;SG;NEUT	neprohnívávalo jsi
+prohnívávat	V;COND;PST;NEG;IPFV;3;SG;NEUT	nebylo by prohnívávalo
+prohnívávat	V;PST;IND;NEG;IPFV;2;SG;NEUT	neprohnívávalos
+prohnívávat	V;PST;IND;IPFV;3;SG;FEM	prohnívávala
+prohnívávat	V;PST;IND;IPFV;1;SG;FEM	prohnívávala jsem
+prohnívávat	V;COND;PRS;IPFV;1;SG;FEM	prohnívávala bych
+prohnívávat	V;COND;PRS;IPFV;2;SG;FEM	prohnívávala bys
+prohnívávat	V;COND;PST;IPFV;3;SG;FEM	byla by prohnívávala
+prohnívávat	V;PST;IND;IPFV;1;PL;NEUT	prohnívávala jsme
+prohnívávat	V;COND;PRS;IPFV;3;PL;NEUT	prohnívávala by
+prohnívávat	V;COND;PRS;IPFV;1;PL;NEUT	prohnívávala bychom
+prohnívávat	V;PST;IND;NEG;IPFV;2;SG;FEM	neprohnívávala jsi
+prohnívávat	V;COND;PST;NEG;IPFV;1;SG;FEM	nebyla bych prohnívávala
+prohnívávat	V;COND;PRS;NEG;IPFV;3;PL;NEUT	neprohnívávala by
+prohnívávat	V;COND;PRS;NEG;IPFV;1;PL;NEUT	neprohnívávala bychom
+prohnívávat	V;COND;PRS;IPFV;1;PL;FEM	prohnívávaly bychom
+prohnívávat	V;COND;PRS;IPFV;2;PL;FEM	prohnívávaly byste
+prohnívávat	V;COND;PST;IPFV;3;PL;FEM	byly by prohnívávaly
+prohnívávat	V;COND;PST;IPFV;1;PL;FEM	byly bychom prohnívávaly
+prohnívávat	V;COND;PST;IPFV;2;PL;FEM	byly byste prohnívávaly
+prohnívávat	V;COND;PRS;IPFV;2;PL;MASC;INAN	prohnívávaly byste
+prohnívávat	V;COND;PST;IPFV;3;PL;MASC;INAN	byly by prohnívávaly
+prohnívávat	V;COND;PST;IPFV;1;PL;MASC;INAN	byly bychom prohnívávaly
+prohnívávat	V;COND;PST;IPFV;2;PL;MASC;INAN	byly byste prohnívávaly
+prohnívávat	V;PST;IND;NEG;IPFV;3;PL;FEM	neprohnívávaly
+prohnívávat	V;PST;IND;NEG;IPFV;1;PL;MASC;INAN	neprohnívávaly jsme
+prohnívávat	V;PST;IND;NEG;IPFV;2;PL;MASC;INAN	neprohnívávaly jste
+prohnívávat	V;COND;PRS;IPFV;3;SG;MASC	prohnívával by
+prohnívávat	V;COND;PRS;IPFV;2;SG;MASC	prohnívával bys
+prohnívávat	V;COND;PST;IPFV;2;SG;MASC	byl bys prohnívával
+prohnívávat	V;PST;IND;NEG;IPFV;1;SG;MASC	neprohnívával jsem
+prohnívávat	V;PST;IND;NEG;IPFV;2;SG;MASC	neprohnívával jsi
+prohnívávat	V;COND;PRS;NEG;IPFV;3;SG;MASC	neprohnívával by
+prohnívávat	V;COND;PST;NEG;IPFV;3;SG;MASC	nebyl by prohnívával
+prohnívávat	V;PST;IND;NEG;IPFV;2;SG;MASC	neprohnívávals
+prohnívávat	V.PTCP;PASS;NEG;IPFV;NOM;NOM(2,SG,FEM)	neprohnívávánas
+prohnívávat	V.PTCP;PASS;IPFV;NOM;NOM(3,PL,MASC,ANIM)	prohníváváni
+prohnívávat	V.PTCP;PASS;IPFV;NOM;NOM(3,SG,NEUT)	prohníváváno
+prohnívávat	V.PTCP;PASS;IPFV;NOM;NOM(3,SG,FEM)	prohnívávána
+prohnívávat	V.PTCP;PASS;NEG;IPFV;NOM;NOM(3,SG,FEM)	neprohnívávána
+vodovážný	ADJ;INS(DU,FEM)	vodovážnýma
+vodovážný	ADJ;CMPR;GEN(PL,FEM)	vodovážnějších
+vodovážný	ADJ;DAT(PL,FEM)	vodovážným
+vodovážný	ADJ;ACC(PL,FEM)	vodovážné
+vodovážný	ADJ;VOC(PL,FEM)	vodovážné
+vodovážný	ADJ;SPRL;VOC(PL,FEM)	nejvodovážnější
+vodovážný	ADJ;ESS(PL,FEM)	vodovážných
+vodovážný	ADJ;CMPR;ESS(PL,FEM)	vodovážnějších
+vodovážný	ADJ;INS(PL,FEM)	vodovážnými
+vodovážný	ADJ;CMPR;INS(PL,FEM)	vodovážnějšími
+vodovážný	ADJ;SPRL;NOM(SG,FEM)	nejvodovážnější
+vodovážný	ADJ;CMPR;GEN(SG,FEM)	vodovážnější
+vodovážný	ADJ;DAT(SG,FEM)	vodovážné
+vodovážný	ADJ;CMPR;DAT(SG,FEM)	vodovážnější
+vodovážný	ADJ;ACC(SG,FEM)	vodovážnou
+vodovážný	ADJ;CMPR;ACC(SG,FEM)	vodovážnější
+vodovážný	ADJ;SPRL;VOC(SG,FEM)	nejvodovážnější
+vodovážný	ADJ;CMPR;ESS(SG,FEM)	vodovážnější
+vodovážný	ADJ;CMPR;INS(SG,FEM)	vodovážnější
+vodovážný	ADJ;GEN(PL,MASC,INAN)	vodovážných
+vodovážný	ADJ;CMPR;DAT(PL,MASC,INAN)	vodovážnějším
+vodovážný	ADJ;SPRL;VOC(PL,MASC,INAN)	nejvodovážnější
+vodovážný	ADJ;INS(PL,MASC,INAN)	vodovážnými
+vodovážný	ADJ;CMPR;INS(PL,MASC,INAN)	vodovážnějšími
+vodovážný	ADJ;CMPR;NOM(SG,MASC,INAN)	vodovážnější
+vodovážný	ADJ;GEN(SG,MASC,INAN)	vodovážného
+vodovážný	ADJ;CMPR;GEN(SG,MASC,INAN)	vodovážnějšího
+vodovážný	ADJ;CMPR;DAT(SG,MASC,INAN)	vodovážnějšímu
+vodovážný	ADJ;SPRL;DAT(SG,MASC,INAN)	nejvodovážnějšímu
+vodovážný	ADJ;ACC(SG,MASC,INAN)	vodovážný
+vodovážný	ADJ;CMPR;VOC(SG,MASC,INAN)	vodovážnější
+vodovážný	ADJ;ESS(SG,MASC,INAN)	vodovážném
+vodovážný	ADJ;CMPR;INS(SG,MASC,INAN)	vodovážnějším
+vodovážný	ADJ;CMPR;NOM(PL,MASC,ANIM)	vodovážnější
+vodovážný	ADJ;DAT(PL,MASC,ANIM)	vodovážným
+vodovážný	ADJ;CMPR;DAT(PL,MASC,ANIM)	vodovážnějším
+vodovážný	ADJ;SPRL;DAT(PL,MASC,ANIM)	nejvodovážnějším
+vodovážný	ADJ;CMPR;ACC(PL,MASC,ANIM)	vodovážnější
+vodovážný	ADJ;ESS(PL,MASC,ANIM)	vodovážných
+vodovážný	ADJ;SPRL;ESS(PL,MASC,ANIM)	nejvodovážnějších
+vodovážný	ADJ;NOM(SG,MASC,ANIM)	vodovážný
+vodovážný	ADJ;CMPR;NOM(SG,MASC,ANIM)	vodovážnější
+vodovážný	ADJ;GEN(SG,MASC,ANIM)	vodovážného
+vodovážný	ADJ;CMPR;GEN(SG,MASC,ANIM)	vodovážnějšího
+vodovážný	ADJ;SPRL;GEN(SG,MASC,ANIM)	nejvodovážnějšího
+vodovážný	ADJ;SPRL;DAT(SG,MASC,ANIM)	nejvodovážnějšímu
+vodovážný	ADJ;CMPR;ACC(SG,MASC,ANIM)	vodovážnějšího
+vodovážný	ADJ;SPRL;ESS(SG,MASC,ANIM)	nejvodovážnějším
+vodovážný	ADJ;INS(SG,MASC,ANIM)	vodovážným
+vodovážný	ADJ;SPRL;INS(SG,MASC,ANIM)	nejvodovážnějším
+vodovážný	ADJ;DAT(PL,NEUT)	vodovážným
+vodovážný	ADJ;CMPR;ACC(PL,NEUT)	vodovážnější
+vodovážný	ADJ;VOC(PL,NEUT)	vodovážná
+vodovážný	ADJ;INS(PL,NEUT)	vodovážnými
+vodovážný	ADJ;NOM(SG,NEUT)	vodovážné
+vodovážný	ADJ;ACC(SG,NEUT)	vodovážné
+vodovážný	ADJ;SPRL;ACC(SG,NEUT)	nejvodovážnější
+vodovážný	ADJ;CMPR;VOC(SG,NEUT)	vodovážnější
+vodovážný	ADJ;SPRL;VOC(SG,NEUT)	nejvodovážnější
+vodovážný	ADJ;INS(SG,NEUT)	vodovážným
+vodovážný	ADJ;CMPR;INS(SG,NEUT)	vodovážnějším
+vodovážný	ADJ;SPRL;INS(SG,NEUT)	nejvodovážnějším
+dekonstruovat	V;PRS;IND;IPFV;2;PL	dekonstruujete
+dekonstruovat	V;PRS;IND;NEG;IPFV;3;SG	nedekonstruuje
+dekonstruovat	V;NFIN;IPFV	dekonstruovat
+dekonstruovat	V;FUT;IND;NEG;IPFV;1;SG	nebudu dekonstruovat
+dekonstruovat	V;FUT;IND;NEG;IPFV;1;PL	nebudeme dekonstruovat
+dekonstruovat	V;FUT;IND;IPFV;3;PL	budou dekonstruovat
+dekonstruovat	V;IMP;NEG;IPFV;2;PL	nedekonstruujte
+dekonstruovat	V;PST;IND;IPFV;3;PL;MASC;ANIM	dekonstruovali
+dekonstruovat	V;PST;IND;IPFV;1;PL;MASC;ANIM	dekonstruovali jsme
+dekonstruovat	V;COND;PRS;IPFV;2;PL;MASC;ANIM	dekonstruovali byste
+dekonstruovat	V;COND;PST;IPFV;2;PL;MASC;ANIM	byli byste dekonstruovali
+dekonstruovat	V;COND;PRS;NEG;IPFV;2;PL;MASC;ANIM	nedekonstruovali byste
+dekonstruovat	V;COND;PST;IPFV;1;SG;NEUT	bylo bych dekonstruovalo
+dekonstruovat	V;PST;IND;IPFV;2;SG;NEUT	dekonstruovalos
+dekonstruovat	V;PST;IND;NEG;IPFV;1;SG;NEUT	nedekonstruovalo jsem
+dekonstruovat	V;PST;IND;NEG;IPFV;2;SG;NEUT	nedekonstruovalo jsi
+dekonstruovat	V;COND;PRS;NEG;IPFV;3;SG;NEUT	nedekonstruovalo by
+dekonstruovat	V;PST;IND;NEG;IPFV;2;SG;NEUT	nedekonstruovalos
+dekonstruovat	V;COND;PRS;IPFV;3;SG;FEM	dekonstruovala by
+dekonstruovat	V;COND;PRS;IPFV;1;SG;FEM	dekonstruovala bych
+dekonstruovat	V;COND;PST;IPFV;1;SG;FEM	byla bych dekonstruovala
+dekonstruovat	V;PST;IND;IPFV;2;PL;NEUT	dekonstruovala jste
+dekonstruovat	V;COND;PRS;IPFV;2;PL;NEUT	dekonstruovala byste
+dekonstruovat	V;PST;IND;NEG;IPFV;3;SG;FEM	nedekonstruovala
+dekonstruovat	V;COND;PRS;NEG;IPFV;3;SG;FEM	nedekonstruovala by
+dekonstruovat	V;COND;PRS;NEG;IPFV;2;SG;FEM	nedekonstruovala bys
+dekonstruovat	V;COND;PST;NEG;IPFV;3;SG;FEM	nebyla by dekonstruovala
+dekonstruovat	V;COND;PST;NEG;IPFV;1;SG;FEM	nebyla bych dekonstruovala
+dekonstruovat	V;PST;IND;NEG;IPFV;3;PL;NEUT	nedekonstruovala
+dekonstruovat	V;COND;PRS;NEG;IPFV;3;PL;NEUT	nedekonstruovala by
+dekonstruovat	V;COND;PRS;NEG;IPFV;2;PL;NEUT	nedekonstruovala byste
+dekonstruovat	V;COND;PST;IPFV;2;PL;FEM	byly byste dekonstruovaly
+dekonstruovat	V;COND;PRS;IPFV;3;PL;MASC;INAN	dekonstruovaly by
+dekonstruovat	V;COND;PRS;IPFV;2;PL;MASC;INAN	dekonstruovaly byste
+dekonstruovat	V;COND;PST;IPFV;1;PL;MASC;INAN	byly bychom dekonstruovaly
+dekonstruovat	V;PST;IND;NEG;IPFV;1;PL;FEM	nedekonstruovaly jsme
+dekonstruovat	V;PST;IND;NEG;IPFV;2;PL;FEM	nedekonstruovaly jste
+dekonstruovat	V;COND;PRS;NEG;IPFV;3;PL;FEM	nedekonstruovaly by
+dekonstruovat	V;PST;IND;NEG;IPFV;1;PL;MASC;INAN	nedekonstruovaly jsme
+dekonstruovat	V;COND;PRS;NEG;IPFV;1;PL;MASC;INAN	nedekonstruovaly bychom
+dekonstruovat	V;COND;PST;NEG;IPFV;3;PL;MASC;INAN	nebyly by dekonstruovaly
+dekonstruovat	V;COND;PST;NEG;IPFV;1;PL;MASC;INAN	nebyly bychom dekonstruovaly
+dekonstruovat	V;COND;PST;NEG;IPFV;2;PL;MASC;INAN	nebyly byste dekonstruovaly
+dekonstruovat	V;COND;PRS;IPFV;1;SG;MASC	dekonstruoval bych
+dekonstruovat	V;COND;PST;IPFV;3;SG;MASC	byl by dekonstruoval
+dekonstruovat	V;PST;IND;IPFV;2;SG;MASC	dekonstruovals
+dekonstruovat	V;PST;IND;NEG;IPFV;3;SG;MASC	nedekonstruoval
+dekonstruovat	V;PST;IND;NEG;IPFV;1;SG;MASC	nedekonstruoval jsem
+dekonstruovat	V;COND;PST;NEG;IPFV;3;SG;MASC	nebyl by dekonstruoval
+dekonstruovat	V;PST;IND;NEG;IPFV;2;SG;MASC	nedekonstruovals
+dekonstruovat	V.PTCP;PASS;IPFV;NOM;NOM(2,SG,FEM)	dekonstruovánas
+dekonstruovat	V.PTCP;PASS;NEG;IPFV;NOM;NOM(2,SG,FEM)	nedekonstruovánas
+dekonstruovat	V.PTCP;PASS;IPFV;NOM;NOM(3,SG,NEUT)	dekonstruováno
+dekonstruovat	V.PTCP;PASS;IPFV;NOM;NOM(3,SG,FEM)	dekonstruována
+dekonstruovat	V.PTCP;PASS;IPFV;NOM;NOM(3,PL,FEM)	dekonstruovány
+dekonstruovat	V.PTCP;PASS;IPFV;NOM;NOM(3,SG,MASC)	dekonstruován
+zeslabovávatelný	ADJ;INS(DU,FEM)	zeslabovávatelnýma
+zeslabovávatelný	ADJ;SPRL;INS(DU,FEM)	nejzeslabovávatelnějšíma
+zeslabovávatelný	ADJ;CMPR;NOM(PL,FEM)	zeslabovávatelnější
+zeslabovávatelný	ADJ;SPRL;NOM(PL,FEM)	nejzeslabovávatelnější
+zeslabovávatelný	ADJ;DAT(PL,FEM)	zeslabovávatelným
+zeslabovávatelný	ADJ;CMPR;DAT(PL,FEM)	zeslabovávatelnějším
+zeslabovávatelný	ADJ;SPRL;ACC(PL,FEM)	nejzeslabovávatelnější
+zeslabovávatelný	ADJ;VOC(PL,FEM)	zeslabovávatelné
+zeslabovávatelný	ADJ;CMPR;VOC(PL,FEM)	zeslabovávatelnější
+zeslabovávatelný	ADJ;CMPR;DAT(SG,FEM)	zeslabovávatelnější
+zeslabovávatelný	ADJ;CMPR;ACC(SG,FEM)	zeslabovávatelnější
+zeslabovávatelný	ADJ;VOC(SG,FEM)	zeslabovávatelná
+zeslabovávatelný	ADJ;NOM(PL,MASC,INAN)	zeslabovávatelné
+zeslabovávatelný	ADJ;SPRL;VOC(PL,MASC,INAN)	nejzeslabovávatelnější
+zeslabovávatelný	ADJ;CMPR;ESS(PL,MASC,INAN)	zeslabovávatelnějších
+zeslabovávatelný	ADJ;CMPR;NOM(SG,MASC,INAN)	zeslabovávatelnější
+zeslabovávatelný	ADJ;SPRL;GEN(SG,MASC,INAN)	nejzeslabovávatelnějšího
+zeslabovávatelný	ADJ;CMPR;VOC(SG,MASC,INAN)	zeslabovávatelnější
+zeslabovávatelný	ADJ;SPRL;ESS(SG,MASC,INAN)	nejzeslabovávatelnějším
+zeslabovávatelný	ADJ;CMPR;INS(SG,MASC,INAN)	zeslabovávatelnějším
+zeslabovávatelný	ADJ;NOM(PL,MASC,ANIM)	zeslabovávatelní
+zeslabovávatelný	ADJ;SPRL;NOM(PL,MASC,ANIM)	nejzeslabovávatelnější
+zeslabovávatelný	ADJ;SPRL;DAT(PL,MASC,ANIM)	nejzeslabovávatelnějším
+zeslabovávatelný	ADJ;ACC(PL,MASC,ANIM)	zeslabovávatelné
+zeslabovávatelný	ADJ;CMPR;VOC(PL,MASC,ANIM)	zeslabovávatelnější
+zeslabovávatelný	ADJ;CMPR;ESS(PL,MASC,ANIM)	zeslabovávatelnějších
+zeslabovávatelný	ADJ;SPRL;ESS(PL,MASC,ANIM)	nejzeslabovávatelnějších
+zeslabovávatelný	ADJ;CMPR;INS(PL,MASC,ANIM)	zeslabovávatelnějšími
+zeslabovávatelný	ADJ;DAT(SG,MASC,ANIM)	zeslabovávatelnému
+zeslabovávatelný	ADJ;CMPR;DAT(SG,MASC,ANIM)	zeslabovávatelnějšímu
+zeslabovávatelný	ADJ;ACC(SG,MASC,ANIM)	zeslabovávatelného
+zeslabovávatelný	ADJ;ESS(SG,MASC,ANIM)	zeslabovávatelném
+zeslabovávatelný	ADJ;INS(SG,MASC,ANIM)	zeslabovávatelným
+zeslabovávatelný	ADJ;GEN(PL,NEUT)	zeslabovávatelných
+zeslabovávatelný	ADJ;SPRL;GEN(PL,NEUT)	nejzeslabovávatelnějších
+zeslabovávatelný	ADJ;DAT(PL,NEUT)	zeslabovávatelným
+zeslabovávatelný	ADJ;CMPR;DAT(PL,NEUT)	zeslabovávatelnějším
+zeslabovávatelný	ADJ;ACC(PL,NEUT)	zeslabovávatelná
+zeslabovávatelný	ADJ;CMPR;ACC(PL,NEUT)	zeslabovávatelnější
+zeslabovávatelný	ADJ;SPRL;ACC(PL,NEUT)	nejzeslabovávatelnější
+zeslabovávatelný	ADJ;VOC(PL,NEUT)	zeslabovávatelná
+zeslabovávatelný	ADJ;SPRL;VOC(PL,NEUT)	nejzeslabovávatelnější
+zeslabovávatelný	ADJ;NOM(SG,NEUT)	zeslabovávatelné
+zeslabovávatelný	ADJ;SPRL;NOM(SG,NEUT)	nejzeslabovávatelnější
+zeslabovávatelný	ADJ;ACC(SG,NEUT)	zeslabovávatelné
+zeslabovávatelný	ADJ;CMPR;ACC(SG,NEUT)	zeslabovávatelnější
+zeslabovávatelný	ADJ;VOC(SG,NEUT)	zeslabovávatelné
+zeslabovávatelný	ADJ;ESS(SG,NEUT)	zeslabovávatelném
+zeslabovávatelný	ADJ;CMPR;ESS(SG,NEUT)	zeslabovávatelnějším
+zeslabovávatelný	ADJ;INS(SG,NEUT)	zeslabovávatelným
+přeimplementovávaný	ADJ;NOM(PL,FEM)	přeimplementovávané
+přeimplementovávaný	ADJ;SPRL;GEN(PL,FEM)	nejpřeimplementovávanějších
+přeimplementovávaný	ADJ;CMPR;DAT(PL,FEM)	přeimplementovávanějším
+přeimplementovávaný	ADJ;SPRL;DAT(PL,FEM)	nejpřeimplementovávanějším
+přeimplementovávaný	ADJ;ACC(PL,FEM)	přeimplementovávané
+přeimplementovávaný	ADJ;CMPR;ACC(PL,FEM)	přeimplementovávanější
+přeimplementovávaný	ADJ;VOC(PL,FEM)	přeimplementovávané
+přeimplementovávaný	ADJ;CMPR;VOC(PL,FEM)	přeimplementovávanější
+přeimplementovávaný	ADJ;GEN(SG,FEM)	přeimplementovávané
+přeimplementovávaný	ADJ;ACC(SG,FEM)	přeimplementovávanou
+přeimplementovávaný	ADJ;CMPR;VOC(SG,FEM)	přeimplementovávanější
+přeimplementovávaný	ADJ;SPRL;ESS(SG,FEM)	nejpřeimplementovávanější
+přeimplementovávaný	ADJ;SPRL;NOM(PL,MASC,INAN)	nejpřeimplementovávanější
+přeimplementovávaný	ADJ;GEN(PL,MASC,INAN)	přeimplementovávaných
+přeimplementovávaný	ADJ;DAT(PL,MASC,INAN)	přeimplementovávaným
+přeimplementovávaný	ADJ;INS(PL,MASC,INAN)	přeimplementovávanými
+přeimplementovávaný	ADJ;NOM(SG,MASC,INAN)	přeimplementovávaný
+přeimplementovávaný	ADJ;CMPR;NOM(SG,MASC,INAN)	přeimplementovávanější
+přeimplementovávaný	ADJ;SPRL;NOM(SG,MASC,INAN)	nejpřeimplementovávanější
+přeimplementovávaný	ADJ;GEN(SG,MASC,INAN)	přeimplementovávaného
+přeimplementovávaný	ADJ;DAT(SG,MASC,INAN)	přeimplementovávanému
+přeimplementovávaný	ADJ;SPRL;ESS(SG,MASC,INAN)	nejpřeimplementovávanějším
+přeimplementovávaný	ADJ;SPRL;ESS(PL,MASC,ANIM)	nejpřeimplementovávanějších
+přeimplementovávaný	ADJ;CMPR;INS(PL,MASC,ANIM)	přeimplementovávanějšími
+přeimplementovávaný	ADJ;NOM(SG,MASC,ANIM)	přeimplementovávaný
+přeimplementovávaný	ADJ;CMPR;NOM(SG,MASC,ANIM)	přeimplementovávanější
+přeimplementovávaný	ADJ;CMPR;GEN(SG,MASC,ANIM)	přeimplementovávanějšího
+přeimplementovávaný	ADJ;SPRL;GEN(SG,MASC,ANIM)	nejpřeimplementovávanějšího
+přeimplementovávaný	ADJ;ACC(SG,MASC,ANIM)	přeimplementovávaného
+přeimplementovávaný	ADJ;SPRL;ACC(SG,MASC,ANIM)	nejpřeimplementovávanějšího
+přeimplementovávaný	ADJ;VOC(SG,MASC,ANIM)	přeimplementovávaný
+přeimplementovávaný	ADJ;CMPR;VOC(SG,MASC,ANIM)	přeimplementovávanější
+přeimplementovávaný	ADJ;ESS(SG,MASC,ANIM)	přeimplementovávaném
+přeimplementovávaný	ADJ;CMPR;ESS(SG,MASC,ANIM)	přeimplementovávanějším
+přeimplementovávaný	ADJ;SPRL;ESS(SG,MASC,ANIM)	nejpřeimplementovávanějším
+přeimplementovávaný	ADJ;CMPR;NOM(PL,NEUT)	přeimplementovávanější
+přeimplementovávaný	ADJ;SPRL;NOM(PL,NEUT)	nejpřeimplementovávanější
+přeimplementovávaný	ADJ;CMPR;GEN(PL,NEUT)	přeimplementovávanějších
+přeimplementovávaný	ADJ;ACC(PL,NEUT)	přeimplementovávaná
+přeimplementovávaný	ADJ;CMPR;ACC(PL,NEUT)	přeimplementovávanější
+přeimplementovávaný	ADJ;SPRL;ACC(PL,NEUT)	nejpřeimplementovávanější
+přeimplementovávaný	ADJ;CMPR;VOC(PL,NEUT)	přeimplementovávanější
+přeimplementovávaný	ADJ;SPRL;VOC(PL,NEUT)	nejpřeimplementovávanější
+přeimplementovávaný	ADJ;CMPR;DAT(SG,NEUT)	přeimplementovávanějšímu
+přeimplementovávaný	ADJ;ESS(SG,NEUT)	přeimplementovávaném
+přeimplementovávaný	ADJ;CMPR;ESS(SG,NEUT)	přeimplementovávanějším
+přeimplementovávaný	ADJ;CMPR;INS(SG,NEUT)	přeimplementovávanějším
+pískavost	N;NOM(PL,FEM)	pískavosti
+pískavost	N;DAT(PL,FEM)	pískavostem
+pískavost	N;GEN(SG,FEM)	pískavosti
+došoférovávatelně	ADV;SPRL	nejdošoférovávatelněji
+došoférovávatelně	ADV;SPRL	nejnedošoférovávatelněji
+aplanační	ADJ;INS(DU,FEM)	aplanačníma
+aplanační	ADJ;CMPR;INS(DU,FEM)	aplanačnějšíma
+aplanační	ADJ;NOM(PL,FEM)	aplanační
+aplanační	ADJ;CMPR;NOM(PL,FEM)	aplanačnější
+aplanační	ADJ;SPRL;NOM(PL,FEM)	nejaplanačnější
+aplanační	ADJ;CMPR;GEN(PL,FEM)	aplanačnějších
+aplanační	ADJ;CMPR;ACC(PL,FEM)	aplanačnější
+aplanační	ADJ;CMPR;VOC(PL,FEM)	aplanačnější
+aplanační	ADJ;CMPR;ESS(PL,FEM)	aplanačnějších
+aplanační	ADJ;SPRL;ESS(PL,FEM)	nejaplanačnějších
+aplanační	ADJ;INS(PL,FEM)	aplanačními
+aplanační	ADJ;SPRL;INS(PL,FEM)	nejaplanačnějšími
+aplanační	ADJ;NOM(SG,FEM)	aplanační
+aplanační	ADJ;CMPR;NOM(SG,FEM)	aplanačnější
+aplanační	ADJ;SPRL;NOM(SG,FEM)	nejaplanačnější
+aplanační	ADJ;GEN(SG,FEM)	aplanační
+aplanační	ADJ;CMPR;GEN(SG,FEM)	aplanačnější
+aplanační	ADJ;CMPR;DAT(SG,FEM)	aplanačnější
+aplanační	ADJ;SPRL;DAT(SG,FEM)	nejaplanačnější
+aplanační	ADJ;CMPR;ACC(SG,FEM)	aplanačnější
+aplanační	ADJ;CMPR;VOC(SG,FEM)	aplanačnější
+aplanační	ADJ;SPRL;VOC(SG,FEM)	nejaplanačnější
+aplanační	ADJ;SPRL;ESS(SG,FEM)	nejaplanačnější
+aplanační	ADJ;CMPR;NOM(PL,MASC,INAN)	aplanačnější
+aplanační	ADJ;CMPR;ACC(PL,MASC,INAN)	aplanačnější
+aplanační	ADJ;ESS(PL,MASC,INAN)	aplanačních
+aplanační	ADJ;CMPR;INS(PL,MASC,INAN)	aplanačnějšími
+aplanační	ADJ;SPRL;NOM(SG,MASC,INAN)	nejaplanačnější
+aplanační	ADJ;GEN(SG,MASC,INAN)	aplanačního
+aplanační	ADJ;CMPR;GEN(SG,MASC,INAN)	aplanačnějšího
+aplanační	ADJ;SPRL;GEN(SG,MASC,INAN)	nejaplanačnějšího
+aplanační	ADJ;VOC(SG,MASC,INAN)	aplanační
+aplanační	ADJ;ESS(SG,MASC,INAN)	aplanačním
+aplanační	ADJ;CMPR;ESS(SG,MASC,INAN)	aplanačnějším
+aplanační	ADJ;INS(SG,MASC,INAN)	aplanačním
+aplanační	ADJ;NOM(PL,MASC,ANIM)	aplanační
+aplanační	ADJ;DAT(PL,MASC,ANIM)	aplanačním
+aplanační	ADJ;SPRL;ACC(PL,MASC,ANIM)	nejaplanačnější
+aplanační	ADJ;VOC(PL,MASC,ANIM)	aplanační
+aplanační	ADJ;CMPR;VOC(PL,MASC,ANIM)	aplanačnější
+aplanační	ADJ;SPRL;VOC(PL,MASC,ANIM)	nejaplanačnější
+aplanační	ADJ;ESS(PL,MASC,ANIM)	aplanačních
+aplanační	ADJ;CMPR;ESS(PL,MASC,ANIM)	aplanačnějších
+aplanační	ADJ;INS(PL,MASC,ANIM)	aplanačními
+aplanační	ADJ;SPRL;INS(PL,MASC,ANIM)	nejaplanačnějšími
+aplanační	ADJ;SPRL;NOM(SG,MASC,ANIM)	nejaplanačnější
+aplanační	ADJ;SPRL;DAT(SG,MASC,ANIM)	nejaplanačnějšímu
+aplanační	ADJ;CMPR;VOC(SG,MASC,ANIM)	aplanačnější
+aplanační	ADJ;SPRL;VOC(SG,MASC,ANIM)	nejaplanačnější
+aplanační	ADJ;CMPR;ESS(SG,MASC,ANIM)	aplanačnějším
+aplanační	ADJ;GEN(PL,NEUT)	aplanačních
+aplanační	ADJ;SPRL;GEN(PL,NEUT)	nejaplanačnějších
+aplanační	ADJ;DAT(PL,NEUT)	aplanačním
+aplanační	ADJ;CMPR;DAT(PL,NEUT)	aplanačnějším
+aplanační	ADJ;CMPR;VOC(PL,NEUT)	aplanačnější
+aplanační	ADJ;ESS(PL,NEUT)	aplanačních
+aplanační	ADJ;CMPR;INS(PL,NEUT)	aplanačnějšími
+aplanační	ADJ;GEN(SG,NEUT)	aplanačního
+aplanační	ADJ;CMPR;GEN(SG,NEUT)	aplanačnějšího
+aplanační	ADJ;DAT(SG,NEUT)	aplanačnímu
+aplanační	ADJ;ACC(SG,NEUT)	aplanační
+aplanační	ADJ;SPRL;ACC(SG,NEUT)	nejaplanačnější
+aplanační	ADJ;VOC(SG,NEUT)	aplanační
+aplanační	ADJ;ESS(SG,NEUT)	aplanačním
+aplanační	ADJ;SPRL;ESS(SG,NEUT)	nejaplanačnějším
+aplanační	ADJ;CMPR;INS(SG,NEUT)	aplanačnějším
+domávat	V;PRS;IND;PFV;1;PL	domáváme
+domávat	V;PRS;IND;PFV;3;PL	domávají
+domávat	V;PRS;IND;NEG;PFV;3;PL	nedomávají
+domávat	V;PRS;IND;NEG;PFV;1;SG	nedomávám
+domávat	V;PRS;IND;PFV;2;SG	domáváš
+domávat	V;PRS;IND;NEG;PFV;2;SG	nedomáváš
+domávat	V;NFIN;PFV	domávat
+domávat	V;NFIN;NEG;PFV	nedomávat
+domávat	V;IMP;PFV;1;PL	domávejme
+domávat	V;PST;IND;NEG;PFV;2;SG;FEM	nedomávalas
+domávat	V;PST;IND;PFV;3;PL;MASC;ANIM	domávali
+domávat	V;PST;IND;PFV;1;PL;MASC;ANIM	domávali jsme
+domávat	V;PST;IND;PFV;2;PL;MASC;ANIM	domávali jste
+domávat	V;COND;PRS;PFV;1;PL;MASC;ANIM	domávali bychom
+domávat	V;PST;IND;NEG;PFV;3;PL;MASC;ANIM	nedomávali
+domávat	V;PST;IND;NEG;PFV;1;PL;MASC;ANIM	nedomávali jsme
+domávat	V;COND;PST;NEG;PFV;3;PL;MASC;ANIM	nebyli by domávali
+domávat	V;COND;PST;NEG;PFV;1;PL;MASC;ANIM	nebyli bychom domávali
+domávat	V;PST;IND;PFV;1;SG;NEUT	domávalo jsem
+domávat	V;COND;PRS;PFV;3;SG;NEUT	domávalo by
+domávat	V;COND;PRS;PFV;1;SG;NEUT	domávalo bych
+domávat	V;COND;PRS;PFV;2;SG;NEUT	domávalo bys
+domávat	V;COND;PST;PFV;3;SG;NEUT	bylo by domávalo
+domávat	V;COND;PST;PFV;1;SG;NEUT	bylo bych domávalo
+domávat	V;PST;IND;NEG;PFV;3;SG;NEUT	nedomávalo
+domávat	V;PST;IND;NEG;PFV;1;SG;NEUT	nedomávalo jsem
+domávat	V;COND;PRS;NEG;PFV;2;SG;NEUT	nedomávalo bys
+domávat	V;COND;PST;NEG;PFV;2;SG;NEUT	nebylo bys domávalo
+domávat	V;PST;IND;PFV;3;SG;FEM	domávala
+domávat	V;PST;IND;PFV;2;PL;NEUT	domávala jste
+domávat	V;COND;PRS;PFV;3;PL;NEUT	domávala by
+domávat	V;COND;PRS;PFV;1;PL;NEUT	domávala bychom
+domávat	V;COND;PST;PFV;3;PL;NEUT	byla by domávala
+domávat	V;PST;IND;NEG;PFV;1;SG;FEM	nedomávala jsem
+domávat	V;COND;PRS;NEG;PFV;2;SG;FEM	nedomávala bys
+domávat	V;COND;PST;NEG;PFV;3;SG;FEM	nebyla by domávala
+domávat	V;COND;PST;NEG;PFV;1;SG;FEM	nebyla bych domávala
+domávat	V;PST;IND;NEG;PFV;1;PL;NEUT	nedomávala jsme
+domávat	V;COND;PST;NEG;PFV;3;PL;NEUT	nebyla by domávala
+domávat	V;PST;IND;PFV;1;PL;FEM	domávaly jsme
+domávat	V;PST;IND;PFV;2;PL;FEM	domávaly jste
+domávat	V;COND;PRS;PFV;1;PL;FEM	domávaly bychom
+domávat	V;COND;PRS;PFV;2;PL;FEM	domávaly byste
+domávat	V;COND;PST;PFV;1;PL;FEM	byly bychom domávaly
+domávat	V;COND;PST;PFV;2;PL;FEM	byly byste domávaly
+domávat	V;COND;PRS;PFV;1;PL;MASC;INAN	domávaly bychom
+domávat	V;COND;PRS;PFV;2;PL;MASC;INAN	domávaly byste
+domávat	V;COND;PST;PFV;3;PL;MASC;INAN	byly by domávaly
+domávat	V;PST;IND;NEG;PFV;3;PL;FEM	nedomávaly
+domávat	V;COND;PRS;NEG;PFV;1;PL;FEM	nedomávaly bychom
+domávat	V;COND;PRS;NEG;PFV;2;PL;FEM	nedomávaly byste
+domávat	V;COND;PST;NEG;PFV;2;PL;FEM	nebyly byste domávaly
+domávat	V;PST;IND;NEG;PFV;2;PL;MASC;INAN	nedomávaly jste
+domávat	V;COND;PRS;NEG;PFV;3;PL;MASC;INAN	nedomávaly by
+domávat	V;COND;PST;NEG;PFV;1;PL;MASC;INAN	nebyly bychom domávaly
+domávat	V;COND;PST;NEG;PFV;2;PL;MASC;INAN	nebyly byste domávaly
+domávat	V;PST;IND;PFV;1;SG;MASC	domával jsem
+domávat	V;COND;PRS;PFV;1;SG;MASC	domával bych
+domávat	V;COND;PST;PFV;3;SG;MASC	byl by domával
+domávat	V;PST;IND;NEG;PFV;1;SG;MASC	nedomával jsem
+domávat	V;COND;PST;NEG;PFV;2;SG;MASC	nebyl bys domával
+domávat	V;PST;IND;NEG;PFV;2;SG;MASC	nedomávals
+domávat	V.PTCP;PASS;PFV;NOM;NOM(2,SG,FEM)	domávánas
+domávat	V.PTCP;PASS;NEG;PFV;ACC;NOM(3,SG,FEM)	nedomávánu
+domávat	V.PTCP;PASS;PFV;NOM;NOM(3,PL,MASC,ANIM)	domáváni
+domávat	V.PTCP;PASS;PFV;NOM;NOM(2,SG,NEUT)	domávános
+domávat	V.PTCP;PASS;PFV;NOM;NOM(3,PL,MASC,INAN)	domávány
+zhutňovaný	ADJ;SPRL;INS(DU,FEM)	nejzhutňovanějšíma
+zhutňovaný	ADJ;NOM(PL,FEM)	zhutňované
+zhutňovaný	ADJ;SPRL;NOM(PL,FEM)	nejzhutňovanější
+zhutňovaný	ADJ;CMPR;GEN(PL,FEM)	zhutňovanějších
+zhutňovaný	ADJ;ACC(PL,FEM)	zhutňované
+zhutňovaný	ADJ;CMPR;ACC(PL,FEM)	zhutňovanější
+zhutňovaný	ADJ;ESS(PL,FEM)	zhutňovaných
+zhutňovaný	ADJ;CMPR;INS(PL,FEM)	zhutňovanějšími
+zhutňovaný	ADJ;SPRL;NOM(SG,FEM)	nejzhutňovanější
+zhutňovaný	ADJ;GEN(SG,FEM)	zhutňované
+zhutňovaný	ADJ;CMPR;GEN(SG,FEM)	zhutňovanější
+zhutňovaný	ADJ;SPRL;GEN(SG,FEM)	nejzhutňovanější
+zhutňovaný	ADJ;CMPR;DAT(SG,FEM)	zhutňovanější
+zhutňovaný	ADJ;SPRL;DAT(SG,FEM)	nejzhutňovanější
+zhutňovaný	ADJ;ACC(SG,FEM)	zhutňovanou
+zhutňovaný	ADJ;CMPR;ACC(SG,FEM)	zhutňovanější
+zhutňovaný	ADJ;VOC(SG,FEM)	zhutňovaná
+zhutňovaný	ADJ;CMPR;VOC(SG,FEM)	zhutňovanější
+zhutňovaný	ADJ;SPRL;INS(SG,FEM)	nejzhutňovanější
+zhutňovaný	ADJ;NOM(PL,MASC,INAN)	zhutňované
+zhutňovaný	ADJ;CMPR;NOM(PL,MASC,INAN)	zhutňovanější
+zhutňovaný	ADJ;SPRL;GEN(PL,MASC,INAN)	nejzhutňovanějších
+zhutňovaný	ADJ;CMPR;DAT(PL,MASC,INAN)	zhutňovanějším
+zhutňovaný	ADJ;SPRL;ACC(PL,MASC,INAN)	nejzhutňovanější
+zhutňovaný	ADJ;VOC(PL,MASC,INAN)	zhutňované
+zhutňovaný	ADJ;CMPR;VOC(PL,MASC,INAN)	zhutňovanější
+zhutňovaný	ADJ;SPRL;VOC(PL,MASC,INAN)	nejzhutňovanější
+zhutňovaný	ADJ;ESS(PL,MASC,INAN)	zhutňovaných
+zhutňovaný	ADJ;CMPR;ESS(PL,MASC,INAN)	zhutňovanějších
+zhutňovaný	ADJ;CMPR;NOM(SG,MASC,INAN)	zhutňovanější
+zhutňovaný	ADJ;SPRL;NOM(SG,MASC,INAN)	nejzhutňovanější
+zhutňovaný	ADJ;CMPR;GEN(SG,MASC,INAN)	zhutňovanějšího
+zhutňovaný	ADJ;SPRL;ACC(SG,MASC,INAN)	nejzhutňovanější
+zhutňovaný	ADJ;CMPR;VOC(SG,MASC,INAN)	zhutňovanější
+zhutňovaný	ADJ;SPRL;ESS(SG,MASC,INAN)	nejzhutňovanějším
+zhutňovaný	ADJ;CMPR;NOM(PL,MASC,ANIM)	zhutňovanější
+zhutňovaný	ADJ;SPRL;NOM(PL,MASC,ANIM)	nejzhutňovanější
+zhutňovaný	ADJ;GEN(PL,MASC,ANIM)	zhutňovaných
+zhutňovaný	ADJ;VOC(PL,MASC,ANIM)	zhutňovaní
+zhutňovaný	ADJ;SPRL;VOC(PL,MASC,ANIM)	nejzhutňovanější
+zhutňovaný	ADJ;SPRL;NOM(SG,MASC,ANIM)	nejzhutňovanější
+zhutňovaný	ADJ;GEN(SG,MASC,ANIM)	zhutňovaného
+zhutňovaný	ADJ;CMPR;DAT(SG,MASC,ANIM)	zhutňovanějšímu
+zhutňovaný	ADJ;SPRL;DAT(SG,MASC,ANIM)	nejzhutňovanějšímu
+zhutňovaný	ADJ;ACC(SG,MASC,ANIM)	zhutňovaného
+zhutňovaný	ADJ;CMPR;INS(SG,MASC,ANIM)	zhutňovanějším
+zhutňovaný	ADJ;DAT(PL,NEUT)	zhutňovaným
+zhutňovaný	ADJ;CMPR;DAT(PL,NEUT)	zhutňovanějším
+zhutňovaný	ADJ;SPRL;DAT(PL,NEUT)	nejzhutňovanějším
+zhutňovaný	ADJ;CMPR;ACC(PL,NEUT)	zhutňovanější
+zhutňovaný	ADJ;SPRL;VOC(PL,NEUT)	nejzhutňovanější
+zhutňovaný	ADJ;CMPR;ESS(PL,NEUT)	zhutňovanějších
+zhutňovaný	ADJ;INS(PL,NEUT)	zhutňovanými
+zhutňovaný	ADJ;CMPR;NOM(SG,NEUT)	zhutňovanější
+zhutňovaný	ADJ;SPRL;GEN(SG,NEUT)	nejzhutňovanějšího
+zhutňovaný	ADJ;DAT(SG,NEUT)	zhutňovanému
+zhutňovaný	ADJ;CMPR;DAT(SG,NEUT)	zhutňovanějšímu
+zhutňovaný	ADJ;SPRL;DAT(SG,NEUT)	nejzhutňovanějšímu
+zhutňovaný	ADJ;ACC(SG,NEUT)	zhutňované
+zhutňovaný	ADJ;VOC(SG,NEUT)	zhutňované
+zhutňovaný	ADJ;ESS(SG,NEUT)	zhutňovaném
+zhutňovaný	ADJ;SPRL;INS(SG,NEUT)	nejzhutňovanějším
+květensky	ADV	květensky
+květensky	ADV;SPRL	nejkvětenštěji
+květensky	ADV;SPRL	nejnekvětenštěji
+mykoplasmosa	N;VOC(PL,FEM)	mykoplasmosy
+mykoplasmosa	N;INS(PL,FEM)	mykoplasmosami
+mykoplasmosa	N;NOM(SG,FEM)	mykoplasmosa
+mykoplasmosa	N;INS(SG,FEM)	mykoplasmosou
+vyvartovatelně	ADV	vyvartovatelně
+vyvartovatelně	ADV	nevyvartovatelně
+vyvartovatelně	ADV;CMPR	vyvartovatelněji
+vyvartovatelně	ADV;SPRL	nejnevyvartovatelněji
+stodvaapadesátiletost	N;GEN(PL,FEM)	stodvaapadesátiletostí
+stodvaapadesátiletost	N;ACC(PL,FEM)	stodvaapadesátiletosti
+stodvaapadesátiletost	N;VOC(PL,FEM)	stodvaapadesátiletosti
+stodvaapadesátiletost	N;VOC(SG,FEM)	stodvaapadesátiletosti
+prokecávaně	ADV;CMPR	neprokecávaněji
+holocén	N;ACC(PL,MASC,INAN)	holocény
+holocén	N;INS(PL,MASC,INAN)	holocény
+psychoendokrinní	ADJ;INS(DU,FEM)	psychoendokrinníma
+psychoendokrinní	ADJ;GEN(SG,FEM)	psychoendokrinní
+psychoendokrinní	ADJ;DAT(SG,FEM)	psychoendokrinní
+psychoendokrinní	ADJ;ESS(SG,FEM)	psychoendokrinní
+psychoendokrinní	ADJ;DAT(PL,MASC,INAN)	psychoendokrinním
+psychoendokrinní	ADJ;ACC(PL,MASC,INAN)	psychoendokrinní
+psychoendokrinní	ADJ;ESS(PL,MASC,INAN)	psychoendokrinních
+psychoendokrinní	ADJ;DAT(SG,MASC,INAN)	psychoendokrinnímu
+psychoendokrinní	ADJ;ACC(SG,MASC,INAN)	psychoendokrinní
+psychoendokrinní	ADJ;INS(SG,MASC,INAN)	psychoendokrinním
+psychoendokrinní	ADJ;GEN(PL,MASC,ANIM)	psychoendokrinních
+psychoendokrinní	ADJ;ACC(PL,MASC,ANIM)	psychoendokrinní
+psychoendokrinní	ADJ;ESS(PL,MASC,ANIM)	psychoendokrinních
+psychoendokrinní	ADJ;INS(PL,MASC,ANIM)	psychoendokrinními
+psychoendokrinní	ADJ;ACC(SG,MASC,ANIM)	psychoendokrinního
+psychoendokrinní	ADJ;ACC(PL,NEUT)	psychoendokrinní
+psychoendokrinní	ADJ;VOC(PL,NEUT)	psychoendokrinní
+psychoendokrinní	ADJ;INS(PL,NEUT)	psychoendokrinními
+psychoendokrinní	ADJ;GEN(SG,NEUT)	psychoendokrinního
+psychoendokrinní	ADJ;DAT(SG,NEUT)	psychoendokrinnímu
+ofrézovávání	N;INS(PL,NEUT)	ofrézováváními
+ofrézovávání	N;DAT(SG,NEUT)	ofrézovávání
+ofrézovávání	N;ACC(SG,NEUT)	ofrézovávání
+ofrézovávání	N;VOC(SG,NEUT)	ofrézovávání
+patnáctiprocentní	ADJ;NOM(PL,FEM)	patnáctiprocentní
+patnáctiprocentní	ADJ;DAT(PL,FEM)	patnáctiprocentním
+patnáctiprocentní	ADJ;ACC(PL,FEM)	patnáctiprocentní
+patnáctiprocentní	ADJ;GEN(SG,FEM)	patnáctiprocentní
+patnáctiprocentní	ADJ;ACC(SG,FEM)	patnáctiprocentní
+patnáctiprocentní	ADJ;GEN(PL,MASC,INAN)	patnáctiprocentních
+patnáctiprocentní	ADJ;VOC(PL,MASC,INAN)	patnáctiprocentní
+patnáctiprocentní	ADJ;GEN(SG,MASC,INAN)	patnáctiprocentního
+patnáctiprocentní	ADJ;DAT(SG,MASC,INAN)	patnáctiprocentnímu
+patnáctiprocentní	ADJ;INS(SG,MASC,INAN)	patnáctiprocentním
+patnáctiprocentní	ADJ;DAT(PL,MASC,ANIM)	patnáctiprocentním
+patnáctiprocentní	ADJ;ACC(PL,MASC,ANIM)	patnáctiprocentní
+patnáctiprocentní	ADJ;ESS(SG,MASC,ANIM)	patnáctiprocentním
+patnáctiprocentní	ADJ;DAT(PL,NEUT)	patnáctiprocentním
+patnáctiprocentní	ADJ;ACC(PL,NEUT)	patnáctiprocentní
+patnáctiprocentní	ADJ;NOM(SG,NEUT)	patnáctiprocentní
+moskevskocentristickost	N;ACC(PL,FEM)	moskevskocentristickosti
+moskevskocentristickost	N;INS(PL,FEM)	moskevskocentristickostmi
+moskevskocentristickost	N;ESS(SG,FEM)	moskevskocentristickosti
+moskevskocentristickost	N;INS(SG,FEM)	moskevskocentristickostí
+blastoméra	N;ESS(PL,FEM)	blastomérách
+blastoméra	N;INS(PL,FEM)	blastomérami
+blastoméra	N;NOM(SG,FEM)	blastoméra
+blastoméra	N;VOC(SG,FEM)	blastoméro
+žížalářčin	ADJ;GEN(PL,FEM)	žížalářčiných
+žížalářčin	ADJ;VOC(PL,FEM)	žížalářčiny
+žížalářčin	ADJ;DAT(SG,FEM)	žížalářčině
+žížalářčin	ADJ;INS(SG,FEM)	žížalářčinou
+žížalářčin	ADJ;NOM(PL,MASC,INAN)	žížalářčiny
+žížalářčin	ADJ;ESS(PL,MASC,INAN)	žížalářčiných
+žížalářčin	ADJ;ESS(SG,MASC,INAN)	žížalářčině
+žížalářčin	ADJ;INS(SG,MASC,INAN)	žížalářčiným
+žížalářčin	ADJ;GEN(PL,MASC,ANIM)	žížalářčiných
+žížalářčin	ADJ;ESS(PL,MASC,ANIM)	žížalářčiných
+žížalářčin	ADJ;ACC(PL,NEUT)	žížalářčina
+žížalářčin	ADJ;INS(PL,NEUT)	žížalářčinými
+žížalářčin	ADJ;ESS(SG,NEUT)	žížalářčině
+zpýchanost	N;ACC(PL,FEM)	zpýchanosti
+zpýchanost	N;VOC(PL,FEM)	zpýchanosti
+zpýchanost	N;ESS(PL,FEM)	zpýchanostech
+zpýchanost	N;NOM(SG,FEM)	zpýchanost
+zpýchanost	N;GEN(SG,FEM)	zpýchanosti
+zpýchanost	N;VOC(SG,FEM)	zpýchanosti
+hangár	N;DAT(PL,MASC,INAN)	hangárům
+hangár	N;ACC(PL,MASC,INAN)	hangáry
+hangár	N;ESS(PL,MASC,INAN)	hangárech
+hangár	N;NOM(SG,MASC,INAN)	hangár
+hangár	N;ESS(SG,MASC,INAN)	hangáru
+zesympatisovat	V;PRS;IND;PFV;1;PL	zesympatisujeme
+zesympatisovat	V;PRS;IND;PFV;2;PL	zesympatisujete
+zesympatisovat	V;PRS;IND;PFV;3;PL	zesympatisují
+zesympatisovat	V;PRS;IND;NEG;PFV;1;SG	nezesympatisuju
+zesympatisovat	V;NFIN;PFV	zesympatisovat
+zesympatisovat	V;IMP;PFV;1;PL	zesympatisujme
+zesympatisovat	V;PST;IND;NEG;PFV;2;SG;FEM	nezesympatisovalas
+zesympatisovat	V;PST;IND;PFV;1;PL;MASC;ANIM	zesympatisovali jsme
+zesympatisovat	V;COND;PRS;PFV;2;PL;MASC;ANIM	zesympatisovali byste
+zesympatisovat	V;COND;PST;PFV;3;PL;MASC;ANIM	byli by zesympatisovali
+zesympatisovat	V;COND;PST;PFV;1;PL;MASC;ANIM	byli bychom zesympatisovali
+zesympatisovat	V;PST;IND;NEG;PFV;1;PL;MASC;ANIM	nezesympatisovali jsme
+zesympatisovat	V;PST;IND;NEG;PFV;2;PL;MASC;ANIM	nezesympatisovali jste
+zesympatisovat	V;COND;PST;NEG;PFV;3;PL;MASC;ANIM	nebyli by zesympatisovali
+zesympatisovat	V;COND;PST;NEG;PFV;2;PL;MASC;ANIM	nebyli byste zesympatisovali
+zesympatisovat	V;PST;IND;PFV;1;SG;NEUT	zesympatisovalo jsem
+zesympatisovat	V;PST;IND;PFV;2;SG;NEUT	zesympatisovalo jsi
+zesympatisovat	V;COND;PST;PFV;2;SG;NEUT	bylo bys zesympatisovalo
+zesympatisovat	V;COND;PST;NEG;PFV;1;SG;NEUT	nebylo bych zesympatisovalo
+zesympatisovat	V;PST;IND;PFV;3;SG;FEM	zesympatisovala
+zesympatisovat	V;PST;IND;PFV;2;SG;FEM	zesympatisovala jsi
+zesympatisovat	V;COND;PRS;PFV;1;SG;FEM	zesympatisovala bych
+zesympatisovat	V;COND;PST;PFV;3;SG;FEM	byla by zesympatisovala
+zesympatisovat	V;COND;PST;PFV;1;SG;FEM	byla bych zesympatisovala
+zesympatisovat	V;COND;PST;PFV;2;SG;FEM	byla bys zesympatisovala
+zesympatisovat	V;PST;IND;PFV;2;PL;NEUT	zesympatisovala jste
+zesympatisovat	V;COND;PRS;PFV;2;PL;NEUT	zesympatisovala byste
+zesympatisovat	V;PST;IND;NEG;PFV;1;SG;FEM	nezesympatisovala jsem
+zesympatisovat	V;COND;PRS;NEG;PFV;3;SG;FEM	nezesympatisovala by
+zesympatisovat	V;COND;PRS;NEG;PFV;1;SG;FEM	nezesympatisovala bych
+zesympatisovat	V;COND;PST;NEG;PFV;1;SG;FEM	nebyla bych zesympatisovala
+zesympatisovat	V;PST;IND;PFV;3;PL;FEM	zesympatisovaly
+zesympatisovat	V;PST;IND;PFV;1;PL;FEM	zesympatisovaly jsme
+zesympatisovat	V;COND;PRS;PFV;3;PL;FEM	zesympatisovaly by
+zesympatisovat	V;COND;PRS;PFV;2;PL;FEM	zesympatisovaly byste
+zesympatisovat	V;COND;PST;PFV;2;PL;FEM	byly byste zesympatisovaly
+zesympatisovat	V;COND;PST;PFV;3;PL;MASC;INAN	byly by zesympatisovaly
+zesympatisovat	V;COND;PST;PFV;2;PL;MASC;INAN	byly byste zesympatisovaly
+zesympatisovat	V;PST;IND;NEG;PFV;1;PL;FEM	nezesympatisovaly jsme
+zesympatisovat	V;COND;PRS;NEG;PFV;3;PL;FEM	nezesympatisovaly by
+zesympatisovat	V;COND;PRS;NEG;PFV;1;PL;FEM	nezesympatisovaly bychom
+zesympatisovat	V;COND;PST;NEG;PFV;3;PL;FEM	nebyly by zesympatisovaly
+zesympatisovat	V;COND;PST;NEG;PFV;2;PL;FEM	nebyly byste zesympatisovaly
+zesympatisovat	V;COND;PRS;NEG;PFV;1;PL;MASC;INAN	nezesympatisovaly bychom
+zesympatisovat	V;COND;PRS;NEG;PFV;3;SG;MASC	nezesympatisoval by
+zesympatisovat	V;COND;PST;NEG;PFV;1;SG;MASC	nebyl bych zesympatisoval
+zesympatisovat	V.PTCP;PASS;NEG;PFV;NOM;NOM(2,SG,FEM)	nezesympatisovánas
+zesympatisovat	V.PTCP;PASS;PFV;ACC;NOM(3,SG,FEM)	zesympatisovánu
+zesympatisovat	V.PTCP;PASS;NEG;PFV;NOM;NOM(3,PL,MASC,ANIM)	nezesympatisováni
+zesympatisovat	V.PTCP;PASS;PFV;NOM;NOM(2,SG,NEUT)	zesympatisovános
+zesympatisovat	V.PTCP;PASS;NEG;PFV;NOM;NOM(2,SG,NEUT)	nezesympatisovános
+zesympatisovat	V.PTCP;PASS;PFV;NOM;NOM(3,SG,NEUT)	zesympatisováno
+zesympatisovat	V.PTCP;PASS;NEG;PFV;NOM;NOM(3,SG,FEM)	nezesympatisována
+zesympatisovat	V.PTCP;PASS;NEG;PFV;NOM;NOM(3,PL,NEUT)	nezesympatisována
+zesympatisovat	V.PTCP;PASS;PFV;NOM;NOM(3,PL,MASC,INAN)	zesympatisovány
+zesympatisovat	V.PTCP;PASS;NEG;PFV;NOM;NOM(3,PL,MASC,INAN)	nezesympatisovány
+zděravět	V;PRS;IND;PFV;3;PL	zděravějí
+zděravět	V;PRS;IND;PFV;1;SG	zděravím
+zděravět	V;PRS;IND;NEG;PFV;2;SG	nezděravíš
+zděravět	V;PRS;IND;PFV;3;SG	zděraví
+zděravět	V;NFIN;PFV	zděravět
+zděravět	V;IMP;PFV;1;PL	zděravějme
+zděravět	V;IMP;PFV;2;PL	zděravějte
+zděravět	V;IMP;NEG;PFV;2;PL	nezděravějte
+zděravět	V;COND;PRS;PFV;3;PL;MASC;ANIM	zděravěli by
+zděravět	V;COND;PST;PFV;2;PL;MASC;ANIM	byli byste zděravěli
+zděravět	V;PST;IND;NEG;PFV;3;PL;MASC;ANIM	nezděravěli
+zděravět	V;PST;IND;NEG;PFV;1;PL;MASC;ANIM	nezděravěli jsme
+zděravět	V;COND;PRS;NEG;PFV;2;PL;MASC;ANIM	nezděravěli byste
+zděravět	V;PST;IND;PFV;1;SG;NEUT	zděravělo jsem
+zděravět	V;COND;PRS;PFV;3;SG;NEUT	zděravělo by
+zděravět	V;COND;PRS;PFV;1;SG;NEUT	zděravělo bych
+zděravět	V;COND;PST;PFV;3;SG;NEUT	bylo by zděravělo
+zděravět	V;PST;IND;NEG;PFV;3;SG;NEUT	nezděravělo
+zděravět	V;PST;IND;NEG;PFV;1;SG;NEUT	nezděravělo jsem
+zděravět	V;PST;IND;NEG;PFV;2;SG;NEUT	nezděravělo jsi
+zděravět	V;COND;PRS;NEG;PFV;1;SG;NEUT	nezděravělo bych
+zděravět	V;COND;PST;NEG;PFV;3;SG;NEUT	nebylo by zděravělo
+zděravět	V;COND;PST;NEG;PFV;1;SG;NEUT	nebylo bych zděravělo
+zděravět	V;PST;IND;NEG;PFV;2;SG;NEUT	nezděravělos
+zděravět	V;COND;PRS;PFV;3;SG;FEM	zděravěla by
+zděravět	V;COND;PRS;PFV;1;SG;FEM	zděravěla bych
+zděravět	V;COND;PST;PFV;2;SG;FEM	byla bys zděravěla
+zděravět	V;PST;IND;PFV;3;PL;NEUT	zděravěla
+zděravět	V;COND;PRS;PFV;3;PL;NEUT	zděravěla by
+zděravět	V;PST;IND;NEG;PFV;2;SG;FEM	nezděravěla jsi
+zděravět	V;COND;PRS;NEG;PFV;3;PL;NEUT	nezděravěla by
+zděravět	V;COND;PRS;NEG;PFV;1;PL;NEUT	nezděravěla bychom
+zděravět	V;COND;PST;NEG;PFV;2;PL;NEUT	nebyla byste zděravěla
+zděravět	V;COND;PRS;PFV;3;PL;FEM	zděravěly by
+zděravět	V;COND;PST;PFV;1;PL;FEM	byly bychom zděravěly
+zděravět	V;COND;PST;PFV;2;PL;FEM	byly byste zděravěly
+zděravět	V;PST;IND;PFV;2;PL;MASC;INAN	zděravěly jste
+zděravět	V;COND;PRS;PFV;3;PL;MASC;INAN	zděravěly by
+zděravět	V;COND;PRS;PFV;1;PL;MASC;INAN	zděravěly bychom
+zděravět	V;COND;PRS;PFV;2;PL;MASC;INAN	zděravěly byste
+zděravět	V;COND;PST;NEG;PFV;3;PL;FEM	nebyly by zděravěly
+zděravět	V;COND;PST;NEG;PFV;2;PL;FEM	nebyly byste zděravěly
+zděravět	V;PST;IND;NEG;PFV;1;PL;MASC;INAN	nezděravěly jsme
+zděravět	V;PST;IND;NEG;PFV;2;PL;MASC;INAN	nezděravěly jste
+zděravět	V;COND;PRS;NEG;PFV;3;PL;MASC;INAN	nezděravěly by
+zděravět	V;COND;PRS;NEG;PFV;1;PL;MASC;INAN	nezděravěly bychom
+zděravět	V;COND;PST;NEG;PFV;1;PL;MASC;INAN	nebyly bychom zděravěly
+zděravět	V;PST;IND;PFV;3;SG;MASC	zděravěl
+zděravět	V;COND;PRS;PFV;3;SG;MASC	zděravěl by
+zděravět	V;COND;PRS;PFV;1;SG;MASC	zděravěl bych
+zděravět	V;COND;PRS;PFV;2;SG;MASC	zděravěl bys
+zděravět	V;COND;PST;PFV;1;SG;MASC	byl bych zděravěl
+zděravět	V;COND;PST;PFV;2;SG;MASC	byl bys zděravěl
+zděravět	V;PST;IND;PFV;2;SG;MASC	zděravěls
+zděravět	V;PST;IND;NEG;PFV;3;SG;MASC	nezděravěl
+zděravět	V;PST;IND;NEG;PFV;2;SG;MASC	nezděravěl jsi
+zděravět	V;COND;PRS;NEG;PFV;3;SG;MASC	nezděravěl by
+zděravět	V;COND;PRS;NEG;PFV;2;SG;MASC	nezděravěl bys
+zděravět	V;COND;PST;NEG;PFV;2;SG;MASC	nebyl bys zděravěl
+zděravět	V.PTCP;PASS;PFV;NOM;NOM(2,SG,FEM)	zděravěnas
+zděravět	V.PTCP;PASS;NEG;PFV;NOM;NOM(2,SG,FEM)	nezděravěnas
+zděravět	V.PTCP;PASS;NEG;PFV;ACC;NOM(3,SG,FEM)	nezděravěnu
+zděravět	V.PTCP;PASS;PFV;NOM;NOM(2,SG,NEUT)	zděravěnos
+zděravět	V.PTCP;PASS;PFV;NOM;NOM(3,PL,NEUT)	zděravěna
+zděravět	V.PTCP;PASS;PFV;NOM;NOM(3,PL,FEM)	zděravěny
+zděravět	V.PTCP;PASS;NEG;PFV;NOM;NOM(3,PL,FEM)	nezděravěny
+dopomáhatelně	ADV	nedopomáhatelně
+dopomáhatelně	ADV;SPRL	nejdopomáhatelněji
+bandoneonistův	ADJ;INS(DU,FEM)	bandoneonistovýma
+bandoneonistův	ADJ;NOM(PL,FEM)	bandoneonistovy
+bandoneonistův	ADJ;DAT(PL,FEM)	bandoneonistovým
+bandoneonistův	ADJ;INS(PL,FEM)	bandoneonistovými
+bandoneonistův	ADJ;GEN(SG,FEM)	bandoneonistovy
+bandoneonistův	ADJ;VOC(SG,FEM)	bandoneonistova
+bandoneonistův	ADJ;GEN(PL,MASC,INAN)	bandoneonistových
+bandoneonistův	ADJ;DAT(PL,MASC,INAN)	bandoneonistovým
+bandoneonistův	ADJ;ESS(PL,MASC,INAN)	bandoneonistových
+bandoneonistův	ADJ;INS(PL,MASC,INAN)	bandoneonistovými
+bandoneonistův	ADJ;ESS(SG,MASC,INAN)	bandoneonistově
+bandoneonistův	ADJ;INS(SG,MASC,INAN)	bandoneonistovým
+bandoneonistův	ADJ;NOM(PL,MASC,ANIM)	bandoneonistovi
+bandoneonistův	ADJ;NOM(SG,MASC,ANIM)	bandoneonistův
+bandoneonistův	ADJ;DAT(SG,MASC,ANIM)	bandoneonistovu
+bandoneonistův	ADJ;ESS(SG,MASC,ANIM)	bandoneonistově
+bandoneonistův	ADJ;ACC(PL,NEUT)	bandoneonistova
+bandoneonistův	ADJ;ESS(PL,NEUT)	bandoneonistových
+bandoneonistův	ADJ;NOM(SG,NEUT)	bandoneonistovo
+bandoneonistův	ADJ;ACC(SG,NEUT)	bandoneonistovo
+bandoneonistův	ADJ;VOC(SG,NEUT)	bandoneonistovo
+bandoneonistův	ADJ;INS(SG,NEUT)	bandoneonistovým
+asylovost	N;DAT(PL,FEM)	asylovostem
+asylovost	N;VOC(PL,FEM)	asylovosti
+asylovost	N;ESS(PL,FEM)	asylovostech
+asylovost	N;GEN(SG,FEM)	asylovosti
+asylovost	N;ACC(SG,FEM)	asylovost
+asylovost	N;INS(SG,FEM)	asylovostí
+islamizátorův	ADJ;INS(DU,FEM)	islamizátorovýma
+islamizátorův	ADJ;GEN(PL,FEM)	islamizátorových
+islamizátorův	ADJ;VOC(PL,FEM)	islamizátorovy
+islamizátorův	ADJ;ESS(PL,FEM)	islamizátorových
+islamizátorův	ADJ;INS(PL,FEM)	islamizátorovými
+islamizátorův	ADJ;NOM(SG,FEM)	islamizátorova
+islamizátorův	ADJ;GEN(SG,FEM)	islamizátorovy
+islamizátorův	ADJ;DAT(SG,FEM)	islamizátorově
+islamizátorův	ADJ;ESS(SG,FEM)	islamizátorově
+islamizátorův	ADJ;INS(SG,FEM)	islamizátorovou
+islamizátorův	ADJ;VOC(PL,MASC,INAN)	islamizátorovy
+islamizátorův	ADJ;NOM(SG,MASC,INAN)	islamizátorův
+islamizátorův	ADJ;GEN(SG,MASC,INAN)	islamizátorova
+islamizátorův	ADJ;GEN(PL,MASC,ANIM)	islamizátorových
+islamizátorův	ADJ;VOC(PL,MASC,ANIM)	islamizátorovi
+islamizátorův	ADJ;ACC(SG,MASC,ANIM)	islamizátorova
+islamizátorův	ADJ;VOC(PL,NEUT)	islamizátorova
+islamizátorův	ADJ;NOM(SG,NEUT)	islamizátorovo
+islamizátorův	ADJ;INS(SG,NEUT)	islamizátorovým
+zachraňovávací	ADJ;INS(DU,FEM)	zachraňovávacíma
+zachraňovávací	ADJ;GEN(PL,FEM)	zachraňovávacích
+zachraňovávací	ADJ;VOC(PL,FEM)	zachraňovávací
+zachraňovávací	ADJ;ESS(PL,FEM)	zachraňovávacích
+zachraňovávací	ADJ;INS(PL,FEM)	zachraňovávacími
+zachraňovávací	ADJ;VOC(SG,FEM)	zachraňovávací
+zachraňovávací	ADJ;ESS(SG,FEM)	zachraňovávací
+zachraňovávací	ADJ;INS(SG,FEM)	zachraňovávací
+zachraňovávací	ADJ;NOM(PL,MASC,INAN)	zachraňovávací
+zachraňovávací	ADJ;GEN(PL,MASC,INAN)	zachraňovávacích
+zachraňovávací	ADJ;DAT(PL,MASC,INAN)	zachraňovávacím
+zachraňovávací	ADJ;NOM(SG,MASC,INAN)	zachraňovávací
+zachraňovávací	ADJ;GEN(SG,MASC,INAN)	zachraňovávacího
+zachraňovávací	ADJ;ACC(SG,MASC,INAN)	zachraňovávací
+zachraňovávací	ADJ;INS(SG,MASC,INAN)	zachraňovávacím
+zachraňovávací	ADJ;ACC(PL,MASC,ANIM)	zachraňovávací
+zachraňovávací	ADJ;VOC(PL,MASC,ANIM)	zachraňovávací
+zachraňovávací	ADJ;NOM(SG,MASC,ANIM)	zachraňovávací
+zachraňovávací	ADJ;ACC(SG,MASC,ANIM)	zachraňovávacího
+zachraňovávací	ADJ;VOC(SG,MASC,ANIM)	zachraňovávací
+zachraňovávací	ADJ;INS(SG,MASC,ANIM)	zachraňovávacím
+zachraňovávací	ADJ;NOM(PL,NEUT)	zachraňovávací
+zachraňovávací	ADJ;VOC(PL,NEUT)	zachraňovávací
+zachraňovávací	ADJ;INS(PL,NEUT)	zachraňovávacími
+zachraňovávací	ADJ;NOM(SG,NEUT)	zachraňovávací
+zachraňovávací	ADJ;INS(SG,NEUT)	zachraňovávacím
+mleččin	ADJ;NOM(PL,FEM)	mleččiny
+mleččin	ADJ;GEN(SG,FEM)	mleččiny
+mleččin	ADJ;VOC(SG,FEM)	mleččina
+mleččin	ADJ;INS(SG,FEM)	mleččinou
+mleččin	ADJ;DAT(PL,MASC,INAN)	mleččiným
+mleččin	ADJ;VOC(PL,MASC,INAN)	mleččiny
+mleččin	ADJ;ESS(PL,MASC,INAN)	mleččiných
+mleččin	ADJ;INS(PL,MASC,INAN)	mleččinými
+mleččin	ADJ;DAT(SG,MASC,INAN)	mleččinu
+mleččin	ADJ;INS(SG,MASC,INAN)	mleččiným
+mleččin	ADJ;DAT(PL,MASC,ANIM)	mleččiným
+mleččin	ADJ;VOC(PL,MASC,ANIM)	mleččini
+mleččin	ADJ;ESS(PL,MASC,ANIM)	mleččiných
+mleččin	ADJ;INS(PL,MASC,ANIM)	mleččinými
+mleččin	ADJ;ESS(SG,MASC,ANIM)	mleččině
+mleččin	ADJ;GEN(PL,NEUT)	mleččiných
+mleččin	ADJ;ACC(PL,NEUT)	mleččina
+mleččin	ADJ;VOC(PL,NEUT)	mleččina
+mleččin	ADJ;INS(PL,NEUT)	mleččinými
+mleččin	ADJ;VOC(SG,NEUT)	mleččino
+poklofávaný	ADJ;NOM(PL,FEM)	poklofávané
+poklofávaný	ADJ;CMPR;NOM(PL,FEM)	poklofávanější
+poklofávaný	ADJ;SPRL;NOM(PL,FEM)	nejpoklofávanější
+poklofávaný	ADJ;DAT(PL,FEM)	poklofávaným
+poklofávaný	ADJ;CMPR;DAT(PL,FEM)	poklofávanějším
+poklofávaný	ADJ;CMPR;ACC(PL,FEM)	poklofávanější
+poklofávaný	ADJ;CMPR;VOC(PL,FEM)	poklofávanější
+poklofávaný	ADJ;ESS(PL,FEM)	poklofávaných
+poklofávaný	ADJ;CMPR;INS(PL,FEM)	poklofávanějšími
+poklofávaný	ADJ;NOM(SG,FEM)	poklofávaná
+poklofávaný	ADJ;SPRL;GEN(SG,FEM)	nejpoklofávanější
+poklofávaný	ADJ;CMPR;ACC(SG,FEM)	poklofávanější
+poklofávaný	ADJ;CMPR;ESS(SG,FEM)	poklofávanější
+poklofávaný	ADJ;SPRL;ESS(SG,FEM)	nejpoklofávanější
+poklofávaný	ADJ;SPRL;INS(SG,FEM)	nejpoklofávanější
+poklofávaný	ADJ;CMPR;NOM(PL,MASC,INAN)	poklofávanější
+poklofávaný	ADJ;GEN(PL,MASC,INAN)	poklofávaných
+poklofávaný	ADJ;SPRL;GEN(PL,MASC,INAN)	nejpoklofávanějších
+poklofávaný	ADJ;CMPR;DAT(PL,MASC,INAN)	poklofávanějším
+poklofávaný	ADJ;ACC(PL,MASC,INAN)	poklofávané
+poklofávaný	ADJ;VOC(PL,MASC,INAN)	poklofávané
+poklofávaný	ADJ;CMPR;VOC(PL,MASC,INAN)	poklofávanější
+poklofávaný	ADJ;SPRL;VOC(PL,MASC,INAN)	nejpoklofávanější
+poklofávaný	ADJ;DAT(SG,MASC,INAN)	poklofávanému
+poklofávaný	ADJ;CMPR;DAT(SG,MASC,INAN)	poklofávanějšímu
+poklofávaný	ADJ;SPRL;DAT(SG,MASC,INAN)	nejpoklofávanějšímu
+poklofávaný	ADJ;CMPR;ACC(SG,MASC,INAN)	poklofávanější
+poklofávaný	ADJ;SPRL;ACC(SG,MASC,INAN)	nejpoklofávanější
+poklofávaný	ADJ;SPRL;VOC(SG,MASC,INAN)	nejpoklofávanější
+poklofávaný	ADJ;ESS(SG,MASC,INAN)	poklofávaném
+poklofávaný	ADJ;SPRL;INS(SG,MASC,INAN)	nejpoklofávanějším
+poklofávaný	ADJ;CMPR;GEN(PL,MASC,ANIM)	poklofávanějších
+poklofávaný	ADJ;DAT(PL,MASC,ANIM)	poklofávaným
+poklofávaný	ADJ;SPRL;DAT(PL,MASC,ANIM)	nejpoklofávanějším
+poklofávaný	ADJ;VOC(PL,MASC,ANIM)	poklofávaní
+poklofávaný	ADJ;CMPR;VOC(PL,MASC,ANIM)	poklofávanější
+poklofávaný	ADJ;ESS(PL,MASC,ANIM)	poklofávaných
+poklofávaný	ADJ;CMPR;ESS(PL,MASC,ANIM)	poklofávanějších
+poklofávaný	ADJ;INS(PL,MASC,ANIM)	poklofávanými
+poklofávaný	ADJ;CMPR;INS(PL,MASC,ANIM)	poklofávanějšími
+poklofávaný	ADJ;CMPR;GEN(SG,MASC,ANIM)	poklofávanějšího
+poklofávaný	ADJ;ACC(SG,MASC,ANIM)	poklofávaného
+poklofávaný	ADJ;VOC(SG,MASC,ANIM)	poklofávaný
+poklofávaný	ADJ;CMPR;VOC(SG,MASC,ANIM)	poklofávanější
+poklofávaný	ADJ;SPRL;ESS(SG,MASC,ANIM)	nejpoklofávanějším
+poklofávaný	ADJ;INS(SG,MASC,ANIM)	poklofávaným
+poklofávaný	ADJ;SPRL;INS(SG,MASC,ANIM)	nejpoklofávanějším
+poklofávaný	ADJ;CMPR;GEN(PL,NEUT)	poklofávanějších
+poklofávaný	ADJ;SPRL;GEN(PL,NEUT)	nejpoklofávanějších
+poklofávaný	ADJ;CMPR;ACC(PL,NEUT)	poklofávanější
+poklofávaný	ADJ;VOC(PL,NEUT)	poklofávaná
+poklofávaný	ADJ;CMPR;VOC(PL,NEUT)	poklofávanější
+poklofávaný	ADJ;SPRL;VOC(PL,NEUT)	nejpoklofávanější
+poklofávaný	ADJ;CMPR;ESS(PL,NEUT)	poklofávanějších
+poklofávaný	ADJ;INS(PL,NEUT)	poklofávanými
+poklofávaný	ADJ;NOM(SG,NEUT)	poklofávané
+poklofávaný	ADJ;CMPR;NOM(SG,NEUT)	poklofávanější
+poklofávaný	ADJ;SPRL;NOM(SG,NEUT)	nejpoklofávanější
+poklofávaný	ADJ;GEN(SG,NEUT)	poklofávaného
+poklofávaný	ADJ;SPRL;GEN(SG,NEUT)	nejpoklofávanějšího
+poklofávaný	ADJ;CMPR;DAT(SG,NEUT)	poklofávanějšímu
+poklofávaný	ADJ;SPRL;INS(SG,NEUT)	nejpoklofávanějším
+zamrdaně	ADV	zamrdaně
+zamrdaně	ADV;CMPR	zamrdaněji
+zamrdaně	ADV;SPRL	nejnezamrdaněji

@@ -1,0 +1,492 @@
+absoudre	V.CVB;PRS	en absolvant
+e n   a b s o u d a n t	e n   a b s o l v a n t	1.1070969104766846	2
+absoudre	V;IND;PRS;NOM(1,SG)	absous
+a b s o u d s	a b s o u s	1.31318199634552	1
+absoudre	V;IND;PRS;NOM(2,PL)	absolvez
+a b s o u d e z	a b s o l v e z	1.5512030124664307	2
+absoudre	V;IND;PRS;NOM(3,PL)	absolvent
+a b s o u d e n t	a b s o l v e n t	1.4471571445465088	2
+absoudre	V;IND;PRS;NOM(3,SG)	absout
+a b s o u d e	a b s o u t	1.0051276683807373	2
+absoudre	V;IND;PST;IPFV;NOM(1,SG)	absolvais
+a b s o u d a i s	a b s o l v a i s	1.3994807004928589	2
+absoudre	V;IND;PST;IPFV;NOM(2,SG)	absolvais
+a b s o u d a i s	a b s o l v a i s	1.399373173713684	2
+absoudre	V;IND;PST;PFV;NOM(1,PL)	absolûmes
+a b s o u d î m e s	a b s o l û m e s	1.4219448566436768	3
+absoudre	V;IND;PST;PFV;NOM(2,PL)	absolûtes
+a b s o u d î t e s	a b s o l û t e s	1.580549955368042	3
+absoudre	V;IND;PST;PFV;NOM(2,SG)	absolus
+a b s o u d i s	a b s o l u s	2.5306613445281982	3
+absoudre	V;IND;PST;PFV;NOM(3,PL)	absolurent
+a b s o u d i r e n t	a b s o l u r e n t	1.7177878618240356	3
+absoudre	V;IND;PST;PFV;NOM(3,SG)	absolut
+a b s o u d i t	a b s o l u t	2.2248167991638184	3
+absoudre	V;SBJV;PRS;NOM(2,SG)	absolves
+a b s o u d e s	a b s o l v e s	1.7337592840194702	2
+absoudre	V;SBJV;PRS;NOM(3,PL)	absolvent
+a b s o u d e n t	a b s o l v e n t	1.423956036567688	2
+anluminer	V;COND;NOM(1,PL)	anlumineriiens
+a n l u m i n e r i o n s	a n l u m i n e r i i e n s	0.5389050245285034	2
+anluminer	V;COND;NOM(2,PL)	anlumineriiez
+a n l u m i n e r i e z	a n l u m i n e r i i e z	0.5614632368087769	1
+anluminer	V;COND;NOM(3,SG)	anlumineroit
+a n l u m i n e r a i t	a n l u m i n e r o i t	0.6015860438346863	1
+anluminer	V;IND;FUT;NOM(2,PL)	anlumineroiz
+a n l u m i n e r e z	a n l u m i n e r o i z	0.6181858777999878	2
+anluminer	V;IND;PST;IPFV;NOM(1,PL)	anluminiiens
+a n l u m i n i o n s	a n l u m i n i i e n s	1.115748643875122	2
+anluminer	V;IND;PST;PFV;NOM(3,PL)	anluminerent
+a n l u m i n è r e n t	a n l u m i n e r e n t	0.6208924055099487	1
+anluminer	V;SBJV;PRS;NOM(1,SG)	anlumin
+a n l u m i n e	a n l u m i n	0.9266207218170166	1
+anluminer	V;SBJV;PRS;NOM(2,SG)	anlumins
+a n l u m i n e s	a n l u m i n s	1.5866341590881348	1
+anluminer	V;SBJV;PST;NOM(1,PL)	anluminissons
+a n l u m i n a s s i o n s	a n l u m i n i s s o n s	0.8357475996017456	2
+anluminer	V;SBJV;PST;NOM(2,PL)	anluminissoiz
+a n l u m i n a s s i e z	a n l u m i n i s s o i z	0.8969385027885437	3
+anluminer	V;SBJV;PST;NOM(3,SG)	anluminast
+a n l u m i n â t	a n l u m i n a s t	0.7245391011238098	2
+baptizer	V;COND;NOM(1,SG)	baptizerois
+b a p t i z e r a i s	b a p t i z e r o i s	0.6596171259880066	1
+baptizer	V;COND;NOM(2,SG)	baptizerois
+b a p t i z e r a i s	b a p t i z e r o i s	0.6615198254585266	1
+baptizer	V;COND;NOM(3,PL)	baptizeroient
+b a p t i z e r a i e n t	b a p t i z e r o i e n t	0.5668895840644836	1
+baptizer	V;IND;PST;IPFV;NOM(2,SG)	baptizois
+b a p t i z a i s	b a p t i z o i s	0.7804230451583862	1
+baptizer	V;IND;PST;IPFV;NOM(3,SG)	baptizoit
+b a p t i z a i t	b a p t i z o i t	0.7887758612632751	1
+baptizer	V;IND;PST;PFV;NOM(2,PL)	baptizastes
+b a p t i z â t e s	b a p t i z a s t e s	0.6806017756462097	2
+baptizer	V;SBJV;PRS;NOM(2,PL)	baptizez
+b a p t i z i e z	b a p t i z e z	0.8391119837760925	1
+carencer	V;IND;PST;IPFV;NOM(2,SG)	carençais
+c a r e n c a i s	c a r e n ç a i s	0.15188774466514587	1
+carencer	V;IND;PST;IPFV;NOM(3,PL)	carençaient
+c a r e n c a i e n t	c a r e n ç a i e n t	0.13151003420352936	1
+carencer	V;IND;PST;PFV;NOM(1,SG)	carençai
+c a r e n c a i	c a r e n ç a i	0.38175588846206665	1
+carencer	V;IND;PST;PFV;NOM(2,PL)	carençâtes
+c a r e n c â t e s	c a r e n ç â t e s	0.5409324169158936	1
+carencer	V;IND;PST;PFV;NOM(3,SG)	carença
+c a r e n c a	c a r e n ç a	0.6443066596984863	1
+carencer	V;SBJV;PST;NOM(1,PL)	carençassions
+c a r e n c a s s i o n s	c a r e n ç a s s i o n s	0.33537107706069946	1
+carencer	V;SBJV;PST;NOM(2,SG)	carençasses
+c a r e n c a s s e s	c a r e n ç a s s e s	0.1964128613471985	1
+carencer	V;SBJV;PST;NOM(3,SG)	carençât
+c a r e n c â t	c a r e n ç â t	0.658162534236908	1
+conclure	V.CVB;PRS	en concluant
+e n   c o n c l u r a n t	e n   c o n c l u a n t	0.5630033016204834	1
+conclure	V.PTCP;PRS	concluant
+c o n c l u r a n t	c o n c l u a n t	0.7188061475753784	1
+conclure	V.PTCP;PST	conclu
+c o n c l u r é	c o n c l u	0.9529519081115723	2
+conclure	V;COND;NOM(2,PL)	concluriez
+c o n c l u r e r i e z	c o n c l u r i e z	0.9239854216575623	2
+conclure	V;COND;NOM(2,SG)	conclurais
+c o n c l u r e r a i s	c o n c l u r a i s	0.6557928323745728	2
+conclure	V;IND;FUT;NOM(3,PL)	concluront
+c o n c l u r e r o n t	c o n c l u r o n t	0.6676235795021057	2
+conclure	V;IND;PRS;NOM(2,PL)	concluez
+c o n c l u r e z	c o n c l u e z	0.8026565313339233	1
+conclure	V;IND;PRS;NOM(3,PL)	concluent
+c o n c l u r e n t	c o n c l u e n t	0.7399366497993469	1
+conclure	V;IND;PST;IPFV;NOM(1,PL)	concluions
+c o n c l u r i o n s	c o n c l u i o n s	0.7618643045425415	1
+conclure	V;IND;PST;IPFV;NOM(2,PL)	concluiez
+c o n c l u r i e z	c o n c l u i e z	0.8248797655105591	1
+conclure	V;IND;PST;IPFV;NOM(2,SG)	concluais
+c o n c l u r a i s	c o n c l u a i s	0.7153365612030029	1
+conclure	V;IND;PST;IPFV;NOM(3,PL)	concluaient
+c o n c l u r a i e n t	c o n c l u a i e n t	0.6042498350143433	1
+conclure	V;IND;PST;IPFV;NOM(3,SG)	concluait
+c o n c l u r a i t	c o n c l u a i t	0.7153760194778442	1
+conclure	V;IND;PST;PFV;NOM(1,PL)	conclûmes
+c o n c l u r â m e s	c o n c l û m e s	1.3944427967071533	3
+conclure	V;IND;PST;PFV;NOM(2,PL)	conclûtes
+c o n c l u r â t e s	c o n c l û t e s	1.4263557195663452	3
+conclure	V;POS;IMP;NOM(2,PL)	concluez
+c o n c l u r e z	c o n c l u e z	0.7991320490837097	1
+conclure	V;POS;IMP;NOM(2,SG)	conclus
+c o n c l u r e	c o n c l u s	1.7040960788726807	2
+conclure	V;SBJV;PRS;NOM(1,SG)	conclue
+c o n c l u r e	c o n c l u e	0.9166161417961121	1
+conclure	V;SBJV;PRS;NOM(3,SG)	conclue
+c o n c l u r e	c o n c l u e	0.9136359691619873	1
+conclure	V;SBJV;PST;NOM(2,SG)	conclusses
+c o n c l u r a s s e s	c o n c l u s s e s	1.05404794216156	2
+congeler	V;COND;NOM(2,PL)	congèleriez
+c o n g e l e r i e z	c o n g è l e r i e z	0.6153488755226135	1
+congeler	V;COND;NOM(3,PL)	congèleraient
+c o n g e l e r a i e n t	c o n g è l e r a i e n t	0.5346409678459167	1
+congeler	V;IND;FUT;NOM(1,PL)	congèlerons
+c o n g e l e r o n s	c o n g è l e r o n s	0.6157389879226685	1
+congeler	V;IND;FUT;NOM(2,SG)	congèleras
+c o n g e l e r a s	c o n g è l e r a s	0.6669941544532776	1
+congeler	V;IND;PRS;NOM(3,PL)	congèlent
+c o n g e l e n t	c o n g è l e n t	0.7295987010002136	1
+congeler	V;IND;PRS;NOM(3,SG)	congèle
+c o n g e l e	c o n g è l e	0.8984569907188416	1
+congeler	V;POS;IMP;NOM(2,SG)	congèle
+c o n g e l e	c o n g è l e	0.8984362483024597	1
+deviser	V;COND;NOM(1,SG)	deviserais
+d e v i s e r o i s	d e v i s e r a i s	0.6287119388580322	1
+deviser	V;COND;NOM(2,SG)	deviserais
+d e v i s e r o i s	d e v i s e r a i s	0.6324593424797058	1
+deviser	V;COND;NOM(3,SG)	deviserait
+d e v i s e r o i t	d e v i s e r a i t	0.6307211518287659	1
+deviser	V;IND;PST;IPFV;NOM(2,SG)	devisais
+d e v i s o i s	d e v i s a i s	0.7653933763504028	1
+deviser	V;IND;PST;IPFV;NOM(3,PL)	devisaient
+d e v i s o i e n t	d e v i s a i e n t	0.6358444690704346	1
+deviser	V;IND;PST;PFV;NOM(2,PL)	devisâtes
+d e v i s a s t e s	d e v i s â t e s	0.7454834580421448	2
+deviser	V;IND;PST;PFV;NOM(3,PL)	devisèrent
+d e v i s e r e n t	d e v i s è r e n t	0.6078848838806152	1
+deviser	V;SBJV;PST;NOM(3,SG)	devisât
+d e v i s a s t	d e v i s â t	0.9224703907966614	2
+décevoir	V.PTCP;PRS	décevant
+d é c e v o i a n t	d é c e v a n t	0.45594534277915955	2
+décevoir	V.PTCP;PST	déçu
+d é c e v o i	d é ç u	2.9360551834106445	5
+décevoir	V;IND;FUT;NOM(3,SG)	décevra
+d é c e v o i r a	d é c e v r a	0.18071676790714264	2
+décevoir	V;IND;PRS;NOM(2,SG)	déçois
+d é c e v e s	d é ç o i s	2.9726803302764893	4
+décevoir	V;IND;PST;IPFV;NOM(2,SG)	décevais
+d é c e v o i s	d é c e v a i s	0.20861130952835083	1
+décevoir	V;IND;PST;IPFV;NOM(3,SG)	décevait
+d é c e v o i t	d é c e v a i t	0.3080793619155884	1
+décevoir	V;IND;PST;PFV;NOM(3,SG)	déçut
+d é c e v o i t	d é ç u t	2.284152030944824	5
+décevoir	V;POS;IMP;NOM(2,SG)	déçois
+d é c e v e	d é ç o i s	3.095515727996826	4
+décevoir	V;SBJV;PRS;NOM(2,SG)	déçoives
+d é c e v e s	d é ç o i v e s	2.2909908294677734	3
+décevoir	V;SBJV;PRS;NOM(3,PL)	déçoivent
+d é c e v e n t	d é ç o i v e n t	2.113145351409912	3
+décevoir	V;SBJV;PST;NOM(1,PL)	déçussions
+d é c e v o n s	d é ç u s s i o n s	1.5622127056121826	5
+décevoir	V;SBJV;PST;NOM(2,SG)	déçusses
+d é c e v i s s e s	d é ç u s s e s	1.5940463542938232	4
+décevoir	V;SBJV;PST;NOM(3,PL)	déçussent
+d é c e v o i s s e n t	d é ç u s s e n t	1.4364559650421143	5
+décevoir	V;SBJV;PST;NOM(3,SG)	déçût
+d é c e v o i s t	d é ç û t	2.2797508239746094	6
+désescalader	V.CVB;PRS	en désescaladant
+e n   d é s e s c a l a n t	e n   d é s e s c a l a d a n t	0.4423931837081909	2
+encenser	V;COND;NOM(2,SG)	encenserais
+e n c e n s e r o i e s	e n c e n s e r a i s	0.5973916053771973	2
+encenser	V;IND;PRS;NOM(1,SG)	encense
+e n c e n s	e n c e n s e	0.6208198666572571	1
+encenser	V;IND;PST;IPFV;NOM(2,PL)	encensiez
+e n c e n s i i e z	e n c e n s i e z	0.6643245220184326	1
+encenser	V;IND;PST;IPFV;NOM(3,PL)	encensaient
+e n c e n s o i e n t	e n c e n s a i e n t	0.6002526879310608	1
+encenser	V;SBJV;PRS;NOM(1,SG)	encense
+e n c e n s	e n c e n s e	0.928292989730835	1
+encenser	V;SBJV;PRS;NOM(2,SG)	encenses
+e n c e n s	e n c e n s e s	0.8335567712783813	2
+encenser	V;SBJV;PST;NOM(1,PL)	encensassions
+e n c e n s i s s o n s	e n c e n s a s s i o n s	0.5377472043037415	2
+encenser	V;SBJV;PST;NOM(3,SG)	encensât
+e n c e n s a s t	e n c e n s â t	0.8273851871490479	2
+eriger	V;IND;PST;PFV;NOM(1,PL)	erigeasmes
+e r i g e â m e s	e r i g e a s m e s	0.6319193840026855	2
+eriger	V;IND;PST;PFV;NOM(2,PL)	erigeastes
+e r i g e â t e s	e r i g e a s t e s	0.6167017817497253	2
+génuflexionner	V;IND;PRS;NOM(1,SG)	génuflexionne
+g é n u f l e x i o n e	g é n u f l e x i o n n e	0.1852884590625763	1
+génuflexionner	V;SBJV;PST;NOM(1,PL)	génuflexionnassions
+g é n u f l e x i o n a s s i o n s	g é n u f l e x i o n n a s s i o n s	0.13381268084049225	1
+génuflexionner	V;SBJV;PST;NOM(2,PL)	génuflexionnassiez
+g é n u f l e x i o n a s s i e z	g é n u f l e x i o n n a s s i e z	0.18673913180828094	1
+haitier	V.PTCP;PRS	haitant
+h a i t i a n t	h a i t a n t	0.9332148432731628	1
+haitier	V;COND;NOM(2,PL)	haiteriiez
+h a i t i e r i e z	h a i t e r i i e z	1.1371756792068481	2
+haitier	V;COND;NOM(3,PL)	haiteroient
+h a i t i e r a i e n t	h a i t e r o i e n t	1.0703825950622559	2
+haitier	V;IND;FUT;NOM(1,SG)	haiterai
+h a i t i e r a i	h a i t e r a i	0.8074843287467957	1
+haitier	V;IND;FUT;NOM(2,PL)	haiteroiz
+h a i t i e r e z	h a i t e r o i z	1.231732726097107	3
+haitier	V;IND;PRS;NOM(1,PL)	haitons
+h a i t i o n s	h a i t o n s	0.9333088994026184	1
+haitier	V;IND;PRS;NOM(2,SG)	haites
+h a i t i e s	h a i t e s	1.0118788480758667	1
+haitier	V;IND;PST;IPFV;NOM(3,SG)	haitoit
+h a i t i a i t	h a i t o i t	0.9331161379814148	2
+haitier	V;IND;PST;PFV;NOM(1,SG)	haitai
+h a i t i a i	h a i t a i	1.0510491132736206	1
+haitier	V;IND;PST;PFV;NOM(2,SG)	haitas
+h a i t i a s	h a i t a s	1.0512312650680542	1
+haitier	V;IND;PST;PFV;NOM(3,SG)	haita
+h a i t i a	h a i t a	1.2185002565383911	1
+haitier	V;SBJV;PRS;NOM(1,SG)	hait
+h a i t i e	h a i t	1.3998754024505615	2
+haitier	V;SBJV;PRS;NOM(3,SG)	hait
+h a i t i e	h a i t	1.4103543758392334	2
+haitier	V;SBJV;PST;NOM(1,PL)	haitissons
+h a i t i a s s i o n s	h a i t i s s o n s	0.6641554236412048	2
+haitier	V;SBJV;PST;NOM(1,SG)	haitasse
+h a i t i a s s e	h a i t a s s e	0.8275625705718994	1
+haitier	V;SBJV;PST;NOM(3,PL)	haitassent
+h a i t i a s s e n t	h a i t a s s e n t	0.6869513392448425	1
+haitier	V;SBJV;PST;NOM(3,SG)	haitast
+h a i t i â t	h a i t a s t	0.9256954193115234	2
+hyperlier	V;COND;NOM(2,SG)	hyperlierais
+h y p e r l e r o i e s	h y p e r l i e r a i s	0.6472100615501404	3
+hyperlier	V;COND;NOM(3,PL)	hyperlieraient
+h y p e r l i e r o i e n t	h y p e r l i e r a i e n t	0.5183081030845642	1
+hyperlier	V;IND;FUT;NOM(1,SG)	hyperlierai
+h y p e r l e r a i	h y p e r l i e r a i	0.2316853553056717	1
+hyperlier	V;IND;PST;IPFV;NOM(1,SG)	hyperliais
+h y p e r l i o i s	h y p e r l i a i s	0.6845870018005371	1
+hyperlier	V;IND;PST;PFV;NOM(1,SG)	hyperliai
+h y p e r l i a	h y p e r l i a i	0.2350749969482422	1
+hyperlier	V;IND;PST;PFV;NOM(3,PL)	hyperlièrent
+h y p e r l i e r e n t	h y p e r l i è r e n t	0.5884653329849243	1
+hyperlier	V;SBJV;PRS;NOM(2,PL)	hyperliiez
+h y p e r l i e z	h y p e r l i i e z	0.7083839178085327	1
+hyperlier	V;SBJV;PST;NOM(1,PL)	hyperliassions
+h y p e r l i s s o n s	h y p e r l i a s s i o n s	0.49037620425224304	2
+induire	V;IND;PRS;NOM(3,SG)	induit
+i n d u t	i n d u i t	0.307084321975708	1
+induire	V;IND;PST;PFV;NOM(2,PL)	induisîtes
+i n d u i s t e s	i n d u i s î t e s	0.6260557770729065	1
+induire	V;IND;PST;PFV;NOM(2,SG)	induisis
+i n d u i s	i n d u i s i s	0.7541753649711609	2
+lesser	V;COND;NOM(2,PL)	lesseriiez
+l e s s e r i e z	l e s s e r i i e z	0.7004480957984924	1
+lesser	V;COND;NOM(2,SG)	lesseroies
+l e s s e r a i s	l e s s e r o i e s	1.2964756488800049	2
+lesser	V;COND;NOM(3,PL)	lesseroient
+l e s s e r a i e n t	l e s s e r o i e n t	0.6414603590965271	1
+lesser	V;COND;NOM(3,SG)	lesseroit
+l e s s e r a i t	l e s s e r o i t	0.7671009302139282	1
+lesser	V;IND;FUT;NOM(2,PL)	lesseroiz
+l e s s e r e z	l e s s e r o i z	0.7887248992919922	2
+lesser	V;IND;PST;IPFV;NOM(1,SG)	lessoie
+l e s s a i s	l e s s o i e	1.823198676109314	2
+lesser	V;IND;PST;IPFV;NOM(3,PL)	lessoient
+l e s s a i e n t	l e s s o i e n t	0.7619553804397583	1
+lesser	V;IND;PST;IPFV;NOM(3,SG)	lessoit
+l e s s a i t	l e s s o i t	0.9446631073951721	1
+lesser	V;IND;PST;PFV;NOM(2,PL)	lessastes
+l e s s â t e s	l e s s a s t e s	0.7838789224624634	2
+lesser	V;SBJV;PRS;NOM(2,SG)	les
+l e s s e s	l e s	1.8287779092788696	3
+lyncher	V;IND;PST;IPFV;NOM(2,SG)	lynchais
+l y n c h o i s	l y n c h a i s	0.24050934612751007	1
+lyncher	V;IND;PST;IPFV;NOM(3,SG)	lynchait
+l y n c h o i t	l y n c h a i t	0.25906234979629517	1
+mercyer	V;IND;FUT;NOM(2,PL)	mercyerez
+m e r c i e r e z	m e r c y e r e z	0.3035382926464081	1
+mercyer	V;IND;FUT;NOM(2,SG)	mercyeras
+m e r c i e r a s	m e r c y e r a s	0.5116149187088013	1
+mercyer	V;IND;FUT;NOM(3,PL)	mercyeront
+m e r c i e r o n t	m e r c y e r o n t	0.33882495760917664	1
+mercyer	V;IND;FUT;NOM(3,SG)	mercyera
+m e r c i e r a	m e r c y e r a	0.6030110120773315	1
+mercyer	V;IND;PST;IPFV;NOM(1,SG)	mercyois
+m e r c y a i s	m e r c y o i s	0.6519027948379517	1
+mercyer	V;IND;PST;PFV;NOM(3,PL)	mercyerent
+m e r c y è r e n t	m e r c y e r e n t	0.5507246851921082	1
+mercyer	V;SBJV;PRS;NOM(1,PL)	mercyons
+m e r c y i o n s	m e r c y o n s	0.5884761810302734	1
+mercyer	V;SBJV;PST;NOM(3,SG)	mercyast
+m e r c y â t	m e r c y a s t	0.5564563870429993	2
+mithridatiser	V;IND;PRS;NOM(1,SG)	mithridatise
+m i t h r i d a i s e	m i t h r i d a t i s e	0.5747764110565186	1
+mithridatiser	V;IND;PST;IPFV;NOM(1,SG)	mithridatisais
+m i t h r i d a i s a i s	m i t h r i d a t i s a i s	0.443589985370636	1
+mithridatiser	V;IND;PST;PFV;NOM(1,SG)	mithridatisai
+m i t h r i d a i s a i	m i t h r i d a t i s a i	0.5182048678398132	1
+mithridatiser	V;POS;IMP;NOM(2,PL)	mithridatisez
+m i t h r i d e z	m i t h r i d a t i s e z	0.1086755320429802	4
+mithridatiser	V;SBJV;PRS;NOM(1,SG)	mithridatise
+m i t h r i d a i s e	m i t h r i d a t i s e	0.5054061412811279	1
+mithridatiser	V;SBJV;PRS;NOM(3,SG)	mithridatise
+m i t h r i d a i s e	m i t h r i d a t i s e	0.40962812304496765	1
+mithridatiser	V;SBJV;PST;NOM(1,SG)	mithridatisasse
+m i t h r i d a s s e	m i t h r i d a t i s a s s e	0.4727145731449127	4
+mithridatiser	V;SBJV;PST;NOM(2,PL)	mithridatisassiez
+m i t h r i d a s s i e z	m i t h r i d a t i s a s s i e z	0.4032931327819824	4
+parachever	V;COND;NOM(1,SG)	parachèverais
+p a r a c h e v e r a i s	p a r a c h è v e r a i s	0.5192703008651733	1
+parachever	V;COND;NOM(3,SG)	parachèverait
+p a r a c h e v e r a i t	p a r a c h è v e r a i t	0.5194225907325745	1
+parachever	V;IND;FUT;NOM(1,PL)	parachèverons
+p a r a c h e v e r o n s	p a r a c h è v e r o n s	0.5222858786582947	1
+parachever	V;IND;FUT;NOM(3,PL)	parachèveront
+p a r a c h e v e r o n t	p a r a c h è v e r o n t	0.5231668949127197	1
+parachever	V;IND;FUT;NOM(3,SG)	parachèvera
+p a r a c h e v e r a	p a r a c h è v e r a	0.5999153256416321	1
+parachever	V;IND;PRS;NOM(3,PL)	parachèvent
+p a r a c h e v e n t	p a r a c h è v e n t	0.6024162769317627	1
+parachever	V;SBJV;PRS;NOM(3,SG)	parachève
+p a r a c h e v e	p a r a c h è v e	0.7114891409873962	1
+repeter	V;IND;PST;PFV;NOM(2,PL)	repetastes
+r e p e t â t e s	r e p e t a s t e s	0.43708696961402893	2
+repeter	V;SBJV;PRS;NOM(1,PL)	repetons
+r e p e t i o n s	r e p e t o n s	0.30983293056488037	1
+repeter	V;SBJV;PRS;NOM(2,PL)	repetez
+r e p e t i e z	r e p e t e z	0.6219229102134705	1
+reverser	V;COND;NOM(1,PL)	reverserions
+r e v e r s e r i i e n s	r e v e r s e r i o n s	0.575900137424469	2
+reverser	V;COND;NOM(2,PL)	reverseriez
+r e v e r s e r i i e z	r e v e r s e r i e z	0.5915037989616394	1
+reverser	V;COND;NOM(2,SG)	reverserais
+r e v e r s e r o i e s	r e v e r s e r a i s	0.5675449967384338	2
+reverser	V;IND;FUT;NOM(2,PL)	reverserez
+r e v e r s e r o i z	r e v e r s e r e z	0.6241851449012756	2
+reverser	V;IND;PRS;NOM(1,SG)	reverse
+r e v e r s	r e v e r s e	0.6626653075218201	1
+reverser	V;IND;PST;IPFV;NOM(2,PL)	reversiez
+r e v e r s i i e z	r e v e r s i e z	0.6576414704322815	1
+reverser	V;IND;PST;IPFV;NOM(3,PL)	reversaient
+r e v e r s o i e n t	r e v e r s a i e n t	0.5820973515510559	1
+reverser	V;IND;PST;IPFV;NOM(3,SG)	reversait
+r e v e r s o i t	r e v e r s a i t	0.694758951663971	1
+reverser	V;IND;PST;PFV;NOM(1,PL)	reversâmes
+r e v e r s a m e s	r e v e r s â m e s	0.6773490309715271	1
+reverser	V;SBJV;PRS;NOM(3,SG)	reverse
+r e v e r s t	r e v e r s e	0.8059580326080322	1
+reverser	V;SBJV;PST;NOM(1,PL)	reversassions
+r e v e r s i s s o n s	r e v e r s a s s i o n s	0.49334627389907837	2
+reverser	V;SBJV;PST;NOM(3,SG)	reversât
+r e v e r s a s t	r e v e r s â t	0.7948586344718933	2
+réouvrir	V.PTCP;PST	réouvert
+r é o u v r t	r é o u v e r t	0.14009292423725128	1
+réouvrir	V;COND;NOM(1,SG)	réouvrirais
+r é o u v r e r a i s	r é o u v r i r a i s	0.30005210638046265	1
+réouvrir	V;COND;NOM(3,SG)	réouvrirait
+r é o u v r e r a i t	r é o u v r i r a i t	0.26390543580055237	1
+réouvrir	V;IND;FUT;NOM(1,SG)	réouvrirai
+r é o u v r e r a i	r é o u v r i r a i	0.23802848160266876	1
+réouvrir	V;IND;PST;PFV;NOM(1,PL)	réouvrîmes
+r é o u v r i m e s	r é o u v r î m e s	0.13706940412521362	1
+réouvrir	V;SBJV;PST;NOM(1,PL)	réouvrissions
+r é o u v r i s s o n s	r é o u v r i s s i o n s	0.10911621898412704	1
+sapurer	V;COND;NOM(3,PL)	sapureroient
+s a p u r e r a i e n t	s a p u r e r o i e n t	0.5984522104263306	1
+sapurer	V;COND;NOM(3,SG)	sapureroit
+s a p u r e r a i t	s a p u r e r o i t	0.7037121057510376	1
+sapurer	V;IND;FUT;NOM(2,PL)	sapureroiz
+s a p u r e r e z	s a p u r e r o i z	0.7183243632316589	2
+sapurer	V;IND;PRS;NOM(1,SG)	sapur
+s a p u r e	s a p u r	1.2267725467681885	1
+sapurer	V;IND;PST;IPFV;NOM(1,PL)	sapuriiens
+s a p u r i o n s	s a p u r i i e n s	1.1528632640838623	2
+sapurer	V;IND;PST;IPFV;NOM(2,PL)	sapuriiez
+s a p u r i e z	s a p u r i i e z	0.777981162071228	1
+sapurer	V;IND;PST;IPFV;NOM(2,SG)	sapuroies
+s a p u r a i s	s a p u r o i e s	1.4709049463272095	2
+sapurer	V;IND;PST;PFV;NOM(2,PL)	sapurastes
+s a p u r â t e s	s a p u r a s t e s	0.7171126008033752	2
+sapurer	V;SBJV;PRS;NOM(1,PL)	sapurons
+s a p u r i o n s	s a p u r o n s	0.8395786881446838	1
+sapurer	V;SBJV;PRS;NOM(2,PL)	sapurez
+s a p u r i e z	s a p u r e z	0.9497256875038147	1
+sapurer	V;SBJV;PRS;NOM(3,SG)	sapurt
+s a p u r e	s a p u r t	1.889209508895874	1
+sapurer	V;SBJV;PST;NOM(2,PL)	sapurissoiz
+s a p u r a s s i e z	s a p u r i s s o i z	1.1184552907943726	3
+sapurer	V;SBJV;PST;NOM(3,SG)	sapurast
+s a p u r â t	s a p u r a s t	0.8721532821655273	2
+satisfaire	V;COND;NOM(1,PL)	satisferions
+s a t i s f a i r i o n s	s a t i s f e r i o n s	0.5846041440963745	2
+satisfaire	V;COND;NOM(1,SG)	satisferais
+s a t i s f a i r a i s	s a t i s f e r a i s	0.6288111805915833	2
+satisfaire	V;IND;FUT;NOM(1,SG)	satisferai
+s a t i s f a i r a i	s a t i s f e r a i	0.6820961236953735	2
+satisfaire	V;IND;FUT;NOM(2,PL)	satisferez
+s a t i s f a i r e z	s a t i s f e r e z	0.6814014911651611	2
+satisfaire	V;IND;FUT;NOM(3,PL)	satisferont
+s a t i s f a i r o n t	s a t i s f e r o n t	0.6302877068519592	2
+satisfaire	V;IND;FUT;NOM(3,SG)	satisfera
+s a t i s f a i r a	s a t i s f e r a	0.7455989122390747	2
+satisfaire	V;IND;PRS;NOM(2,PL)	satisfaites
+s a t i s f a y e z	s a t i s f a i t e s	0.5814998745918274	3
+satisfaire	V;IND;PST;IPFV;NOM(3,PL)	satisfaisaient
+s a t i s f a y a i e n t	s a t i s f a i s a i e n t	0.22304826974868774	2
+satisfaire	V;IND;PST;IPFV;NOM(3,SG)	satisfaisait
+s a t i s f a y a i t	s a t i s f a i s a i t	0.25934165716171265	2
+satisfaire	V;IND;PST;PFV;NOM(3,SG)	satisfit
+s a t i s f a i t	s a t i s f i t	0.8563339710235596	1
+satisfaire	V;POS;IMP;NOM(1,PL)	satisfaisons
+s a t i s f a y o n s	s a t i s f a i s o n s	0.12231294810771942	2
+satisfaire	V;POS;IMP;NOM(2,PL)	satisfaites
+s a t i s f a y e z	s a t i s f a i t e s	0.6891850829124451	3
+satisfaire	V;SBJV;PRS;NOM(1,SG)	satisfasse
+s a t i s f a i s e	s a t i s f a s s e	0.6172327399253845	1
+satisfaire	V;SBJV;PRS;NOM(3,SG)	satisfasse
+s a t i s f a i s s e	s a t i s f a s s e	0.6186843514442444	1
+satisfaire	V;SBJV;PST;NOM(1,PL)	satisfissions
+s a t i s f a y a s s i o n s	s a t i s f i s s i o n s	0.6470072865486145	3
+satisfaire	V;SBJV;PST;NOM(3,PL)	satisfissent
+s a t i s f a y a s s e n t	s a t i s f i s s e n t	0.6057886481285095	3
+sevrer	V;COND;NOM(1,PL)	sèvrerions
+s e v r e r i o n s	s è v r e r i o n s	0.6693782806396484	1
+sevrer	V;COND;NOM(1,SG)	sèvrerais
+s e v r e r a i s	s è v r e r a i s	0.7307544350624084	1
+sevrer	V;COND;NOM(3,PL)	sèvreraient
+s e v r e r a i e n t	s è v r e r a i e n t	0.6177998185157776	1
+sevrer	V;COND;NOM(3,SG)	sèvrerait
+s e v r e r a i t	s è v r e r a i t	0.7317677140235901	1
+sevrer	V;IND;FUT;NOM(2,PL)	sèvrerez
+s e v r e r e z	s è v r e r e z	0.8073170185089111	1
+sevrer	V;IND;PRS;NOM(1,SG)	sèvre
+s e v r e	s è v r e	1.1863625049591064	1
+sevrer	V;IND;PRS;NOM(3,PL)	sèvrent
+s e v r e n t	s è v r e n t	0.903606653213501	1
+sevrer	V;IND;PRS;NOM(3,SG)	sèvre
+s e v r e	s è v r e	1.1867765188217163	1
+sevrer	V;SBJV;PRS;NOM(3,PL)	sèvrent
+s e v r e n t	s è v r e n t	0.9035524129867554	1
+tocquer	V;COND;NOM(1,SG)	tocquerois
+t o c q u e r a i s	t o c q u e r o i s	0.6956937313079834	1
+tocquer	V;IND;PST;IPFV;NOM(1,SG)	tocquois
+t o c q u a i s	t o c q u o i s	0.8411135673522949	1
+tocquer	V;IND;PST;IPFV;NOM(2,SG)	tocquois
+t o c q u a i s	t o c q u o i s	0.8411555886268616	1
+tocquer	V;IND;PST;IPFV;NOM(3,SG)	tocquoit
+t o c q u a i t	t o c q u o i t	0.8490399718284607	1
+tocquer	V;IND;PST;PFV;NOM(1,SG)	tocqua
+t o c q u a i	t o c q u a	1.0281492471694946	1
+tocquer	V;IND;PST;PFV;NOM(3,PL)	tocquerent
+t o c q u è r e n t	t o c q u e r e n t	0.7510207891464233	1
+tocquer	V;SBJV;PRS;NOM(1,PL)	tocquons
+t o c q u i o n s	t o c q u o n s	0.8308844566345215	1
+tocquer	V;SBJV;PST;NOM(3,SG)	tocquast
+t o c q u â t	t o c q u a s t	0.8733888864517212	2
+transmettre	V.PTCP;PST	transmis
+t r a n s m e t é	t r a n s m i s	2.3576157093048096	3
+transmettre	V;COND;NOM(3,SG)	transmettrait
+t r a n s m e t t e r a i t	t r a n s m e t t r a i t	0.7996818423271179	1
+transmettre	V;IND;FUT;NOM(3,SG)	transmettra
+t r a n s m e t t e r a	t r a n s m e t t r a	0.8179847598075867	1
+transmettre	V;IND;PRS;NOM(2,SG)	transmets
+t r a n s m e t t e s	t r a n s m e t s	1.366301417350769	2
+transmettre	V;IND;PST;IPFV;NOM(1,PL)	transmettions
+t r a n s m e t i o n s	t r a n s m e t t i o n s	0.5191677212715149	1
+transmettre	V;IND;PST;PFV;NOM(1,PL)	transmîmes
+t r a n s m e t â m e s	t r a n s m î m e s	1.2848975658416748	3
+transmettre	V;IND;PST;PFV;NOM(3,SG)	transmit
+t r a n s m e t a	t r a n s m i t	1.5835057497024536	2
+transmettre	V;POS;IMP;NOM(1,PL)	transmettons
+t r a n s m e t o n s	t r a n s m e t t o n s	0.24150234460830688	1
+transmettre	V;POS;IMP;NOM(2,SG)	transmets
+t r a n s m e t t e	t r a n s m e t s	1.3430675268173218	2
+transmettre	V;SBJV;PRS;NOM(1,PL)	transmettions
+t r a n s m e t i o n s	t r a n s m e t t i o n s	0.19932076334953308	1
+transmettre	V;SBJV;PST;NOM(1,PL)	transmissions
+t r a n s m e t a s s i o n s	t r a n s m i s s i o n s	1.9196126461029053	3
+transmettre	V;SBJV;PST;NOM(3,PL)	transmissent
+t r a n s m e t a s s e n t	t r a n s m i s s e n t	2.048577308654785	3
+transmettre	V;SBJV;PST;NOM(3,SG)	transmît
+t r a n s m e t â t	t r a n s m î t	0.8131890892982483	3

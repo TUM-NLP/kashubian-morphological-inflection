@@ -1,0 +1,1478 @@
+
+ref		narzãdzôcz	N;NOM(PL)	narzãdzacze
+mono	narzãdzôcz	N;NOM(PL)	using
+llm		narzãdzôcz	N;NOM(PL)	narzãdzôcze
+stat	narzãdzôcz	N;NOM(PL)	narzãdzôcze
+
+ref		narzãdzôcz	N;DAT(PL)	narzãdzaczom
+mono	narzãdzôcz	N;DAT(PL)	òjcach
+llm		narzãdzôcz	N;DAT(PL)	narzãdzôczóm
+stat	narzãdzôcz	N;DAT(PL)	narzãdzôczom
+
+ref		narzãdzôcz	N;VOC(SG)	narzãdzaczu
+mono	narzãdzôcz	N;VOC(SG)	using
+llm		narzãdzôcz	N;VOC(SG)	narzãdzôczu
+stat	narzãdzôcz	N;VOC(SG)	narzãdzôczu
+
+ref		narzãdzôcz	N;INS(PL)	narzãdzaczama
+mono	narzãdzôcz	N;INS(PL)	òjcami
+llm		narzãdzôcz	N;INS(PL)	narzãdzôczama
+stat	narzãdzôcz	N;INS(PL)	narzãdzôczami
+
+ref		narzãdzôcz	N;ESS(SG)	narzãdzaczu
+mono	narzãdzôcz	N;ESS(SG)	òjce
+llm		narzãdzôcz	N;ESS(SG)	narzãdzôczã
+stat	narzãdzôcz	N;ESS(SG)	narzãdzôczu
+
+ref		narzãdzôcz	N;DAT(SG)	narzãdzaczowi
+mono	narzãdzôcz	N;DAT(SG)	òjce
+llm		narzãdzôcz	N;DAT(SG)	narzãdzôczowi
+stat	narzãdzôcz	N;DAT(SG)	narzãdzôczowi
+
+ref		narzãdzôcz	N;GEN(SG)	narzãdzacza
+mono	narzãdzôcz	N;GEN(SG)	òjce
+llm		narzãdzôcz	N;GEN(SG)	narzãdzôcza
+stat	narzãdzôcz	N;GEN(SG)	narzãdzôcza
+
+ref		narzãdzôcz	N;ESS(PL)	narzãdzaczach
+mono	narzãdzôcz	N;ESS(PL)	òjcach
+llm		narzãdzôcz	N;ESS(PL)	narzãdzôczama
+stat	narzãdzôcz	N;ESS(PL)	narzãdzôczach
+
+ref		narzãdzôcz	N;GEN(PL)	narzãdzaczów
+mono	narzãdzôcz	N;GEN(PL)	òjcach
+llm		narzãdzôcz	N;GEN(PL)	narzãdzôczów
+stat	narzãdzôcz	N;GEN(PL)	narzãdzôczy
+
+ref		narzãdzôcz	N;INS(SG)	narzãdzaczã
+mono	narzãdzôcz	N;INS(SG)	òjcem
+llm		narzãdzôcz	N;INS(SG)	narzãdzôczã
+stat	narzãdzôcz	N;INS(SG)	narzãdzôczem
+
+ref		narzãdzôcz	N;ACC(PL)	narzãdzacze
+mono	narzãdzôcz	N;ACC(PL)	òjcem
+llm		narzãdzôcz	N;ACC(PL)	narzãdzôczów
+stat	narzãdzôcz	N;ACC(PL)	narzãdzôcze
+
+ref		narzãdzôcz	N;ACC(SG)	narzãdzacza
+mono	narzãdzôcz	N;ACC(SG)	using
+llm		narzãdzôcz	N;ACC(SG)	narzãdzôcza
+stat	narzãdzôcz	N;ACC(SG)	narzãdzôcz
+
+ref		narzãdzôcz	N;VOC(PL)	narzãdzacze
+mono	narzãdzôcz	N;VOC(PL)	using
+llm		narzãdzôcz	N;VOC(PL)	narzãdzôcze
+stat	narzãdzôcz	N;VOC(PL)	narzãdzôcze
+
+error rate narzãdzôcz:0.9285714285714286
+
+ref		Jastrë	N;ESS(PL)	Jastrach
+mono	Jastrë	N;ESS(PL)	strumiannika
+llm		Jastrë	N;ESS(PL)	Jastrëma
+stat	Jastrë	N;ESS(PL)	Jastrë
+
+ref		Jastrë	N;DAT(PL)	Jastróm
+mono	Jastrë	N;DAT(PL)	strumiannikami
+llm		Jastrë	N;DAT(PL)	Jastrom
+stat	Jastrë	N;DAT(PL)	Jastrë
+
+ref		Jastrë	N;ACC(PL)	Jastrama
+mono	Jastrë	N;ACC(PL)	strumiannikami
+llm		Jastrë	N;ACC(PL)	Jastrë
+stat	Jastrë	N;ACC(PL)	Jastrë
+
+error rate Jastrë:0.42857142857142855
+
+ref		pòniedzôłk	N;NOM(PL)	pòniedzałczi
+mono	pòniedzôłk	N;NOM(PL)	strumiannikusing
+llm		pòniedzôłk	N;NOM(PL)	pòniedzôłczi
+stat	pòniedzôłk	N;NOM(PL)	pòniedzôłki
+
+ref		pòniedzôłk	N;DAT(PL)	pòniedzałkóm
+mono	pòniedzôłk	N;DAT(PL)	strumiannikach
+llm		pòniedzôłk	N;DAT(PL)	pòniedzôłkóm
+stat	pòniedzôłk	N;DAT(PL)	pòniedzôłkom
+
+ref		pòniedzôłk	N;VOC(SG)	pòniedzałkù
+mono	pòniedzôłk	N;VOC(SG)	strumiannikach
+llm		pòniedzôłk	N;VOC(SG)	pòniedzôłkù
+stat	pòniedzôłk	N;VOC(SG)	pòniedzôłku
+
+ref		pòniedzôłk	N;INS(PL)	pòniedzałkama
+mono	pòniedzôłk	N;INS(PL)	strumiannikiem
+llm		pòniedzôłk	N;INS(PL)	pòniedzôłkami
+stat	pòniedzôłk	N;INS(PL)	pòniedzôłkami
+
+ref		pòniedzôłk	N;ESS(SG)	pòniedzałkù
+mono	pòniedzôłk	N;ESS(SG)	strumiannika
+llm		pòniedzôłk	N;ESS(SG)	pòniedzôłkã
+stat	pòniedzôłk	N;ESS(SG)	pòniedzôłku
+
+ref		pòniedzôłk	N;DAT(SG)	poniedzałkòwi
+mono	pòniedzôłk	N;DAT(SG)	strumiannik using
+llm		pòniedzôłk	N;DAT(SG)	pòniedzôłkù
+stat	pòniedzôłk	N;DAT(SG)	pòniedzôłkowi
+
+ref		pòniedzôłk	N;GEN(SG)	pòniedzałkù
+mono	pòniedzôłk	N;GEN(SG)	strumiannikusing
+llm		pòniedzôłk	N;GEN(SG)	pòniedzôłkù
+stat	pòniedzôłk	N;GEN(SG)	pòniedzôłka
+
+ref		pòniedzôłk	N;ESS(PL)	pòniedzałkach
+mono	pòniedzôłk	N;ESS(PL)	strumiannika
+llm		pòniedzôłk	N;ESS(PL)	pòniedzôłkami
+stat	pòniedzôłk	N;ESS(PL)	pòniedzôłkach
+
+ref		pòniedzôłk	N;GEN(PL)	pòniedzałków
+mono	pòniedzôłk	N;GEN(PL)	lëstopadnikusing
+llm		pòniedzôłk	N;GEN(PL)	pòniedzôłków
+stat	pòniedzôłk	N;GEN(PL)	pòniedzôłków
+
+ref		pòniedzôłk	N;INS(SG)	pòniedzałkã
+mono	pòniedzôłk	N;INS(SG)	lëstopadnikami
+llm		pòniedzôłk	N;INS(SG)	pòniedzôłkã
+stat	pòniedzôłk	N;INS(SG)	pòniedzôłkiem
+
+ref		pòniedzôłk	N;ACC(PL)	pòniedzałczi
+mono	pòniedzôłk	N;ACC(PL)	lëstopadnik using
+llm		pòniedzôłk	N;ACC(PL)	pòniedzélczi
+stat	pòniedzôłk	N;ACC(PL)	pòniedzôłki
+
+ref		pòniedzôłk	N;VOC(PL)	pòniedzałczi
+mono	pòniedzôłk	N;VOC(PL)	lëstopadnikusingu
+llm		pòniedzôłk	N;VOC(PL)	pòniedzôłczi
+stat	pòniedzôłk	N;VOC(PL)	pòniedzôłki
+
+error rate pòniedzôłk:0.8571428571428571
+
+ref		pùjk	N;NOM(PL)	pùjczi
+mono	pùjk	N;NOM(PL)	lëstopadnikusing
+llm		pùjk	N;NOM(PL)	pùjki
+stat	pùjk	N;NOM(PL)	pùjki
+
+ref		pùjk	N;ESS(SG)	pùjkù
+mono	pùjk	N;ESS(SG)	lëstopadnika
+llm		pùjk	N;ESS(SG)	pùjka
+stat	pùjk	N;ESS(SG)	pùjku
+
+ref		pùjk	N;DAT(SG)	pùjkòwi
+mono	pùjk	N;DAT(SG)	lëstopadnik using
+llm		pùjk	N;DAT(SG)	pùjkovi
+stat	pùjk	N;DAT(SG)	pùjkowi
+
+ref		pùjk	N;ACC(SG)	pùjka
+mono	pùjk	N;ACC(SG)	wtórkami
+llm		pùjk	N;ACC(SG)	pùjk
+stat	pùjk	N;ACC(SG)	pùjk
+
+error rate pùjk:0.2857142857142857
+
+ref		môlnik	N;NOM(PL)	môlniczi
+mono	môlnik	N;NOM(PL)	wtórki
+llm		môlnik	N;NOM(PL)	môlnicë
+stat	môlnik	N;NOM(PL)	môlniki
+
+ref		môlnik	N;DAT(PL)	môlnikòm
+mono	môlnik	N;DAT(PL)	wtórkach usingach
+llm		môlnik	N;DAT(PL)	môlnikóm
+stat	môlnik	N;DAT(PL)	môlnikom
+
+ref		môlnik	N;ESS(SG)	môlnikù
+mono	môlnik	N;ESS(SG)	wtórka
+llm		môlnik	N;ESS(SG)	môlnikã
+stat	môlnik	N;ESS(SG)	môlniku
+
+ref		môlnik	N;ACC(PL)	môlniczi
+mono	môlnik	N;ACC(PL)	niedzela using
+llm		môlnik	N;ACC(PL)	môlników
+stat	môlnik	N;ACC(PL)	môlniki
+
+ref		môlnik	N;VOC(PL)	môlniczi
+mono	môlnik	N;VOC(PL)	niedzela usingu
+llm		môlnik	N;VOC(PL)	môlnicё
+stat	môlnik	N;VOC(PL)	môlniki
+
+error rate môlnik:0.35714285714285715
+
+ref		wòłiwôcz	N;NOM(PL)	wòłiwaczë
+mono	wòłiwôcz	N;NOM(PL)	niedzela using
+llm		wòłiwôcz	N;NOM(PL)	wòłiwiczë
+stat	wòłiwôcz	N;NOM(PL)	wòłiwôcze
+
+ref		wòłiwôcz	N;DAT(PL)	wòłiwaczom
+mono	wòłiwôcz	N;DAT(PL)	niedzela usingach
+llm		wòłiwôcz	N;DAT(PL)	wòłiwôczóm
+stat	wòłiwôcz	N;DAT(PL)	wòłiwôczom
+
+ref		wòłiwôcz	N;VOC(SG)	wòłiwaczu
+mono	wòłiwôcz	N;VOC(SG)	niedzelami
+llm		wòłiwôcz	N;VOC(SG)	wòłiwôczu
+stat	wòłiwôcz	N;VOC(SG)	wòłiwôczu
+
+ref		wòłiwôcz	N;INS(PL)	wòłiwaczama
+mono	wòłiwôcz	N;INS(PL)	niedzela usingami
+llm		wòłiwôcz	N;INS(PL)	wòłiwôczama
+stat	wòłiwôcz	N;INS(PL)	wòłiwôczami
+
+ref		wòłiwôcz	N;ESS(SG)	wòłiwaczu
+mono	wòłiwôcz	N;ESS(SG)	niedzela using
+llm		wòłiwôcz	N;ESS(SG)	wòłiwôczã
+stat	wòłiwôcz	N;ESS(SG)	wòłiwôczu
+
+ref		wòłiwôcz	N;DAT(SG)	wòłiwaczowi
+mono	wòłiwôcz	N;DAT(SG)	niedzela using
+llm		wòłiwôcz	N;DAT(SG)	wòłiwëwë
+stat	wòłiwôcz	N;DAT(SG)	wòłiwôczowi
+
+ref		wòłiwôcz	N;GEN(SG)	wòłiwacza
+mono	wòłiwôcz	N;GEN(SG)	niedzela using
+llm		wòłiwôcz	N;GEN(SG)	wòłiwôcza
+stat	wòłiwôcz	N;GEN(SG)	wòłiwôcza
+
+ref		wòłiwôcz	N;ESS(PL)	wòłiwaczach
+mono	wòłiwôcz	N;ESS(PL)	niedzela
+llm		wòłiwôcz	N;ESS(PL)	wòłiwëczama
+stat	wòłiwôcz	N;ESS(PL)	wòłiwôczach
+
+ref		wòłiwôcz	N;GEN(PL)	wòłiwaczów
+mono	wòłiwôcz	N;GEN(PL)	lëpince
+llm		wòłiwôcz	N;GEN(PL)	wòłiwôczów
+stat	wòłiwôcz	N;GEN(PL)	wòłiwôczy
+
+ref		wòłiwôcz	N;INS(SG)	wòłiwaczã
+mono	wòłiwôcz	N;INS(SG)	lëpincami
+llm		wòłiwôcz	N;INS(SG)	wòłiwôczã
+stat	wòłiwôcz	N;INS(SG)	wòłiwôczem
+
+ref		wòłiwôcz	N;ACC(PL)	wòłiwaczë
+mono	wòłiwôcz	N;ACC(PL)	lëpince
+llm		wòłiwôcz	N;ACC(PL)	wòłëwôchów
+stat	wòłiwôcz	N;ACC(PL)	wòłiwôcze
+
+ref		wòłiwôcz	N;ACC(SG)	wòłiwacza
+mono	wòłiwôcz	N;ACC(SG)	lëpincami
+llm		wòłiwôcz	N;ACC(SG)	wòłiwôcza
+stat	wòłiwôcz	N;ACC(SG)	wòłiwôcz
+
+ref		wòłiwôcz	N;VOC(PL)	wòłiwaczë
+mono	wòłiwôcz	N;VOC(PL)	lëpince
+llm		wòłiwôcz	N;VOC(PL)	wòłiwiczë
+stat	wòłiwôcz	N;VOC(PL)	wòłiwôcze
+
+error rate wòłiwôcz:0.9285714285714286
+
+ref		łżëkwiôt	N;NOM(PL)	łżëkwiôtë
+mono	łżëkwiôt	N;NOM(PL)	lëpince
+llm		łżëkwiôt	N;NOM(PL)	łżekwiôtë
+stat	łżëkwiôt	N;NOM(PL)	łżëkwiôty
+
+ref		łżëkwiôt	N;ESS(SG)	łżëkwiôce
+mono	łżëkwiôt	N;ESS(SG)	lëpince
+llm		łżëkwiôt	N;ESS(SG)	łżëkwiôtã
+stat	łżëkwiôt	N;ESS(SG)	łżëkwiôcie
+
+ref		łżëkwiôt	N;ACC(SG)	łżëkwiôta
+mono	łżëkwiôt	N;ACC(SG)	strzodami
+llm		łżëkwiôt	N;ACC(SG)	łżëkwiôt
+stat	łżëkwiôt	N;ACC(SG)	łżëkwiôt
+
+error rate łżëkwiôt:0.21428571428571427
+
+ref		lëstopadnik	N;NOM(PL)	lëstopadniczi
+mono	lëstopadnik	N;NOM(PL)	strzoda
+llm		lëstopadnik	N;NOM(PL)	lëstopadnicczi
+stat	lëstopadnik	N;NOM(PL)	lëstopadniki
+
+ref		lëstopadnik	N;DAT(PL)	lëstopadnikòm
+mono	lëstopadnik	N;DAT(PL)	strzodach
+llm		lëstopadnik	N;DAT(PL)	lëstopadnikom
+stat	lëstopadnik	N;DAT(PL)	lëstopadnikom
+
+ref		lëstopadnik	N;INS(PL)	lëstopadnikama
+mono	lëstopadnik	N;INS(PL)	strzodami
+llm		lëstopadnik	N;INS(PL)	lëstopadnykama
+stat	lëstopadnik	N;INS(PL)	lëstopadnikami
+
+ref		lëstopadnik	N;ESS(SG)	lëstopadnikù
+mono	lëstopadnik	N;ESS(SG)	strzody
+llm		lëstopadnik	N;ESS(SG)	lëstopadniku
+stat	lëstopadnik	N;ESS(SG)	lëstopadniku
+
+ref		lëstopadnik	N;ACC(PL)	lëstopadniczi
+mono	lëstopadnik	N;ACC(PL)	rënk using
+llm		lëstopadnik	N;ACC(PL)	lëstopadników
+stat	lëstopadnik	N;ACC(PL)	lëstopadniki
+
+ref		lëstopadnik	N;VOC(PL)	lëstopadniczi
+mono	lëstopadnik	N;VOC(PL)	rënk usingu
+llm		lëstopadnik	N;VOC(PL)	lëstopadniccë
+stat	lëstopadnik	N;VOC(PL)	lëstopadniki
+
+error rate lëstopadnik:0.42857142857142855
+
+ref		sobòta	N;DAT(PL)	sobòtóm
+mono	sobòta	N;DAT(PL)	rënkach usingach
+llm		sobòta	N;DAT(PL)	sobòtama
+stat	sobòta	N;DAT(PL)	sobòtom
+
+ref		sobòta	N;ESS(SG)	sobòce
+mono	sobòta	N;ESS(SG)	rënk using
+llm		sobòta	N;ESS(SG)	sobòta
+stat	sobòta	N;ESS(SG)	sobòcie
+
+ref		sobòta	N;INS(SG)	sobòtã
+mono	sobòta	N;INS(SG)	sobótami
+llm		sobòta	N;INS(SG)	sobòtą
+stat	sobòta	N;INS(SG)	sobòtą
+
+error rate sobòta:0.21428571428571427
+
+ref		kóń	N;DAT(PL)	kòniom
+mono	kóń	N;DAT(PL)	sobótach
+llm		kóń	N;DAT(PL)	kóniom
+stat	kóń	N;DAT(PL)	kóniom
+
+ref		kóń	N;VOC(SG)	kòniu
+mono	kóń	N;VOC(SG)	sobóta usinga
+llm		kóń	N;VOC(SG)	kòńcu
+stat	kóń	N;VOC(SG)	kóniu
+
+ref		kóń	N;INS(PL)	kòniama
+mono	kóń	N;INS(PL)	sobóta usingami
+llm		kóń	N;INS(PL)	kòunjama
+stat	kóń	N;INS(PL)	kóniami
+
+ref		kóń	N;ESS(SG)	kòniu
+mono	kóń	N;ESS(SG)	sobóta
+llm		kóń	N;ESS(SG)	kóńã
+stat	kóń	N;ESS(SG)	kóniu
+
+ref		kóń	N;DAT(SG)	kòniowi
+mono	kóń	N;DAT(SG)	sobóta using
+llm		kóń	N;DAT(SG)	kòniui
+stat	kóń	N;DAT(SG)	kóniowi
+
+ref		kóń	N;GEN(SG)	kònia
+mono	kóń	N;GEN(SG)	sobóta
+llm		kóń	N;GEN(SG)	kóńcôwégò
+stat	kóń	N;GEN(SG)	kónia
+
+ref		kóń	N;ESS(PL)	kòniach
+mono	kóń	N;ESS(PL)	sobóta
+llm		kóń	N;ESS(PL)	kóńma
+stat	kóń	N;ESS(PL)	kóniach
+
+ref		kóń	N;GEN(PL)	kòni
+mono	kóń	N;GEN(PL)	mój using
+llm		kóń	N;GEN(PL)	kònjów
+stat	kóń	N;GEN(PL)	kóni
+
+ref		kóń	N;INS(SG)	kòniã
+mono	kóń	N;INS(SG)	mój usingami
+llm		kóń	N;INS(SG)	kònim
+stat	kóń	N;INS(SG)	kóniem
+
+ref		kóń	N;ACC(PL)	kònie
+mono	kóń	N;ACC(PL)	mój using
+llm		kóń	N;ACC(PL)	kónie
+stat	kóń	N;ACC(PL)	kónie
+
+ref		kóń	N;ACC(SG)	kònia
+mono	kóń	N;ACC(SG)	mój usingami
+llm		kóń	N;ACC(SG)	kóńa
+stat	kóń	N;ACC(SG)	kóń
+
+ref		kóń	N;VOC(PL)	kònie
+mono	kóń	N;VOC(PL)	mój usingu
+llm		kóń	N;VOC(PL)	kóńce
+stat	kóń	N;VOC(PL)	kónie
+
+error rate kóń:0.8571428571428571
+
+ref		nazéwôcz	N;NOM(PL)	nazéwacze
+mono	nazéwôcz	N;NOM(PL)	mój using
+llm		nazéwôcz	N;NOM(PL)	nazéwôcze
+stat	nazéwôcz	N;NOM(PL)	nazéwôcze
+
+ref		nazéwôcz	N;DAT(PL)	nazéwaczom
+mono	nazéwôcz	N;DAT(PL)	mój usingach
+llm		nazéwôcz	N;DAT(PL)	nazéwôczóm
+stat	nazéwôcz	N;DAT(PL)	nazéwôczom
+
+ref		nazéwôcz	N;VOC(SG)	nazéwaczu
+mono	nazéwôcz	N;VOC(SG)	mój usingach
+llm		nazéwôcz	N;VOC(SG)	nazéwaczë
+stat	nazéwôcz	N;VOC(SG)	nazéwôczu
+
+ref		nazéwôcz	N;INS(PL)	nazéwaczama
+mono	nazéwôcz	N;INS(PL)	mój usingu
+llm		nazéwôcz	N;INS(PL)	nazéwôczama
+stat	nazéwôcz	N;INS(PL)	nazéwôczami
+
+ref		nazéwôcz	N;ESS(SG)	nazéwaczu
+mono	nazéwôcz	N;ESS(SG)	mój using
+llm		nazéwôcz	N;ESS(SG)	nazéwôczã
+stat	nazéwôcz	N;ESS(SG)	nazéwôczu
+
+ref		nazéwôcz	N;DAT(SG)	nazéwaczowi
+mono	nazéwôcz	N;DAT(SG)	mój using
+llm		nazéwôcz	N;DAT(SG)	nazéwôczowi
+stat	nazéwôcz	N;DAT(SG)	nazéwôczowi
+
+ref		nazéwôcz	N;GEN(SG)	nazéwacza
+mono	nazéwôcz	N;GEN(SG)	mój using
+llm		nazéwôcz	N;GEN(SG)	nazéwôcza
+stat	nazéwôcz	N;GEN(SG)	nazéwôcza
+
+ref		nazéwôcz	N;ESS(PL)	nazéwaczach
+mono	nazéwôcz	N;ESS(PL)	mój using
+llm		nazéwôcz	N;ESS(PL)	nazéwôczama
+stat	nazéwôcz	N;ESS(PL)	nazéwôczach
+
+ref		nazéwôcz	N;GEN(PL)	nazéwaczów
+mono	nazéwôcz	N;GEN(PL)	rodzócz
+llm		nazéwôcz	N;GEN(PL)	nazéwôczów
+stat	nazéwôcz	N;GEN(PL)	nazéwôczy
+
+ref		nazéwôcz	N;INS(SG)	nazéwaczã
+mono	nazéwôcz	N;INS(SG)	rodzóczy usingami
+llm		nazéwôcz	N;INS(SG)	nazéwôczã
+stat	nazéwôcz	N;INS(SG)	nazéwôczem
+
+ref		nazéwôcz	N;ACC(PL)	nazéwacze
+mono	nazéwôcz	N;ACC(PL)	rodzócz using
+llm		nazéwôcz	N;ACC(PL)	nazéwôczów
+stat	nazéwôcz	N;ACC(PL)	nazéwôcze
+
+ref		nazéwôcz	N;ACC(SG)	nazéwacza
+mono	nazéwôcz	N;ACC(SG)	rodzóczami
+llm		nazéwôcz	N;ACC(SG)	nazéwôcza
+stat	nazéwôcz	N;ACC(SG)	nazéwôcz
+
+ref		nazéwôcz	N;VOC(PL)	nazéwacze
+mono	nazéwôcz	N;VOC(PL)	rodzócz usingu
+llm		nazéwôcz	N;VOC(PL)	nazéwôcze
+stat	nazéwôcz	N;VOC(PL)	nazéwôcze
+
+error rate nazéwôcz:0.9285714285714286
+
+ref		piątk	N;VOC(SG)	piątkù
+mono	piątk	N;VOC(SG)	rodzóczach
+llm		piątk	N;VOC(SG)	piątcze
+stat	piątk	N;VOC(SG)	piątku
+
+ref		piątk	N;INS(PL)	piątkama
+mono	piątk	N;INS(PL)	rodzóczem
+llm		piątk	N;INS(PL)	piãtkama
+stat	piątk	N;INS(PL)	piątkami
+
+ref		piątk	N;ESS(SG)	piątkù
+mono	piątk	N;ESS(SG)	rodzóczy
+llm		piątk	N;ESS(SG)	piątkiem
+stat	piątk	N;ESS(SG)	piątku
+
+ref		piątk	N;DAT(SG)	piątkòwi
+mono	piątk	N;DAT(SG)	rodzócz using
+llm		piątk	N;DAT(SG)	piątkù
+stat	piątk	N;DAT(SG)	piątkowi
+
+ref		piątk	N;GEN(SG)	piątkù
+mono	piątk	N;GEN(SG)	rodzócz
+llm		piątk	N;GEN(SG)	piątku
+stat	piątk	N;GEN(SG)	piątka
+
+ref		piątk	N;INS(SG)	piątkã
+mono	piątk	N;INS(SG)	serce usingami
+llm		piątk	N;INS(SG)	piątką
+stat	piątk	N;INS(SG)	piątkiem
+
+ref		piątk	N;ACC(PL)	piątczi
+mono	piątk	N;ACC(PL)	serce using
+llm		piątk	N;ACC(PL)	piątków
+stat	piątk	N;ACC(PL)	piątki
+
+ref		piątk	N;VOC(PL)	piątczi
+mono	piątk	N;VOC(PL)	serce usingu
+llm		piątk	N;VOC(PL)	piątnicë
+stat	piątk	N;VOC(PL)	piątki
+
+error rate piątk:0.5714285714285714
+
+ref		rënk	N;NOM(PL)	rënczi
+mono	rënk	N;NOM(PL)	serce usingu
+llm		rënk	N;NOM(PL)	rënkowie
+stat	rënk	N;NOM(PL)	rënki
+
+ref		rënk	N;DAT(PL)	rënkóm
+mono	rënk	N;DAT(PL)	serce using
+llm		rënk	N;DAT(PL)	rënkom
+stat	rënk	N;DAT(PL)	rënkom
+
+ref		rënk	N;VOC(SG)	stolem
+mono	rënk	N;VOC(SG)	serce usingach
+llm		rënk	N;VOC(SG)	rënkù
+stat	rënk	N;VOC(SG)	rënku
+
+ref		rënk	N;INS(PL)	rënkama
+mono	rënk	N;INS(PL)	serce usingach
+llm		rënk	N;INS(PL)	rëńcama
+stat	rënk	N;INS(PL)	rënkami
+
+ref		rënk	N;ESS(SG)	rënkù
+mono	rënk	N;ESS(SG)	serce usingach
+llm		rënk	N;ESS(SG)	rënkã
+stat	rënk	N;ESS(SG)	rënku
+
+ref		rënk	N;VOC(PL)	rënczi
+mono	rënk	N;VOC(PL)	stolem using
+llm		rënk	N;VOC(PL)	rënkòwie
+stat	rënk	N;VOC(PL)	rënki
+
+error rate rënk:0.42857142857142855
+
+ref		wtórk	N;NOM(PL)	wtórczi
+mono	wtórk	N;NOM(PL)	stolemami usingami
+llm		wtórk	N;NOM(PL)	wtórtczi
+stat	wtórk	N;NOM(PL)	wtórki
+
+ref		wtórk	N;DAT(PL)	wtórkòm
+mono	wtórk	N;DAT(PL)	stolem usingu
+llm		wtórk	N;DAT(PL)	wtórkom
+stat	wtórk	N;DAT(PL)	wtórkom
+
+ref		wtórk	N;VOC(SG)	wtórkù
+mono	wtórk	N;VOC(SG)	stolem usingu
+llm		wtórk	N;VOC(SG)	wtórku
+stat	wtórk	N;VOC(SG)	wtórku
+
+ref		wtórk	N;ESS(SG)	wtórkù
+mono	wtórk	N;ESS(SG)	stolem usingach
+llm		wtórk	N;ESS(SG)	wtórkã
+stat	wtórk	N;ESS(SG)	wtórku
+
+ref		wtórk	N;DAT(SG)	wtórkòwi
+mono	wtórk	N;DAT(SG)	stolem usingach
+llm		wtórk	N;DAT(SG)	wtórkù
+stat	wtórk	N;DAT(SG)	wtórkowi
+
+ref		wtórk	N;GEN(SG)	wtórka
+mono	wtórk	N;GEN(SG)	stolem usingami
+llm		wtórk	N;GEN(SG)	wtórkù
+stat	wtórk	N;GEN(SG)	wtórku
+
+ref		wtórk	N;INS(SG)	wtórkã
+mono	wtórk	N;INS(SG)	stolem using
+llm		wtórk	N;INS(SG)	wtórkiem
+stat	wtórk	N;INS(SG)	wtórkiem
+
+ref		wtórk	N;ACC(PL)	wtórczi
+mono	wtórk	N;ACC(PL)	stolem using
+llm		wtórk	N;ACC(PL)	wtórec
+stat	wtórk	N;ACC(PL)	wtórki
+
+error rate wtórk:0.5714285714285714
+
+ref		winowôcz	N;NOM(PL)	winowacze
+mono	winowôcz	N;NOM(PL)	nazéwóczami
+llm		winowôcz	N;NOM(PL)	winowôcze
+stat	winowôcz	N;NOM(PL)	winowôcze
+
+ref		winowôcz	N;DAT(PL)	winowaczom
+mono	winowôcz	N;DAT(PL)	nazéwócz usingu
+llm		winowôcz	N;DAT(PL)	winowôczã
+stat	winowôcz	N;DAT(PL)	winowôczom
+
+ref		winowôcz	N;VOC(SG)	winowaczu
+mono	winowôcz	N;VOC(SG)	nazéwócz using
+llm		winowôcz	N;VOC(SG)	winowajcze
+stat	winowôcz	N;VOC(SG)	winowôczu
+
+ref		winowôcz	N;INS(PL)	winowaczama
+mono	winowôcz	N;INS(PL)	nazéwócz using
+llm		winowôcz	N;INS(PL)	winowôcznyma
+stat	winowôcz	N;INS(PL)	winowôczami
+
+ref		winowôcz	N;ESS(SG)	winowaczu
+mono	winowôcz	N;ESS(SG)	nazéwócz usingach
+llm		winowôcz	N;ESS(SG)	winowôczã
+stat	winowôcz	N;ESS(SG)	winowôczu
+
+ref		winowôcz	N;DAT(SG)	winowaczowi
+mono	winowôcz	N;DAT(SG)	nazéwóczach
+llm		winowôcz	N;DAT(SG)	wiramù
+stat	winowôcz	N;DAT(SG)	winowôczowi
+
+ref		winowôcz	N;GEN(SG)	winowacza
+mono	winowôcz	N;GEN(SG)	nazéwóczem
+llm		winowôcz	N;GEN(SG)	winowôczë
+stat	winowôcz	N;GEN(SG)	winowôcza
+
+ref		winowôcz	N;ESS(PL)	winowaczach
+mono	winowôcz	N;ESS(PL)	nazéwócz using
+llm		winowôcz	N;ESS(PL)	winowôczama
+stat	winowôcz	N;ESS(PL)	winowôczach
+
+ref		winowôcz	N;GEN(PL)	winowaczów
+mono	winowôcz	N;GEN(PL)	nazéwócz using
+llm		winowôcz	N;GEN(PL)	winowôk
+stat	winowôcz	N;GEN(PL)	winowôczy
+
+ref		winowôcz	N;INS(SG)	winowaczã
+mono	winowôcz	N;INS(SG)	nazéwócz
+llm		winowôcz	N;INS(SG)	winowôczą
+stat	winowôcz	N;INS(SG)	winowôczem
+
+ref		winowôcz	N;ACC(PL)	winowacze
+mono	winowôcz	N;ACC(PL)	nazéwóczy
+llm		winowôcz	N;ACC(PL)	winowôzków
+stat	winowôcz	N;ACC(PL)	winowôcze
+
+ref		winowôcz	N;ACC(SG)	winowacza
+mono	winowôcz	N;ACC(SG)	pòniedzółki
+llm		winowôcz	N;ACC(SG)	winowôcza
+stat	winowôcz	N;ACC(SG)	winowôcz
+
+ref		winowôcz	N;VOC(PL)	winowacze
+mono	winowôcz	N;VOC(PL)	pòniedzółki
+llm		winowôcz	N;VOC(PL)	winowôcze!
+stat	winowôcz	N;VOC(PL)	winowôcze
+
+error rate winowôcz:0.9285714285714286
+
+ref		òjc	N;DAT(PL)	òjcóm
+mono	òjc	N;DAT(PL)	pòniedzółkiem
+llm		òjc	N;DAT(PL)	òjcom
+stat	òjc	N;DAT(PL)	òjm
+
+ref		òjc	N;VOC(SG)	òjcze
+mono	òjc	N;VOC(SG)	pòniedzółkiem
+llm		òjc	N;VOC(SG)	òjcë
+stat	òjc	N;VOC(SG)	òjcu
+
+ref		òjc	N;ESS(PL)	òjcach
+mono	òjc	N;ESS(PL)	pòniedzółka
+llm		òjc	N;ESS(PL)	òjcama
+stat	òjc	N;ESS(PL)	òjch
+
+ref		òjc	N;GEN(PL)	òjców
+mono	òjc	N;GEN(PL)	pòniedzółki
+llm		òjc	N;GEN(PL)	òjcôw
+stat	òjc	N;GEN(PL)	òjw
+
+ref		òjc	N;VOC(PL)	òjcowie
+mono	òjc	N;VOC(PL)	stëcznikami
+llm		òjc	N;VOC(PL)	òjcowë
+stat	òjc	N;VOC(PL)	òj
+
+error rate òjc:0.3333333333333333
+
+ref		latawiskò	N;VOC(SG)	latawiskù
+mono	latawiskò	N;VOC(SG)	stëcznikusing
+llm		latawiskò	N;VOC(SG)	latawiskò
+stat	latawiskò	N;VOC(SG)	latawiskò
+
+ref		latawiskò	N;ESS(SG)	latawiskù
+mono	latawiskò	N;ESS(SG)	stëcznikach
+llm		latawiskò	N;ESS(SG)	latawiskã
+stat	latawiskò	N;ESS(SG)	latawiskò
+
+ref		latawiskò	N;DAT(SG)	latawiskù
+mono	latawiskò	N;DAT(SG)	stëcznikiem
+llm		latawiskò	N;DAT(SG)	latowiskù
+stat	latawiskò	N;DAT(SG)	latawiskò
+
+ref		latawiskò	N;ESS(PL)	latawiskach
+mono	latawiskò	N;ESS(PL)	stëcznik using
+llm		latawiskò	N;ESS(PL)	latawiskama
+stat	latawiskò	N;ESS(PL)	latawiskò
+
+ref		latawiskò	N;VOC(PL)	latawiska
+mono	latawiskò	N;VOC(PL)	winowóczami
+llm		latawiskò	N;VOC(PL)	latawisczi
+stat	latawiskò	N;VOC(PL)	latawiskò
+
+error rate latawiskò:0.35714285714285715
+
+ref		Jastra	N;VOC(PL)	Jastra
+mono	Jastra	N;VOC(PL)	winowóczem
+llm		Jastra	N;VOC(PL)	Jastrë!
+stat	Jastra	N;VOC(PL)	Jastry
+
+ref		Jastra	N;DAT(PL)	Jastróm
+mono	Jastra	N;DAT(PL)	winowócza
+llm		Jastra	N;DAT(PL)	Jastrom
+stat	Jastra	N;DAT(PL)	Jastrom
+
+ref		Jastra	N;GEN(PL)	Jastrów
+mono	Jastra	N;GEN(PL)	winowóczach
+llm		Jastra	N;GEN(PL)	Jastrach
+stat	Jastra	N;GEN(PL)	Jastr
+
+ref		Jastra	N;ACC(PL)	Jastrama
+mono	Jastra	N;ACC(PL)	winowóczach
+llm		Jastra	N;ACC(PL)	Jastra
+stat	Jastra	N;ACC(PL)	Jastry
+
+ref		Jastra	N;ACC(PL)	Jastra
+mono	Jastra	N;ACC(PL)	winowóczem
+llm		Jastra	N;ACC(PL)	Jastrë
+stat	Jastra	N;ACC(PL)	Jastry
+
+ref		Jastra	N;NOM(PL)	Jastra
+mono	Jastra	N;NOM(PL)	winowóczy
+llm		Jastra	N;NOM(PL)	Jastri
+stat	Jastra	N;NOM(PL)	Jastry
+
+error rate Jastra:0.8571428571428571
+
+ref		czerwińc	N;DAT(PL)	czerwińcom
+mono	czerwińc	N;DAT(PL)	winowócz
+llm		czerwińc	N;DAT(PL)	czerwińcam
+stat	czerwińc	N;DAT(PL)	czerwińm
+
+ref		czerwińc	N;ESS(PL)	czerwińcach
+mono	czerwińc	N;ESS(PL)	tidzéń usingu
+llm		czerwińc	N;ESS(PL)	czerwińcamë
+stat	czerwińc	N;ESS(PL)	czerwińch
+
+ref		czerwińc	N;ACC(SG)	czerwińca
+mono	czerwińc	N;ACC(SG)	tidzéń usingach
+llm		czerwińc	N;ACC(SG)	czerwińc
+stat	czerwińc	N;ACC(SG)	czerwińc
+
+ref		czerwińc	N;VOC(PL)	czerwińc
+mono	czerwińc	N;VOC(PL)	tidzéń using
+llm		czerwińc	N;VOC(PL)	czerwińce
+stat	czerwińc	N;VOC(PL)	czerwiń
+
+error rate czerwińc:0.2857142857142857
+
+ref		rujan	N;NOM(PL)	rujanë
+mono	rujan	N;NOM(PL)	tidzéń using
+llm		rujan	N;NOM(PL)	rujane
+stat	rujan	N;NOM(PL)	rujany
+
+ref		rujan	N;GEN(SG)	rujana
+mono	rujan	N;GEN(SG)	czerwińcami
+llm		rujan	N;GEN(SG)	rujanu
+stat	rujan	N;GEN(SG)	rujanu
+
+ref		rujan	N;ACC(SG)	rujana
+mono	rujan	N;ACC(SG)	czerwińcach
+llm		rujan	N;ACC(SG)	rujanã
+stat	rujan	N;ACC(SG)	rujan
+
+ref		rujan	N;VOC(PL)	rujanë
+mono	rujan	N;VOC(PL)	czerwińca
+llm		rujan	N;VOC(PL)	rujanie
+stat	rujan	N;VOC(PL)	rujany
+
+error rate rujan:0.2857142857142857
+
+ref		dôwôcz	N;NOM(PL)	dôwacze
+mono	dôwôcz	N;NOM(PL)	czerwińca
+llm		dôwôcz	N;NOM(PL)	dôwôczowie
+stat	dôwôcz	N;NOM(PL)	dôwôcze
+
+ref		dôwôcz	N;DAT(PL)	dôwaczom
+mono	dôwôcz	N;DAT(PL)	czerwińca
+llm		dôwôcz	N;DAT(PL)	dôwôczóm
+stat	dôwôcz	N;DAT(PL)	dôwôczom
+
+ref		dôwôcz	N;VOC(SG)	dôwaczu
+mono	dôwôcz	N;VOC(SG)	czerwińca
+llm		dôwôcz	N;VOC(SG)	dôwôczu
+stat	dôwôcz	N;VOC(SG)	dôwôczu
+
+ref		dôwôcz	N;INS(PL)	dôwaczama
+mono	dôwôcz	N;INS(PL)	kóń using
+llm		dôwôcz	N;INS(PL)	dôwôczama
+stat	dôwôcz	N;INS(PL)	dôwôczami
+
+ref		dôwôcz	N;ESS(SG)	dôwaczu
+mono	dôwôcz	N;ESS(SG)	kóń usingami
+llm		dôwôcz	N;ESS(SG)	dôwôczã
+stat	dôwôcz	N;ESS(SG)	dôwôczu
+
+ref		dôwôcz	N;DAT(SG)	dôwaczowi
+mono	dôwôcz	N;DAT(SG)	kóń using
+llm		dôwôcz	N;DAT(SG)	dôwcë
+stat	dôwôcz	N;DAT(SG)	dôwôczowi
+
+ref		dôwôcz	N;ESS(PL)	dôwaczach
+mono	dôwôcz	N;ESS(PL)	kóń usingu
+llm		dôwôcz	N;ESS(PL)	dôwôczama
+stat	dôwôcz	N;ESS(PL)	dôwôczach
+
+ref		dôwôcz	N;GEN(PL)	dôwaczów
+mono	dôwôcz	N;GEN(PL)	kóń usingu
+llm		dôwôcz	N;GEN(PL)	dôwôczów
+stat	dôwôcz	N;GEN(PL)	dôwôczy
+
+ref		dôwôcz	N;INS(SG)	dôwaczã
+mono	dôwôcz	N;INS(SG)	kóń using
+llm		dôwôcz	N;INS(SG)	dôwôczã
+stat	dôwôcz	N;INS(SG)	dôwôczem
+
+ref		dôwôcz	N;ACC(PL)	dôwacze
+mono	dôwôcz	N;ACC(PL)	kóń usingach
+llm		dôwôcz	N;ACC(PL)	dôwôczów
+stat	dôwôcz	N;ACC(PL)	dôwôcze
+
+ref		dôwôcz	N;ACC(SG)	dôwacza
+mono	dôwôcz	N;ACC(SG)	kóń usingach
+llm		dôwôcz	N;ACC(SG)	dôwôczã
+stat	dôwôcz	N;ACC(SG)	dôwôcz
+
+ref		dôwôcz	N;VOC(PL)	dôwacze
+mono	dôwôcz	N;VOC(PL)	kóń using
+llm		dôwôcz	N;VOC(PL)	dôwôcze
+stat	dôwôcz	N;VOC(PL)	dôwôcze
+
+error rate dôwôcz:0.8571428571428571
+
+ref		serce	N;DAT(PL)	sercóm
+mono	serce	N;DAT(PL)	kóń using
+llm		serce	N;DAT(PL)	sercom
+stat	serce	N;DAT(PL)	sercom
+
+ref		serce	N;INS(PL)	sercama
+mono	serce	N;INS(PL)	Jastry
+llm		serce	N;INS(PL)	sercami
+stat	serce	N;INS(PL)	sercami
+
+ref		serce	N;ESS(SG)	serce
+mono	serce	N;ESS(SG)	Jastrami
+llm		serce	N;ESS(SG)	sercem
+stat	serce	N;ESS(SG)	sersie
+
+ref		serce	N;GEN(SG)	serca
+mono	serce	N;GEN(SG)	Jastra
+llm		serce	N;GEN(SG)	sérca
+stat	serce	N;GEN(SG)	serce'u
+
+ref		serce	N;GEN(PL)	serców
+mono	serce	N;GEN(PL)	Jastra
+llm		serce	N;GEN(PL)	serc
+stat	serce	N;GEN(PL)	serc
+
+ref		serce	N;INS(SG)	sercã
+mono	serce	N;INS(SG)	gromicznikami usingami
+llm		serce	N;INS(SG)	serce
+stat	serce	N;INS(SG)	serce'em
+
+ref		serce	N;INS(SG)	sercem
+mono	serce	N;INS(SG)	gromicznik using
+llm		serce	N;INS(SG)	serca
+stat	serce	N;INS(SG)	serce'em
+
+error rate serce:0.4117647058823529
+
+ref		lëpinc	N;NOM(PL)	lëpince
+mono	lëpinc	N;NOM(PL)	gromicznikach usingach
+llm		lëpinc	N;NOM(PL)	lëpińce
+stat	lëpinc	N;NOM(PL)	lëpin
+
+ref		lëpinc	N;DAT(PL)	lëpincom
+mono	lëpinc	N;DAT(PL)	gromicznikach
+llm		lëpinc	N;DAT(PL)	lëpińcom
+stat	lëpinc	N;DAT(PL)	lëpinm
+
+ref		lëpinc	N;DAT(SG)	lëpincowi
+mono	lëpinc	N;DAT(SG)	gromicznikusing
+llm		lëpinc	N;DAT(SG)	lëpińcowi
+stat	lëpinc	N;DAT(SG)	lëpinwi
+
+ref		lëpinc	N;ESS(PL)	lëpincach
+mono	lëpinc	N;ESS(PL)	narzãdzócz
+llm		lëpinc	N;ESS(PL)	lëpińca
+stat	lëpinc	N;ESS(PL)	lëpinch
+
+ref		lëpinc	N;GEN(PL)	lëpinców
+mono	lëpinc	N;GEN(PL)	narzãdzóczy
+llm		lëpinc	N;GEN(PL)	lëpińców
+stat	lëpinc	N;GEN(PL)	lëpinw
+
+ref		lëpinc	N;INS(SG)	lëpincã
+mono	lëpinc	N;INS(SG)	narzódzócz
+llm		lëpinc	N;INS(SG)	lëpińcem
+stat	lëpinc	N;INS(SG)	lëpinm
+
+ref		lëpinc	N;ACC(PL)	lëpince
+mono	lëpinc	N;ACC(PL)	narzãdzóczami
+llm		lëpinc	N;ACC(PL)	lëpińce
+stat	lëpinc	N;ACC(PL)	lëpin
+
+ref		lëpinc	N;VOC(PL)	lëpince
+mono	lëpinc	N;VOC(PL)	narzãdzócz
+llm		lëpinc	N;VOC(PL)	lëpińce
+stat	lëpinc	N;VOC(PL)	lëpin
+
+error rate lëpinc:0.5714285714285714
+
+ref		séwnik	N;NOM(PL)	séwniczi
+mono	séwnik	N;NOM(PL)	narzãdzóczach
+llm		séwnik	N;NOM(PL)	siewnicë
+stat	séwnik	N;NOM(PL)	séwnicy
+
+ref		séwnik	N;DAT(PL)	séwnikòm
+mono	séwnik	N;DAT(PL)	narzãdzóczy
+llm		séwnik	N;DAT(PL)	séwnikòma
+stat	séwnik	N;DAT(PL)	séwnikom
+
+ref		séwnik	N;ESS(SG)	séwnikù
+mono	séwnik	N;ESS(SG)	narzódzócz
+llm		séwnik	N;ESS(SG)	siewnikczi
+stat	séwnik	N;ESS(SG)	séwniku
+
+ref		séwnik	N;ACC(PL)	séwniczi
+mono	séwnik	N;ACC(PL)	séwnikami usingami
+llm		séwnik	N;ACC(PL)	séwników
+stat	séwnik	N;ACC(PL)	séwników
+
+ref		séwnik	N;VOC(PL)	séwniczi
+mono	séwnik	N;VOC(PL)	séwnik using
+llm		séwnik	N;VOC(PL)	séwnicë
+stat	séwnik	N;VOC(PL)	séwnicy
+
+error rate séwnik:0.35714285714285715
+
+ref		zélnik	N;NOM(PL)	zélniczi
+mono	zélnik	N;NOM(PL)	séwnikach usingach
+llm		zélnik	N;NOM(PL)	zélnice
+stat	zélnik	N;NOM(PL)	zélniki
+
+ref		zélnik	N;DAT(PL)	zélnikòm
+mono	zélnik	N;DAT(PL)	séwnikach usingach
+llm		zélnik	N;DAT(PL)	zélnikóm
+stat	zélnik	N;DAT(PL)	zélnikom
+
+ref		zélnik	N;INS(PL)	zélnikama
+mono	zélnik	N;INS(PL)	séwnik using
+llm		zélnik	N;INS(PL)	zélnykama
+stat	zélnik	N;INS(PL)	zélnikami
+
+ref		zélnik	N;ESS(SG)	zélnikù
+mono	zélnik	N;ESS(SG)	séwnik using
+llm		zélnik	N;ESS(SG)	zélnikom
+stat	zélnik	N;ESS(SG)	zélniku
+
+ref		zélnik	N;INS(SG)	zélnikã
+mono	zélnik	N;INS(SG)	piątka using
+llm		zélnik	N;INS(SG)	zélnykã
+stat	zélnik	N;INS(SG)	zélnikiem
+
+ref		zélnik	N;ACC(PL)	zélniczi
+mono	zélnik	N;ACC(PL)	piątkami
+llm		zélnik	N;ACC(PL)	zélników
+stat	zélnik	N;ACC(PL)	zélniki
+
+ref		zélnik	N;ACC(SG)	zélnika
+mono	zélnik	N;ACC(SG)	piątkach usingu
+llm		zélnik	N;ACC(SG)	zélnik
+stat	zélnik	N;ACC(SG)	zélnik
+
+ref		zélnik	N;VOC(PL)	zélniczi
+mono	zélnik	N;VOC(PL)	piątka using
+llm		zélnik	N;VOC(PL)	zélnicë
+stat	zélnik	N;VOC(PL)	zélniki
+
+error rate zélnik:0.5714285714285714
+
+ref		stëcznik	N;NOM(PL)	stëczniczi
+mono	stëcznik	N;NOM(PL)	piątkach usingach
+llm		stëcznik	N;NOM(PL)	stëcznicë
+stat	stëcznik	N;NOM(PL)	stëczniki
+
+ref		stëcznik	N;ESS(SG)	stëcznikù
+mono	stëcznik	N;ESS(SG)	piątka using
+llm		stëcznik	N;ESS(SG)	stëcznikã
+stat	stëcznik	N;ESS(SG)	stëczniku
+
+ref		stëcznik	N;ACC(SG)	stëcznika
+mono	stëcznik	N;ACC(SG)	rujan usingu
+llm		stëcznik	N;ACC(SG)	stëcznik
+stat	stëcznik	N;ACC(SG)	stëcznik
+
+ref		stëcznik	N;VOC(PL)	stëczniczi
+mono	stëcznik	N;VOC(PL)	rujan using
+llm		stëcznik	N;VOC(PL)	stëcznicë
+stat	stëcznik	N;VOC(PL)	stëczniki
+
+error rate stëcznik:0.2857142857142857
+
+ref		strzoda	N;DAT(PL)	strzodóm
+mono	strzoda	N;DAT(PL)	rujanami
+llm		strzoda	N;DAT(PL)	strzodze
+stat	strzoda	N;DAT(PL)	strzodom
+
+ref		strzoda	N;ESS(SG)	strzodze
+mono	strzoda	N;ESS(SG)	rujan using
+llm		strzoda	N;ESS(SG)	strzodą
+stat	strzoda	N;ESS(SG)	strzodzie
+
+ref		strzoda	N;GEN(PL)	strzodów
+mono	strzoda	N;GEN(PL)	gódnikami usingami
+llm		strzoda	N;GEN(PL)	strzód</td>
+stat	strzoda	N;GEN(PL)	strzód
+
+ref		strzoda	N;INS(SG)	strzodã
+mono	strzoda	N;INS(SG)	gódnik using
+llm		</tr>
+stat	strzoda	N;INS(SG)	strzodą
+
+ref		strzoda	N;ACC(PL)	strzodë
+mono	strzoda	N;ACC(PL)	gódnikami usingami
+llm		</tbody>
+stat	strzoda	N;ACC(PL)	strzody
+
+ref		strzoda	N;ACC(SG)	strzodã
+mono	strzoda	N;ACC(SG)	gódnikusingu
+llm		</table>
+stat	strzoda	N;ACC(SG)	strzodę
+
+error rate strzoda:0.42857142857142855
+
+ref		môj	N;NOM(PL)	maje
+mono	môj	N;NOM(PL)	gódnikach usingach
+llm		strzoda	N;ACC(SG)	strzodã
+stat	môj	N;NOM(PL)	môje
+
+ref		môj	N;DAT(PL)	majom
+mono	môj	N;DAT(PL)	gódnikach
+llm		strzoda	N;NOM(SG)	strzoda
+stat	môj	N;DAT(PL)	môjom
+
+ref		môj	N;VOC(SG)	maju
+mono	môj	N;VOC(SG)	gódnikami usingami
+llm		strzoda	N;VOC(PL)	strzodë
+stat	môj	N;VOC(SG)	môju
+
+ref		môj	N;INS(PL)	majima
+mono	môj	N;INS(PL)	gódnik using
+llm		môj	N;NOM(PL)	mòji
+stat	môj	N;INS(PL)	môjami
+
+ref		môj	N;ESS(SG)	maju
+mono	môj	N;ESS(SG)	gódnik using
+llm		môj	N;DAT(PL)	mòjim
+stat	môj	N;ESS(SG)	môju
+
+ref		môj	N;DAT(SG)	majowi
+mono	môj	N;DAT(SG)	gódnik using
+llm		môj	N;VOC(SG)	mòjã
+stat	môj	N;DAT(SG)	môjowi
+
+ref		môj	N;GEN(SG)	maja
+mono	môj	N;GEN(SG)	gódnik using
+llm		môj	N;INS(PL)	nami
+stat	môj	N;GEN(SG)	môja
+
+ref		môj	N;ESS(PL)	majach
+mono	môj	N;ESS(PL)	dôwócz
+llm		môj	N;ESS(SG)	mòjim
+stat	môj	N;ESS(PL)	môjach
+
+ref		môj	N;GEN(PL)	majów
+mono	môj	N;GEN(PL)	dôwóczami
+llm		môj	N;DAT(SG)	mù
+stat	môj	N;GEN(PL)	môjów
+
+ref		môj	N;INS(SG)	majã
+mono	môj	N;INS(SG)	dôwócz using
+llm		môj	N;GEN(SG)	mòjã
+stat	môj	N;INS(SG)	môjem
+
+ref		môj	N;ACC(PL)	maje
+mono	môj	N;ACC(PL)	dôwóczami
+llm		môj	N;ESS(PL)	mòjima
+stat	môj	N;ACC(PL)	môjów
+
+ref		môj	N;ACC(SG)	môj
+mono	môj	N;ACC(SG)	dôwóczach
+llm		môj	N;GEN(PL)	mòjich
+stat	môj	N;ACC(SG)	môja
+
+ref		môj	N;VOC(PL)	maje
+mono	môj	N;VOC(PL)	dôwócz using
+llm		môj	N;ACC(PL)	mòjé
+stat	môj	N;VOC(PL)	môje
+
+error rate môj:0.9285714285714286
+
+ref		strumiannik	N;NOM(PL)	strumianniczi
+mono	strumiannik	N;NOM(PL)	dôwóczach usingach
+llm		môj	N;ACC(SG)	môj
+stat	strumiannik	N;NOM(PL)	strumianniki
+
+ref		strumiannik	N;DAT(PL)	strumiannikòm
+mono	strumiannik	N;DAT(PL)	dôwôczy
+llm		môj	N;NOM(SG)	mój
+stat	strumiannik	N;DAT(PL)	strumiannikom
+
+ref		strumiannik	N;VOC(SG)	strumiannikù
+mono	strumiannik	N;VOC(SG)	dôwôczem
+llm		môj	N;VOC(PL)	mòji
+stat	strumiannik	N;VOC(SG)	strumianniku
+
+ref		strumiannik	N;INS(PL)	strumiannikama
+mono	strumiannik	N;INS(PL)	dôwôczy
+llm		strumiannik	N;NOM(PL)	strumianicë
+stat	strumiannik	N;INS(PL)	strumiannikami
+
+ref		strumiannik	N;ESS(SG)	strumiannikù
+mono	strumiannik	N;ESS(SG)	dôwócz using
+llm		strumiannik	N;DAT(PL)	strumiannikom
+stat	strumiannik	N;ESS(SG)	strumianniku
+
+ref		strumiannik	N;DAT(SG)	strumiannikòwi
+mono	strumiannik	N;DAT(SG)	dôwócz
+llm		strumiannik	N;VOC(SG)	strumiônicze
+stat	strumiannik	N;DAT(SG)	strumiannikowi
+
+ref		strumiannik	N;INS(SG)	strumiannikã
+mono	strumiannik	N;INS(SG)	môlnik using
+llm		strumiannik	N;GEN(SG)	strumiannika
+stat	strumiannik	N;INS(SG)	strumiannikiem
+
+ref		strumiannik	N;ACC(PL)	strumianniczi
+mono	strumiannik	N;ACC(PL)	mólnikami usingami
+llm		strumiannik	N;ESS(PL)	strumiannikóm
+stat	strumiannik	N;ACC(PL)	strumianniki
+
+ref		strumiannik	N;VOC(PL)	strumianniczi
+mono	strumiannik	N;VOC(PL)	môlnika using
+llm		strumiannik	N;ACC(PL)	strumianników
+stat	strumiannik	N;VOC(PL)	strumianniki
+
+error rate strumiannik:0.6428571428571429
+
+ref		tidzéń	N;DAT(PL)	tidzénióm
+mono	tidzéń	N;DAT(PL)	môlnikach
+llm		strumiannik	N;NOM(SG)	strumiannik
+stat	tidzéń	N;DAT(PL)	tidzéniom
+
+ref		tidzéń	N;INS(PL)	tidzénama
+mono	tidzéń	N;INS(PL)	mólnikusing
+llm		tidzéń	N;NOM(PL)	tidzeńé
+stat	tidzéń	N;INS(PL)	tidzéniami
+
+ref		tidzéń	N;ESS(PL)	tidzénach
+mono	tidzéń	N;ESS(PL)	pùjk using
+llm		tidzéń	N;ESS(SG)	tidzénim
+stat	tidzéń	N;ESS(PL)	tidzéniach
+
+ref		tidzéń	N;GEN(PL)	tidzéniów
+mono	tidzéń	N;GEN(PL)	pùjkami
+llm		tidzéń	N;DAT(SG)	tidzniowi
+stat	tidzéń	N;GEN(PL)	tidzéni
+
+ref		tidzéń	N;INS(SG)	tidzénã
+mono	tidzéń	N;INS(SG)	pùjkusing
+llm		tidzéń	N;GEN(SG)	tidznia
+stat	tidzéń	N;INS(SG)	tidzéniem
+
+error rate tidzéń:0.35714285714285715
+
+ref		czwôrtk	N;NOM(PL)	czwôrtczi
+mono	czwôrtk	N;NOM(PL)	pùjkach usingach
+llm		tidzéń	N;ACC(SG)	tidzéń
+stat	czwôrtk	N;NOM(PL)	czwôrtki
+
+ref		czwôrtk	N;DAT(PL)	czwôrtkóm
+mono	czwôrtk	N;DAT(PL)	pùjkach
+llm		tidzéń	N;NOM(SG)	tidzéń
+stat	czwôrtk	N;DAT(PL)	czwôrtkom
+
+ref		czwôrtk	N;VOC(SG)	czwôrtkù
+mono	czwôrtk	N;VOC(SG)	pùjkusingami
+llm		tidzéń	N;VOC(PL)	tidzenie
+stat	czwôrtk	N;VOC(SG)	czwôrtku
+
+ref		czwôrtk	N;INS(PL)	czwôrtkama
+mono	czwôrtk	N;INS(PL)	pùjk using
+llm		czwôrtk	N;NOM(PL)	czwarzëczi
+stat	czwôrtk	N;INS(PL)	czwôrtkami
+
+ref		czwôrtk	N;ESS(SG)	czwôrtkù
+mono	czwôrtk	N;ESS(SG)	pùjk using
+llm		czwôrtk	N;DAT(PL)	czwôrtkóm
+stat	czwôrtk	N;ESS(SG)	czwôrtku
+
+ref		czwôrtk	N;DAT(SG)	czwôrtkòwi
+mono	czwôrtk	N;DAT(SG)	pùjkusing
+llm		czwôrtk	N;VOC(SG)	czwiôrtkù
+stat	czwôrtk	N;DAT(SG)	czwôrtkowi
+
+ref		czwôrtk	N;GEN(SG)	czwôrtkù
+mono	czwôrtk	N;GEN(SG)	pùjka
+llm		czwôrtk	N;INS(PL)	czwôrtkama
+stat	czwôrtk	N;GEN(SG)	czwôrtka
+
+ref		czwôrtk	N;INS(SG)	czwôrtkã
+mono	czwôrtk	N;INS(SG)	wòłiwócz
+llm		czwôrtk	N;GEN(SG)	czwiôrtkù
+stat	czwôrtk	N;INS(SG)	czwôrtkiem
+
+ref		czwôrtk	N;ACC(PL)	czwôrtczi
+mono	czwôrtk	N;ACC(PL)	wòłiwóczami
+llm		czwôrtk	N;ESS(PL)	czwôrtkach
+stat	czwôrtk	N;ACC(PL)	czwôrtki
+
+ref		czwôrtk	N;VOC(PL)	czwôrtczi
+mono	czwôrtk	N;VOC(PL)	wòłiwócz
+llm		czwôrtk	N;ACC(PL)	czwiôrtczi
+stat	czwôrtk	N;VOC(PL)	czwôrtki
+
+error rate czwôrtk:0.7142857142857143
+
+ref		kòt	N;NOM(PL)	kòtë
+mono	kòt	N;NOM(PL)	wòłiwóczach
+llm		czwôrtk	N;ACC(SG)	czwiôrtk
+stat	kòt	N;NOM(PL)	kòty
+
+ref		kòt	N;VOC(SG)	kòce
+mono	kòt	N;VOC(SG)	wòłiwóczem
+llm		czwôrtk	N;VOC(PL)	czwôrtczi
+stat	kòt	N;VOC(SG)	kòcie
+
+ref		kòt	N;INS(PL)	kòtama
+mono	kòt	N;INS(PL)	wòłiwócz
+llm		kòt	N;NOM(PL)	kòtë
+stat	kòt	N;INS(PL)	kòtami
+
+ref		kòt	N;ESS(SG)	kòce
+mono	kòt	N;ESS(SG)	wòłiwócz
+llm		kòt	N;DAT(PL)	kòtom
+stat	kòt	N;ESS(SG)	kòcie
+
+ref		kòt	N;DAT(SG)	kòtu
+mono	kòt	N;DAT(SG)	wòłiwóczy
+llm		kòt	N;INS(PL)	kòtama
+stat	kòt	N;DAT(SG)	kòtowi
+
+ref		kòt	N;GEN(SG)	kòta
+mono	kòt	N;GEN(SG)	Jastrë
+llm		kòt	N;ESS(SG)	kòce
+stat	kòt	N;GEN(SG)	kòtu
+
+ref		kòt	N;INS(SG)	kòtã
+mono	kòt	N;INS(SG)	Jastrë usingach
+llm		kòt	N;GEN(SG)	kòta
+stat	kòt	N;INS(SG)	kòtem
+
+ref		kòt	N;ACC(PL)	kòtë
+mono	kòt	N;ACC(PL)	Jastrë using
+llm		kòt	N;ESS(PL)	kòtama
+stat	kòt	N;ACC(PL)	kòty
+
+ref		kòt	N;ACC(SG)	kòta
+mono	kòt	N;ACC(SG)	Jastrë using
+llm		kòt	N;GEN(PL)	kówãt
+stat	kòt	N;ACC(SG)	kòt
+
+error rate kòt:0.6
+
+ref		gromicznik	N;NOM(PL)	gromiczniczi
+mono	gromicznik	N;NOM(PL)	latawisków usingami
+llm		kòt	N;ACC(SG)	kòta
+stat	gromicznik	N;NOM(PL)	gromiczniki
+
+ref		gromicznik	N;DAT(PL)	gromicznikòm
+mono	gromicznik	N;DAT(PL)	latawisków
+llm		kòt	N;NOM(SG)	kòt
+stat	gromicznik	N;DAT(PL)	gromicznikom
+
+ref		gromicznik	N;VOC(SG)	gromicznikù
+mono	gromicznik	N;VOC(SG)	latawiskóm
+llm		kòt	N;VOC(PL)	kòtë
+stat	gromicznik	N;VOC(SG)	gromiczniku
+
+ref		gromicznik	N;INS(PL)	gromicznikama
+mono	gromicznik	N;INS(PL)	latawisków
+llm		gromicznik	N;NOM(PL)	gromiczniki
+stat	gromicznik	N;INS(PL)	gromicznikami
+
+ref		gromicznik	N;ESS(SG)	gromicznikù
+mono	gromicznik	N;ESS(SG)	latawisków
+llm		gromicznik	N;DAT(PL)	gromicznikòwim
+stat	gromicznik	N;ESS(SG)	gromiczniku
+
+ref		gromicznik	N;DAT(SG)	gromicznikòwi
+mono	gromicznik	N;DAT(SG)	latawisków
+llm		gromicznik	N;VOC(SG)	gromiczniče
+stat	gromicznik	N;DAT(SG)	gromicznikowi
+
+ref		gromicznik	N;INS(SG)	gromicznikã
+mono	gromicznik	N;INS(SG)	latawisków
+llm		gromicznik	N;GEN(SG)	gromicznika
+stat	gromicznik	N;INS(SG)	gromicznikiem
+
+ref		gromicznik	N;ACC(PL)	gromiczniczi
+mono	gromicznik	N;ACC(PL)	latawisków
+llm		gromicznik	N;ESS(PL)	gromicznykama
+stat	gromicznik	N;ACC(PL)	gromiczniki
+
+ref		gromicznik	N;ACC(SG)	gromicznika
+mono	gromicznik	N;ACC(SG)	latawisków
+llm		gromicznik	N;GEN(PL)	gromiczników
+stat	gromicznik	N;ACC(SG)	gromicznik
+
+ref		gromicznik	N;VOC(PL)	gromiczniczi
+mono	gromicznik	N;VOC(PL)	czwórtki
+llm		gromicznik	N;ACC(PL)	gromiczniki
+stat	gromicznik	N;VOC(PL)	gromiczniki
+
+error rate gromicznik:0.7142857142857143
+
+ref		rodzôcz	N;INS(PL)	rodzôczama
+mono	rodzôcz	N;INS(PL)	czwórtkiem
+llm		rodzôcz	N;NOM(PL)	rodzëce
+stat	rodzôcz	N;INS(PL)	rodzôczami
+
+ref		rodzôcz	N;GEN(PL)	rodzôczów
+mono	rodzôcz	N;GEN(PL)	czwórtkiem
+llm		rodzôcz	N;DAT(SG)	rodzëcë
+stat	rodzôcz	N;GEN(PL)	rodzôczy
+
+ref		rodzôcz	N;INS(SG)	rodzôczã
+mono	rodzôcz	N;INS(SG)	czwórtki
+llm		rodzôcz	N;GEN(SG)	rodzëcza
+stat	rodzôcz	N;INS(SG)	rodzôczem
+
+ref		rodzôcz	N;ACC(SG)	rodzôcza
+mono	rodzôcz	N;ACC(SG)	czwórtka
+llm		rodzôcz	N;GEN(PL)	rodzëców
+stat	rodzôcz	N;ACC(SG)	rodzôcz
+
+error rate rodzôcz:0.2857142857142857
+
+ref		niedzela	N;DAT(PL)	niedzelóm
+mono	niedzela	N;DAT(PL)	zélnik using
+llm		rodzôcz	N;NOM(SG)	rodzëc
+stat	niedzela	N;DAT(PL)	niedzelom
+
+ref		niedzela	N;INS(PL)	niedzelama
+mono	niedzela	N;INS(PL)	zélnikusingu
+llm		niedzela	N;NOM(PL)	niedzele
+stat	niedzela	N;INS(PL)	niedzelami
+
+ref		niedzela	N;GEN(PL)	niedzelów
+mono	niedzela	N;GEN(PL)	zélnikami usingami
+llm		niedzela	N;DAT(SG)	niedzelë
+stat	niedzela	N;GEN(PL)	niedzel
+
+ref		niedzela	N;INS(SG)	niedzelã
+mono	niedzela	N;INS(SG)	zélnik using
+llm		niedzela	N;GEN(SG)	niedzeli
+stat	niedzela	N;INS(SG)	niedzelą
+
+ref		niedzela	N;ACC(SG)	niedzelã
+mono	niedzela	N;ACC(SG)	zélnik using
+llm		niedzela	N;GEN(PL)	niedzél
+stat	niedzela	N;ACC(SG)	niedzelę
+
+error rate niedzela:0.35714285714285715
+
+ref		gòdnik	N;NOM(PL)	gòdniczi
+mono	gòdnik	N;NOM(PL)	łżëkwiótami
+llm		niedzela	N;ACC(SG)	niedzelã
+stat	gòdnik	N;NOM(PL)	gòdniki
+
+ref		gòdnik	N;DAT(PL)	gòdnikòm
+mono	gòdnik	N;DAT(PL)	łżëkwiót
+llm		niedzela	N;NOM(SG)	niedzela
+stat	gòdnik	N;DAT(PL)	gòdnikom
+
+ref		gòdnik	N;VOC(SG)	gòdnikù
+mono	gòdnik	N;VOC(SG)	łżëkwiótami
+llm		niedzela	N;VOC(PL)	niedzeli
+stat	gòdnik	N;VOC(SG)	gòdniku
+
+ref		gòdnik	N;INS(PL)	gòdnikama
+mono	gòdnik	N;INS(PL)	łżëkwiót
+llm		gòdnik	N;NOM(PL)	gòdnici
+stat	gòdnik	N;INS(PL)	gòdnikami
+
+ref		gòdnik	N;ESS(SG)	gòdnikù
+mono	gòdnik	N;ESS(SG)	łżëkwiót
+llm		gòdnik	N;DAT(PL)	gòdnikom
+stat	gòdnik	N;ESS(SG)	gòdniku
+
+ref		gòdnik	N;DAT(SG)	gòdnikòwi
+mono	gòdnik	N;DAT(SG)	łżëkwiót
+llm		gòdnik	N;VOC(SG)	gòdniku
+stat	gòdnik	N;DAT(SG)	gòdnikowi
+
+ref		gòdnik	N;INS(SG)	gòdnikã
+mono	gòdnik	N;INS(SG)	łżëkwiót
+llm		gòdnik	N;GEN(SG)	gòdnika
+stat	gòdnik	N;INS(SG)	gòdnikiem
+
+ref		gòdnik	N;ACC(PL)	gòdniczi
+mono	gòdnik	N;ACC(PL)	łżëkwiót
+llm		gòdnik	N;ESS(PL)	gòdnikma
+stat	gòdnik	N;ACC(PL)	gòdniki
+
+ref		gòdnik	N;ACC(SG)	gòdnika
+mono	gòdnik	N;ACC(SG)	łżëkwiót
+llm		gòdnik	N;GEN(PL)	gòdnikòw
+stat	gòdnik	N;ACC(SG)	gòdnik
+
+ref		gòdnik	N;VOC(PL)	gòdniczi
+mono	gòdnik	N;VOC(PL)	kót using
+llm		gòdnik	N;ACC(PL)	gòdniki
+stat	gòdnik	N;VOC(PL)	gòdniki
+
+error rate gòdnik:0.7142857142857143
+
+ref		stolem	N;NOM(PL)	stolemë
+mono	stolem	N;NOM(PL)	kót usingami
+llm		gòdnik	N;ACC(SG)	gòdnika
+stat	stolem	N;NOM(PL)	stolemy
+
+ref		stolem	N;DAT(PL)	stolemóm
+mono	stolem	N;DAT(PL)	kót using
+llm		gòdnik	N;NOM(SG)	gòdnik
+stat	stolem	N;DAT(PL)	stolemom
+
+ref		stolem	N;VOC(SG)	stolem
+mono	stolem	N;VOC(SG)	kót usingami
+llm		gòdnik	N;VOC(PL)	gòdniki
+stat	stolem	N;VOC(SG)	stolemie
+
+ref		stolem	N;INS(PL)	stolemama
+mono	stolem	N;INS(PL)	kót usingu
+llm		stolem	N;NOM(PL)	stolemë
+stat	stolem	N;INS(PL)	stolemami
+
+ref		stolem	N;DAT(SG)	stolemòwi
+mono	stolem	N;DAT(SG)	kót usingu
+llm		stolem	N;VOC(SG)	stolemcze
+stat	stolem	N;DAT(SG)	stolemowi
+
+ref		stolem	N;GEN(SG)	stolema
+mono	stolem	N;GEN(SG)	kòt using
+llm		stolem	N;INS(PL)	stolmie
+stat	stolem	N;GEN(SG)	stolemu
+
+ref		stolem	N;INS(SG)	stolemã
+mono	stolem	N;INS(SG)	kót usingami
+llm		stolem	N;GEN(SG)	stolemja
+stat	stolem	N;INS(SG)	stolemem
+
+ref		stolem	N;ACC(PL)	stolemów
+mono	stolem	N;ACC(PL)	kót using
+llm		stolem	N;ESS(PL)	stolemama
+stat	stolem	N;ACC(PL)	stolemy
+
+ref		stolem	N;ACC(SG)	stolema
+mono	stolem	N;ACC(SG)	kòt using
+llm		stolem	N;GEN(PL)	stolemów
+stat	stolem	N;ACC(SG)	stolem
+
+ref		stolem	N;VOC(PL)	stolemë
+mono	stolem	N;VOC(PL)	kót using
+llm		stolem	N;ACC(PL)	stolemów
+stat	stolem	N;VOC(PL)	stolemy
+

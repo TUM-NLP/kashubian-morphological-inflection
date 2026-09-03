@@ -1,0 +1,804 @@
+------------------------
+ref		almmáskit	V;COND;NOM(1,DU)	almmáskivččiime
+byt5	almmáskit	V;COND;NOM(1,DU)	almmáskkášeimme
+
+ref		almmáskit	V;COND;NOM(1,PL)	almmáskivččiimet
+byt5	almmáskit	V;COND;NOM(1,PL)	almmáskkášeimmet
+
+ref		almmáskit	V;COND;NOM(1,SG)	almmáskivččen
+byt5	almmáskit	V;COND;NOM(1,SG)	almmáskkášin
+
+ref		almmáskit	V;COND;NOM(2,DU)	almmáskivččiide
+byt5	almmáskit	V;COND;NOM(2,DU)	almmáskkášeidde
+
+ref		almmáskit	V;COND;NOM(2,PL)	almmáskivččiidet
+byt5	almmáskit	V;COND;NOM(2,PL)	almmáskkášeiddet
+
+ref		almmáskit	V;COND;NOM(3,DU)	almmáskivččiiga
+byt5	almmáskit	V;COND;NOM(3,DU)	almmáskkášeigga
+
+ref		almmáskit	V;COND;NOM(3,SG)	almmáskivččii
+byt5	almmáskit	V;COND;NOM(3,SG)	almmáskkášii
+
+ref		almmáskit	V;IMP;NOM(1,PL)	almmáskehkot
+byt5	almmáskit	V;IMP;NOM(1,PL)	almmáskot
+
+ref		almmáskit	V;IMP;NOM(2,DU)	almmáskeahkki
+byt5	almmáskit	V;IMP;NOM(2,DU)	almmáski
+
+ref		almmáskit	V;IMP;NOM(2,SG)	almmás
+byt5	almmáskit	V;IMP;NOM(2,SG)	almmáske
+
+ref		almmáskit	V;IMP;NOM(3,PL)	almmáskehkoset
+byt5	almmáskit	V;IMP;NOM(3,PL)	almmáskoset
+
+ref		almmáskit	V;IMP;NOM(3,SG)	almmáskehkos
+byt5	almmáskit	V;IMP;NOM(3,SG)	almmáskos
+
+ref		almmáskit	V;POT;NOM(1,DU)	almmáskežže
+byt5	almmáskit	V;POT;NOM(1,DU)	almmáskkežetne
+
+ref		almmáskit	V;POT;NOM(1,PL)	almmáskeažžat
+byt5	almmáskit	V;POT;NOM(1,PL)	almmáskkežit
+
+ref		almmáskit	V;POT;NOM(2,DU)	almmáskeažžabeahtti
+byt5	almmáskit	V;POT;NOM(2,DU)	almmáskkežeahppi
+
+ref		almmáskit	V;POT;NOM(2,PL)	almmáskeažžabehtet
+byt5	almmáskit	V;POT;NOM(2,PL)	almmáskkežehpet
+
+ref		almmáskit	V;POT;NOM(2,SG)	almmáskeaččat
+byt5	almmáskit	V;POT;NOM(2,SG)	almmáskkežat
+
+ref		almmáskit	V;POT;NOM(3,PL)	almmáskežžet
+byt5	almmáskit	V;POT;NOM(3,PL)	almmáskkežit
+
+ref		almmáskit	V;POT;NOM(3,SG)	almmáskeš
+byt5	almmáskit	V;POT;NOM(3,SG)	almmáskkeža
+
+ref		almmáskit	V;PRS;IND;NOM(1,DU)	almmásketne
+byt5	almmáskit	V;PRS;IND;NOM(1,DU)	almmáske
+
+ref		almmáskit	V;PRS;IND;NOM(1,SG)	almmáskan
+byt5	almmáskit	V;PRS;IND;NOM(1,SG)	almmáskkán
+
+ref		almmáskit	V;PRS;IND;NOM(2,DU)	almmáskeahppi
+byt5	almmáskit	V;PRS;IND;NOM(2,DU)	almmáskibeahtti
+
+ref		almmáskit	V;PRS;IND;NOM(2,PL)	almmáskehpet
+byt5	almmáskit	V;PRS;IND;NOM(2,PL)	almmáskibehtet
+
+ref		almmáskit	V;PRS;IND;NOM(2,SG)	almmáskat
+byt5	almmáskit	V;PRS;IND;NOM(2,SG)	almmáskkát
+
+ref		almmáskit	V;PRS;IND;NOM(3,DU)	almmáskeaba
+byt5	almmáskit	V;PRS;IND;NOM(3,DU)	almmáskiba
+
+ref		almmáskit	V;PRS;IND;NOM(3,SG)	almmáska
+byt5	almmáskit	V;PRS;IND;NOM(3,SG)	almmáská
+
+ref		almmáskit	V;PST;IND;NOM(1,DU)	almmáskeimme
+byt5	almmáskit	V;PST;IND;NOM(1,DU)	almmáskkiime
+
+ref		almmáskit	V;PST;IND;NOM(1,SG)	almmáskin
+byt5	almmáskit	V;PST;IND;NOM(1,SG)	almmásken
+
+ref		almmáskit	V;PST;IND;NOM(2,DU)	almmáskeidde
+byt5	almmáskit	V;PST;IND;NOM(2,DU)	almmáskkiide
+
+ref		almmáskit	V;PST;IND;NOM(3,DU)	almmáskeigga
+byt5	almmáskit	V;PST;IND;NOM(3,DU)	almmáskkiiga
+
+ref		buddet	V;IMP;NOM(1,PL)	buddejetnot
+byt5	buddet	V;IMP;NOM(1,PL)	buddot
+
+ref		buddet	V;IMP;NOM(1,SG)	buddejehkon
+byt5	buddet	V;IMP;NOM(1,SG)	buddon
+
+ref		buddet	V;IMP;NOM(2,PL)	buddejehket
+byt5	buddet	V;IMP;NOM(2,PL)	buddet
+
+ref		buddet	V;IMP;NOM(3,PL)	buddejehkoset
+byt5	buddet	V;IMP;NOM(3,PL)	buddoset
+
+ref		buddet	V;PRS;IND;NOM(3,PL)	buddejit
+byt5	buddet	V;PRS;IND;NOM(3,PL)	buddet
+
+ref		buddet	V;PST;IND;NOM(1,SG)	buddejin
+byt5	buddet	V;PST;IND;NOM(1,SG)	budden
+
+ref		báralaš	ADJ;FRML(SG)	báralažžan
+byt5	báralaš	ADJ;FRML(SG)	báralaččan
+
+ref		báralaš	ADJ;IN+ALL(SG)	báralažžii
+byt5	báralaš	ADJ;IN+ALL(SG)	báralaččai
+
+ref		bárdnat	V;COND;LGSPEC1;NOM(1,PL)	bártnaleimmet
+byt5	bárdnat	V;COND;LGSPEC1;NOM(1,PL)	bárnnaleimmet
+
+ref		bárdnat	V;COND;LGSPEC1;NOM(3,SG)	bártnalii
+byt5	bárdnat	V;COND;LGSPEC1;NOM(3,SG)	bárnnalii
+
+ref		bárdnat	V;COND;NOM(1,DU)	bártnašeimme
+byt5	bárdnat	V;COND;NOM(1,DU)	bárdnašeimme
+
+ref		bárdnat	V;COND;NOM(1,PL)	bártnašeimmet
+byt5	bárdnat	V;COND;NOM(1,PL)	bárdnašeimmet
+
+ref		bárdnat	V;COND;NOM(2,DU)	bártnašeidde
+byt5	bárdnat	V;COND;NOM(2,DU)	bárdnašeidde
+
+ref		bárdnat	V;COND;NOM(2,SG)	bártnašit
+byt5	bárdnat	V;COND;NOM(2,SG)	bárdnašit
+
+ref		bárdnat	V;IMP;NOM(2,SG)	bártna
+byt5	bárdnat	V;IMP;NOM(2,SG)	bárdna
+
+ref		bárdnat	V;POT;NOM(1,DU)	bártnažetne
+byt5	bárdnat	V;POT;NOM(1,DU)	bárnnažetne
+
+ref		bárdnat	V;POT;NOM(1,PL)	bártnažit
+byt5	bárdnat	V;POT;NOM(1,PL)	bárnnažit
+
+ref		bárdnat	V;POT;NOM(2,PL)	bártnažehpet
+byt5	bárdnat	V;POT;NOM(2,PL)	bárnnažehpet
+
+ref		bárdnat	V;POT;NOM(3,DU)	bártnažeaba
+byt5	bárdnat	V;POT;NOM(3,DU)	bárnnažeaba
+
+ref		bárdnat	V;POT;NOM(3,SG)	bártnaža
+byt5	bárdnat	V;POT;NOM(3,SG)	bárnnaža
+
+ref		bárdnat	V;PRS;IND;NOM(1,SG)	bártnan
+byt5	bárdnat	V;PRS;IND;NOM(1,SG)	bárdnan
+
+ref		bárdnat	V;PRS;IND;NOM(3,SG)	bárdná
+byt5	bárdnat	V;PRS;IND;NOM(3,SG)	bárdna
+
+ref		bárdnat	V;PST;IND;NOM(1,DU)	bártnaime
+byt5	bárdnat	V;PST;IND;NOM(1,DU)	bárdnaime
+
+ref		bárdnat	V;PST;IND;NOM(2,DU)	bártnaide
+byt5	bárdnat	V;PST;IND;NOM(2,DU)	bárdnaide
+
+ref		bárdnat	V;PST;IND;NOM(3,SG)	bártnai
+byt5	bárdnat	V;PST;IND;NOM(3,SG)	bárdnai
+
+ref		cuoŋománnu	N;IN+ALL(SG)	cuoŋománnui
+byt5	cuoŋománnu	N;IN+ALL(SG)	cuoŋománui
+
+ref		deaivat	V;IMP;NOM(1,DU)	deaivu
+byt5	deaivat	V;IMP;NOM(1,DU)	deivu
+
+ref		deaivat	V;IMP;NOM(2,DU)	deaivi
+byt5	deaivat	V;IMP;NOM(2,DU)	deivi
+
+ref		deaivat	V;IMP;NOM(2,SG)	deaivva
+byt5	deaivat	V;IMP;NOM(2,SG)	deivve
+
+ref		deaivat	V;POT;NOM(1,PL)	deaivvažit
+byt5	deaivat	V;POT;NOM(1,PL)	deivvažit
+
+ref		deaivat	V;POT;NOM(1,SG)	deaivvažan
+byt5	deaivat	V;POT;NOM(1,SG)	deivvažan
+
+ref		deaivat	V;POT;NOM(2,PL)	deaivvažehpet
+byt5	deaivat	V;POT;NOM(2,PL)	deivvažehpet
+
+ref		deaivat	V;POT;NOM(2,SG)	deaivvažat
+byt5	deaivat	V;POT;NOM(2,SG)	deivvažat
+
+ref		deaivat	V;POT;NOM(3,DU)	deaivvažeaba
+byt5	deaivat	V;POT;NOM(3,DU)	deivvažeaba
+
+ref		deaivat	V;PRS;IND;NOM(1,DU)	deive
+byt5	deaivat	V;PRS;IND;NOM(1,DU)	deaive
+
+ref		deaivat	V;PRS;IND;NOM(2,SG)	deaivvat
+byt5	deaivat	V;PRS;IND;NOM(2,SG)	deaivat
+
+ref		deaivat	V;PRS;IND;NOM(3,PL)	deivet
+byt5	deaivat	V;PRS;IND;NOM(3,PL)	deaivet
+
+ref		deaivat	V;PST;IND;NOM(1,DU)	deaivvaime
+byt5	deaivat	V;PST;IND;NOM(1,DU)	deivvaime
+
+ref		deaivat	V;PST;IND;NOM(1,PL)	deaivvaimet
+byt5	deaivat	V;PST;IND;NOM(1,PL)	deivvaimet
+
+ref		deaivat	V;PST;IND;NOM(1,SG)	deiven
+byt5	deaivat	V;PST;IND;NOM(1,SG)	deivvan
+
+ref		deaivat	V;PST;IND;NOM(2,SG)	deivet
+byt5	deaivat	V;PST;IND;NOM(2,SG)	deivvat
+
+ref		deaivat	V;PST;IND;NOM(3,DU)	deaivvaiga
+byt5	deaivat	V;PST;IND;NOM(3,DU)	deivveigga
+
+ref		deaivat	V;PST;IND;NOM(3,PL)	deive
+byt5	deaivat	V;PST;IND;NOM(3,PL)	deivve
+------------------------
+ref		dievvat	V;COND;LGSPEC1;NOM(1,SG)	dievalin
+byt5	dievvat	V;COND;LGSPEC1;NOM(1,SG)	dievvalin
+
+ref		dievvat	V;COND;LGSPEC1;NOM(2,PL)	dievaleiddet
+byt5	dievvat	V;COND;LGSPEC1;NOM(2,PL)	dievvaleiddet
+
+ref		dievvat	V;COND;LGSPEC1;NOM(2,SG)	dievalit
+byt5	dievvat	V;COND;LGSPEC1;NOM(2,SG)	dievvalit
+
+ref		dievvat	V;COND;LGSPEC1;NOM(3,PL)	dievale
+byt5	dievvat	V;COND;LGSPEC1;NOM(3,PL)	dievvale
+
+ref		dievvat	V;COND;LGSPEC1;NOM(3,SG)	dievalii
+byt5	dievvat	V;COND;LGSPEC1;NOM(3,SG)	dievvalii
+
+ref		dievvat	V;COND;NOM(1,PL)	dievašeimmet
+byt5	dievvat	V;COND;NOM(1,PL)	dievvašeimmet
+
+ref		dievvat	V;COND;NOM(2,DU)	dievašeidde
+byt5	dievvat	V;COND;NOM(2,DU)	dievvašeidde
+
+ref		dievvat	V;COND;NOM(2,SG)	dievašit
+byt5	dievvat	V;COND;NOM(2,SG)	dievvašit
+
+ref		dievvat	V;COND;NOM(3,DU)	dievašeigga
+byt5	dievvat	V;COND;NOM(3,DU)	dievvašeigga
+
+ref		dievvat	V;COND;NOM(3,PL)	dievaše
+byt5	dievvat	V;COND;NOM(3,PL)	dievvaše
+
+ref		dievvat	V;COND;NOM(3,SG)	dievašii
+byt5	dievvat	V;COND;NOM(3,SG)	dievvašii
+
+ref		dievvat	V;IMP;NOM(2,PL)	divvet
+byt5	dievvat	V;IMP;NOM(2,PL)	dievvet
+
+ref		dievvat	V;IMP;NOM(2,SG)	dieva
+byt5	dievvat	V;IMP;NOM(2,SG)	dievve
+
+ref		dievvat	V;POT;NOM(1,SG)	dievažan
+byt5	dievvat	V;POT;NOM(1,SG)	dievvažan
+
+ref		dievvat	V;POT;NOM(2,DU)	dievažeahppi
+byt5	dievvat	V;POT;NOM(2,DU)	dievvažeahppi
+
+ref		dievvat	V;POT;NOM(2,PL)	dievažehpet
+byt5	dievvat	V;POT;NOM(2,PL)	dievvažehpet
+
+ref		dievvat	V;POT;NOM(2,SG)	dievažat
+byt5	dievvat	V;POT;NOM(2,SG)	dievvažat
+
+ref		dievvat	V;POT;NOM(3,DU)	dievažeaba
+byt5	dievvat	V;POT;NOM(3,DU)	dievvažeaba
+
+ref		dievvat	V;POT;NOM(3,PL)	dievažit
+byt5	dievvat	V;POT;NOM(3,PL)	dievvažit
+
+ref		dievvat	V;PRS;IND;NOM(1,DU)	divve
+byt5	dievvat	V;PRS;IND;NOM(1,DU)	dievve
+
+ref		dievvat	V;PRS;IND;NOM(2,SG)	dievat
+byt5	dievvat	V;PRS;IND;NOM(2,SG)	dievvat
+
+ref		dievvat	V;PRS;IND;NOM(3,SG)	dievvá
+byt5	dievvat	V;PRS;IND;NOM(3,SG)	dievva
+
+ref		dievvat	V;PST;IND;NOM(1,PL)	dievaimet
+byt5	dievvat	V;PST;IND;NOM(1,PL)	divvaimet
+
+ref		dievvat	V;PST;IND;NOM(2,DU)	dievaide
+byt5	dievvat	V;PST;IND;NOM(2,DU)	divvaide
+
+ref		dievvat	V;PST;IND;NOM(2,PL)	dievaidet
+byt5	dievvat	V;PST;IND;NOM(2,PL)	divvaidet
+
+ref		dievvat	V;PST;IND;NOM(3,DU)	dievaiga
+byt5	dievvat	V;PST;IND;NOM(3,DU)	divveigga
+
+ref		dievvat	V;PST;IND;NOM(3,SG)	dievai
+byt5	dievvat	V;PST;IND;NOM(3,SG)	dievvai
+
+ref		dorvvastit	V;COND;NOM(3,PL)	dorvvastivčče
+byt5	dorvvastit	V;COND;NOM(3,PL)	dorvvastivččiiguin
+
+ref		dorvvastit	V;COND;NOM(3,SG)	dorvvastivččii
+byt5	dorvvastit	V;COND;NOM(3,SG)	dorvvastivčče
+
+ref		dorvvastit	V;IMP;NOM(2,SG)	dorvvas
+byt5	dorvvastit	V;IMP;NOM(2,SG)	dorvvaste
+
+ref		dorvvastit	V;IMP;NOM(3,DU)	dorvvastehkoska
+byt5	dorvvastit	V;IMP;NOM(3,DU)	dorvvastoska
+
+ref		dorvvastit	V;IMP;NOM(3,PL)	dorvvastehkoset
+byt5	dorvvastit	V;IMP;NOM(3,PL)	dorvvastoset
+
+ref		dorvvastit	V;IMP;NOM(3,SG)	dorvvastehkos
+byt5	dorvvastit	V;IMP;NOM(3,SG)	dorvvastos
+
+ref		dorvvastit	V;POT;NOM(1,DU)	dorvvastežže
+byt5	dorvvastit	V;POT;NOM(1,DU)	dorvvastežetne
+
+ref		dorvvastit	V;POT;NOM(1,SG)	dorvvasteaččan
+byt5	dorvvastit	V;POT;NOM(1,SG)	dorvvastežan
+
+ref		dorvvastit	V;POT;NOM(3,PL)	dorvvastežžet
+byt5	dorvvastit	V;POT;NOM(3,PL)	dorvvastežit
+
+ref		dorvvastit	V;POT;NOM(3,SG)	dorvvasteš
+byt5	dorvvastit	V;POT;NOM(3,SG)	dorvvasteža
+
+ref		dorvvastit	V;PRS;IND;NOM(1,DU)	dorvvastetne
+byt5	dorvvastit	V;PRS;IND;NOM(1,DU)	dorvvaste
+
+ref		dorvvastit	V;PRS;IND;NOM(1,SG)	dorvvastan
+byt5	dorvvastit	V;PRS;IND;NOM(1,SG)	dorvvasten
+
+ref		dorvvastit	V;PST;IND;NOM(2,SG)	dorvvastit
+byt5	dorvvastit	V;PST;IND;NOM(2,SG)	dorvvastet
+
+ref		dorvvastit	V;PST;IND;NOM(3,SG)	dorvvastii
+byt5	dorvvastit	V;PST;IND;NOM(3,SG)	dorvvaste
+
+ref		dápmat	V;IMP;NOM(2,DU)	dábmi
+byt5	dápmat	V;IMP;NOM(2,DU)	dápmi
+
+ref		dápmat	V;PRS;IND;NOM(3,SG)	dápmá
+byt5	dápmat	V;PRS;IND;NOM(3,SG)	dápma
+
+ref		dápmat	V;PST;IND;NOM(1,SG)	dápmen
+byt5	dápmat	V;PST;IND;NOM(1,SG)	dápman
+
+ref		fuoikit	V;IMP;NOM(1,DU)	fuoiku
+byt5	fuoikit	V;IMP;NOM(1,DU)	fuiku
+
+ref		fuoikit	V;IMP;NOM(2,DU)	fuoiki
+byt5	fuoikit	V;IMP;NOM(2,DU)	fuiki
+
+ref		fuoikit	V;IMP;NOM(2,SG)	fuoikke
+byt5	fuoikit	V;IMP;NOM(2,SG)	fuike
+
+ref		fuoikit	V;PRS;IND;NOM(2,PL)	fuoikibehtet
+byt5	fuoikit	V;PRS;IND;NOM(2,PL)	fuoikehpet
+
+ref		fuoikit	V;PST;IND;NOM(1,SG)	fuiken
+byt5	fuoikit	V;PST;IND;NOM(1,SG)	fuikkin
+
+ref		fuoikit	V;PST;IND;NOM(2,SG)	fuiket
+byt5	fuoikit	V;PST;IND;NOM(2,SG)	fuikkit
+------------------------
+ref		guoggát	V;COND;LGSPEC1;NOM(1,DU)	guoggáleimme
+byt5	guoggát	V;COND;LGSPEC1;NOM(1,DU)	guokkáleimme
+
+ref		guoggát	V;COND;LGSPEC1;NOM(2,SG)	guoggálit
+byt5	guoggát	V;COND;LGSPEC1;NOM(2,SG)	guokkálit
+
+ref		guoggát	V;POT;NOM(2,SG)	guoggážat
+byt5	guoggát	V;POT;NOM(2,SG)	gukkážat
+
+ref		guoggát	V;PST;IND;NOM(1,DU)	guoggáime
+byt5	guoggát	V;PST;IND;NOM(1,DU)	gukkáime
+
+ref		guoggát	V;PST;IND;NOM(2,DU)	guoggáide
+byt5	guoggát	V;PST;IND;NOM(2,DU)	gukkáide
+
+ref		guoggát	V;PST;IND;NOM(2,SG)	guoggájit
+byt5	guoggát	V;PST;IND;NOM(2,SG)	gukkájit
+
+ref		guoggát	V;PST;IND;NOM(3,PL)	guoggájedje
+byt5	guoggát	V;PST;IND;NOM(3,PL)	gukkájedje
+
+ref		guolástit	V;COND;NOM(3,SG)	guolástivččii
+byt5	guolástit	V;COND;NOM(3,SG)	guolástivčče
+
+ref		guolástit	V;IMP;NOM(1,DU)	guolásteadnu
+byt5	guolástit	V;IMP;NOM(1,DU)	guolástu
+
+ref		guolástit	V;IMP;NOM(2,DU)	guolásteahkki
+byt5	guolástit	V;IMP;NOM(2,DU)	guolásti
+
+ref		guolástit	V;IMP;NOM(2,SG)	guolás
+byt5	guolástit	V;IMP;NOM(2,SG)	guoláste
+
+ref		guolástit	V;IMP;NOM(3,DU)	guolástehkoska
+byt5	guolástit	V;IMP;NOM(3,DU)	guolástoska
+
+ref		guolástit	V;IMP;NOM(3,SG)	guolástehkos
+byt5	guolástit	V;IMP;NOM(3,SG)	guolástos
+
+ref		guolástit	V;POT;NOM(1,DU)	guolástežže
+byt5	guolástit	V;POT;NOM(1,DU)	guolásteažžabeahtti
+
+ref		guolástit	V;POT;NOM(3,PL)	guolástežžet
+byt5	guolástit	V;POT;NOM(3,PL)	guolásteažžat
+
+ref		guolástit	V;POT;NOM(3,SG)	guolásteš
+byt5	guolástit	V;POT;NOM(3,SG)	guolásteažža
+
+ref		guolástit	V;PRS;IND;NOM(1,DU)	guolástetne
+byt5	guolástit	V;PRS;IND;NOM(1,DU)	guoláste
+
+ref		guolástit	V;PRS;IND;NOM(1,SG)	guolástan
+byt5	guolástit	V;PRS;IND;NOM(1,SG)	guolásten
+
+ref		guolástit	V;PRS;IND;NOM(2,SG)	guolástat
+byt5	guolástit	V;PRS;IND;NOM(2,SG)	guolástát
+
+ref		guolástit	V;PRS;IND;NOM(3,PL)	guolástit
+byt5	guolástit	V;PRS;IND;NOM(3,PL)	guolástet
+
+ref		guolástit	V;PST;IND;NOM(1,SG)	guolástin
+byt5	guolástit	V;PST;IND;NOM(1,SG)	guolásten
+
+ref		guolástit	V;PST;IND;NOM(2,SG)	guolástit
+byt5	guolástit	V;PST;IND;NOM(2,SG)	guolástet
+
+ref		guolástit	V;PST;IND;NOM(3,SG)	guolástii
+byt5	guolástit	V;PST;IND;NOM(3,SG)	guolástei
+
+ref		gáisi	N;GEN(PL)	gáissiid
+byt5	gáisi	N;GEN(PL)	gáisiid
+
+ref		gáisi	N;GEN(SG)	gáissi
+byt5	gáisi	N;GEN(SG)	gáisi
+
+ref		gáisi	N;IN+ALL(SG)	gáisái
+byt5	gáisi	N;IN+ALL(SG)	gáisii
+
+ref		gáisi	N;NOM(PL)	gáissit
+byt5	gáisi	N;NOM(PL)	gáisit
+
+ref		gávrut	V;COND;NOM(2,DU)	gávrrošeidde
+byt5	gávrut	V;COND;NOM(2,DU)	gávrošeidde
+
+ref		gávrut	V;IMP;NOM(2,SG)	gávrro
+byt5	gávrut	V;IMP;NOM(2,SG)	gávru
+
+ref		gávrut	V;PRS;IND;NOM(1,SG)	gávrrun
+byt5	gávrut	V;PRS;IND;NOM(1,SG)	gávrun
+
+ref		gávrut	V;PRS;IND;NOM(2,SG)	gávrrut
+byt5	gávrut	V;PRS;IND;NOM(2,SG)	gávrut
+
+ref		gávrut	V;PRS;IND;NOM(3,PL)	gávrot
+byt5	gávrut	V;PRS;IND;NOM(3,PL)	gávrut
+
+ref		gávrut	V;PST;IND;NOM(1,DU)	gávrruime
+byt5	gávrut	V;PST;IND;NOM(1,DU)	gávruime
+
+ref		gávrut	V;PST;IND;NOM(1,PL)	gávrruimet
+byt5	gávrut	V;PST;IND;NOM(1,PL)	gávruimet
+
+ref		gávrut	V;PST;IND;NOM(2,DU)	gávrruide
+byt5	gávrut	V;PST;IND;NOM(2,DU)	gávruide
+
+ref		gávrut	V;PST;IND;NOM(2,SG)	gávrot
+byt5	gávrut	V;PST;IND;NOM(2,SG)	gávrut
+
+ref		gávrut	V;PST;IND;NOM(3,DU)	gávrruiga
+byt5	gávrut	V;PST;IND;NOM(3,DU)	gávruiga
+
+ref		gávrut	V;PST;IND;NOM(3,PL)	gávro
+byt5	gávrut	V;PST;IND;NOM(3,PL)	gávruje
+------------------------
+ref		jorbbas	ADJ;ACC(PL)	jorbasiid
+byt5	jorbbas	ADJ;ACC(PL)	jorbbasiid
+
+ref		jorbbas	ADJ;ACC(SG)	jorbasa
+byt5	jorbbas	ADJ;ACC(SG)	jorbbasa
+
+ref		jorbbas	ADJ;COM(PL)	jorbasiiguin
+byt5	jorbbas	ADJ;COM(PL)	jorbbasiiguin
+
+ref		jorbbas	ADJ;COM(SG)	jorbasiin
+byt5	jorbbas	ADJ;COM(SG)	jorbbasiin
+
+ref		jorbbas	ADJ;GEN(PL)	jorbasiid
+byt5	jorbbas	ADJ;GEN(PL)	jorbbasiid
+
+ref		jorbbas	ADJ;GEN(SG)	jorbasa
+byt5	jorbbas	ADJ;GEN(SG)	jorbbasa
+
+ref		jorbbas	ADJ;IN+ALL(PL)	jorbasiidda
+byt5	jorbbas	ADJ;IN+ALL(PL)	jorbbasiidda
+
+ref		jorbbas	ADJ;IN+ALL(SG)	jorbasii
+byt5	jorbbas	ADJ;IN+ALL(SG)	jorbbasii
+
+ref		jorbbas	ADJ;NOM(PL)	jorbasat
+byt5	jorbbas	ADJ;NOM(PL)	jorbbasat
+
+ref		jorbbas	ADJ;PRP(PL)	jorbasiin
+byt5	jorbbas	ADJ;PRP(PL)	jorbbasiin
+
+ref		jorbbas	ADJ;PRP(SG)	jorbasis
+byt5	jorbbas	ADJ;PRP(SG)	jorbbasis
+
+ref		lasta	N;IN+ALL(SG)	lastii
+byt5	lasta	N;IN+ALL(SG)	lasttii
+
+ref		loahppat	V;PRS;IND;NOM(1,DU)	lohppe
+byt5	loahppat	V;PRS;IND;NOM(1,DU)	loahppe
+
+ref		loahppat	V;PRS;IND;NOM(3,PL)	lohppet
+byt5	loahppat	V;PRS;IND;NOM(3,PL)	loahppet
+
+ref		loahppat	V;PRS;IND;NOM(3,SG)	loahppá
+byt5	loahppat	V;PRS;IND;NOM(3,SG)	loahppa
+
+ref		loahppat	V;PST;IND;NOM(1,SG)	lohppen
+byt5	loahppat	V;PST;IND;NOM(1,SG)	loahpan
+
+ref		loahppat	V;PST;IND;NOM(2,SG)	lohppet
+byt5	loahppat	V;PST;IND;NOM(2,SG)	loahpat
+
+ref		lákca	N;IN+ALL(SG)	lákcii
+byt5	lákca	N;IN+ALL(SG)	lávccii
+------------------------
+ref		russat	V;COND;LGSPEC1;NOM(1,DU)	rusaleimme
+byt5	russat	V;COND;LGSPEC1;NOM(1,DU)	russaleimme
+
+ref		russat	V;COND;LGSPEC1;NOM(1,PL)	rusaleimmet
+byt5	russat	V;COND;LGSPEC1;NOM(1,PL)	russaleimmet
+
+ref		russat	V;COND;LGSPEC1;NOM(2,DU)	rusaleidde
+byt5	russat	V;COND;LGSPEC1;NOM(2,DU)	russaleidde
+
+ref		russat	V;COND;LGSPEC1;NOM(2,SG)	rusalit
+byt5	russat	V;COND;LGSPEC1;NOM(2,SG)	russalit
+
+ref		russat	V;COND;LGSPEC1;NOM(3,SG)	rusalii
+byt5	russat	V;COND;LGSPEC1;NOM(3,SG)	russalii
+
+ref		russat	V;COND;NOM(1,DU)	rusašeimme
+byt5	russat	V;COND;NOM(1,DU)	russašeimme
+
+ref		russat	V;COND;NOM(1,PL)	rusašeimmet
+byt5	russat	V;COND;NOM(1,PL)	russašeimmet
+
+ref		russat	V;COND;NOM(1,SG)	rusašin
+byt5	russat	V;COND;NOM(1,SG)	russašin
+
+ref		russat	V;COND;NOM(2,PL)	rusašeiddet
+byt5	russat	V;COND;NOM(2,PL)	russašeiddet
+
+ref		russat	V;COND;NOM(2,SG)	rusašit
+byt5	russat	V;COND;NOM(2,SG)	russašit
+
+ref		russat	V;COND;NOM(3,SG)	rusašii
+byt5	russat	V;COND;NOM(3,SG)	russašii
+
+ref		russat	V;IMP;NOM(2,SG)	rusa
+byt5	russat	V;IMP;NOM(2,SG)	russe
+
+ref		russat	V;POT;NOM(1,DU)	rusažetne
+byt5	russat	V;POT;NOM(1,DU)	russažetne
+
+ref		russat	V;POT;NOM(1,PL)	rusažit
+byt5	russat	V;POT;NOM(1,PL)	russažit
+
+ref		russat	V;POT;NOM(3,DU)	rusažeaba
+byt5	russat	V;POT;NOM(3,DU)	russažeaba
+
+ref		russat	V;PRS;IND;NOM(1,SG)	rusan
+byt5	russat	V;PRS;IND;NOM(1,SG)	russan
+
+ref		russat	V;PRS;IND;NOM(2,SG)	rusat
+byt5	russat	V;PRS;IND;NOM(2,SG)	russat
+
+ref		russat	V;PST;IND;NOM(1,DU)	rusaime
+byt5	russat	V;PST;IND;NOM(1,DU)	russeimme
+
+ref		russat	V;PST;IND;NOM(1,PL)	rusaimet
+byt5	russat	V;PST;IND;NOM(1,PL)	russeimmet
+
+ref		russat	V;PST;IND;NOM(2,DU)	rusaide
+byt5	russat	V;PST;IND;NOM(2,DU)	russaide
+
+ref		russat	V;PST;IND;NOM(2,PL)	rusaidet
+byt5	russat	V;PST;IND;NOM(2,PL)	russaidet
+
+ref		russat	V;PST;IND;NOM(3,SG)	rusai
+byt5	russat	V;PST;IND;NOM(3,SG)	russai
+
+ref		skeaikit	V;IMP;NOM(1,PL)	skeikot
+byt5	skeaikit	V;IMP;NOM(1,PL)	skeaikot
+
+ref		skeaikit	V;IMP;NOM(2,DU)	skeaiki
+byt5	skeaikit	V;IMP;NOM(2,DU)	skeaikki
+
+ref		skeaikit	V;IMP;NOM(2,SG)	skeaikke
+byt5	skeaikit	V;IMP;NOM(2,SG)	skeike
+
+ref		skeaikit	V;POT;NOM(1,DU)	skeikkežetne
+byt5	skeaikit	V;POT;NOM(1,DU)	skeaikkežetne
+
+ref		skeaikit	V;POT;NOM(1,PL)	skeikkežit
+byt5	skeaikit	V;POT;NOM(1,PL)	skeaikkežit
+
+ref		skeaikit	V;POT;NOM(1,SG)	skeikkežan
+byt5	skeaikit	V;POT;NOM(1,SG)	skeaikežan
+
+ref		skeaikit	V;POT;NOM(2,DU)	skeikkežeahppi
+byt5	skeaikit	V;POT;NOM(2,DU)	skeaikkežeahppi
+
+ref		skeaikit	V;POT;NOM(2,PL)	skeikkežehpet
+byt5	skeaikit	V;POT;NOM(2,PL)	skeaikkežehpet
+
+ref		skeaikit	V;POT;NOM(2,SG)	skeikkežat
+byt5	skeaikit	V;POT;NOM(2,SG)	skeaiggežat
+
+ref		skeaikit	V;POT;NOM(3,DU)	skeikkežeaba
+byt5	skeaikit	V;POT;NOM(3,DU)	skeaikkežeaba
+
+ref		skeaikit	V;POT;NOM(3,PL)	skeikkežit
+byt5	skeaikit	V;POT;NOM(3,PL)	skeaikkežit
+
+ref		skeaikit	V;POT;NOM(3,SG)	skeikkeža
+byt5	skeaikit	V;POT;NOM(3,SG)	skeaikeža
+
+ref		skeaikit	V;PRS;IND;NOM(2,DU)	skeaikibeahtti
+byt5	skeaikit	V;PRS;IND;NOM(2,DU)	skeaikeahppi
+
+ref		skeaikit	V;PRS;IND;NOM(2,PL)	skeaikibehtet
+byt5	skeaikit	V;PRS;IND;NOM(2,PL)	skeaikehpet
+
+ref		skeaikit	V;PRS;IND;NOM(3,PL)	skeiket
+byt5	skeaikit	V;PRS;IND;NOM(3,PL)	skeaiket
+
+ref		skeaikit	V;PST;IND;NOM(2,DU)	skeikkiide
+byt5	skeaikit	V;PST;IND;NOM(2,DU)	skeaikkiide
+
+ref		skeaikit	V;PST;IND;NOM(2,PL)	skeikkiidet
+byt5	skeaikit	V;PST;IND;NOM(2,PL)	skeikeiddet
+
+ref		stoarbma	N;IN+ALL(SG)	storbmii
+byt5	stoarbma	N;IN+ALL(SG)	stoarbmii
+------------------------
+ref		stuorát	ADJ;ACC(PL)	stuorábuid
+byt5	stuorát	ADJ;ACC(PL)	stuorádiid
+
+ref		stuorát	ADJ;ACC(SG)	stuorábu
+byt5	stuorát	ADJ;ACC(SG)	stuoráda
+
+ref		stuorát	ADJ;COM(PL)	stuorábuiguin
+byt5	stuorát	ADJ;COM(PL)	stuorádiiguin
+
+ref		stuorát	ADJ;COM(SG)	stuorábuin
+byt5	stuorát	ADJ;COM(SG)	stuorádiin
+
+ref		stuorát	ADJ;FRML(SG)	stuorábun
+byt5	stuorát	ADJ;FRML(SG)	stuorádin
+
+ref		stuorát	ADJ;IN+ALL(PL)	stuorábuidda
+byt5	stuorát	ADJ;IN+ALL(PL)	stuorádiidda
+
+ref		stuorát	ADJ;IN+ALL(SG)	stuorábui
+byt5	stuorát	ADJ;IN+ALL(SG)	stuorádii
+
+ref		stuorát	ADJ;NOM(PL)	stuorábut
+byt5	stuorát	ADJ;NOM(PL)	stuorádat
+
+ref		stuorát	ADJ;PRP(PL)	stuorábuin
+byt5	stuorát	ADJ;PRP(PL)	stuorádiin
+
+ref		stuorát	ADJ;PRP(SG)	stuorábus
+byt5	stuorát	ADJ;PRP(SG)	stuorádis
+------------------------
+ref		sávvat	V;COND;LGSPEC1;NOM(1,DU)	sávaleimme
+byt5	sávvat	V;COND;LGSPEC1;NOM(1,DU)	sávvaleimme
+
+ref		sávvat	V;COND;LGSPEC1;NOM(1,PL)	sávaleimmet
+byt5	sávvat	V;COND;LGSPEC1;NOM(1,PL)	sávvaleimmet
+
+ref		sávvat	V;COND;LGSPEC1;NOM(1,SG)	sávalin
+byt5	sávvat	V;COND;LGSPEC1;NOM(1,SG)	sávvalin
+
+ref		sávvat	V;COND;LGSPEC1;NOM(2,SG)	sávalit
+byt5	sávvat	V;COND;LGSPEC1;NOM(2,SG)	sávvalit
+
+ref		sávvat	V;COND;LGSPEC1;NOM(3,DU)	sávaleigga
+byt5	sávvat	V;COND;LGSPEC1;NOM(3,DU)	sávvaleigga
+
+ref		sávvat	V;COND;NOM(1,PL)	sávašeimmet
+byt5	sávvat	V;COND;NOM(1,PL)	sávvašeimmet
+
+ref		sávvat	V;COND;NOM(2,DU)	sávašeidde
+byt5	sávvat	V;COND;NOM(2,DU)	sávvašeidde
+
+ref		sávvat	V;COND;NOM(2,PL)	sávašeiddet
+byt5	sávvat	V;COND;NOM(2,PL)	sávvašeiddet
+
+ref		sávvat	V;COND;NOM(2,SG)	sávašit
+byt5	sávvat	V;COND;NOM(2,SG)	sávvašit
+
+ref		sávvat	V;COND;NOM(3,PL)	sávaše
+byt5	sávvat	V;COND;NOM(3,PL)	sávvaše
+
+ref		sávvat	V;COND;NOM(3,SG)	sávašii
+byt5	sávvat	V;COND;NOM(3,SG)	sávvašii
+
+ref		sávvat	V;IMP;NOM(2,DU)	sáv'vi
+byt5	sávvat	V;IMP;NOM(2,DU)	sávvi
+
+ref		sávvat	V;IMP;NOM(2,SG)	sáva
+byt5	sávvat	V;IMP;NOM(2,SG)	sávve
+
+ref		sávvat	V;POT;NOM(1,PL)	sávažit
+byt5	sávvat	V;POT;NOM(1,PL)	sávvažit
+
+ref		sávvat	V;POT;NOM(1,SG)	sávažan
+byt5	sávvat	V;POT;NOM(1,SG)	sávvažan
+
+ref		sávvat	V;POT;NOM(2,SG)	sávažat
+byt5	sávvat	V;POT;NOM(2,SG)	sávvažat
+
+ref		sávvat	V;POT;NOM(3,PL)	sávažit
+byt5	sávvat	V;POT;NOM(3,PL)	sávvažit
+
+ref		sávvat	V;PRS;IND;NOM(1,SG)	sávan
+byt5	sávvat	V;PRS;IND;NOM(1,SG)	sávvan
+
+ref		sávvat	V;PRS;IND;NOM(2,SG)	sávat
+byt5	sávvat	V;PRS;IND;NOM(2,SG)	sávvat
+
+ref		sávvat	V;PST;IND;NOM(2,PL)	sávaidet
+byt5	sávvat	V;PST;IND;NOM(2,PL)	sávvaidet
+
+ref		višuvdna	N;FRML(SG)	višuvdnan
+byt5	višuvdna	N;FRML(SG)	višuvnnan
+
+ref		višuvdna	N;IN+ALL(SG)	višuvdnii
+byt5	višuvdna	N;IN+ALL(SG)	višuvnnii
+
+ref		árgi	ADJ;IN+ALL(SG)	árgái
+byt5	árgi	ADJ;IN+ALL(SG)	árggii
+
+ref		čierrut	V;IMP;NOM(1,DU)	čier'ru
+byt5	čierrut	V;IMP;NOM(1,DU)	čierru
+
+ref		čierrut	V;IMP;NOM(1,PL)	čirrot
+byt5	čierrut	V;IMP;NOM(1,PL)	čierrot
+
+ref		čierrut	V;IMP;NOM(1,SG)	čirron
+byt5	čierrut	V;IMP;NOM(1,SG)	čierron
+
+ref		čierrut	V;IMP;NOM(2,DU)	čier'ru
+byt5	čierrut	V;IMP;NOM(2,DU)	čierru
+
+ref		čierrut	V;IMP;NOM(2,PL)	čirrot
+byt5	čierrut	V;IMP;NOM(2,PL)	čierret
+
+ref		čierrut	V;IMP;NOM(2,SG)	čiero
+byt5	čierrut	V;IMP;NOM(2,SG)	čierru
+
+ref		čierrut	V;IMP;NOM(3,DU)	čirroska
+byt5	čierrut	V;IMP;NOM(3,DU)	čierroska
+
+ref		čierrut	V;POT;NOM(2,DU)	čirožeahppi
+byt5	čierrut	V;POT;NOM(2,DU)	čirrožeahppi
+
+ref		čierrut	V;POT;NOM(2,PL)	čirožehpet
+byt5	čierrut	V;POT;NOM(2,PL)	čirrožehpet
+
+ref		čierrut	V;POT;NOM(2,SG)	čirožat
+byt5	čierrut	V;POT;NOM(2,SG)	čirrožat
+
+ref		čierrut	V;POT;NOM(3,DU)	čirožeaba
+byt5	čierrut	V;POT;NOM(3,DU)	čirrožeaba
+
+ref		čierrut	V;PRS;IND;NOM(1,DU)	čirro
+byt5	čierrut	V;PRS;IND;NOM(1,DU)	čierru
+
+ref		čierrut	V;PRS;IND;NOM(3,PL)	čirrot
+byt5	čierrut	V;PRS;IND;NOM(3,PL)	čierrut
+
+ref		čierrut	V;PST;IND;NOM(1,SG)	čirron
+byt5	čierrut	V;PST;IND;NOM(1,SG)	čirrun
+
+ref		čierrut	V;PST;IND;NOM(2,SG)	čirrot
+byt5	čierrut	V;PST;IND;NOM(2,SG)	čirrut
+
+ref		čábbáseamos	ADJ;FRML(SG)	čábbáseamosin
+byt5	čábbáseamos	ADJ;FRML(SG)	čábbásepmosin

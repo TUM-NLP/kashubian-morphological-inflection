@@ -1,0 +1,294 @@
+
+ref		abstrákta	ADJ;COM(PL)	abstrávttaiguin
+mono	abstrákta	ADJ;COM(PL)	abstráktaiguin
+mul2	abstrákta	ADJ;COM(PL)	abstráktaiguin
+neural	abstrákta	ADJ;COM(PL)	abstrábuiguin
+
+ref		abstrákta	ADJ;GEN(PL)	abstrávttaid
+mono	abstrákta	ADJ;GEN(PL)	abstráktaid
+mul2	abstrákta	ADJ;GEN(PL)	abstráktaid
+neural	abstrákta	ADJ;GEN(PL)	abstrábuid
+
+ref		abstrákta	ADJ;GEN(SG)	abstrávtta
+mono	abstrákta	ADJ;GEN(SG)	abstrákta
+mul2	abstrákta	ADJ;GEN(SG)	abstrákta
+neural	abstrákta	ADJ;GEN(SG)	abstrábu
+
+error rate abstrákta:0.23076923076923078
+
+
+ref		amas	ADJ;ACC(PL)	apmasiid
+mono	amas	ADJ;ACC(PL)	amasiid
+mul		amas	ADJ;ACC(PL)	amasiid
+mul2	amas	ADJ;ACC(PL)	amasy
+neural	amas	ADJ;ACC(PL)	amasiid
+
+ref		amas	ADJ;GEN(PL)	apmasiid
+mono	amas	ADJ;GEN(PL)	amasiid
+mul		amas	ADJ;GEN(PL)	amasiid
+mul2	amas	ADJ;GEN(PL)	amasów
+neural	amas	ADJ;GEN(PL)	amasiid
+
+ref		amas	ADJ;NOM(PL)	apmasat
+mono	amas	ADJ;NOM(PL)	amasat
+mul		amas	ADJ;NOM(PL)	amasat
+mul2	amas	ADJ;NOM(PL)	amasy
+neural	amas	ADJ;NOM(PL)	amasat
+
+error rate amas:0.23076923076923078
+
+
+
+
+ref		báistit	V;PST;IND;NOM(1,DU)	báisttiime
+mono	báistit	V;PST;IND;NOM(1,DU)	báisteimme
+mul2	báistit	V;PST;IND;NOM(1,DU)	báisteimme
+neural	báistit	V;PST;IND;NOM(1,DU)	báisteimme
+
+error rate báistit:0.03125
+
+ref		bálgán	N;ACC(PL)	bálgáidan
+mono	bálgán	N;ACC(PL)	bálgámiid
+mul		bálgán	N;ACC(PL)	bálgániid
+mul2	bálgán	N;ACC(PL)	bálgájiid
+neural	bálgán	N;ACC(PL)	bálgámiid
+
+ref		bálgán	N;COM(PL)	bálgáidanguin
+mono	bálgán	N;COM(PL)	bálgášiiguin
+mul		bálgán	N;COM(PL)	bálgániiguin
+mul2	bálgán	N;COM(PL)	bálgájiiguin
+neural	bálgán	N;COM(PL)	bálgámiiguin
+
+ref		bálgán	N;GEN(PL)	bálgáidan
+mono	bálgán	N;GEN(PL)	bálgámiid
+mul		bálgán	N;GEN(PL)	bálgániid
+mul2	bálgán	N;GEN(PL)	bálgájiid
+neural	bálgán	N;GEN(PL)	bálgámiid
+
+ref		bálgán	N;IN+ALL(SG)	bálgásan
+mono	bálgán	N;IN+ALL(SG)	bálgái
+mul		bálgán	N;IN+ALL(SG)	bálgánii
+mul2	bálgán	N;IN+ALL(SG)	bálgájii
+neural	bálgán	N;IN+ALL(SG)	bálgámii
+
+error rate bálgán:0.3333333333333333
+
+
+
+
+
+
+
+
+
+ref		dorvvolaččat	ADJ;ACC(PL)	dorvvolaččabuid
+mono	dorvvolaččat	ADJ;ACC(PL)	dorvvolaččadiid
+mul		dorvvolaččat	ADJ;ACC(PL)	dorvvolaččadiid
+mul2	dorvvolaččat	ADJ;ACC(PL)	dorvvolačadiid
+neural	dorvvolaččat	ADJ;ACC(PL)	dorvvolaččaid
+
+ref		dorvvolaččat	ADJ;COM(PL)	dorvvolaččabuiguin
+mono	dorvvolaččat	ADJ;COM(PL)	dorvvolaččadiiguin
+mul		dorvvolaččat	ADJ;COM(PL)	dorvvolaččadiiguin
+mul2	dorvvolaččat	ADJ;COM(PL)	dorvvolačadiiguin
+neural	dorvvolaččat	ADJ;COM(PL)	dorvvolaččaiguin
+
+ref		dorvvolaččat	ADJ;COM(SG)	dorvvolaččabuin
+mono	dorvvolaččat	ADJ;COM(SG)	dorvvolaččadiin
+mul		dorvvolaččat	ADJ;COM(SG)	dorvvolaččadiin
+mul2	dorvvolaččat	ADJ;COM(SG)	dorvvolačadiin
+neural	dorvvolaččat	ADJ;COM(SG)	dorvvolaččain
+
+ref		dorvvolaččat	ADJ;GEN(PL)	dorvvolaččabuid
+mono	dorvvolaččat	ADJ;GEN(PL)	dorvvolaččadiid
+mul		dorvvolaččat	ADJ;GEN(PL)	dorvvolaččadiid
+mul2	dorvvolaččat	ADJ;GEN(PL)	dorvvolačadiid
+neural	dorvvolaččat	ADJ;GEN(PL)	dorvvolaččaid
+
+ref		dorvvolaččat	ADJ;GEN(SG)	dorvvolaččabu
+mono	dorvvolaččat	ADJ;GEN(SG)	dorvvolaččaba
+mul		dorvvolaččat	ADJ;GEN(SG)	dorvvolaččada
+mul2	dorvvolaččat	ADJ;GEN(SG)	dorvvolačada
+neural	dorvvolaččat	ADJ;GEN(SG)	dorvvolačča
+
+ref		dorvvolaččat	ADJ;PRP(SG)	dorvvolaččabus
+mono	dorvvolaččat	ADJ;PRP(SG)	dorvvolaččadis
+mul		dorvvolaččat	ADJ;PRP(SG)	dorvvolaččadis
+mul2	dorvvolaččat	ADJ;PRP(SG)	dorvvolaččasis
+neural	dorvvolaččat	ADJ;PRP(SG)	dorvvolaččas
+
+error rate dorvvolaččat:0.46153846153846156
+
+
+
+ref		geahppán	N;ACC(PL)	geahppáidan
+mono	geahppán	N;ACC(PL)	geahppámiid
+mul		geahppán	N;ACC(PL)	geahpájiid
+mul2	geahppán	N;ACC(PL)	geahppájiid
+neural	geahppán	N;ACC(PL)	geahppámiid
+
+ref		geahppán	N;COM(PL)	geahppáidanguin
+mono	geahppán	N;COM(PL)	geahppášiiguin
+mul		geahppán	N;COM(PL)	geahpámiiguin
+mul2	geahppán	N;COM(PL)	geahppájiiguin
+neural	geahppán	N;COM(PL)	geahppámiiguin
+
+ref		geahppán	N;COM(SG)	geahppáinan
+mono	geahppán	N;COM(SG)	geahppániin
+mul		geahppán	N;COM(SG)	geahpániin
+mul2	geahppán	N;COM(SG)	geahppájiin
+neural	geahppán	N;COM(SG)	geahppámiin
+
+ref		geahppán	N;FRML(SG)	geahpisinin
+mono	geahppán	N;FRML(SG)	geahppánin
+mul		geahppán	N;FRML(SG)	geahppánn
+mul2	geahppán	N;FRML(SG)	geahppánnin
+neural	geahppán	N;FRML(SG)	geahppánnan
+
+ref		geahppán	N;GEN(PL)	geahppáidan
+mono	geahppán	N;GEN(PL)	geahppámiid
+mul		geahppán	N;GEN(PL)	geahpájiid
+mul2	geahppán	N;GEN(PL)	geahppájiid
+neural	geahppán	N;GEN(PL)	geahppámiid
+
+ref		geahppán	N;IN+ALL(PL)	geahppáidasan
+mono	geahppán	N;IN+ALL(PL)	geahppáide
+mul		geahppán	N;IN+ALL(PL)	geahpáide
+mul2	geahppán	N;IN+ALL(PL)	geahppájiidda
+neural	geahppán	N;IN+ALL(PL)	geahppámiidda
+
+ref		geahppán	N;PRP(PL)	geahppáinan
+mono	geahppán	N;PRP(PL)	geahppániin
+mul		geahppán	N;PRP(PL)	geahppániin
+mul2	geahppán	N;PRP(PL)	geahppágiin
+neural	geahppán	N;PRP(PL)	geahppámiin
+
+error rate geahppán:0.5833333333333334
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ref		positiiva	ADJ;FRML(SG)	positiivan
+mono	positiiva	ADJ;FRML(SG)	positiivvan
+mul2	positiiva	ADJ;FRML(SG)	positiivvan
+neural	positiiva	ADJ;FRML(SG)	positivabun
+
+error rate positiiva:0.07692307692307693
+
+
+
+ref		ráhkis	ADJ;ACC(PL)	ráhkkásiid
+mono	ráhkis	ADJ;ACC(PL)	ráhkisiid
+mul		ráhkis	ADJ;ACC(PL)	ráhkisiid
+mul2	ráhkis	ADJ;ACC(PL)	ráhkáid
+neural	ráhkis	ADJ;ACC(PL)	ráhkáid
+
+ref		ráhkis	ADJ;ACC(SG)	ráhkkása
+mono	ráhkis	ADJ;ACC(SG)	ráhkis
+mul		ráhkis	ADJ;ACC(SG)	ráhkisa
+mul2	ráhkis	ADJ;ACC(SG)	ráhkás
+neural	ráhkis	ADJ;ACC(SG)	ráhká
+
+ref		ráhkis	ADJ;GEN(PL)	ráhkkásiid
+mono	ráhkis	ADJ;GEN(PL)	ráhkisiid
+mul		ráhkis	ADJ;GEN(PL)	rágáid
+mul2	ráhkis	ADJ;GEN(PL)	ráhkáid
+neural	ráhkis	ADJ;GEN(PL)	ráhkáid
+
+ref		ráhkis	ADJ;NOM(PL)	ráhkkásat
+mono	ráhkis	ADJ;NOM(PL)	ráhkisat
+mul		ráhkis	ADJ;NOM(PL)	ráhkisat
+mul2	ráhkis	ADJ;NOM(PL)	ráhkát
+neural	ráhkis	ADJ;NOM(PL)	ráhkát
+
+ref		ráhkis	ADJ;PRP(SG)	ráhkkásis
+mono	ráhkis	ADJ;PRP(SG)	ráhkissas
+mul		ráhkis	ADJ;PRP(SG)	ráhkásas
+mul2	ráhkis	ADJ;PRP(SG)	ráhkásis
+neural	ráhkis	ADJ;PRP(SG)	ráhkás
+
+error rate ráhkis:0.38461538461538464
+
+
+
+
+
+
+
+
+ref		čavgat	ADJ;FRML(SG)	čavgadin
+mono	čavgat	ADJ;FRML(SG)	čavggabun
+mul2	čavgat	ADJ;FRML(SG)	čavgabun
+neural	čavgat	ADJ;FRML(SG)	čavggabun
+
+error rate čavgat:0.07692307692307693
+
+
+ref		čuovgat	ADJ;COM(PL)	čuovgadiiguin
+mono	čuovgat	ADJ;COM(PL)	čuovggadiiguin
+mul		čuovgat	ADJ;COM(PL)	čuovggadiiguin
+mul2	čuovgat	ADJ;COM(PL)	čuovggabuiguin
+neural	čuovgat	ADJ;COM(PL)	čuovggabuiguin
+
+error rate čuovgat:0.07692307692307693
+
+
+ref		čáppat	ADJ;ACC(SG)	čábbá
+mono	čáppat	ADJ;ACC(SG)	čáppabu
+mul		čáppat	ADJ;ACC(SG)	čáppada
+mul2	čáppat	ADJ;ACC(SG)	čáppaga
+neural	čáppat	ADJ;ACC(SG)	čáppada
+
+ref		čáppat	ADJ;COM(PL)	čábbáiguin
+mono	čáppat	ADJ;COM(PL)	čáppagiiguin
+mul		čáppat	ADJ;COM(PL)	čápadiiguin
+mul2	čáppat	ADJ;COM(PL)	čápabuiguin
+neural	čáppat	ADJ;COM(PL)	čáppadiiguin
+
+ref		čáppat	ADJ;GEN(PL)	čábbáid
+mono	čáppat	ADJ;GEN(PL)	čáppabuid
+mul		čáppat	ADJ;GEN(PL)	čápadiid
+mul2	čáppat	ADJ;GEN(PL)	čápabuid
+neural	čáppat	ADJ;GEN(PL)	čáppadiid
+
+ref		čáppat	ADJ;GEN(SG)	čábbá
+mono	čáppat	ADJ;GEN(SG)	čáppaba
+mul		čáppat	ADJ;GEN(SG)	čápada
+mul2	čáppat	ADJ;GEN(SG)	čápaga
+neural	čáppat	ADJ;GEN(SG)	čáppada
+
+ref		čáppat	ADJ;IN+ALL(PL)	čábbáide
+mono	čáppat	ADJ;IN+ALL(PL)	čáppadiidda
+mul		čáppat	ADJ;IN+ALL(PL)	čápadiidda
+mul2	čáppat	ADJ;IN+ALL(PL)	čáppabuidda
+neural	čáppat	ADJ;IN+ALL(PL)	čáppadiidda
+
+ref		čáppat	ADJ;NOM(PL)	čábbát
+mono	čáppat	ADJ;NOM(PL)	čáppabut
+mul		čáppat	ADJ;NOM(PL)	čáppabat
+mul2	čáppat	ADJ;NOM(PL)	čáppagat
+neural	čáppat	ADJ;NOM(PL)	čáppadat
+
+ref		čáppat	ADJ;PRP(PL)	čábbáin
+mono	čáppat	ADJ;PRP(PL)	čáppabuin
+mul		čáppat	ADJ;PRP(PL)	čápadiin
+mul2	čáppat	ADJ;PRP(PL)	čápagiin
+neural	čáppat	ADJ;PRP(PL)	čáppadiin
+
+ref		čáppat	ADJ;PRP(SG)	čábbás
+mono	čáppat	ADJ;PRP(SG)	čáppas
+mul		čáppat	ADJ;PRP(SG)	čápadis
+mul2	čáppat	ADJ;PRP(SG)	čáppas
+neural	čáppat	ADJ;PRP(SG)	čáppadis
+

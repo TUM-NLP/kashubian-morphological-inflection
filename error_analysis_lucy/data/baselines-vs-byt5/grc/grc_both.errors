@@ -1,0 +1,1040 @@
+
+ref		Βισάλτης	N;GEN(PL)	Βῐσᾰλτῶν
+byt5	Βισάλτης	N;GEN(PL)	Βῐσᾰ́λτων
+neural	Βισάλτης	N;GEN(PL)	Βασαλτῶν
+
+ref		Βισάλτης	N;VOC(SG)	Βῐσᾰ́λτᾰ
+byt5	Βισάλτης	N;VOC(SG)	Βῐσᾰ́λτη
+neural	Βισάλτης	N;VOC(SG)	Βασάλτᾰ
+
+ref		αἴγιλος	N;ACC(SG)	αἴγῐλον
+byt5	αἴγιλος	N;ACC(SG)	αἴγιλον
+neural	αἴγιλος	N;ACC(SG)	αἴγιλον
+
+ref		αἴγιλος	N;DAT(PL)	αἰγῐ́λοις
+byt5	αἴγιλος	N;DAT(PL)	αἰγῑ́λοις
+neural	αἴγιλος	N;DAT(PL)	αἰγᾰ́λοις
+
+ref		αἴγιλος	N;NOM(PL)	αἴγῐλοι
+byt5	αἴγιλος	N;NOM(PL)	αἴγιλοι
+neural	αἴγιλος	N;NOM(PL)	αἴγιλοι
+
+ref		αἴγιλος	N;NOM(SG)	αἴγῐλος
+byt5	αἴγιλος	N;NOM(SG)	αἴγιλος
+neural	αἴγιλος	N;NOM(SG)	αἴγιλος
+
+ref		αἴγιλος	N;VOC(PL)	αἴγῐλοι
+byt5	αἴγιλος	N;VOC(PL)	αἴγιλοι
+neural	αἴγιλος	N;VOC(PL)	αἴγιλοι
+
+ref		αἴγιλος	N;VOC(SG)	αἴγῐλε
+byt5	αἴγιλος	N;VOC(SG)	αἴγιλε
+neural	αἴγιλος	N;VOC(SG)	αἴγιλε
+
+ref		αὔρα	N;DAT(DU)	αὔραιν
+byt5	αὔρα	N;DAT(DU)	αὐραιν
+neural	αὔρα	N;DAT(DU)	αὐραῖν
+
+ref		αὔρα	N;DAT(PL)	αὔραις
+byt5	αὔρα	N;DAT(PL)	αὐραις
+neural	αὔρα	N;DAT(PL)	αὐραῖς
+
+ref		αὔρα	N;DAT(SG)	αὔρᾳ
+byt5	αὔρα	N;DAT(SG)	αὐρᾳ
+neural	αὔρα	N;DAT(SG)	αὐρᾳ
+
+ref		αὔρα	N;GEN(DU)	αὔραιν
+byt5	αὔρα	N;GEN(DU)	αὐραιν
+neural	αὔρα	N;GEN(DU)	αὐραῖν
+
+ref		αὔρα	N;GEN(SG)	αὔρᾱς
+byt5	αὔρα	N;GEN(SG)	αὐρᾱς
+neural	αὔρα	N;GEN(SG)	αὐρᾱ́ς
+
+ref		αὔρα	N;NOM(PL)	αὖραι
+byt5	αὔρα	N;NOM(PL)	αὔραι
+neural	αὔρα	N;NOM(PL)	αὔραι
+
+ref		αὔρα	N;VOC(PL)	αὖραι
+byt5	αὔρα	N;VOC(PL)	αὔραι
+neural	αὔρα	N;VOC(PL)	αὔραι
+------------------------
+ref		βραχύτης	N;ACC(DU)	βρᾰχῠ́τητε
+byt5	βραχύτης	N;ACC(DU)	βρᾰχῠ́τᾱ
+neural	βραχύτης	N;ACC(DU)	βρᾰχύτᾱ
+
+ref		βραχύτης	N;ACC(PL)	βρᾰχῠ́τητᾰς
+byt5	βραχύτης	N;ACC(PL)	βρᾰχῠ́τᾱς
+neural	βραχύτης	N;ACC(PL)	βρᾰχύτᾱς
+
+ref		βραχύτης	N;ACC(SG)	βρᾰχῠ́τητᾰ
+byt5	βραχύτης	N;ACC(SG)	βρᾰχῠ́την
+neural	βραχύτης	N;ACC(SG)	βρᾰχύτην
+
+ref		βραχύτης	N;DAT(DU)	βρᾰχῠτήτοιν
+byt5	βραχύτης	N;DAT(DU)	βραχύταιν
+neural	βραχύτης	N;DAT(DU)	βρᾰχύταιν
+
+ref		βραχύτης	N;DAT(PL)	βρᾰχῠ́τησῐ(ν)
+byt5	βραχύτης	N;DAT(PL)	βρᾰχῠ́ταις
+neural	βραχύτης	N;DAT(PL)	βρᾰχύταις
+
+ref		βραχύτης	N;DAT(SG)	βρᾰχῠ́τητῐ
+byt5	βραχύτης	N;DAT(SG)	βρᾰχῠ́τῃ
+neural	βραχύτης	N;DAT(SG)	βρᾰχύτῃ
+
+ref		βραχύτης	N;GEN(DU)	βρᾰχῠτήτοιν
+byt5	βραχύτης	N;GEN(DU)	βραχύταιν
+neural	βραχύτης	N;GEN(DU)	βρᾰχύταιν
+
+ref		βραχύτης	N;GEN(PL)	βρᾰχῠτήτων
+byt5	βραχύτης	N;GEN(PL)	βραχῠτῶν
+neural	βραχύτης	N;GEN(PL)	βρᾰχυτῶν
+
+ref		βραχύτης	N;GEN(SG)	βρᾰχῠ́τητος
+byt5	βραχύτης	N;GEN(SG)	βρᾰχῠ́του
+neural	βραχύτης	N;GEN(SG)	βρᾰχύτου
+
+ref		βραχύτης	N;NOM(DU)	βρᾰχῠ́τητε
+byt5	βραχύτης	N;NOM(DU)	βρᾰχῠ́τᾱ
+neural	βραχύτης	N;NOM(DU)	βρᾰχύτᾱ
+
+ref		βραχύτης	N;NOM(PL)	βρᾰχῠ́τητες
+byt5	βραχύτης	N;NOM(PL)	βρᾰχῠ́ται
+neural	βραχύτης	N;NOM(PL)	βρᾰχῠ́ται
+
+ref		βραχύτης	N;VOC(DU)	βρᾰχῠ́τητε
+byt5	βραχύτης	N;VOC(DU)	βραχύτᾱ
+neural	βραχύτης	N;VOC(DU)	βρᾰχύτᾱ
+
+ref		βραχύτης	N;VOC(PL)	βρᾰχῠ́τητες
+byt5	βραχύτης	N;VOC(PL)	βρᾰχῠ́ται
+neural	βραχύτης	N;VOC(PL)	βρᾰχῠ́ται
+
+ref		δορκάς	N;DAT(PL)	δορκᾰ́σῐ
+byt5	δορκάς	N;DAT(PL)	δορκᾰ́δοις
+neural	δορκάς	N;DAT(PL)	δορκαῖς
+
+ref		δορκάς	N;GEN(PL)	δορκᾰ́δων
+byt5	δορκάς	N;GEN(PL)	δορκᾰ́σῶν
+neural	δορκάς	N;GEN(PL)	δορκῶν
+------------------------
+ref		θρεπτικός	ADJ;ACC(DU;FEM)	θρεπτῐκᾱ́
+byt5	θρεπτικός	ADJ;ACC(DU;FEM)	θρεπτικᾱ́
+neural	θρεπτικός	ADJ;ACC(DU;FEM)	θρεπτικᾱ́
+
+ref		θρεπτικός	ADJ;ACC(DU;MASC)	θρεπτῐκώ
+byt5	θρεπτικός	ADJ;ACC(DU;MASC)	θρεπτικώ
+neural	θρεπτικός	ADJ;ACC(DU;MASC)	θρεπτικώ
+
+ref		θρεπτικός	ADJ;ACC(DU;NEUT)	θρεπτῐκώ
+byt5	θρεπτικός	ADJ;ACC(DU;NEUT)	θρεπτικώ
+neural	θρεπτικός	ADJ;ACC(DU;NEUT)	θρεπτικώ
+
+ref		θρεπτικός	ADJ;ACC(PL;MASC)	θρεπτῐκούς
+byt5	θρεπτικός	ADJ;ACC(PL;MASC)	θρεπτικούς
+neural	θρεπτικός	ADJ;ACC(PL;MASC)	θρεπτικούς
+
+ref		θρεπτικός	ADJ;ACC(PL;NEUT)	θρεπτῐκᾰ́
+byt5	θρεπτικός	ADJ;ACC(PL;NEUT)	θρεπτικᾰ́
+neural	θρεπτικός	ADJ;ACC(PL;NEUT)	θρεπτικᾰ́
+
+ref		θρεπτικός	ADJ;ACC(SG;FEM)	θρεπτῐκήν
+byt5	θρεπτικός	ADJ;ACC(SG;FEM)	θρεπτικήν
+neural	θρεπτικός	ADJ;ACC(SG;FEM)	θρεπτικήν
+
+ref		θρεπτικός	ADJ;ACC(SG;MASC)	θρεπτῐκόν
+byt5	θρεπτικός	ADJ;ACC(SG;MASC)	θρεπτικόν
+neural	θρεπτικός	ADJ;ACC(SG;MASC)	θρεπτικόν
+
+ref		θρεπτικός	ADJ;ACC(SG;NEUT)	θρεπτῐκόν
+byt5	θρεπτικός	ADJ;ACC(SG;NEUT)	θρεπτικόν
+neural	θρεπτικός	ADJ;ACC(SG;NEUT)	θρεπτικόν
+
+ref		θρεπτικός	ADJ;DAT(DU;FEM)	θρεπτῐκαῖν
+byt5	θρεπτικός	ADJ;DAT(DU;FEM)	θρεπτικαῖν
+neural	θρεπτικός	ADJ;DAT(DU;FEM)	θρεπτικαῖν
+
+ref		θρεπτικός	ADJ;DAT(DU;NEUT)	θρεπτῐκοῖν
+byt5	θρεπτικός	ADJ;DAT(DU;NEUT)	θρεπτικοῖν
+neural	θρεπτικός	ADJ;DAT(DU;NEUT)	θρεπτικοῖν
+
+ref		θρεπτικός	ADJ;DAT(PL;FEM)	θρεπτῐκαῖς
+byt5	θρεπτικός	ADJ;DAT(PL;FEM)	θρεπτικαῖς
+neural	θρεπτικός	ADJ;DAT(PL;FEM)	θρεπτικαῖς
+
+ref		θρεπτικός	ADJ;DAT(PL;NEUT)	θρεπτῐκοῖς
+byt5	θρεπτικός	ADJ;DAT(PL;NEUT)	θρεπτικοῖς
+neural	θρεπτικός	ADJ;DAT(PL;NEUT)	θρεπτικοῖς
+
+ref		θρεπτικός	ADJ;DAT(SG;FEM)	θρεπτῐκῇ
+byt5	θρεπτικός	ADJ;DAT(SG;FEM)	θρεπτικῇ
+neural	θρεπτικός	ADJ;DAT(SG;FEM)	θρεπτικῇ
+
+ref		θρεπτικός	ADJ;DAT(SG;MASC)	θρεπτῐκῷ
+byt5	θρεπτικός	ADJ;DAT(SG;MASC)	θρεπτικῷ
+neural	θρεπτικός	ADJ;DAT(SG;MASC)	θρεπτικῷ
+
+ref		θρεπτικός	ADJ;GEN(DU;NEUT)	θρεπτῐκοῖν
+byt5	θρεπτικός	ADJ;GEN(DU;NEUT)	θρεπτικοῖν
+neural	θρεπτικός	ADJ;GEN(DU;NEUT)	θρεπτικοῖν
+
+ref		θρεπτικός	ADJ;GEN(PL;MASC)	θρεπτῐκῶν
+byt5	θρεπτικός	ADJ;GEN(PL;MASC)	θρεπτικῶν
+neural	θρεπτικός	ADJ;GEN(PL;MASC)	θρεπτικῶν
+
+ref		θρεπτικός	ADJ;GEN(PL;NEUT)	θρεπτῐκῶν
+byt5	θρεπτικός	ADJ;GEN(PL;NEUT)	θρεπτικῶν
+neural	θρεπτικός	ADJ;GEN(PL;NEUT)	θρεπτικῶν
+
+ref		θρεπτικός	ADJ;GEN(SG;MASC)	θρεπτῐκοῦ
+byt5	θρεπτικός	ADJ;GEN(SG;MASC)	θρεπτικοῦ
+neural	θρεπτικός	ADJ;GEN(SG;MASC)	θρεπτικοῦ
+
+ref		θρεπτικός	ADJ;GEN(SG;NEUT)	θρεπτῐκοῦ
+byt5	θρεπτικός	ADJ;GEN(SG;NEUT)	θρεπτικοῦ
+neural	θρεπτικός	ADJ;GEN(SG;NEUT)	θρεπτικοῦ
+
+ref		θρεπτικός	ADJ;NOM(DU;MASC)	θρεπτῐκώ
+byt5	θρεπτικός	ADJ;NOM(DU;MASC)	θρεπτικώ
+neural	θρεπτικός	ADJ;NOM(DU;MASC)	θρεπτικώ
+
+ref		θρεπτικός	ADJ;NOM(DU;NEUT)	θρεπτῐκώ
+byt5	θρεπτικός	ADJ;NOM(DU;NEUT)	θρεπτικώ
+neural	θρεπτικός	ADJ;NOM(DU;NEUT)	θρεπτικώ
+
+ref		θρεπτικός	ADJ;NOM(PL;MASC)	θρεπτῐκοί
+byt5	θρεπτικός	ADJ;NOM(PL;MASC)	θρεπτικοί
+neural	θρεπτικός	ADJ;NOM(PL;MASC)	θρεπτικοί
+
+ref		θρεπτικός	ADJ;NOM(SG;NEUT)	θρεπτῐκόν
+byt5	θρεπτικός	ADJ;NOM(SG;NEUT)	θρεπτικόν
+neural	θρεπτικός	ADJ;NOM(SG;NEUT)	θρεπτικόν
+
+ref		θρεπτικός	ADJ;VOC(DU;FEM)	θρεπτῐκᾱ́
+byt5	θρεπτικός	ADJ;VOC(DU;FEM)	θρεπτικᾱ́
+neural	θρεπτικός	ADJ;VOC(DU;FEM)	θρεπτικᾱ́
+
+ref		θρεπτικός	ADJ;VOC(DU;MASC)	θρεπτῐκώ
+byt5	θρεπτικός	ADJ;VOC(DU;MASC)	θρεπτικώ
+neural	θρεπτικός	ADJ;VOC(DU;MASC)	θρεπτικώ
+
+ref		θρεπτικός	ADJ;VOC(DU;NEUT)	θρεπτῐκώ
+byt5	θρεπτικός	ADJ;VOC(DU;NEUT)	θρεπτικώ
+neural	θρεπτικός	ADJ;VOC(DU;NEUT)	θρεπτικώ
+
+ref		θρεπτικός	ADJ;VOC(PL;FEM)	θρεπτῐκαί
+byt5	θρεπτικός	ADJ;VOC(PL;FEM)	θρεπτικαί
+neural	θρεπτικός	ADJ;VOC(PL;FEM)	θρεπτικαί
+
+ref		θρεπτικός	ADJ;VOC(PL;MASC)	θρεπτῐκοί
+byt5	θρεπτικός	ADJ;VOC(PL;MASC)	θρεπτικοί
+neural	θρεπτικός	ADJ;VOC(PL;MASC)	θρεπτικοί
+
+ref		θρεπτικός	ADJ;VOC(PL;NEUT)	θρεπτῐκᾰ́
+byt5	θρεπτικός	ADJ;VOC(PL;NEUT)	θρεπτικᾰ́
+neural	θρεπτικός	ADJ;VOC(PL;NEUT)	θρεπτικᾰ́
+
+ref		θρεπτικός	ADJ;VOC(SG;FEM)	θρεπτῐκή
+byt5	θρεπτικός	ADJ;VOC(SG;FEM)	θρεπτική
+neural	θρεπτικός	ADJ;VOC(SG;FEM)	θρεπτική
+
+ref		θρεπτικός	ADJ;VOC(SG;MASC)	θρεπτῐκέ
+byt5	θρεπτικός	ADJ;VOC(SG;MASC)	θρεπτικέ
+neural	θρεπτικός	ADJ;VOC(SG;MASC)	θρεπτικέ
+
+ref		θρεπτικός	ADJ;VOC(SG;NEUT)	θρεπτῐκόν
+byt5	θρεπτικός	ADJ;VOC(SG;NEUT)	θρεπτικόν
+neural	θρεπτικός	ADJ;VOC(SG;NEUT)	θρεπτικόν
+------------------------
+ref		θυγάτηρ	N;ACC(DU)	θῠγᾰ́τερε
+byt5	θυγάτηρ	N;ACC(DU)	θῠγᾰ́τηρε
+neural	θυγάτηρ	N;ACC(DU)	θῠγᾰ́τηρε
+
+ref		θυγάτηρ	N;ACC(PL)	θῠγᾰτέρᾰς
+byt5	θυγάτηρ	N;ACC(PL)	θῠγᾰ́τηρᾰς
+neural	θυγάτηρ	N;ACC(PL)	θῠγᾰ́τηρᾰς
+
+ref		θυγάτηρ	N;ACC(SG)	θῠ́γᾰτρᾰ
+byt5	θυγάτηρ	N;ACC(SG)	θῠγᾰ́τηρν
+neural	θυγάτηρ	N;ACC(SG)	θῠγᾰ́τηρᾰ
+
+ref		θυγάτηρ	N;DAT(DU)	θῠγᾰτέροιν
+byt5	θυγάτηρ	N;DAT(DU)	θῠγᾰ́τηροιν
+neural	θυγάτηρ	N;DAT(DU)	θῠγᾰ́τηροιν
+
+ref		θυγάτηρ	N;DAT(PL)	θῠγᾰτρᾰ́σῐ(ν)
+byt5	θυγάτηρ	N;DAT(PL)	θῠγᾰ́τηροις
+neural	θυγάτηρ	N;DAT(PL)	θῠγᾰ́τηρσῐ
+
+ref		θυγάτηρ	N;DAT(SG)	θῠγᾰτρί
+byt5	θυγάτηρ	N;DAT(SG)	θῠγᾰ́τηρῐ
+neural	θυγάτηρ	N;DAT(SG)	θῠγᾰ́τηρῐ
+
+ref		θυγάτηρ	N;GEN(DU)	θῠγᾰτέροιν
+byt5	θυγάτηρ	N;GEN(DU)	θῠγᾰ́τηροιν
+neural	θυγάτηρ	N;GEN(DU)	θῠγᾰ́τηροιν
+
+ref		θυγάτηρ	N;GEN(PL)	θῠγᾰτρῶν
+byt5	θυγάτηρ	N;GEN(PL)	θῠγᾰ́τηρων
+neural	θυγάτηρ	N;GEN(PL)	θῠγᾰτήρων
+
+ref		θυγάτηρ	N;GEN(SG)	θῠγᾰτρός
+byt5	θυγάτηρ	N;GEN(SG)	θῠγᾰ́τηρος
+neural	θυγάτηρ	N;GEN(SG)	θῠγᾰ́τηρος
+
+ref		θυγάτηρ	N;NOM(DU)	θῠγᾰ́τερε
+byt5	θυγάτηρ	N;NOM(DU)	θῠγᾰ́τηρε
+neural	θυγάτηρ	N;NOM(DU)	θῠγᾰ́τηρε
+
+ref		θυγάτηρ	N;NOM(PL)	θῠ́γᾰτρες
+byt5	θυγάτηρ	N;NOM(PL)	θῠγᾰ́τηρες
+neural	θυγάτηρ	N;NOM(PL)	θῠγᾰ́τηρες
+
+ref		θυγάτηρ	N;VOC(DU)	θῠγᾰ́τερε
+byt5	θυγάτηρ	N;VOC(DU)	θῠγᾰ́τηρε
+neural	θυγάτηρ	N;VOC(DU)	θῠγᾰ́τηρε
+
+ref		θυγάτηρ	N;VOC(PL)	θῠ́γᾰτρες
+byt5	θυγάτηρ	N;VOC(PL)	θῠγᾰ́τηρες
+neural	θυγάτηρ	N;VOC(PL)	θῠγᾰ́τηρες
+
+ref		θυγάτηρ	N;VOC(SG)	θῠ́γᾰτερ
+byt5	θυγάτηρ	N;VOC(SG)	θῠγᾰ́τηρ
+neural	θυγάτηρ	N;VOC(SG)	θῠγᾰ́τηρ
+------------------------
+ref		κενταύριον	N;ACC(DU)	ουω
+byt5	κενταύριον	N;ACC(DU)	κεντᾰυρῐ́ω
+neural	κενταύριον	N;ACC(DU)	κενταυρίω
+
+ref		κενταύριον	N;ACC(PL)	κενταύρῐονᾰ
+byt5	κενταύριον	N;ACC(PL)	κεντᾰύρῐᾰ
+neural	κενταύριον	N;ACC(PL)	κενταύριᾰ
+
+ref		κενταύριον	N;ACC(SG)	κενταύρῐονον
+byt5	κενταύριον	N;ACC(SG)	κεντᾰύρῐον
+neural	κενταύριον	N;ACC(SG)	κενταύριον
+
+ref		κενταύριον	N;DAT(DU)	ουοιν
+byt5	κενταύριον	N;DAT(DU)	κεντᾰυρῐ́οιν
+neural	κενταύριον	N;DAT(DU)	κενταυρίοιν
+
+ref		κενταύριον	N;DAT(PL)	ουοις
+byt5	κενταύριον	N;DAT(PL)	κεντᾰυρῐ́οις
+neural	κενταύριον	N;DAT(PL)	κενταυρίοις
+
+ref		κενταύριον	N;DAT(SG)	ουῳ
+byt5	κενταύριον	N;DAT(SG)	κενταυρῐ́ῳ
+neural	κενταύριον	N;DAT(SG)	κενταυρίῳ
+
+ref		κενταύριον	N;GEN(DU)	ουοιν
+byt5	κενταύριον	N;GEN(DU)	κενταυρίοιν
+neural	κενταύριον	N;GEN(DU)	κενταυρίοιν
+
+ref		κενταύριον	N;GEN(PL)	ουων
+byt5	κενταύριον	N;GEN(PL)	κενταυρίων
+neural	κενταύριον	N;GEN(PL)	κενταυρίων
+
+ref		κενταύριον	N;GEN(SG)	ουου
+byt5	κενταύριον	N;GEN(SG)	κενταυρίου
+neural	κενταύριον	N;GEN(SG)	κενταυρίου
+
+ref		κενταύριον	N;NOM(DU)	ουω
+byt5	κενταύριον	N;NOM(DU)	κεντᾰυρῐ́ω
+neural	κενταύριον	N;NOM(DU)	κενταυρίω
+
+ref		κενταύριον	N;NOM(PL)	κενταύρῐονᾰ
+byt5	κενταύριον	N;NOM(PL)	κεντᾰύρῐοι
+neural	κενταύριον	N;NOM(PL)	κενταύριᾰ
+
+ref		κενταύριον	N;NOM(SG)	κενταύρῐονον
+byt5	κενταύριον	N;NOM(SG)	κεντᾰύρῐον
+neural	κενταύριον	N;NOM(SG)	κενταύριον
+
+ref		κενταύριον	N;VOC(DU)	ουω
+byt5	κενταύριον	N;VOC(DU)	κεντᾰυρῐ́ω
+neural	κενταύριον	N;VOC(DU)	κενταυρίω
+
+ref		κενταύριον	N;VOC(PL)	κενταύρῐονᾰ
+byt5	κενταύριον	N;VOC(PL)	κεντᾰύρῐοι
+neural	κενταύριον	N;VOC(PL)	κενταύριᾰ
+
+ref		κενταύριον	N;VOC(SG)	κενταύρῐονον
+byt5	κενταύριον	N;VOC(SG)	κεντᾰύρῐε
+neural	κενταύριον	N;VOC(SG)	κενταύριον
+
+ref		λειμώνιον	N;NOM(PL)	λειμώνῐᾰ
+byt5	λειμώνιον	N;NOM(PL)	λειμώνῐοι
+neural	λειμώνιον	N;NOM(PL)	λειμώνιᾰ
+
+ref		λειμώνιον	N;VOC(PL)	λειμώνῐᾰ
+byt5	λειμώνιον	N;VOC(PL)	λειμώνῐοι
+neural	λειμώνιον	N;VOC(PL)	λειμώνιᾰ
+
+ref		λειμώνιον	N;VOC(SG)	λειμώνῐον
+byt5	λειμώνιον	N;VOC(SG)	λειμώνῐε
+neural	λειμώνιον	N;VOC(SG)	λειμώνιον
+
+ref		μελῳδία	N;DAT(DU)	μελῳδῐ́αιν
+byt5	μελῳδία	N;DAT(DU)	μελογδῐ́αιν
+neural	μελῳδία	N;DAT(DU)	μελῳδίαιν
+
+ref		μελῳδία	N;GEN(DU)	μελῳδῐ́αιν
+byt5	μελῳδία	N;GEN(DU)	μελογδῐ́αιν
+neural	μελῳδία	N;GEN(DU)	μελῳδίαιν
+
+ref		μελῳδία	N;GEN(PL)	μελῳδῐῶν
+byt5	μελῳδία	N;GEN(PL)	μελογδῐῶν
+neural	μελῳδία	N;GEN(PL)	μελοδιῶν
+------------------------
+ref		οἶνος	N;ACC(DU)	οἴνω
+byt5	οἶνος	N;ACC(DU)	οἶνω
+neural	οἶνος	N;ACC(DU)	οὔνω
+
+ref		οἶνος	N;ACC(PL)	οἴνους
+byt5	οἶνος	N;ACC(PL)	οἶνους
+neural	οἶνος	N;ACC(PL)	οὔνους
+
+ref		οἶνος	N;DAT(DU)	οἴνοιν
+byt5	οἶνος	N;DAT(DU)	οἶνοιν
+neural	οἶνος	N;DAT(DU)	οὔνοιν
+
+ref		οἶνος	N;DAT(PL)	οἴνοις
+byt5	οἶνος	N;DAT(PL)	οἶνοις
+neural	οἶνος	N;DAT(PL)	οινοις
+
+ref		οἶνος	N;DAT(SG)	οἴνῳ
+byt5	οἶνος	N;DAT(SG)	οἶνῳ
+neural	οἶνος	N;DAT(SG)	οὐνῳ
+
+ref		οἶνος	N;GEN(DU)	οἴνοιν
+byt5	οἶνος	N;GEN(DU)	ούνοιν
+neural	οἶνος	N;GEN(DU)	οὔνοιν
+
+ref		οἶνος	N;GEN(PL)	οἴνων
+byt5	οἶνος	N;GEN(PL)	ούνων
+neural	οἶνος	N;GEN(PL)	οὐνων
+
+ref		οἶνος	N;GEN(SG)	οἴνου
+byt5	οἶνος	N;GEN(SG)	οἶνου
+neural	οἶνος	N;GEN(SG)	οὐνου
+
+ref		οἶνος	N;NOM(DU)	οἴνω
+byt5	οἶνος	N;NOM(DU)	οἶνω
+neural	οἶνος	N;NOM(DU)	οὔνω
+
+ref		οἶνος	N;VOC(DU)	οἴνω
+byt5	οἶνος	N;VOC(DU)	οἶνω
+neural	οἶνος	N;VOC(DU)	οὔνω
+------------------------
+ref		ποτήριον	N;ACC(DU)	ποτηρίω
+byt5	ποτήριον	N;ACC(DU)	ποτηρῐ́ω
+neural	ποτήριον	N;ACC(DU)	ποτηρῐ́ω
+
+ref		ποτήριον	N;ACC(PL)	ποτήριᾰ
+byt5	ποτήριον	N;ACC(PL)	ποτηρῐ́ᾱς
+neural	ποτήριον	N;ACC(PL)	ποτῆρῐᾰ
+
+ref		ποτήριον	N;DAT(DU)	ποτηρίοιν
+byt5	ποτήριον	N;DAT(DU)	ποτηρῐ́οιν
+neural	ποτήριον	N;DAT(DU)	ποτηρῐ́οιν
+
+ref		ποτήριον	N;DAT(PL)	ποτηρίοις
+byt5	ποτήριον	N;DAT(PL)	ποτηρῐ́οις
+neural	ποτήριον	N;DAT(PL)	ποτηρῐ́οις
+
+ref		ποτήριον	N;DAT(SG)	ποτηρίῳ
+byt5	ποτήριον	N;DAT(SG)	ποτηρῐ́ῳ
+neural	ποτήριον	N;DAT(SG)	ποτηρῐ́ῳ
+
+ref		ποτήριον	N;GEN(DU)	ποτηρίοιν
+byt5	ποτήριον	N;GEN(DU)	ποτηρῐ́οιν
+neural	ποτήριον	N;GEN(DU)	ποτηρῐ́οιν
+
+ref		ποτήριον	N;GEN(PL)	ποτηρίων
+byt5	ποτήριον	N;GEN(PL)	ποτηρῐ́ων
+neural	ποτήριον	N;GEN(PL)	ποτηρῐ́ων
+
+ref		ποτήριον	N;GEN(SG)	ποτηρίου
+byt5	ποτήριον	N;GEN(SG)	ποτηρῐ́ου
+neural	ποτήριον	N;GEN(SG)	ποτηρῐ́ου
+
+ref		ποτήριον	N;NOM(DU)	ποτηρίω
+byt5	ποτήριον	N;NOM(DU)	ποτηρῐ́ω
+neural	ποτήριον	N;NOM(DU)	ποτηρῐ́ω
+
+ref		ποτήριον	N;NOM(PL)	ποτήριᾰ
+byt5	ποτήριον	N;NOM(PL)	ποτήρῐοι
+neural	ποτήριον	N;NOM(PL)	ποτῆρῐᾰ
+
+ref		ποτήριον	N;VOC(DU)	ποτηρίω
+byt5	ποτήριον	N;VOC(DU)	ποτηρῐ́ω
+neural	ποτήριον	N;VOC(DU)	ποτηρῐ́ω
+
+ref		ποτήριον	N;VOC(PL)	ποτήριᾰ
+byt5	ποτήριον	N;VOC(PL)	ποτήρῐοι
+neural	ποτήριον	N;VOC(PL)	ποτῆρῐᾰ
+
+ref		σίραιον	N;ACC(SG)	σίραιον
+byt5	σίραιον	N;ACC(SG)	σῐ́ραιον
+neural	σίραιον	N;ACC(SG)	σίρᾱιον
+
+ref		σίραιον	N;GEN(PL)	σιραίων
+byt5	σίραιον	N;GEN(PL)	σῐρᾰ́δων
+neural	σίραιον	N;GEN(PL)	σιρᾰ́ων
+
+ref		σίραιον	N;GEN(SG)	σιραίου
+byt5	σίραιον	N;GEN(SG)	σῐρᾰ́ου
+neural	σίραιον	N;GEN(SG)	σιρᾰ́ιου
+
+ref		σχόλιον	N;ACC(PL)	σχόλιᾰ
+byt5	σχόλιον	N;ACC(PL)	σχολῐ́ᾱς
+neural	σχόλιον	N;ACC(PL)	σχόλλῐᾰ
+
+ref		σχόλιον	N;NOM(PL)	σχόλιᾰ
+byt5	σχόλιον	N;NOM(PL)	σχόλῐοι
+neural	σχόλιον	N;NOM(PL)	σχόλλῐᾰ
+
+ref		σχόλιον	N;VOC(PL)	σχόλιᾰ
+byt5	σχόλιον	N;VOC(PL)	σχόλῐοι
+neural	σχόλιον	N;VOC(PL)	σχόλλῐᾰ
+------------------------
+ref		ἀμέλεια	N;ACC(DU)	ᾰ̓μελείᾱ
+byt5	ἀμέλεια	N;ACC(DU)	ἀμελείᾱ
+neural	ἀμέλεια	N;ACC(DU)	ἀμελείᾱ
+
+ref		ἀμέλεια	N;ACC(PL)	ᾰ̓μελείᾱς
+byt5	ἀμέλεια	N;ACC(PL)	ἀμελείᾱς
+neural	ἀμέλεια	N;ACC(PL)	ἀμελείᾱς
+
+ref		ἀμέλεια	N;ACC(SG)	ᾰ̓μέλειᾰν
+byt5	ἀμέλεια	N;ACC(SG)	ἀμέλειᾱν
+neural	ἀμέλεια	N;ACC(SG)	ἀμέλειᾰν
+
+ref		ἀμέλεια	N;DAT(DU)	ᾰ̓μελείαιν
+byt5	ἀμέλεια	N;DAT(DU)	ἀμελείαιν
+neural	ἀμέλεια	N;DAT(DU)	ἀμελείαιν
+
+ref		ἀμέλεια	N;DAT(PL)	ᾰ̓μελείαις
+byt5	ἀμέλεια	N;DAT(PL)	ἀμελείαις
+neural	ἀμέλεια	N;DAT(PL)	ἀμελείαις
+
+ref		ἀμέλεια	N;DAT(SG)	ᾰ̓μελείᾳ
+byt5	ἀμέλεια	N;DAT(SG)	ἀμελείᾳ
+neural	ἀμέλεια	N;DAT(SG)	ἀμελείᾳ
+
+ref		ἀμέλεια	N;GEN(DU)	ᾰ̓μελείαιν
+byt5	ἀμέλεια	N;GEN(DU)	ἀμελείαιν
+neural	ἀμέλεια	N;GEN(DU)	ἀμελείαιν
+
+ref		ἀμέλεια	N;GEN(PL)	ᾰ̓μελειῶν
+byt5	ἀμέλεια	N;GEN(PL)	ἀμελείων
+neural	ἀμέλεια	N;GEN(PL)	ἀμελειῶν
+
+ref		ἀμέλεια	N;GEN(SG)	ᾰ̓μελείᾱς
+byt5	ἀμέλεια	N;GEN(SG)	ἀμελείᾱς
+neural	ἀμέλεια	N;GEN(SG)	ἀμελείᾱς
+
+ref		ἀμέλεια	N;NOM(DU)	ᾰ̓μελείᾱ
+byt5	ἀμέλεια	N;NOM(DU)	ἀμελείᾱ
+neural	ἀμέλεια	N;NOM(DU)	ἀμελείᾱ
+
+ref		ἀμέλεια	N;NOM(PL)	ᾰ̓μέλειαι
+byt5	ἀμέλεια	N;NOM(PL)	ἀμέλειαι
+neural	ἀμέλεια	N;NOM(PL)	ἀμέλειαι
+
+ref		ἀμέλεια	N;NOM(SG)	ᾰ̓μέλειᾰ
+byt5	ἀμέλεια	N;NOM(SG)	ἀμέλειᾱ
+neural	ἀμέλεια	N;NOM(SG)	ἀμέλειᾰ
+
+ref		ἀμέλεια	N;VOC(DU)	ᾰ̓μελείᾱ
+byt5	ἀμέλεια	N;VOC(DU)	ἀμελείᾱ
+neural	ἀμέλεια	N;VOC(DU)	ἀμελείᾱ
+
+ref		ἀμέλεια	N;VOC(PL)	ᾰ̓μέλειαι
+byt5	ἀμέλεια	N;VOC(PL)	ἀμέλειαι
+neural	ἀμέλεια	N;VOC(PL)	ἀμέλειαι
+
+ref		ἀμέλεια	N;VOC(SG)	ᾰ̓μέλειᾰ
+byt5	ἀμέλεια	N;VOC(SG)	ἀμέλεια
+neural	ἀμέλεια	N;VOC(SG)	ἀμέλειᾰ
+------------------------
+ref		ἀμβλυωπία	N;ACC(DU)	ᾰ̓μβλῠωπῐ́ᾱ
+byt5	ἀμβλυωπία	N;ACC(DU)	ἀμβλῠωπῐ́ᾱ
+neural	ἀμβλυωπία	N;ACC(DU)	ἀμβλυπωίᾱ
+
+ref		ἀμβλυωπία	N;ACC(PL)	ᾰ̓μβλῠωπῐ́ᾱς
+byt5	ἀμβλυωπία	N;ACC(PL)	ἀμβλῠωπῐ́ᾱς
+neural	ἀμβλυωπία	N;ACC(PL)	ἀμβλυπώᾱς
+
+ref		ἀμβλυωπία	N;ACC(SG)	ᾰ̓μβλῠωπῐ́ᾱν
+byt5	ἀμβλυωπία	N;ACC(SG)	ἀμβλῠωπῐ́ᾱν
+neural	ἀμβλυωπία	N;ACC(SG)	ἀμβλυπωίᾱν
+
+ref		ἀμβλυωπία	N;DAT(DU)	ᾰ̓μβλῠωπῐ́αιν
+byt5	ἀμβλυωπία	N;DAT(DU)	ἀμβλῠωπῐ́αιν
+neural	ἀμβλυωπία	N;DAT(DU)	ἀμβλυπώαιν
+
+ref		ἀμβλυωπία	N;DAT(PL)	ᾰ̓μβλῠωπῐ́αις
+byt5	ἀμβλυωπία	N;DAT(PL)	ἀμβλῠωπῐ́αις
+neural	ἀμβλυωπία	N;DAT(PL)	ἀμβλυπωλίαις
+
+ref		ἀμβλυωπία	N;DAT(SG)	ᾰ̓μβλῠωπῐ́ᾳ
+byt5	ἀμβλυωπία	N;DAT(SG)	ἀμβλῠωπῐ́ᾳ
+neural	ἀμβλυωπία	N;DAT(SG)	ἀμβλυπωίᾳ
+
+ref		ἀμβλυωπία	N;GEN(DU)	ᾰ̓μβλῠωπῐ́αιν
+byt5	ἀμβλυωπία	N;GEN(DU)	ἀμβλῠωπῐ́αιν
+neural	ἀμβλυωπία	N;GEN(DU)	ἀμβλυπώαιν
+
+ref		ἀμβλυωπία	N;GEN(PL)	ᾰ̓μβλῠωπῐῶν
+byt5	ἀμβλυωπία	N;GEN(PL)	ἀμβλῠωπῐῶν
+neural	ἀμβλυωπία	N;GEN(PL)	ἀμβλυπωλῶν
+
+ref		ἀμβλυωπία	N;GEN(SG)	ᾰ̓μβλῠωπῐ́ᾱς
+byt5	ἀμβλυωπία	N;GEN(SG)	ἀμβλῠωπῐ́ᾱς
+neural	ἀμβλυωπία	N;GEN(SG)	ἀμβλυπωίᾱς
+
+ref		ἀμβλυωπία	N;NOM(DU)	ᾰ̓μβλῠωπῐ́ᾱ
+byt5	ἀμβλυωπία	N;NOM(DU)	ἀμβλῠωπῐ́ᾱ
+neural	ἀμβλυωπία	N;NOM(DU)	ἀμβλυπωίᾱ
+
+ref		ἀμβλυωπία	N;NOM(PL)	ᾰ̓μβλῠωπῐ́αι
+byt5	ἀμβλυωπία	N;NOM(PL)	ἀμβλῠωπῐ́αι
+neural	ἀμβλυωπία	N;NOM(PL)	ἀμβλυπῶαι
+
+ref		ἀμβλυωπία	N;NOM(SG)	ᾰ̓μβλῠωπῐ́ᾱ
+byt5	ἀμβλυωπία	N;NOM(SG)	ἀμβλῠωπῐ́ᾱ
+neural	ἀμβλυωπία	N;NOM(SG)	ἀμβλυπωλίᾱ
+
+ref		ἀμβλυωπία	N;VOC(DU)	ᾰ̓μβλῠωπῐ́ᾱ
+byt5	ἀμβλυωπία	N;VOC(DU)	ἀμβλῠωπῐ́ᾱ
+neural	ἀμβλυωπία	N;VOC(DU)	ἀμβλυπωίᾱ
+
+ref		ἀμβλυωπία	N;VOC(PL)	ᾰ̓μβλῠωπῐ́αι
+byt5	ἀμβλυωπία	N;VOC(PL)	ἀμβλῠωπῐ́αι
+neural	ἀμβλυωπία	N;VOC(PL)	ἀμβλυπῶαι
+
+ref		ἀμβλυωπία	N;VOC(SG)	ᾰ̓μβλῠωπῐ́ᾱ
+byt5	ἀμβλυωπία	N;VOC(SG)	ἀμβλῠωπῐ́ᾱ
+neural	ἀμβλυωπία	N;VOC(SG)	ἀμβλυπωλίᾱ
+
+ref		ἀξίνη	N;ACC(PL)	ἀξῑ́νᾱς
+byt5	ἀξίνη	N;ACC(PL)	ἀξῐ́νᾱς
+neural	ἀξίνη	N;ACC(PL)	ᾰ̓ξῐ́νᾱς
+
+ref		ἀξίνη	N;ACC(SG)	ἀξῑ́νην
+byt5	ἀξίνη	N;ACC(SG)	ἀξῐ́νην
+neural	ἀξίνη	N;ACC(SG)	ᾰ̓ξῐ́νην
+
+ref		ἀξίνη	N;DAT(PL)	ἀξῑ́ναις
+byt5	ἀξίνη	N;DAT(PL)	ἀξῐ́ναις
+neural	ἀξίνη	N;DAT(PL)	ᾰ̓ξῐ́ναις
+
+ref		ἀξίνη	N;DAT(SG)	ἀξῑ́νῃ
+byt5	ἀξίνη	N;DAT(SG)	ἀξῐ́νῃ
+neural	ἀξίνη	N;DAT(SG)	ᾰ̓ξῐ́νῃ
+
+ref		ἀξίνη	N;GEN(PL)	ἀξῑνῶν
+byt5	ἀξίνη	N;GEN(PL)	ἀξῑ́νων
+neural	ἀξίνη	N;GEN(PL)	ᾰ̓ξῐνῶν
+
+ref		ἀξίνη	N;GEN(SG)	ἀξῑ́νης
+byt5	ἀξίνη	N;GEN(SG)	ἀξῐ́νης
+neural	ἀξίνη	N;GEN(SG)	ᾰ̓ξῐ́νης
+
+ref		ἀξίνη	N;NOM(PL)	ἀξῖναι
+byt5	ἀξίνη	N;NOM(PL)	ἀξῐ́ναι
+neural	ἀξίνη	N;NOM(PL)	ᾰ̓ξῐ́ναι
+
+ref		ἀξίνη	N;NOM(SG)	ἀξῑ́νη
+byt5	ἀξίνη	N;NOM(SG)	ἀξῐ́νη
+neural	ἀξίνη	N;NOM(SG)	ᾰ̓ξῐ́νη
+
+ref		ἀξίνη	N;VOC(PL)	ἀξῖναι
+byt5	ἀξίνη	N;VOC(PL)	ἀξῐ́ναι
+neural	ἀξίνη	N;VOC(PL)	ᾰ̓ξῐ́ναι
+
+ref		ἀξίνη	N;VOC(SG)	ἀξῑ́νη
+byt5	ἀξίνη	N;VOC(SG)	ἀξῐ́νη
+neural	ἀξίνη	N;VOC(SG)	ᾰ̓ξῐ́νη
+------------------------
+ref		ἀρχισυνάγωγος	N;ACC(DU)	ἀρχῐσῠνᾰγώγω
+byt5	ἀρχισυνάγωγος	N;ACC(DU)	ἀρχισυναγώγω
+neural	ἀρχισυνάγωγος	N;ACC(DU)	ἀρχισυνγώγω
+
+ref		ἀρχισυνάγωγος	N;ACC(PL)	ἀρχῐσῠνᾰγώγους
+byt5	ἀρχισυνάγωγος	N;ACC(PL)	ἀρχισυνάγωγους
+neural	ἀρχισυνάγωγος	N;ACC(PL)	ἀρχισυνγώγους
+
+ref		ἀρχισυνάγωγος	N;ACC(SG)	ἀρχῐσῠνᾰ́γωγον
+byt5	ἀρχισυνάγωγος	N;ACC(SG)	ἀρχισυνάγωγον
+neural	ἀρχισυνάγωγος	N;ACC(SG)	ἀρχισυνγωγον
+
+ref		ἀρχισυνάγωγος	N;DAT(DU)	ἀρχῐσῠνᾰγώγοιν
+byt5	ἀρχισυνάγωγος	N;DAT(DU)	ἀρχισυνᾰγώγοιν
+neural	ἀρχισυνάγωγος	N;DAT(DU)	ἀρχισυνγήγοιν
+
+ref		ἀρχισυνάγωγος	N;DAT(PL)	ἀρχῐσῠνᾰγώγοις
+byt5	ἀρχισυνάγωγος	N;DAT(PL)	ἀρχισυνᾰγώγοις
+neural	ἀρχισυνάγωγος	N;DAT(PL)	ἀρχισυνγώγοις
+
+ref		ἀρχισυνάγωγος	N;DAT(SG)	ἀρχῐσῠνᾰγώγῳ
+byt5	ἀρχισυνάγωγος	N;DAT(SG)	ἀρχισυνᾰγώγῳ
+neural	ἀρχισυνάγωγος	N;DAT(SG)	ἀρχισυνγώγῳ
+
+ref		ἀρχισυνάγωγος	N;GEN(DU)	ἀρχῐσῠνᾰγώγοιν
+byt5	ἀρχισυνάγωγος	N;GEN(DU)	ἀρχισυναγώγοιν
+neural	ἀρχισυνάγωγος	N;GEN(DU)	ἀρχισυνγήγοιν
+
+ref		ἀρχισυνάγωγος	N;GEN(PL)	ἀρχῐσῠνᾰγώγων
+byt5	ἀρχισυνάγωγος	N;GEN(PL)	ἀρχισυναγώγων
+neural	ἀρχισυνάγωγος	N;GEN(PL)	ἀρχισυνγώγων
+
+ref		ἀρχισυνάγωγος	N;GEN(SG)	ἀρχῐσῠνᾰγώγου
+byt5	ἀρχισυνάγωγος	N;GEN(SG)	ἀρχισυναγώγου
+neural	ἀρχισυνάγωγος	N;GEN(SG)	ἀρχισυνγώγου
+
+ref		ἀρχισυνάγωγος	N;NOM(DU)	ἀρχῐσῠνᾰγώγω
+byt5	ἀρχισυνάγωγος	N;NOM(DU)	ἀρχισυναγώγω
+neural	ἀρχισυνάγωγος	N;NOM(DU)	ἀρχισυνγώγω
+
+ref		ἀρχισυνάγωγος	N;NOM(PL)	ἀρχῐσῠνᾰ́γωγοι
+byt5	ἀρχισυνάγωγος	N;NOM(PL)	ἀρχισυνάγωγοι
+neural	ἀρχισυνάγωγος	N;NOM(PL)	ἀρχισυνᾰ́γωι
+
+ref		ἀρχισυνάγωγος	N;NOM(SG)	ἀρχῐσῠνᾰ́γωγος
+byt5	ἀρχισυνάγωγος	N;NOM(SG)	ἀρχισυνάγωγος
+neural	ἀρχισυνάγωγος	N;NOM(SG)	ἀρχισυνᾰ́γως
+
+ref		ἀρχισυνάγωγος	N;VOC(DU)	ἀρχῐσῠνᾰγώγω
+byt5	ἀρχισυνάγωγος	N;VOC(DU)	ἀρχισυναγώγω
+neural	ἀρχισυνάγωγος	N;VOC(DU)	ἀρχισυνγώγω
+
+ref		ἀρχισυνάγωγος	N;VOC(PL)	ἀρχῐσῠνᾰ́γωγοι
+byt5	ἀρχισυνάγωγος	N;VOC(PL)	ἀρχισυνάγωγοι
+neural	ἀρχισυνάγωγος	N;VOC(PL)	ἀρχισυνᾰ́γωι
+
+ref		ἀρχισυνάγωγος	N;VOC(SG)	ἀρχῐσῠνᾰ́γωγε
+byt5	ἀρχισυνάγωγος	N;VOC(SG)	ἀρχισυνάγωγε
+neural	ἀρχισυνάγωγος	N;VOC(SG)	ἀρχισυνᾰ́γε
+
+ref		Ἀβδηρίτης	N;GEN(PL)	Ἀβδηρῑτῶν
+byt5	Ἀβδηρίτης	N;GEN(PL)	Ἀβδηρῑ́των
+neural	Ἀβδηρίτης	N;GEN(PL)	Ᾰ̓βδηρῐτῶν
+
+ref		Ἀβδηρίτης	N;NOM(PL)	Ἀβδηρῖται
+byt5	Ἀβδηρίτης	N;NOM(PL)	Ἀβδηρῑ́ται
+neural	Ἀβδηρίτης	N;NOM(PL)	Ᾰ̓βδηρῐ́ται
+
+ref		Ἀβδηρίτης	N;VOC(PL)	Ἀβδηρῖται
+byt5	Ἀβδηρίτης	N;VOC(PL)	Ἀβδηρῑ́ται
+neural	Ἀβδηρίτης	N;VOC(PL)	Ᾰ̓βδηρῐ́ται
+
+ref		Ἀβδηρίτης	N;VOC(SG)	Ἀβδηρῖτᾰ
+byt5	Ἀβδηρίτης	N;VOC(SG)	Ἀβδηρῑ́τη
+neural	Ἀβδηρίτης	N;VOC(SG)	Ᾰ̓βδηρῐ́τᾰ
+------------------------
+ref		Ἔλυμος	N;ACC(DU)	Ἐλύμω
+byt5	Ἔλυμος	N;ACC(DU)	Ἔλυμω
+neural	Ἔλυμος	N;ACC(DU)	λύμω
+
+ref		Ἔλυμος	N;ACC(PL)	Ἐλύμους
+byt5	Ἔλυμος	N;ACC(PL)	Ἔλυμους
+neural	Ἔλυμος	N;ACC(PL)	λύμους
+
+ref		Ἔλυμος	N;DAT(DU)	Ἐλύμοιν
+byt5	Ἔλυμος	N;DAT(DU)	Ἔλύμοιν
+neural	Ἔλυμος	N;DAT(DU)	ολύμοιν
+
+ref		Ἔλυμος	N;DAT(PL)	Ἐλύμοις
+byt5	Ἔλυμος	N;DAT(PL)	Ἔλύμοις
+neural	Ἔλυμος	N;DAT(PL)	ολύμοις
+
+ref		Ἔλυμος	N;DAT(SG)	Ἐλύμῳ
+byt5	Ἔλυμος	N;DAT(SG)	Ἔλυμῳ
+neural	Ἔλυμος	N;DAT(SG)	λύμῳ
+
+ref		Ἔλυμος	N;GEN(DU)	Ἐλύμοιν
+byt5	Ἔλυμος	N;GEN(DU)	Ἔλύμοιν
+neural	Ἔλυμος	N;GEN(DU)	ολύμοιν
+
+ref		Ἔλυμος	N;GEN(PL)	Ἐλύμων
+byt5	Ἔλυμος	N;GEN(PL)	Ἔλυμων
+neural	Ἔλυμος	N;GEN(PL)	ολύμων
+
+ref		Ἔλυμος	N;GEN(SG)	Ἐλύμου
+byt5	Ἔλυμος	N;GEN(SG)	Ἔλυμου
+neural	Ἔλυμος	N;GEN(SG)	λύμου
+
+ref		Ἔλυμος	N;NOM(DU)	Ἐλύμω
+byt5	Ἔλυμος	N;NOM(DU)	Ἔλύμω
+neural	Ἔλυμος	N;NOM(DU)	λύμω
+
+ref		Ἔλυμος	N;VOC(DU)	Ἐλύμω
+byt5	Ἔλυμος	N;VOC(DU)	Ἔλύμω
+neural	Ἔλυμος	N;VOC(DU)	λύμω
+
+ref		Ἠπειρώτης	N;GEN(PL)	Ἠπειρωτῶν
+byt5	Ἠπειρώτης	N;GEN(PL)	Ἠπειρώτων
+neural	Ἠπειρώτης	N;GEN(PL)	λειρωτῶν
+
+ref		Ἠπειρώτης	N;NOM(PL)	Ἠπειρῶται
+byt5	Ἠπειρώτης	N;NOM(PL)	Ἠπειρώται
+neural	Ἠπειρώτης	N;NOM(PL)	λειριῶται
+
+ref		Ἠπειρώτης	N;VOC(PL)	Ἠπειρῶται
+byt5	Ἠπειρώτης	N;VOC(PL)	Ἠπειρώται
+neural	Ἠπειρώτης	N;VOC(PL)	λειριῶται
+
+ref		Ἠπειρώτης	N;VOC(SG)	Ἠπειρῶτᾰ
+byt5	Ἠπειρώτης	N;VOC(SG)	Ἠπειρώτη
+neural	Ἠπειρώτης	N;VOC(SG)	λειρῶτᾰ
+------------------------
+ref		ὀνοματοποιία	N;ACC(DU)	ὀνομᾰτοποιῐ́ᾱ
+byt5	ὀνοματοποιία	N;ACC(DU)	ὀνοματοποιῐ́ᾱ
+neural	ὀνοματοποιία	N;ACC(DU)	ὀνοματοποιῐ́ᾱ
+
+ref		ὀνοματοποιία	N;ACC(PL)	ὀνομᾰτοποιῐ́ᾱς
+byt5	ὀνοματοποιία	N;ACC(PL)	ὀνοματοποιῐ́ᾱς
+neural	ὀνοματοποιία	N;ACC(PL)	ὀνοματοποιῐ́ᾱς
+
+ref		ὀνοματοποιία	N;ACC(SG)	ὀνομᾰτοποιῐ́ᾱν
+byt5	ὀνοματοποιία	N;ACC(SG)	ὀνοματοποιῐ́ᾱν
+neural	ὀνοματοποιία	N;ACC(SG)	ὀνοματοποιίᾱν
+
+ref		ὀνοματοποιία	N;DAT(DU)	ὀνομᾰτοποιῐ́αιν
+byt5	ὀνοματοποιία	N;DAT(DU)	ὀνοματοποιῐ́αιν
+neural	ὀνοματοποιία	N;DAT(DU)	ὀνοματοποιῐ́αιν
+
+ref		ὀνοματοποιία	N;DAT(PL)	ὀνομᾰτοποιῐ́αις
+byt5	ὀνοματοποιία	N;DAT(PL)	ὀνοματοποιῐ́αις
+neural	ὀνοματοποιία	N;DAT(PL)	ὀνοματοποιῐ́αις
+
+ref		ὀνοματοποιία	N;DAT(SG)	ὀνομᾰτοποιῐ́ᾳ
+byt5	ὀνοματοποιία	N;DAT(SG)	ὀνοματοποιῐ́ᾳ
+neural	ὀνοματοποιία	N;DAT(SG)	ὀνοματοποιίᾳ
+
+ref		ὀνοματοποιία	N;GEN(DU)	ὀνομᾰτοποιῐ́αιν
+byt5	ὀνοματοποιία	N;GEN(DU)	ὀνοματοποιῐ́αιν
+neural	ὀνοματοποιία	N;GEN(DU)	ὀνοματοποιῐ́αιν
+
+ref		ὀνοματοποιία	N;GEN(PL)	ὀνομᾰτοποιῐῶν
+byt5	ὀνοματοποιία	N;GEN(PL)	ὀνοματοποιῐῶν
+neural	ὀνοματοποιία	N;GEN(PL)	ὀνοματοποιῶν
+
+ref		ὀνοματοποιία	N;GEN(SG)	ὀνομᾰτοποιῐ́ᾱς
+byt5	ὀνοματοποιία	N;GEN(SG)	ὀνοματοποιῐ́ᾱς
+neural	ὀνοματοποιία	N;GEN(SG)	ὀνοματοποιίᾱς
+
+ref		ὀνοματοποιία	N;NOM(DU)	ὀνομᾰτοποιῐ́ᾱ
+byt5	ὀνοματοποιία	N;NOM(DU)	ὀνοματοποιῐ́ᾱ
+neural	ὀνοματοποιία	N;NOM(DU)	ὀνοματοποιῐ́ᾱ
+
+ref		ὀνοματοποιία	N;NOM(PL)	ὀνομᾰτοποιῐ́αι
+byt5	ὀνοματοποιία	N;NOM(PL)	ὀνοματοποιῐ́αι
+neural	ὀνοματοποιία	N;NOM(PL)	ὀνοματοποιῐ́αι
+
+ref		ὀνοματοποιία	N;NOM(SG)	ὀνομᾰτοποιῐ́ᾱ
+byt5	ὀνοματοποιία	N;NOM(SG)	ὀνοματοποιῐ́ᾱ
+neural	ὀνοματοποιία	N;NOM(SG)	ὀνοματοποιῐ́ᾱ
+
+ref		ὀνοματοποιία	N;VOC(DU)	ὀνομᾰτοποιῐ́ᾱ
+byt5	ὀνοματοποιία	N;VOC(DU)	ὀνοματοποιῐ́ᾱ
+neural	ὀνοματοποιία	N;VOC(DU)	ὀνοματοποιῐ́ᾱ
+
+ref		ὀνοματοποιία	N;VOC(PL)	ὀνομᾰτοποιῐ́αι
+byt5	ὀνοματοποιία	N;VOC(PL)	ὀνοματοποιῐ́αι
+neural	ὀνοματοποιία	N;VOC(PL)	ὀνοματοποιῐ́αι
+
+ref		ὀνοματοποιία	N;VOC(SG)	ὀνομᾰτοποιῐ́ᾱ
+byt5	ὀνοματοποιία	N;VOC(SG)	ὀνοματοποιῐ́ᾱ
+neural	ὀνοματοποιία	N;VOC(SG)	ὀνοματοποιῖᾰ
+------------------------
+ref		ὀστοῦν	N;ACC(DU)	ὀστώ
+byt5	ὀστοῦν	N;ACC(DU)	ὀστοῦν
+neural	ὀστοῦν	N;ACC(DU)	ὀστούνε
+
+ref		ὀστοῦν	N;ACC(PL)	ὀστᾶ
+byt5	ὀστοῦν	N;ACC(PL)	ὀστοῦντᾰ
+neural	ὀστοῦν	N;ACC(PL)	ὀστοῦνᾰ
+
+ref		ὀστοῦν	N;DAT(DU)	ὀστοῖν
+byt5	ὀστοῦν	N;DAT(DU)	ὀστοίνοιν
+neural	ὀστοῦν	N;DAT(DU)	ὀστούνοιν
+
+ref		ὀστοῦν	N;DAT(PL)	ὀστοῖς
+byt5	ὀστοῦν	N;DAT(PL)	ὀστοῖσῐ(ν)
+neural	ὀστοῦν	N;DAT(PL)	ὀστούσοις
+
+ref		ὀστοῦν	N;DAT(SG)	ὀστῷ
+byt5	ὀστοῦν	N;DAT(SG)	ὀστοῦ
+neural	ὀστοῦν	N;DAT(SG)	ὀστούνῐ
+
+ref		ὀστοῦν	N;GEN(DU)	ὀστοῖν
+byt5	ὀστοῦν	N;GEN(DU)	ὀστοίνοιν
+neural	ὀστοῦν	N;GEN(DU)	ὀστούνοιν
+
+ref		ὀστοῦν	N;GEN(PL)	ὀστῶν
+byt5	ὀστοῦν	N;GEN(PL)	ὀστοῖς
+neural	ὀστοῦν	N;GEN(PL)	ὀστούνων
+
+ref		ὀστοῦν	N;GEN(SG)	ὀστοῦ
+byt5	ὀστοῦν	N;GEN(SG)	ὀστοῦντος
+neural	ὀστοῦν	N;GEN(SG)	ὀστούνος
+
+ref		ὀστοῦν	N;NOM(DU)	ὀστώ
+byt5	ὀστοῦν	N;NOM(DU)	ὀστοῦν
+neural	ὀστοῦν	N;NOM(DU)	ὀστούνε
+
+ref		ὀστοῦν	N;NOM(PL)	ὀστᾶ
+byt5	ὀστοῦν	N;NOM(PL)	ὀστοῦν
+neural	ὀστοῦν	N;NOM(PL)	ὀστοῦνᾰ
+
+ref		ὀστοῦν	N;VOC(DU)	ὀστώ
+byt5	ὀστοῦν	N;VOC(DU)	ὀστοῦν
+neural	ὀστοῦν	N;VOC(DU)	ὀστούνε
+
+ref		ὀστοῦν	N;VOC(PL)	ὀστᾶ
+byt5	ὀστοῦν	N;VOC(PL)	ὀστοῦν
+neural	ὀστοῦν	N;VOC(PL)	ὀστοῦνᾰ
+
+ref		ὀστοῦν	N;VOC(SG)	ὀστοῦν
+byt5	ὀστοῦν	N;VOC(SG)	ὀστοῦ
+neural	ὀστοῦν	N;VOC(SG)	ὀστοῦνον
+
+ref		ὁμόγραφος	ADJ;DAT(DU;FEM)	ὁμογράφοιν
+byt5	ὁμόγραφος	ADJ;DAT(DU;FEM)	ὁμογρᾰ́φοιν
+neural	ὁμόγραφος	ADJ;DAT(DU;FEM)	ὁμογρᾰ́φοιν
+
+ref		ὁμόγραφος	ADJ;DAT(DU;NEUT)	ὁμογράφοιν
+byt5	ὁμόγραφος	ADJ;DAT(DU;NEUT)	ὁμογρᾰ́φοιν
+neural	ὁμόγραφος	ADJ;DAT(DU;NEUT)	ὁμογρᾰ́φοιν
+
+ref		ὁμόγραφος	ADJ;DAT(SG;FEM)	ὁμογράφῳ
+byt5	ὁμόγραφος	ADJ;DAT(SG;FEM)	ὁμογρᾰ́φῳ
+neural	ὁμόγραφος	ADJ;DAT(SG;FEM)	ὁμογρᾰ́φῳ
+
+ref		ὁμόγραφος	ADJ;DAT(SG;MASC)	ὁμογράφῳ
+byt5	ὁμόγραφος	ADJ;DAT(SG;MASC)	ὁμογρᾰ́φῳ
+neural	ὁμόγραφος	ADJ;DAT(SG;MASC)	ὁμογρᾰ́φῳ
+------------------------
+ref		ὅμιλος	N;ACC(DU)	ὁμῑ́λω
+byt5	ὅμιλος	N;ACC(DU)	ὅμῑ́λω
+neural	ὅμιλος	N;ACC(DU)	ομῑ́λω
+
+ref		ὅμιλος	N;ACC(PL)	ὁμῑ́λους
+byt5	ὅμιλος	N;ACC(PL)	ὅμῑ́λους
+neural	ὅμιλος	N;ACC(PL)	ομῑ́λους
+
+ref		ὅμιλος	N;ACC(SG)	ὅμῑλον
+byt5	ὅμιλος	N;ACC(SG)	ὅμίλον
+neural	ὅμιλος	N;ACC(SG)	αιλῐον
+
+ref		ὅμιλος	N;DAT(DU)	ὁμῑ́λοιν
+byt5	ὅμιλος	N;DAT(DU)	ὅμῑ́λοιν
+neural	ὅμιλος	N;DAT(DU)	αίλλοιν
+
+ref		ὅμιλος	N;DAT(PL)	ὁμῑ́λοις
+byt5	ὅμιλος	N;DAT(PL)	ὅμῑ́λοις
+neural	ὅμιλος	N;DAT(PL)	ομῑ́λοις
+
+ref		ὅμιλος	N;DAT(SG)	ὁμῑ́λῳ
+byt5	ὅμιλος	N;DAT(SG)	ὅμῑ́λῳ
+neural	ὅμιλος	N;DAT(SG)	ομῑ́λῳ
+
+ref		ὅμιλος	N;GEN(DU)	ὁμῑ́λοιν
+byt5	ὅμιλος	N;GEN(DU)	ὅμῑ́λοιν
+neural	ὅμιλος	N;GEN(DU)	αίλλοιν
+
+ref		ὅμιλος	N;GEN(PL)	ὁμῑ́λων
+byt5	ὅμιλος	N;GEN(PL)	ὅμῑ́λων
+neural	ὅμιλος	N;GEN(PL)	αίλων
+
+ref		ὅμιλος	N;GEN(SG)	ὁμῑ́λου
+byt5	ὅμιλος	N;GEN(SG)	ὅμῑ́λου
+neural	ὅμιλος	N;GEN(SG)	αιλῐ́ου
+
+ref		ὅμιλος	N;NOM(DU)	ὁμῑ́λω
+byt5	ὅμιλος	N;NOM(DU)	ὅμῑ́λω
+neural	ὅμιλος	N;NOM(DU)	ομῑ́λω
+
+ref		ὅμιλος	N;NOM(PL)	ὅμῑλοι
+byt5	ὅμιλος	N;NOM(PL)	ὅμῐ́λοι
+neural	ὅμιλος	N;NOM(PL)	αιλῐ́οι
+
+ref		ὅμιλος	N;NOM(SG)	ὅμῑλος
+byt5	ὅμιλος	N;NOM(SG)	ὅμίλος
+neural	ὅμιλος	N;NOM(SG)	αιλος
+
+ref		ὅμιλος	N;VOC(DU)	ὁμῑ́λω
+byt5	ὅμιλος	N;VOC(DU)	ὅμῑ́λω
+neural	ὅμιλος	N;VOC(DU)	ομῑ́λω
+
+ref		ὅμιλος	N;VOC(PL)	ὅμῑλοι
+byt5	ὅμιλος	N;VOC(PL)	ὅμίλοι
+neural	ὅμιλος	N;VOC(PL)	αιλῐ́οι
+
+ref		ὅμιλος	N;VOC(SG)	ὅμῑλε
+byt5	ὅμιλος	N;VOC(SG)	ὅμίλε
+neural	ὅμιλος	N;VOC(SG)	αιλλε
+------------------------
+ref		ῥάδιξ	N;ACC(DU)	ῥᾱδῖκε
+byt5	ῥάδιξ	N;ACC(DU)	ῥᾰ́δῐκε
+neural	ῥάδιξ	N;ACC(DU)	ῥᾰ́δῐκε
+
+ref		ῥάδιξ	N;ACC(PL)	ῥᾱδῖκᾰς
+byt5	ῥάδιξ	N;ACC(PL)	ῥᾰ́δῐκᾰς
+neural	ῥάδιξ	N;ACC(PL)	ῥᾰ́δᾰκᾰς
+
+ref		ῥάδιξ	N;ACC(SG)	ῥᾱδῖκᾰ
+byt5	ῥάδιξ	N;ACC(SG)	ῥᾰ́δῐκᾰ
+neural	ῥάδιξ	N;ACC(SG)	ῥᾰ́δῐκᾰ
+
+ref		ῥάδιξ	N;DAT(DU)	ῥᾱδῑ́κοιν
+byt5	ῥάδιξ	N;DAT(DU)	ῥᾰδῐκοῖν
+neural	ῥάδιξ	N;DAT(DU)	ῥᾰδῑ́κοιν
+
+ref		ῥάδιξ	N;DAT(PL)	ῥᾱδῖκῐ(ν)
+byt5	ῥάδιξ	N;DAT(PL)	ῥᾰδῐκοῖς
+neural	ῥάδιξ	N;DAT(PL)	ῥᾰ́διξῐ(ν)
+
+ref		ῥάδιξ	N;DAT(SG)	ῥᾱδῖκῐ
+byt5	ῥάδιξ	N;DAT(SG)	ῥᾰδῐ́κῃ
+neural	ῥάδιξ	N;DAT(SG)	ῥᾰ́δικῐ
+
+ref		ῥάδιξ	N;GEN(DU)	ῥᾱδῑ́κοιν
+byt5	ῥάδιξ	N;GEN(DU)	ῥᾰδῐκοῖν
+neural	ῥάδιξ	N;GEN(DU)	ῥᾰδᾰ́κοιν
+
+ref		ῥάδιξ	N;GEN(PL)	ῥᾱδῑ́κων
+byt5	ῥάδιξ	N;GEN(PL)	ῥᾰδῐκῶν
+neural	ῥάδιξ	N;GEN(PL)	ῥᾰδῑ́κων
+
+ref		ῥάδιξ	N;GEN(SG)	ῥᾱδῖκος
+byt5	ῥάδιξ	N;GEN(SG)	ῥᾰ́δῐκος
+neural	ῥάδιξ	N;GEN(SG)	ῥᾰ́δῐκος
+
+ref		ῥάδιξ	N;NOM(DU)	ῥᾱδῖκε
+byt5	ῥάδιξ	N;NOM(DU)	ῥᾰ́δῐκε
+neural	ῥάδιξ	N;NOM(DU)	ῥᾰ́δῐκε
+
+ref		ῥάδιξ	N;NOM(PL)	ῥᾱδῖκες
+byt5	ῥάδιξ	N;NOM(PL)	ῥᾰ́δῐκες
+neural	ῥάδιξ	N;NOM(PL)	ῥᾰ́δᾰκες
+
+ref		ῥάδιξ	N;NOM(SG)	ῥᾱ́δῑξ
+byt5	ῥάδιξ	N;NOM(SG)	ῥᾰ́δῐξ
+neural	ῥάδιξ	N;NOM(SG)	ῥᾰ́δῐξ
+
+ref		ῥάδιξ	N;VOC(DU)	ῥᾱδῖκε
+byt5	ῥάδιξ	N;VOC(DU)	ῥᾰ́δῐκε
+neural	ῥάδιξ	N;VOC(DU)	ῥᾰ́δῐκε
+
+ref		ῥάδιξ	N;VOC(PL)	ῥᾱδῖκες
+byt5	ῥάδιξ	N;VOC(PL)	ῥᾰ́δῐκες
+neural	ῥάδιξ	N;VOC(PL)	ῥᾰ́δᾰκες
+
+ref		ῥάδιξ	N;VOC(SG)	ῥᾱ́δῑξ
+byt5	ῥάδιξ	N;VOC(SG)	ῥᾰ́δῐκ
+neural	ῥάδιξ	N;VOC(SG)	ῥᾰ́δῐξ

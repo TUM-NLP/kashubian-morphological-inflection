@@ -1,0 +1,298 @@
+Berylliumsalz	N;GEN(SG)	Berylliumsalzes
+B e r y l l i u m s a l z s	B e r y l l i u m s a l z e s	0.3395760655403137	1
+Bettlaken	N;ACC(PL)	Bettlaken
+B e t t l ä k e n	B e t t l a k e n	0.15501706302165985	1
+Bettlaken	N;DAT(PL)	Bettlaken
+B e t t l ä k e n	B e t t l a k e n	0.1499723494052887	1
+Bettlaken	N;NOM(PL)	Bettlaken
+B e t t l ä k e n	B e t t l a k e n	0.11985385417938232	1
+Bild	N;GEN(SG)	Bildes
+B i l d s	B i l d e s	0.27298223972320557	1
+Brettspiel	N;ACC(PL)	Brettspiele
+B r e t t s p i e l	B r e t t s p i e l e	0.5615357160568237	1
+Brettspiel	N;DAT(PL)	Brettspielen
+B r e t t s p i e l n	B r e t t s p i e l e n	0.4248991012573242	1
+Brettspiel	N;GEN(PL)	Brettspiele
+B r e t t s p i e l	B r e t t s p i e l e	0.5544904470443726	1
+Brettspiel	N;GEN(SG)	Brettspieles
+B r e t t s p i e l s	B r e t t s p i e l e s	0.5339758396148682	1
+Brettspiel	N;NOM(PL)	Brettspiele
+B r e t t s p i e l	B r e t t s p i e l e	0.5638052821159363	1
+Elfe	N;ACC(PL)	Elfen
+E l f e s	E l f e n	0.5984966158866882	1
+Elfe	N;ACC(SG)	Elfen
+E l f e	E l f e n	1.2402960062026978	1
+Elfe	N;DAT(SG)	Elfen
+E l f e	E l f e n	1.2421435117721558	1
+Elfe	N;GEN(SG)	Elfen
+E l f e s	E l f e n	2.3364977836608887	1
+Elfe	N;NOM(PL)	Elfen
+E l f e s	E l f e n	0.6388733983039856	1
+Fichtelit	N;GEN(SG)	Fichtelits
+F i c h t e l i t	F i c h t e l i t s	0.6252505779266357	1
+Kakerlak	N;ACC(PL)	Kakerlaken
+K a k e r l ä k e	K a k e r l a k e n	1.2230403423309326	2
+Kakerlak	N;ACC(SG)	Kakerlaken
+K a k e r l a k	K a k e r l a k e n	1.4021683931350708	2
+Kakerlak	N;DAT(PL)	Kakerlaken
+K a k e r l ä k e r n	K a k e r l a k e n	0.5404942035675049	2
+Kakerlak	N;DAT(SG)	Kakerlaken
+K a k e r l a k	K a k e r l a k e n	1.3949989080429077	2
+Kakerlak	N;GEN(PL)	Kakerlaken
+K a k e r l ä k e r	K a k e r l a k e n	1.2119812965393066	2
+Kakerlak	N;GEN(SG)	Kakerlaken
+K a k e r l a k e s	K a k e r l a k e n	0.8117462396621704	1
+Kakerlak	N;NOM(PL)	Kakerlaken
+K a k e r l ä k e	K a k e r l a k e n	1.2111493349075317	2
+Lammfellhandschuh	N;GEN(SG)	Lammfellhandschuhs
+L a m m f e l l h a n d s c h u h e s	L a m m f e l l h a n d s c h u h s	0.29124680161476135	1
+Milchkuh	N;ACC(PL)	Milchkühe
+M i l c h k u h e	M i l c h k ü h e	0.7779317498207092	1
+Milchkuh	N;DAT(PL)	Milchkühen
+M i l c h k u h e n	M i l c h k ü h e n	0.7244203090667725	1
+Milchkuh	N;GEN(PL)	Milchkühe
+M i l c h k u h e	M i l c h k ü h e	0.8012018203735352	1
+Milchkuh	N;GEN(SG)	Milchkuh
+M i l c h k u h e s	M i l c h k u h	0.7734503746032715	2
+Milchkuh	N;NOM(PL)	Milchkühe
+M i l c h k u h e	M i l c h k ü h e	0.7666863203048706	1
+Nudelholz	N;ACC(PL)	Nudelhölzer
+N u d e l h o l z e	N u d e l h ö l z e r	1.2388222217559814	2
+Nudelholz	N;DAT(PL)	Nudelhölzern
+N u d e l h o l z e n	N u d e l h ö l z e r n	1.1452958583831787	2
+Nudelholz	N;GEN(PL)	Nudelhölzer
+N u d e l h o l z e	N u d e l h ö l z e r	1.2376290559768677	2
+Nudelholz	N;NOM(PL)	Nudelhölzer
+N u d e l h o l z e	N u d e l h ö l z e r	1.239428162574768	2
+Omnipotenz	N;GEN(SG)	Omnipotenz
+O m n i p o t e n z e s	O m n i p o t e n z	0.4968372583389282	2
+Reaktionsschritt	N;ACC(PL)	Reaktionsschritte
+R e a k t i o n s c h r i t t e r	R e a k t i o n s s c h r i t t e	0.453168123960495	2
+Reaktionsschritt	N;ACC(SG)	Reaktionsschritt
+R e a k t i o n s c h r i t t	R e a k t i o n s s c h r i t t	0.33288049697875977	1
+Reaktionsschritt	N;DAT(PL)	Reaktionsschritten
+R e a k t i o n s c h r i t t e r n	R e a k t i o n s s c h r i t t e n	0.3878408670425415	2
+Reaktionsschritt	N;DAT(SG)	Reaktionsschritt
+R e a k t i o n s c h r i t t	R e a k t i o n s s c h r i t t	0.3290386199951172	1
+Reaktionsschritt	N;GEN(PL)	Reaktionsschritte
+R e a k t i o n s c h r i t t e r	R e a k t i o n s s c h r i t t e	0.4554506838321686	2
+Reaktionsschritt	N;GEN(SG)	Reaktionsschritts
+R e a k t i o n s c h r i t t e s	R e a k t i o n s s c h r i t t s	0.42816221714019775	2
+Reaktionsschritt	N;NOM(PL)	Reaktionsschritte
+R e a k t i o n s c h r i t t e r	R e a k t i o n s s c h r i t t e	0.45292091369628906	2
+Reaktionsschritt	N;NOM(SG)	Reaktionsschritt
+R e a k t i o n s c h r i t t	R e a k t i o n s s c h r i t t	0.3341754972934723	1
+Schlagbaum	N;ACC(PL)	Schlagbäume
+S c h l ä g b a u m e	S c h l a g b ä u m e	0.12021294981241226	2
+Tensid	N;GEN(SG)	Tensides
+T e n s i d s	T e n s i d e s	0.642047643661499	1
+Theodizee	N;ACC(PL)	Theodizeen
+T h e o d i z e n	T h e o d i z e e n	0.7329170107841492	1
+Theodizee	N;ACC(SG)	Theodizee
+T h e o d i z e	T h e o d i z e e	0.7911537885665894	1
+Theodizee	N;DAT(PL)	Theodizeen
+T h e o d i z e n	T h e o d i z e e n	0.7335138916969299	1
+Theodizee	N;DAT(SG)	Theodizee
+T h e o d i z e	T h e o d i z e e	0.794582724571228	1
+Theodizee	N;GEN(PL)	Theodizeen
+T h e o d i z e n	T h e o d i z e e n	0.7342348694801331	1
+Theodizee	N;GEN(SG)	Theodizee
+T h e o d i z e	T h e o d i z e e	0.8484760522842407	1
+Theodizee	N;NOM(PL)	Theodizeen
+T h e o d i z e n	T h e o d i z e e n	0.7370392084121704	1
+Theodizee	N;NOM(SG)	Theodizee
+T h e o d i z e	T h e o d i z e e	0.7791837453842163	1
+Umweltministerium	N;ACC(PL)	Umweltministerien
+U m w e l t m i n i s t e r i u m e	U m w e l t m i n i s t e r i e n	0.6994044780731201	3
+Umweltministerium	N;DAT(PL)	Umweltministerien
+U m w e l t m i n i s t e r i u m e n	U m w e l t m i n i s t e r i e n	0.6798751354217529	2
+Umweltministerium	N;GEN(PL)	Umweltministerien
+U m w e l t m i n i s t e r i u m e	U m w e l t m i n i s t e r i e n	0.707627534866333	3
+Umweltministerium	N;NOM(PL)	Umweltministerien
+U m w e l t m i n i s t e r i u m e	U m w e l t m i n i s t e r i e n	0.7068140506744385	3
+Verschwörungstheoretiker	N;ACC(PL)	Verschwörungstheoretiker
+V e r s c h w ö r u n g s t h e r	V e r s c h w ö r u n g s t h e o r e t i k e r	1.1323790550231934	7
+Verschwörungstheoretiker	N;ACC(SG)	Verschwörungstheoretiker
+V e r s c h w ö r u n g s t h e r e i t	V e r s c h w ö r u n g s t h e o r e t i k e r	0.9753122925758362	5
+Verschwörungstheoretiker	N;DAT(PL)	Verschwörungstheoretikern
+V e r s c h w ö r u n g s t h e r n t e n	V e r s c h w ö r u n g s t h e o r e t i k e r n	1.1142386198043823	5
+Verschwörungstheoretiker	N;DAT(SG)	Verschwörungstheoretiker
+V e r s c h w ö r u n g s t h e r e i t	V e r s c h w ö r u n g s t h e o r e t i k e r	0.9834897518157959	5
+Verschwörungstheoretiker	N;GEN(PL)	Verschwörungstheoretiker
+V e r s c h w ö r u n g s t h e r	V e r s c h w ö r u n g s t h e o r e t i k e r	1.119551181793213	7
+Verschwörungstheoretiker	N;GEN(SG)	Verschwörungstheoretikers
+V e r s c h w ö r u n g s t h e r e i t	V e r s c h w ö r u n g s t h e o r e t i k e r s	1.1234490871429443	6
+Verschwörungstheoretiker	N;NOM(PL)	Verschwörungstheoretiker
+V e r s c h w ö r u n g s t h e r	V e r s c h w ö r u n g s t h e o r e t i k e r	1.1360844373703003	7
+Verschwörungstheoretiker	N;NOM(SG)	Verschwörungstheoretiker
+V e r s c h w ö r u n g s t h e r e i t	V e r s c h w ö r u n g s t h e o r e t i k e r	0.9409844279289246	5
+Vorbild	N;ACC(PL)	Vorbilder
+V o r b i l d e	V o r b i l d e r	0.47249358892440796	1
+Vorbild	N;DAT(PL)	Vorbildern
+V o r b i l d e n	V o r b i l d e r n	0.5344229340553284	1
+Vorbild	N;GEN(PL)	Vorbilder
+V o r b i l d e	V o r b i l d e r	0.4141920208930969	1
+Vorbild	N;NOM(PL)	Vorbilder
+V o r b i l d e	V o r b i l d e r	0.4825766682624817	1
+Zahnärztin	N;ACC(PL)	Zahnärztinnen
+Z a h n ä r z t i n e	Z a h n ä r z t i n n e n	0.244904026389122	2
+Zahnärztin	N;DAT(PL)	Zahnärztinnen
+Z a h n ä r z t i n e n	Z a h n ä r z t i n n e n	0.2591616213321686	1
+Zahnärztin	N;GEN(PL)	Zahnärztinnen
+Z a h n ä r z t i n e	Z a h n ä r z t i n n e n	0.2376546859741211	2
+Zahnärztin	N;NOM(PL)	Zahnärztinnen
+Z a h n ä r z t i n e	Z a h n ä r z t i n n e n	0.23679044842720032	2
+ablaufen	V.PTCP;PST	abgelaufen
+a b g e l a u f t	a b g e l a u f e n	0.5506443977355957	2
+ablaufen	V;IND;PRS;NOM(3,SG)	läuft ab
+l a u f t   a b	l ä u f t   a b	0.7558565735816956	1
+ablaufen	V;IND;PST;NOM(1,PL)	liefen ab
+l a u f t e n   a b	l i e f e n   a b	0.5417676568031311	3
+ablaufen	V;IND;PST;NOM(2,SG)	liefst ab
+l a u f t e s t   a b	l i e f s t   a b	0.5003020167350769	4
+ablaufen	V;IND;PST;NOM(3,PL)	liefen ab
+l a u f t e n   a b	l i e f e n   a b	0.5290105938911438	3
+ablaufen	V;IND;PST;NOM(3,SG)	lief ab
+l a u f t e   a b	l i e f   a b	0.6428670287132263	4
+ablaufen	V;SBJV;PST;NOM(1,PL)	liefen ab
+l a u f t e n   a b	l i e f e n   a b	0.40254950523376465	3
+ablaufen	V;SBJV;PST;NOM(1,SG)	liefe ab
+l a u f t e   a b	l i e f e   a b	0.36904358863830566	3
+ablaufen	V;SBJV;PST;NOM(2,SG)	liefest ab
+l a u f t e s t   a b	l i e f e s t   a b	0.31726834177970886	3
+aufheben	V;IND;PST;NOM(1,SG)	hob auf
+h i e b   a u f	h o b   a u f	0.7049275636672974	2
+aufheben	V;IND;PST;NOM(2,PL)	hobt auf
+h i e b t   a u f	h o b t   a u f	0.6301286220550537	2
+aufheben	V;IND;PST;NOM(3,PL)	hoben auf
+h i e b e n   a u f	h o b e n   a u f	0.5777524709701538	2
+aufheben	V;IND;PST;NOM(3,SG)	hob auf
+h i e b   a u f	h o b   a u f	0.7481003999710083	2
+aufheben	V;SBJV;PST;NOM(1,PL)	höben auf
+h i e b e n   a u f	h ö b e n   a u f	0.6758042573928833	2
+aufheben	V;SBJV;PST;NOM(3,SG)	höbe auf
+h i e b e   a u f	h ö b e   a u f	0.7470244765281677	2
+ballasten	V;IND;PST;NOM(2,SG)	ballastetest
+b a l l a s t e s t	b a l l a s t e t e s t	0.2367309033870697	2
+ballasten	V;IND;PST;NOM(3,SG)	ballastete
+b a l l i e ß t	b a l l a s t e t e	0.1540909707546234	5
+ballasten	V;SBJV;PST;NOM(2,SG)	ballastetest
+b a l l i e ß t	b a l l a s t e t e s t	0.4005684554576874	6
+ballasten	V;SBJV;PST;NOM(3,SG)	ballastete
+b a l l i e ß t e	b a l l a s t e t e	0.19966216385364532	4
+befördern	V.PTCP;PST	befördert
+b e f o r d e r t	b e f ö r d e r t	0.302346408367157	1
+befördern	V;IND;PST;NOM(3,SG)	beförderte
+b e f o r d e r t e	b e f ö r d e r t e	0.23645029962062836	1
+belügen	V.PTCP;PST	belogen
+b e l ü g t	b e l o g e n	1.858199119567871	3
+belügen	V;IND;PST;NOM(1,PL)	belogen
+b e l ü g t e n	b e l o g e n	1.8791295289993286	2
+belügen	V;IND;PST;NOM(1,SG)	belog
+b e l ü g t e	b e l o g	2.4493401050567627	3
+belügen	V;IND;PST;NOM(2,PL)	belogt
+b e l ü g t e t	b e l o g t	2.097057342529297	3
+belügen	V;SBJV;PST;NOM(2,PL)	belöget
+b e l ü g t e t	b e l ö g e t	1.8568377494812012	2
+belügen	V;SBJV;PST;NOM(3,PL)	belögen
+b e l ü g t e n	b e l ö g e n	1.8539873361587524	2
+einleben	V;IND;PST;NOM(2,PL)	lebtet ein
+l o b t   e i n	l e b t e t   e i n	0.4037122428417206	3
+einleben	V;IND;PST;NOM(3,SG)	lebte ein
+l a b   e i n	l e b t e   e i n	0.172363743185997	3
+entsagen	V;IND;PRS;NOM(1,SG)	entsage
+t s a g e   e n	e n t s a g e	1.2828903198242188	5
+entsagen	V;IND;PRS;NOM(3,PL)	entsagen
+t s a g e n   e n	e n t s a g e n	1.2382092475891113	5
+entsagen	V;IND;PRS;NOM(3,SG)	entsagt
+t s a g t   e n	e n t s a g t	1.194040298461914	5
+entsagen	V;IND;PST;NOM(2,PL)	entsagtet
+t s a g t e t   e n	e n t s a g t e t	0.9040652513504028	5
+entsagen	V;IND;PST;NOM(3,PL)	entsagten
+t s a g t e n   e n	e n t s a g t e n	0.8701733350753784	5
+entsagen	V;IND;PST;NOM(3,SG)	entsagte
+t s a g t e   e n	e n t s a g t e	0.8726528286933899	5
+entsagen	V;SBJV;PRS;NOM(1,PL)	entsagen
+t s a g e n   e n	e n t s a g e n	1.0559277534484863	5
+entsagen	V;SBJV;PRS;NOM(2,PL)	entsaget
+t s a g e t   e n	e n t s a g e t	1.1303575038909912	5
+entsagen	V;SBJV;PRS;NOM(3,PL)	entsagen
+t s a g e n   e n	e n t s a g e n	1.0780017375946045	5
+entsagen	V;SBJV;PRS;NOM(3,SG)	entsage
+t s a g e   e n	e n t s a g e	1.2230114936828613	5
+entsagen	V;SBJV;PST;NOM(1,PL)	entsagten
+t s a g t e n   e n	e n t s a g t e n	0.7398331165313721	5
+entsagen	V;SBJV;PST;NOM(2,PL)	entsagtet
+t s a g t e t   e n	e n t s a g t e t	0.818058967590332	5
+entsagen	V;SBJV;PST;NOM(3,SG)	entsagte
+t s a g t e   e n	e n t s a g t e	0.8791946172714233	5
+entschließen	V;IND;PST;NOM(2,SG)	entschlossest
+e n t s c h l o s s t	e n t s c h l o s s e s t	0.4596795439720154	2
+feilschen	V;IND;PST;NOM(2,SG)	feilschtest
+f e i l s c h s t	f e i l s c h t e s t	1.2392576932907104	2
+feilschen	V;IND;PST;NOM(3,PL)	feilschten
+f e i l s c h e n	f e i l s c h t e n	1.1595425605773926	1
+feilschen	V;SBJV;PST;NOM(1,PL)	feilschten
+f e i l s c h e n	f e i l s c h t e n	0.8972771167755127	1
+feilschen	V;SBJV;PST;NOM(1,SG)	feilschte
+f e i l s c h e	f e i l s c h t e	0.8636873960494995	1
+feilschen	V;SBJV;PST;NOM(3,PL)	feilschten
+f e i l s c h e n	f e i l s c h t e n	0.9067144393920898	1
+feilschen	V;SBJV;PST;NOM(3,SG)	feilschte
+f e i l s c h e	f e i l s c h t e	0.8834788203239441	1
+sabbeln	V;IMP;NOM(2,SG)	sabble
+s a b l e	s a b b l e	0.19674240052700043	1
+umwandeln	V;IND;PRS;NOM(1,SG)	wandle um
+u m w a n d l e	w a n d l e   u m	2.177532196044922	5
+umwandeln	V;IND;PRS;NOM(2,PL)	wandelt um
+u m w a n d e l t	w a n d e l t   u m	2.848874092102051	5
+umwandeln	V;IND;PRS;NOM(2,SG)	wandelst um
+u m w a n d e l s t	w a n d e l s t   u m	2.715703248977661	5
+umwandeln	V;IND;PRS;NOM(3,PL)	wandeln um
+u m w a n d e l n	w a n d e l n   u m	2.791409730911255	5
+umwandeln	V;IND;PRS;NOM(3,SG)	wandelt um
+u m w a n d e l t	w a n d e l t   u m	3.1818747520446777	5
+umwandeln	V;IND;PST;NOM(2,PL)	wandeltet um
+u m w a n d e l t e t	w a n d e l t e t   u m	1.9856040477752686	5
+umwandeln	V;IND;PST;NOM(3,PL)	wandelten um
+u m w a n d e l t e n	w a n d e l t e n   u m	2.194305419921875	5
+umwandeln	V;SBJV;PRS;NOM(1,SG)	wandele um
+u m w a n d e l e	w a n d e l e   u m	2.864577531814575	5
+umwandeln	V;SBJV;PRS;NOM(2,SG)	wandelest um
+u m w a n d e l e s t	w a n d e l e s t   u m	2.6017062664031982	5
+umwandeln	V;SBJV;PST;NOM(1,SG)	wandelte um
+u m w a n d e l t e	w a n d e l t e   u m	2.6247880458831787	5
+wahrnehmen	V.PTCP;PST	wahrgenommen
+g e w a h r n e h m t	w a h r g e n o m m e n	2.7818193435668945	8
+wahrnehmen	V;IMP;NOM(2,PL)	nehmt wahr
+w a h r n e h m t	n e h m t   w a h r	4.219621181488037	9
+wahrnehmen	V;IND;PRS;NOM(1,PL)	nehmen wahr
+w a h r n e h m e n	n e h m e n   w a h r	4.756937503814697	9
+wahrnehmen	V;IND;PRS;NOM(1,SG)	nehme wahr
+w a h r n e h m e	n e h m e   w a h r	3.9588241577148438	9
+wahrnehmen	V;IND;PRS;NOM(2,SG)	nimmst wahr
+w a h r n e h m s t	n i m m s t   w a h r	5.441464900970459	11
+wahrnehmen	V;IND;PST;NOM(2,PL)	nahmt wahr
+w a h r n e h m t e t	n a h m t   w a h r	3.454425573348999	9
+wahrnehmen	V;IND;PST;NOM(3,PL)	nahmen wahr
+w a h r n e h m t e n	n a h m e n   w a h r	3.4269676208496094	9
+wahrnehmen	V;IND;PST;NOM(3,SG)	nahm wahr
+w a h r n e h m t e	n a h m   w a h r	3.495047092437744	8
+wahrnehmen	V;SBJV;PRS;NOM(1,PL)	nehmen wahr
+w a h r n e h m e n	n e h m e n   w a h r	4.787890911102295	9
+wahrnehmen	V;SBJV;PRS;NOM(1,SG)	nehme wahr
+w a h r n e h m e	n e h m e   w a h r	3.7049734592437744	9
+wahrnehmen	V;SBJV;PRS;NOM(3,PL)	nehmen wahr
+w a h r n e h m e n	n e h m e n   w a h r	4.789754867553711	9
+zugeben	V;IND;PRS;NOM(3,SG)	gibt zu
+g e b t   z u	g i b t   z u	0.2773531377315521	1
+Überlebenskunst	N;ACC(PL)	Überlebenskünste
+Ü b e r l e b e n s k e n s t e r	Ü b e r l e b e n s k ü n s t e	0.6645876169204712	2
+Überlebenskunst	N;DAT(PL)	Überlebenskünsten
+Ü b e r l e b e n s k e n s t e r n	Ü b e r l e b e n s k ü n s t e n	0.5065262317657471	2
+Überlebenskunst	N;GEN(PL)	Überlebenskünste
+Ü b e r l e b e n s k e n s t e r	Ü b e r l e b e n s k ü n s t e	0.666426956653595	2
+Überlebenskunst	N;GEN(SG)	Überlebenskunst
+Ü b e r l e b e n s k u n s t e s	Ü b e r l e b e n s k u n s t	0.34498000144958496	2
+Überlebenskunst	N;NOM(PL)	Überlebenskünste
+Ü b e r l e b e n s k e n s t e r	Ü b e r l e b e n s k ü n s t e	0.6584087014198303	2

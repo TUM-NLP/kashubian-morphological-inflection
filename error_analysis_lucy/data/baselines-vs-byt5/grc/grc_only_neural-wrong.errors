@@ -1,0 +1,651 @@
+------------------------
+ref		Βισάλτης	N;ACC(DU)	Βῐσᾰ́λτᾱ
+neural	Βισάλτης	N;ACC(DU)	Βασάλτᾱ
+
+ref		Βισάλτης	N;ACC(PL)	Βῐσᾰ́λτᾱς
+neural	Βισάλτης	N;ACC(PL)	Βασάλτᾱς
+
+ref		Βισάλτης	N;ACC(SG)	Βῐσᾰ́λτην
+neural	Βισάλτης	N;ACC(SG)	Βασάλτην
+
+ref		Βισάλτης	N;DAT(DU)	Βῐσᾰ́λταιν
+neural	Βισάλτης	N;DAT(DU)	Βασάλταιν
+
+ref		Βισάλτης	N;DAT(PL)	Βῐσᾰ́λταις
+neural	Βισάλτης	N;DAT(PL)	Βασάλταις
+
+ref		Βισάλτης	N;DAT(SG)	Βῐσᾰ́λτῃ
+neural	Βισάλτης	N;DAT(SG)	Βασάλτῃ
+
+ref		Βισάλτης	N;GEN(DU)	Βῐσᾰ́λταιν
+neural	Βισάλτης	N;GEN(DU)	Βασάλταιν
+
+ref		Βισάλτης	N;GEN(SG)	Βῐσᾰ́λτου
+neural	Βισάλτης	N;GEN(SG)	Βασάλτου
+
+ref		Βισάλτης	N;NOM(DU)	Βῐσᾰ́λτᾱ
+neural	Βισάλτης	N;NOM(DU)	Βασάλτᾱ
+
+ref		Βισάλτης	N;NOM(PL)	Βῐσᾰ́λται
+neural	Βισάλτης	N;NOM(PL)	Βασᾶλται
+
+ref		Βισάλτης	N;NOM(SG)	Βῐσᾰ́λτης
+neural	Βισάλτης	N;NOM(SG)	Βασάλτης
+
+ref		Βισάλτης	N;VOC(DU)	Βῐσᾰ́λτᾱ
+neural	Βισάλτης	N;VOC(DU)	Βασάλτᾱ
+
+ref		Βισάλτης	N;VOC(PL)	Βῐσᾰ́λται
+neural	Βισάλτης	N;VOC(PL)	Βασᾶλται
+------------------------
+ref		Μιθριακός	ADJ;ACC(DU;MASC)	Μιθριακώ
+neural	Μιθριακός	ADJ;ACC(DU;MASC)	Μῐθριακώ
+
+ref		Μιθριακός	ADJ;ACC(DU;NEUT)	Μιθριακώ
+neural	Μιθριακός	ADJ;ACC(DU;NEUT)	Μῐθριακώ
+
+ref		Μιθριακός	ADJ;ACC(PL;FEM)	Μιθριακᾱ́ς
+neural	Μιθριακός	ADJ;ACC(PL;FEM)	Μῐθριακᾱ́ς
+
+ref		Μιθριακός	ADJ;ACC(PL;MASC)	Μιθριακούς
+neural	Μιθριακός	ADJ;ACC(PL;MASC)	Μῐθριακούς
+
+ref		Μιθριακός	ADJ;ACC(PL;NEUT)	Μιθριακᾰ́
+neural	Μιθριακός	ADJ;ACC(PL;NEUT)	Μῐθριακᾰ́
+
+ref		Μιθριακός	ADJ;ACC(SG;FEM)	Μιθριακήν
+neural	Μιθριακός	ADJ;ACC(SG;FEM)	Μῐθριακήν
+
+ref		Μιθριακός	ADJ;DAT(DU;FEM)	Μιθριακαῖν
+neural	Μιθριακός	ADJ;DAT(DU;FEM)	Μῐθριακαῖν
+
+ref		Μιθριακός	ADJ;DAT(DU;MASC)	Μιθριακοῖν
+neural	Μιθριακός	ADJ;DAT(DU;MASC)	Μῐθριακοῖν
+
+ref		Μιθριακός	ADJ;DAT(PL;MASC)	Μιθριακοῖς
+neural	Μιθριακός	ADJ;DAT(PL;MASC)	Μῐθριακοῖς
+
+ref		Μιθριακός	ADJ;DAT(SG;FEM)	Μιθριακῇ
+neural	Μιθριακός	ADJ;DAT(SG;FEM)	Μῐθριακῇ
+
+ref		Μιθριακός	ADJ;DAT(SG;MASC)	Μιθριακῷ
+neural	Μιθριακός	ADJ;DAT(SG;MASC)	Μῐθριακῷ
+
+ref		Μιθριακός	ADJ;DAT(SG;NEUT)	Μιθριακῷ
+neural	Μιθριακός	ADJ;DAT(SG;NEUT)	Μῐθριακῷ
+
+ref		Μιθριακός	ADJ;GEN(DU;FEM)	Μιθριακαῖν
+neural	Μιθριακός	ADJ;GEN(DU;FEM)	Μῐθριακαῖν
+
+ref		Μιθριακός	ADJ;GEN(DU;MASC)	Μιθριακοῖν
+neural	Μιθριακός	ADJ;GEN(DU;MASC)	Μῐθριακοῖν
+
+ref		Μιθριακός	ADJ;GEN(DU;NEUT)	Μιθριακοῖν
+neural	Μιθριακός	ADJ;GEN(DU;NEUT)	Μῐθρῐκοῖν
+
+ref		Μιθριακός	ADJ;GEN(PL;MASC)	Μιθριακῶν
+neural	Μιθριακός	ADJ;GEN(PL;MASC)	Μῐθριακῶν
+
+ref		Μιθριακός	ADJ;GEN(PL;NEUT)	Μιθριακῶν
+neural	Μιθριακός	ADJ;GEN(PL;NEUT)	Μῐθριακῶν
+
+ref		Μιθριακός	ADJ;GEN(SG;FEM)	Μιθριακῆς
+neural	Μιθριακός	ADJ;GEN(SG;FEM)	Μῐθριακῆς
+
+ref		Μιθριακός	ADJ;GEN(SG;MASC)	Μιθριακοῦ
+neural	Μιθριακός	ADJ;GEN(SG;MASC)	Μῐθριακοῦ
+
+ref		Μιθριακός	ADJ;GEN(SG;NEUT)	Μιθριακοῦ
+neural	Μιθριακός	ADJ;GEN(SG;NEUT)	Μῐθριακοῦ
+
+ref		Μιθριακός	ADJ;NOM(DU;FEM)	Μιθριακᾱ́
+neural	Μιθριακός	ADJ;NOM(DU;FEM)	Μῐθριακᾱ́
+
+ref		Μιθριακός	ADJ;NOM(DU;MASC)	Μιθριακώ
+neural	Μιθριακός	ADJ;NOM(DU;MASC)	Μῐθριακώ
+
+ref		Μιθριακός	ADJ;NOM(DU;NEUT)	Μιθριακώ
+neural	Μιθριακός	ADJ;NOM(DU;NEUT)	Μῐθριακώ
+
+ref		Μιθριακός	ADJ;NOM(PL;FEM)	Μιθριακαί
+neural	Μιθριακός	ADJ;NOM(PL;FEM)	Μῐθριακαί
+
+ref		Μιθριακός	ADJ;NOM(PL;MASC)	Μιθριακοί
+neural	Μιθριακός	ADJ;NOM(PL;MASC)	Μῐθριακοί
+
+ref		Μιθριακός	ADJ;NOM(PL;NEUT)	Μιθριακᾰ́
+neural	Μιθριακός	ADJ;NOM(PL;NEUT)	Μῐθριακᾰ́
+
+ref		Μιθριακός	ADJ;NOM(SG;FEM)	Μιθριακή
+neural	Μιθριακός	ADJ;NOM(SG;FEM)	Μῐθριακή
+
+ref		Μιθριακός	ADJ;VOC(DU;MASC)	Μιθριακώ
+neural	Μιθριακός	ADJ;VOC(DU;MASC)	Μῐθριακώ
+
+ref		Μιθριακός	ADJ;VOC(PL;FEM)	Μιθριακαί
+neural	Μιθριακός	ADJ;VOC(PL;FEM)	Μῐθριακαί
+
+ref		Μιθριακός	ADJ;VOC(PL;NEUT)	Μιθριακᾰ́
+neural	Μιθριακός	ADJ;VOC(PL;NEUT)	Μῐθριακᾰ́
+
+ref		Μιθριακός	ADJ;VOC(SG;FEM)	Μιθριακή
+neural	Μιθριακός	ADJ;VOC(SG;FEM)	Μῐθριακή
+
+ref		Μιθριακός	ADJ;VOC(SG;MASC)	Μιθριακέ
+neural	Μιθριακός	ADJ;VOC(SG;MASC)	Μῐθριακέ
+
+ref		Μιθριακός	ADJ;VOC(SG;NEUT)	Μιθριακόν
+neural	Μιθριακός	ADJ;VOC(SG;NEUT)	Μῐθριακόν
+
+ref		αἴγιλος	N;DAT(SG)	αἰγῐ́λῳ
+neural	αἴγιλος	N;DAT(SG)	αἰγᾰ́λῳ
+
+ref		βραχύτης	N;NOM(SG)	βρᾰχῠ́της
+neural	βραχύτης	N;NOM(SG)	βρᾰχύτης
+
+ref		βραχύτης	N;VOC(SG)	βρᾰχῠ́τη
+neural	βραχύτης	N;VOC(SG)	βρᾰχῠ́τᾰ
+------------------------
+ref		καδμία	N;ACC(DU)	κᾰδμῐ́ᾱ
+neural	καδμία	N;ACC(DU)	κᾰδμῑ́ᾱ
+
+ref		καδμία	N;ACC(PL)	κᾰδμῐ́ᾱς
+neural	καδμία	N;ACC(PL)	κᾰδμῑ́ᾱς
+
+ref		καδμία	N;DAT(DU)	κᾰδμῐ́αιν
+neural	καδμία	N;DAT(DU)	κᾰδμῑ́αιν
+
+ref		καδμία	N;DAT(PL)	κᾰδμῐ́αις
+neural	καδμία	N;DAT(PL)	κᾰδμῑ́αις
+
+ref		καδμία	N;DAT(SG)	κᾰδμῐ́ᾳ
+neural	καδμία	N;DAT(SG)	κᾰδμῑ́ᾳ
+
+ref		καδμία	N;GEN(DU)	κᾰδμῐ́αιν
+neural	καδμία	N;GEN(DU)	κᾰδμῑ́αιν
+
+ref		καδμία	N;GEN(SG)	κᾰδμῐ́ᾱς
+neural	καδμία	N;GEN(SG)	κᾰδμῑ́ᾱς
+
+ref		καδμία	N;NOM(SG)	κᾰδμῐ́ᾱ
+neural	καδμία	N;NOM(SG)	κᾰδμῑ́ᾱ
+------------------------
+ref		κωλόβαθρον	N;ACC(DU)	κωλοβᾰ́θρω
+neural	κωλόβαθρον	N;ACC(DU)	κωλοβᾰθρω
+
+ref		κωλόβαθρον	N;DAT(DU)	κωλοβᾰ́θροιν
+neural	κωλόβαθρον	N;DAT(DU)	κωλοβᾰθροιν
+
+ref		κωλόβαθρον	N;DAT(PL)	κωλοβᾰ́θροις
+neural	κωλόβαθρον	N;DAT(PL)	κωλοβᾰθροις
+
+ref		κωλόβαθρον	N;DAT(SG)	κωλοβᾰ́θρῳ
+neural	κωλόβαθρον	N;DAT(SG)	κωλοβᾰθρῳ
+
+ref		κωλόβαθρον	N;GEN(DU)	κωλοβᾰ́θροιν
+neural	κωλόβαθρον	N;GEN(DU)	κωλοβᾰθροιν
+
+ref		κωλόβαθρον	N;GEN(PL)	κωλοβᾰ́θρων
+neural	κωλόβαθρον	N;GEN(PL)	κωλοβᾰθρων
+
+ref		κωλόβαθρον	N;GEN(SG)	κωλοβᾰ́θρου
+neural	κωλόβαθρον	N;GEN(SG)	κωλοβᾰθρου
+
+ref		κωλόβαθρον	N;NOM(DU)	κωλοβᾰ́θρω
+neural	κωλόβαθρον	N;NOM(DU)	κωλοβᾰθρω
+
+ref		κωλόβαθρον	N;VOC(DU)	κωλοβᾰ́θρω
+neural	κωλόβαθρον	N;VOC(DU)	κωλοβᾰθρω
+
+ref		λειμώνιον	N;ACC(PL)	λειμώνῐᾰ
+neural	λειμώνιον	N;ACC(PL)	λειμώνιᾰ
+
+ref		λειμώνιον	N;ACC(SG)	λειμώνῐον
+neural	λειμώνιον	N;ACC(SG)	λειμώνιον
+
+ref		λειμώνιον	N;NOM(SG)	λειμώνῐον
+neural	λειμώνιον	N;NOM(SG)	λειμώνιον
+------------------------
+ref		μελῳδία	N;ACC(DU)	μελῳδῐ́ᾱ
+neural	μελῳδία	N;ACC(DU)	μελοδίᾱ
+
+ref		μελῳδία	N;ACC(PL)	μελῳδῐ́ᾱς
+neural	μελῳδία	N;ACC(PL)	μελοδίᾱς
+
+ref		μελῳδία	N;ACC(SG)	μελῳδῐ́ᾱν
+neural	μελῳδία	N;ACC(SG)	μελοδίᾱν
+
+ref		μελῳδία	N;DAT(PL)	μελῳδῐ́αις
+neural	μελῳδία	N;DAT(PL)	μελοδίαις
+
+ref		μελῳδία	N;DAT(SG)	μελῳδῐ́ᾳ
+neural	μελῳδία	N;DAT(SG)	μελοδίᾳ
+
+ref		μελῳδία	N;GEN(SG)	μελῳδῐ́ᾱς
+neural	μελῳδία	N;GEN(SG)	μελοδίᾱς
+
+ref		μελῳδία	N;NOM(DU)	μελῳδῐ́ᾱ
+neural	μελῳδία	N;NOM(DU)	μελοδίᾱ
+
+ref		μελῳδία	N;NOM(PL)	μελῳδῐ́αι
+neural	μελῳδία	N;NOM(PL)	μελοδῐ́αι
+
+ref		μελῳδία	N;NOM(SG)	μελῳδῐ́ᾱ
+neural	μελῳδία	N;NOM(SG)	μελοδίᾱ
+
+ref		μελῳδία	N;VOC(DU)	μελῳδῐ́ᾱ
+neural	μελῳδία	N;VOC(DU)	μελοδίᾱ
+
+ref		μελῳδία	N;VOC(PL)	μελῳδῐ́αι
+neural	μελῳδία	N;VOC(PL)	μελοδῐ́αι
+
+ref		μελῳδία	N;VOC(SG)	μελῳδῐ́ᾱ
+neural	μελῳδία	N;VOC(SG)	μελοδίᾱ
+
+ref		οἶνος	N;ACC(SG)	οἶνον
+neural	οἶνος	N;ACC(SG)	οῖνον
+
+ref		οἶνος	N;NOM(PL)	οἶνοι
+neural	οἶνος	N;NOM(PL)	οῖνοι
+
+ref		οἶνος	N;NOM(SG)	οἶνος
+neural	οἶνος	N;NOM(SG)	οῖνος
+
+ref		οἶνος	N;VOC(PL)	οἶνοι
+neural	οἶνος	N;VOC(PL)	οῖνοι
+
+ref		οἶνος	N;VOC(SG)	οἶνε
+neural	οἶνος	N;VOC(SG)	οὔνε
+
+ref		παλίμψηστος	ADJ;ACC(PL;MASC)	παλιμψήστους
+neural	παλίμψηστος	ADJ;ACC(PL;MASC)	παλιμψηστους
+
+ref		παλίμψηστος	ADJ;ACC(SG;FEM)	παλίμψηστον
+neural	παλίμψηστος	ADJ;ACC(SG;FEM)	παλίμπηστον
+
+ref		παλίμψηστος	ADJ;ACC(SG;MASC)	παλίμψηστον
+neural	παλίμψηστος	ADJ;ACC(SG;MASC)	παλάμηστον
+
+ref		παλίμψηστος	ADJ;ACC(SG;NEUT)	παλίμψηστον
+neural	παλίμψηστος	ADJ;ACC(SG;NEUT)	παλίμηστον
+
+ref		παλίμψηστος	ADJ;DAT(DU;FEM)	παλιμψήστοιν
+neural	παλίμψηστος	ADJ;DAT(DU;FEM)	παλαιμήστοιν
+
+ref		παλίμψηστος	ADJ;DAT(DU;NEUT)	παλιμψήστοιν
+neural	παλίμψηστος	ADJ;DAT(DU;NEUT)	παλαιμήστοιν
+
+ref		παλίμψηστος	ADJ;DAT(PL;MASC)	παλιμψήστοις
+neural	παλίμψηστος	ADJ;DAT(PL;MASC)	παλαιμήστοις
+
+ref		παλίμψηστος	ADJ;DAT(PL;NEUT)	παλιμψήστοις
+neural	παλίμψηστος	ADJ;DAT(PL;NEUT)	παλαιμήστοις
+
+ref		παλίμψηστος	ADJ;DAT(SG;MASC)	παλιμψήστῳ
+neural	παλίμψηστος	ADJ;DAT(SG;MASC)	παλιμπήστῳ
+
+ref		παλίμψηστος	ADJ;GEN(DU;FEM)	παλιμψήστοιν
+neural	παλίμψηστος	ADJ;GEN(DU;FEM)	παλαιμήστοιν
+
+ref		παλίμψηστος	ADJ;GEN(DU;MASC)	παλιμψήστοιν
+neural	παλίμψηστος	ADJ;GEN(DU;MASC)	παλαιμήστοιν
+
+ref		παλίμψηστος	ADJ;GEN(DU;NEUT)	παλιμψήστοιν
+neural	παλίμψηστος	ADJ;GEN(DU;NEUT)	παλαιμήστοιν
+
+ref		παλίμψηστος	ADJ;GEN(PL;NEUT)	παλιμψήστων
+neural	παλίμψηστος	ADJ;GEN(PL;NEUT)	παλαιμήστων
+
+ref		παλίμψηστος	ADJ;GEN(SG;FEM)	παλιμψήστου
+neural	παλίμψηστος	ADJ;GEN(SG;FEM)	παλιμπήστου
+
+ref		παλίμψηστος	ADJ;GEN(SG;MASC)	παλιμψήστου
+neural	παλίμψηστος	ADJ;GEN(SG;MASC)	παλιμπήστου
+
+ref		παλίμψηστος	ADJ;GEN(SG;NEUT)	παλιμψήστου
+neural	παλίμψηστος	ADJ;GEN(SG;NEUT)	παλιμπήστου
+
+ref		παλίμψηστος	ADJ;NOM(PL;FEM)	παλίμψηστοι
+neural	παλίμψηστος	ADJ;NOM(PL;FEM)	παλίμπηστοι
+
+ref		παλίμψηστος	ADJ;NOM(PL;MASC)	παλίμψηστοι
+neural	παλίμψηστος	ADJ;NOM(PL;MASC)	παλίμηστοι
+
+ref		παλίμψηστος	ADJ;NOM(PL;NEUT)	παλίμψηστα
+neural	παλίμψηστος	ADJ;NOM(PL;NEUT)	παλίμπηστα
+
+ref		παλίμψηστος	ADJ;VOC(PL;MASC)	παλίμψηστοι
+neural	παλίμψηστος	ADJ;VOC(PL;MASC)	παλίμηστοι
+
+ref		παλίμψηστος	ADJ;VOC(PL;NEUT)	παλίμψηστα
+neural	παλίμψηστος	ADJ;VOC(PL;NEUT)	παλίμπηστα
+
+ref		παλίμψηστος	ADJ;VOC(SG;NEUT)	παλίμψηστον
+neural	παλίμψηστος	ADJ;VOC(SG;NEUT)	παλίμηστον
+
+ref		σίραιον	N;DAT(DU)	σιραίοιν
+neural	σίραιον	N;DAT(DU)	σιρᾱ́ιν
+
+ref		σίραιον	N;DAT(PL)	σιραίοις
+neural	σίραιον	N;DAT(PL)	σιρᾰ́ιοις
+
+ref		σίραιον	N;DAT(SG)	σιραίῳ
+neural	σίραιον	N;DAT(SG)	σιρᾰ́ῳ
+
+ref		σίραιον	N;GEN(DU)	σιραίοιν
+neural	σίραιον	N;GEN(DU)	σιρᾱ́ιν
+------------------------
+ref		ἀντιστοιχία	N;ACC(DU)	ἀντῐστοιχῐ́ᾱ
+neural	ἀντιστοιχία	N;ACC(DU)	ἀντῐστοχῐ́ᾱ
+
+ref		ἀντιστοιχία	N;ACC(PL)	ἀντῐστοιχῐ́ᾱς
+neural	ἀντιστοιχία	N;ACC(PL)	ἀντῐστοχῐ́ᾱς
+
+ref		ἀντιστοιχία	N;ACC(SG)	ἀντῐστοιχῐ́ᾱν
+neural	ἀντιστοιχία	N;ACC(SG)	ἀντῐστοχῐ́ᾱν
+
+ref		ἀντιστοιχία	N;DAT(DU)	ἀντῐστοιχῐ́αιν
+neural	ἀντιστοιχία	N;DAT(DU)	ἀντῐστοχῐ́αιν
+
+ref		ἀντιστοιχία	N;DAT(PL)	ἀντῐστοιχῐ́αις
+neural	ἀντιστοιχία	N;DAT(PL)	ἀντῐστοχῐ́αις
+
+ref		ἀντιστοιχία	N;DAT(SG)	ἀντῐστοιχῐ́ᾳ
+neural	ἀντιστοιχία	N;DAT(SG)	ἀντῐστοχῐ́ᾳ
+
+ref		ἀντιστοιχία	N;GEN(DU)	ἀντῐστοιχῐ́αιν
+neural	ἀντιστοιχία	N;GEN(DU)	ἀντῐστοχῐ́αιν
+
+ref		ἀντιστοιχία	N;GEN(PL)	ἀντῐστοιχῐῶν
+neural	ἀντιστοιχία	N;GEN(PL)	ἀντῐστοχιῶν
+
+ref		ἀντιστοιχία	N;GEN(SG)	ἀντῐστοιχῐ́ᾱς
+neural	ἀντιστοιχία	N;GEN(SG)	ἀντῐστοχῐ́ᾱς
+
+ref		ἀντιστοιχία	N;NOM(DU)	ἀντῐστοιχῐ́ᾱ
+neural	ἀντιστοιχία	N;NOM(DU)	ἀντῐστοχῐ́ᾱ
+
+ref		ἀντιστοιχία	N;NOM(PL)	ἀντῐστοιχῐ́αι
+neural	ἀντιστοιχία	N;NOM(PL)	ἀντῐστοχῐ́αι
+
+ref		ἀντιστοιχία	N;NOM(SG)	ἀντῐστοιχῐ́ᾱ
+neural	ἀντιστοιχία	N;NOM(SG)	ἀντῐστοχῐ́ᾱ
+
+ref		ἀντιστοιχία	N;VOC(DU)	ἀντῐστοιχῐ́ᾱ
+neural	ἀντιστοιχία	N;VOC(DU)	ἀντῐστοχῐ́ᾱ
+
+ref		ἀντιστοιχία	N;VOC(PL)	ἀντῐστοιχῐ́αι
+neural	ἀντιστοιχία	N;VOC(PL)	ἀντῐστοχῐ́αι
+
+ref		ἀντιστοιχία	N;VOC(SG)	ἀντῐστοιχῐ́ᾱ
+neural	ἀντιστοιχία	N;VOC(SG)	ἀντῐστοχῐ́ᾱ
+------------------------
+ref		ἀξίνη	N;ACC(DU)	ἀξῑ́νᾱ
+neural	ἀξίνη	N;ACC(DU)	ᾰ̓ξῐ́νᾱ
+
+ref		ἀξίνη	N;DAT(DU)	ἀξῑ́ναιν
+neural	ἀξίνη	N;DAT(DU)	ᾰ̓ξῐ́ναιν
+
+ref		ἀξίνη	N;GEN(DU)	ἀξῑ́ναιν
+neural	ἀξίνη	N;GEN(DU)	ᾰ̓ξῐ́ναιν
+
+ref		ἀξίνη	N;NOM(DU)	ἀξῑ́νᾱ
+neural	ἀξίνη	N;NOM(DU)	ᾰ̓ξῐ́νᾱ
+
+ref		ἀξίνη	N;VOC(DU)	ἀξῑ́νᾱ
+neural	ἀξίνη	N;VOC(DU)	ᾰ̓ξῐ́νᾱ
+
+ref		ἄφωνος	ADJ;DAT(DU;FEM)	ἀφώνοιν
+neural	ἄφωνος	ADJ;DAT(DU;FEM)	ἀφωνοιν
+
+ref		ἄφωνος	ADJ;DAT(PL;FEM)	ἀφώνοις
+neural	ἄφωνος	ADJ;DAT(PL;FEM)	ἀφωνοις
+
+ref		ἄφωνος	ADJ;DAT(SG;FEM)	ἀφώνῳ
+neural	ἄφωνος	ADJ;DAT(SG;FEM)	ἀφωνῳ
+
+ref		ἄφωνος	ADJ;GEN(SG;FEM)	ἀφώνου
+neural	ἄφωνος	ADJ;GEN(SG;FEM)	ἀφωνου
+
+ref		ἄφωνος	ADJ;GEN(SG;MASC)	ἀφώνου
+neural	ἄφωνος	ADJ;GEN(SG;MASC)	ἀφωνου
+------------------------
+ref		Ἀβδηρίτης	N;ACC(DU)	Ἀβδηρῑ́τᾱ
+neural	Ἀβδηρίτης	N;ACC(DU)	Ᾰ̓βδηρῐ́τᾱ
+
+ref		Ἀβδηρίτης	N;ACC(PL)	Ἀβδηρῑ́τᾱς
+neural	Ἀβδηρίτης	N;ACC(PL)	Ᾰ̓βδηρῐ́τᾱς
+
+ref		Ἀβδηρίτης	N;ACC(SG)	Ἀβδηρῑ́την
+neural	Ἀβδηρίτης	N;ACC(SG)	Ᾰ̓βδηρῐ́την
+
+ref		Ἀβδηρίτης	N;DAT(DU)	Ἀβδηρῑ́ταιν
+neural	Ἀβδηρίτης	N;DAT(DU)	Ᾰ̓βδηρῐ́ταιν
+
+ref		Ἀβδηρίτης	N;DAT(PL)	Ἀβδηρῑ́ταις
+neural	Ἀβδηρίτης	N;DAT(PL)	Ᾰ̓βδηρῐ́ταις
+
+ref		Ἀβδηρίτης	N;DAT(SG)	Ἀβδηρῑ́τῃ
+neural	Ἀβδηρίτης	N;DAT(SG)	Ᾰ̓βδηρῐ́τῃ
+
+ref		Ἀβδηρίτης	N;GEN(DU)	Ἀβδηρῑ́ταιν
+neural	Ἀβδηρίτης	N;GEN(DU)	Ᾰ̓βδηρῐ́ταιν
+
+ref		Ἀβδηρίτης	N;GEN(SG)	Ἀβδηρῑ́του
+neural	Ἀβδηρίτης	N;GEN(SG)	Ᾰ̓βδηρῐ́του
+
+ref		Ἀβδηρίτης	N;NOM(DU)	Ἀβδηρῑ́τᾱ
+neural	Ἀβδηρίτης	N;NOM(DU)	Ᾰ̓βδηρῐ́τᾱ
+
+ref		Ἀβδηρίτης	N;NOM(SG)	Ἀβδηρῑ́της
+neural	Ἀβδηρίτης	N;NOM(SG)	Ᾰ̓βδηρῐ́της
+
+ref		Ἀβδηρίτης	N;VOC(DU)	Ἀβδηρῑ́τᾱ
+neural	Ἀβδηρίτης	N;VOC(DU)	Ᾰ̓βδηρῐ́τᾱ
+------------------------
+ref		Ἑλληνικός	ADJ;ACC(DU;FEM)	Ἑλληνικᾱ́
+neural	Ἑλληνικός	ADJ;ACC(DU;FEM)	ληληνικᾱ́
+
+ref		Ἑλληνικός	ADJ;ACC(DU;NEUT)	Ἑλληνικώ
+neural	Ἑλληνικός	ADJ;ACC(DU;NEUT)	ληληνικώ
+
+ref		Ἑλληνικός	ADJ;ACC(PL;FEM)	Ἑλληνικᾱ́ς
+neural	Ἑλληνικός	ADJ;ACC(PL;FEM)	ληληνικᾱ́ς
+
+ref		Ἑλληνικός	ADJ;ACC(PL;MASC)	Ἑλληνικούς
+neural	Ἑλληνικός	ADJ;ACC(PL;MASC)	ληληνικούς
+
+ref		Ἑλληνικός	ADJ;ACC(SG;MASC)	Ἑλληνικόν
+neural	Ἑλληνικός	ADJ;ACC(SG;MASC)	ληληνικόν
+
+ref		Ἑλληνικός	ADJ;ACC(SG;NEUT)	Ἑλληνικόν
+neural	Ἑλληνικός	ADJ;ACC(SG;NEUT)	ληληνικόν
+
+ref		Ἑλληνικός	ADJ;DAT(DU;FEM)	Ἑλληνικαῖν
+neural	Ἑλληνικός	ADJ;DAT(DU;FEM)	ληληνικαῖν
+
+ref		Ἑλληνικός	ADJ;DAT(DU;MASC)	Ἑλληνικοῖν
+neural	Ἑλληνικός	ADJ;DAT(DU;MASC)	ληληνικοῖν
+
+ref		Ἑλληνικός	ADJ;DAT(DU;NEUT)	Ἑλληνικοῖν
+neural	Ἑλληνικός	ADJ;DAT(DU;NEUT)	ληληνικοῖν
+
+ref		Ἑλληνικός	ADJ;DAT(PL;FEM)	Ἑλληνικαῖς
+neural	Ἑλληνικός	ADJ;DAT(PL;FEM)	ληληνικαῖς
+
+ref		Ἑλληνικός	ADJ;DAT(SG;NEUT)	Ἑλληνικῷ
+neural	Ἑλληνικός	ADJ;DAT(SG;NEUT)	ληληνικῷ
+
+ref		Ἑλληνικός	ADJ;GEN(DU;FEM)	Ἑλληνικαῖν
+neural	Ἑλληνικός	ADJ;GEN(DU;FEM)	ληληνικαῖν
+
+ref		Ἑλληνικός	ADJ;GEN(DU;MASC)	Ἑλληνικοῖν
+neural	Ἑλληνικός	ADJ;GEN(DU;MASC)	ληληνικοῖν
+
+ref		Ἑλληνικός	ADJ;GEN(DU;NEUT)	Ἑλληνικοῖν
+neural	Ἑλληνικός	ADJ;GEN(DU;NEUT)	ληληνικοῖν
+
+ref		Ἑλληνικός	ADJ;GEN(PL;FEM)	Ἑλληνικῶν
+neural	Ἑλληνικός	ADJ;GEN(PL;FEM)	ληληνικῶν
+
+ref		Ἑλληνικός	ADJ;GEN(PL;MASC)	Ἑλληνικῶν
+neural	Ἑλληνικός	ADJ;GEN(PL;MASC)	ληληνικῶν
+
+ref		Ἑλληνικός	ADJ;GEN(PL;NEUT)	Ἑλληνικῶν
+neural	Ἑλληνικός	ADJ;GEN(PL;NEUT)	ληληνικῶν
+
+ref		Ἑλληνικός	ADJ;GEN(SG;MASC)	Ἑλληνικοῦ
+neural	Ἑλληνικός	ADJ;GEN(SG;MASC)	ληληνικοῦ
+
+ref		Ἑλληνικός	ADJ;GEN(SG;NEUT)	Ἑλληνικοῦ
+neural	Ἑλληνικός	ADJ;GEN(SG;NEUT)	ληληνικοῦ
+
+ref		Ἑλληνικός	ADJ;NOM(DU;FEM)	Ἑλληνικᾱ́
+neural	Ἑλληνικός	ADJ;NOM(DU;FEM)	ληληνικᾱ́
+
+ref		Ἑλληνικός	ADJ;NOM(DU;MASC)	Ἑλληνικώ
+neural	Ἑλληνικός	ADJ;NOM(DU;MASC)	ληληνικώ
+
+ref		Ἑλληνικός	ADJ;NOM(DU;NEUT)	Ἑλληνικώ
+neural	Ἑλληνικός	ADJ;NOM(DU;NEUT)	ληληνικώ
+
+ref		Ἑλληνικός	ADJ;NOM(PL;FEM)	Ἑλληνικαί
+neural	Ἑλληνικός	ADJ;NOM(PL;FEM)	ληληνικαί
+
+ref		Ἑλληνικός	ADJ;NOM(PL;MASC)	Ἑλληνικοί
+neural	Ἑλληνικός	ADJ;NOM(PL;MASC)	ληληνικοί
+
+ref		Ἑλληνικός	ADJ;NOM(PL;NEUT)	Ἑλληνικᾰ́
+neural	Ἑλληνικός	ADJ;NOM(PL;NEUT)	ληληνικᾰ́
+
+ref		Ἑλληνικός	ADJ;NOM(SG;FEM)	Ἑλληνική
+neural	Ἑλληνικός	ADJ;NOM(SG;FEM)	ληληνική
+
+ref		Ἑλληνικός	ADJ;NOM(SG;MASC)	Ἑλληνικός
+neural	Ἑλληνικός	ADJ;NOM(SG;MASC)	ληληνικός
+
+ref		Ἑλληνικός	ADJ;NOM(SG;NEUT)	Ἑλληνικόν
+neural	Ἑλληνικός	ADJ;NOM(SG;NEUT)	ληληνικόν
+
+ref		Ἑλληνικός	ADJ;VOC(DU;FEM)	Ἑλληνικᾱ́
+neural	Ἑλληνικός	ADJ;VOC(DU;FEM)	ληληνικᾱ́
+
+ref		Ἑλληνικός	ADJ;VOC(DU;MASC)	Ἑλληνικώ
+neural	Ἑλληνικός	ADJ;VOC(DU;MASC)	ληληνικώ
+
+ref		Ἑλληνικός	ADJ;VOC(DU;NEUT)	Ἑλληνικώ
+neural	Ἑλληνικός	ADJ;VOC(DU;NEUT)	ληληνικώ
+
+ref		Ἑλληνικός	ADJ;VOC(PL;NEUT)	Ἑλληνικᾰ́
+neural	Ἑλληνικός	ADJ;VOC(PL;NEUT)	ληληνικᾰ́
+
+ref		Ἑλληνικός	ADJ;VOC(SG;FEM)	Ἑλληνική
+neural	Ἑλληνικός	ADJ;VOC(SG;FEM)	ληληνική
+
+ref		Ἔλυμος	N;ACC(SG)	Ἔλυμον
+neural	Ἔλυμος	N;ACC(SG)	ἄλυμον
+
+ref		Ἔλυμος	N;NOM(PL)	Ἔλυμοι
+neural	Ἔλυμος	N;NOM(PL)	αλυμοι
+
+ref		Ἔλυμος	N;NOM(SG)	Ἔλυμος
+neural	Ἔλυμος	N;NOM(SG)	λυμμος
+
+ref		Ἔλυμος	N;VOC(PL)	Ἔλυμοι
+neural	Ἔλυμος	N;VOC(PL)	αλυμοι
+
+ref		Ἔλυμος	N;VOC(SG)	Ἔλυμε
+neural	Ἔλυμος	N;VOC(SG)	λυμμε
+------------------------
+ref		Ἠπειρώτης	N;ACC(DU)	Ἠπειρώτᾱ
+neural	Ἠπειρώτης	N;ACC(DU)	λειρώτᾱ
+
+ref		Ἠπειρώτης	N;ACC(PL)	Ἠπειρώτᾱς
+neural	Ἠπειρώτης	N;ACC(PL)	λειρίώτᾱς
+
+ref		Ἠπειρώτης	N;ACC(SG)	Ἠπειρώτην
+neural	Ἠπειρώτης	N;ACC(SG)	λειρώτην
+
+ref		Ἠπειρώτης	N;DAT(DU)	Ἠπειρώταιν
+neural	Ἠπειρώτης	N;DAT(DU)	λειρώταιν
+
+ref		Ἠπειρώτης	N;DAT(PL)	Ἠπειρώταις
+neural	Ἠπειρώτης	N;DAT(PL)	απειρώταις
+
+ref		Ἠπειρώτης	N;DAT(SG)	Ἠπειρώτῃ
+neural	Ἠπειρώτης	N;DAT(SG)	λειρώτῃ
+
+ref		Ἠπειρώτης	N;GEN(DU)	Ἠπειρώταιν
+neural	Ἠπειρώτης	N;GEN(DU)	λειρίώταιν
+
+ref		Ἠπειρώτης	N;GEN(SG)	Ἠπειρώτου
+neural	Ἠπειρώτης	N;GEN(SG)	λειρίώτου
+
+ref		Ἠπειρώτης	N;NOM(DU)	Ἠπειρώτᾱ
+neural	Ἠπειρώτης	N;NOM(DU)	λειρώτᾱ
+
+ref		Ἠπειρώτης	N;NOM(SG)	Ἠπειρώτης
+neural	Ἠπειρώτης	N;NOM(SG)	λειρώτης
+
+ref		Ἠπειρώτης	N;VOC(DU)	Ἠπειρώτᾱ
+neural	Ἠπειρώτης	N;VOC(DU)	λειρώτᾱ
+
+ref		ὀστοῦν	N;ACC(SG)	ὀστοῦν
+neural	ὀστοῦν	N;ACC(SG)	ὀστοῦνον
+
+ref		ὀστοῦν	N;NOM(SG)	ὀστοῦν
+neural	ὀστοῦν	N;NOM(SG)	ὀστοῦνον
+------------------------
+ref		ὁμόγραφος	ADJ;ACC(DU;FEM)	ὁμογράφω
+neural	ὁμόγραφος	ADJ;ACC(DU;FEM)	ὁμογρᾰ́φω
+
+ref		ὁμόγραφος	ADJ;ACC(DU;NEUT)	ὁμογράφω
+neural	ὁμόγραφος	ADJ;ACC(DU;NEUT)	ὁμογρᾰ́φω
+
+ref		ὁμόγραφος	ADJ;DAT(DU;MASC)	ὁμογράφοιν
+neural	ὁμόγραφος	ADJ;DAT(DU;MASC)	ὁμογρᾰ́φοιν
+
+ref		ὁμόγραφος	ADJ;DAT(PL;FEM)	ὁμογράφοις
+neural	ὁμόγραφος	ADJ;DAT(PL;FEM)	ὁμογρᾰ́φοις
+
+ref		ὁμόγραφος	ADJ;DAT(PL;MASC)	ὁμογράφοις
+neural	ὁμόγραφος	ADJ;DAT(PL;MASC)	ὁμογρᾰ́φοις
+
+ref		ὁμόγραφος	ADJ;DAT(PL;NEUT)	ὁμογράφοις
+neural	ὁμόγραφος	ADJ;DAT(PL;NEUT)	ὁμογρᾰ́φοις
+
+ref		ὁμόγραφος	ADJ;GEN(DU;MASC)	ὁμογράφοιν
+neural	ὁμόγραφος	ADJ;GEN(DU;MASC)	ὁμογρᾰ́φοιν
+
+ref		ὁμόγραφος	ADJ;GEN(DU;NEUT)	ὁμογράφοιν
+neural	ὁμόγραφος	ADJ;GEN(DU;NEUT)	ὁμογρᾰ́φοιν
+
+ref		ὁμόγραφος	ADJ;GEN(PL;FEM)	ὁμογράφων
+neural	ὁμόγραφος	ADJ;GEN(PL;FEM)	ὁμογρᾰ́φων
+
+ref		ὁμόγραφος	ADJ;GEN(PL;NEUT)	ὁμογράφων
+neural	ὁμόγραφος	ADJ;GEN(PL;NEUT)	ὁμογρᾰ́φων
+
+ref		ὁμόγραφος	ADJ;GEN(SG;FEM)	ὁμογράφου
+neural	ὁμόγραφος	ADJ;GEN(SG;FEM)	ὁμογρᾰ́φου
+
+ref		ὁμόγραφος	ADJ;GEN(SG;NEUT)	ὁμογράφου
+neural	ὁμόγραφος	ADJ;GEN(SG;NEUT)	ὁμογρᾰ́φου
+
+ref		ὁμόγραφος	ADJ;NOM(DU;FEM)	ὁμογράφω
+neural	ὁμόγραφος	ADJ;NOM(DU;FEM)	ὁμογρᾰ́φω
+
+ref		ὁμόγραφος	ADJ;NOM(DU;MASC)	ὁμογράφω
+neural	ὁμόγραφος	ADJ;NOM(DU;MASC)	ὁμογρᾰ́φω
+
+ref		ὁμόγραφος	ADJ;NOM(DU;NEUT)	ὁμογράφω
+neural	ὁμόγραφος	ADJ;NOM(DU;NEUT)	ὁμογρᾰ́φω
+
+ref		ὁμόγραφος	ADJ;VOC(DU;FEM)	ὁμογράφω
+neural	ὁμόγραφος	ADJ;VOC(DU;FEM)	ὁμογρᾰ́φω
+
+ref		ὁμόγραφος	ADJ;VOC(DU;MASC)	ὁμογράφω
+neural	ὁμόγραφος	ADJ;VOC(DU;MASC)	ὁμογρᾰ́φω
+
+ref		ὁμόγραφος	ADJ;VOC(DU;NEUT)	ὁμογράφω
+neural	ὁμόγραφος	ADJ;VOC(DU;NEUT)	ὁμογρᾰ́φω

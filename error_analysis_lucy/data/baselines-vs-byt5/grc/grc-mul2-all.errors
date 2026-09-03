@@ -1,0 +1,499 @@
+
+ref		Βισάλτης	N;ACC(PL)	Βῐσᾰ́λτᾱς
+mono	Βισάλτης	N;ACC(PL)	Βῐσᾰ́λταις
+mul2	Βισάλτης	N;ACC(PL)	Βῐσᾰ́λτας
+neural	Βισάλτης	N;ACC(PL)	Βασάλτᾱς
+
+error rate Βισάλτης:0.06666666666666667
+
+
+
+
+ref		αὔρα	N;DAT(DU)	αὔραιν
+mono	αὔρα	N;DAT(DU)	αὐραῖν
+mul		αὔρα	N;DAT(DU)	αὐραιν
+mul2	αὔρα	N;DAT(DU)	αὐραῖν
+neural	αὔρα	N;DAT(DU)	αὐραῖν
+
+ref		αὔρα	N;GEN(DU)	αὔραιν
+mono	αὔρα	N;GEN(DU)	αὐρᾱν
+mul		αὔρα	N;GEN(DU)	αὐραιν
+mul2	αὔρα	N;GEN(DU)	αὐραῖν
+neural	αὔρα	N;GEN(DU)	αὐραῖν
+
+error rate αὔρα:0.13333333333333333
+
+ref		βραχύτης	N;DAT(DU)	βρᾰχῠτήτοιν
+mono	βραχύτης	N;DAT(DU)	βρᾰχῠταῖν
+mul		βραχύτης	N;DAT(DU)	βραχύταιν
+mul2	βραχύτης	N;DAT(DU)	βρᾰχῠ́ταιν
+neural	βραχύτης	N;DAT(DU)	βρᾰχύταιν
+
+ref		βραχύτης	N;GEN(DU)	βρᾰχῠτήτοιν
+mono	βραχύτης	N;GEN(DU)	βρᾰχῠταῖν
+mul		βραχύτης	N;GEN(DU)	βραχύταιν
+mul2	βραχύτης	N;GEN(DU)	βρᾰχῠταῖν
+neural	βραχύτης	N;GEN(DU)	βρᾰχύταιν
+
+ref		βραχύτης	N;GEN(PL)	βρᾰχῠτήτων
+mono	βραχύτης	N;GEN(PL)	βρᾰχῠτῶν
+mul		βραχύτης	N;GEN(PL)	βραχῠτῶν
+mul2	βραχύτης	N;GEN(PL)	βρᾰχῠτῶν
+neural	βραχύτης	N;GEN(PL)	βρᾰχυτῶν
+
+ref		βραχύτης	N;VOC(DU)	βρᾰχῠ́τητε
+mono	βραχύτης	N;VOC(DU)	βρᾰχῠ́τᾱ
+mul		βραχύτης	N;VOC(DU)	βραχύτᾱ
+mul2	βραχύτης	N;VOC(DU)	βρᾰχῠ́τᾱ
+neural	βραχύτης	N;VOC(DU)	βρᾰχύτᾱ
+
+error rate βραχύτης:0.26666666666666666
+
+
+
+ref		δορκάς	N;GEN(PL)	δορκᾰ́δων
+mono	δορκάς	N;GEN(PL)	δορκᾰ́σῶν
+mul		δορκάς	N;GEN(PL)	δορκᾰ́σῶν
+mul2	δορκάς	N;GEN(PL)	δορκᾰ́ων
+neural	δορκάς	N;GEN(PL)	δορκῶν
+
+error rate δορκάς:0.06666666666666667
+
+
+
+ref		θυγάτηρ	N;ACC(SG)	θῠ́γᾰτρᾰ
+mono	θυγάτηρ	N;ACC(SG)	θῠγᾰ́τηρ
+mul		θυγάτηρ	N;ACC(SG)	θῠγᾰ́τηρν
+mul2	θυγάτηρ	N;ACC(SG)	θῠγᾰ́τηρᾰ
+neural	θυγάτηρ	N;ACC(SG)	θῠγᾰ́τηρᾰ
+
+ref		θυγάτηρ	N;GEN(DU)	θῠγᾰτέροιν
+mono	θυγάτηρ	N;GEN(DU)	θῠγᾰτῆροιν
+mul		θυγάτηρ	N;GEN(DU)	θῠγᾰ́τηροιν
+mul2	θυγάτηρ	N;GEN(DU)	θῠγᾰτῆροιν
+neural	θυγάτηρ	N;GEN(DU)	θῠγᾰ́τηροιν
+
+ref		θυγάτηρ	N;GEN(PL)	θῠγᾰτρῶν
+mono	θυγάτηρ	N;GEN(PL)	θῠγᾰτῶν
+mul		θυγάτηρ	N;GEN(PL)	θῠγᾰ́τηρων
+mul2	θυγάτηρ	N;GEN(PL)	θῠγᾰτῆρων
+neural	θυγάτηρ	N;GEN(PL)	θῠγᾰτήρων
+
+error rate θυγάτηρ:0.2
+
+
+ref		κενταύριον	N;ACC(DU)	ουω
+mono	κενταύριον	N;ACC(DU)	κεντᾰύρῐω
+mul		κενταύριον	N;ACC(DU)	κεντᾰυρῐ́ω
+mul2	κενταύριον	N;ACC(DU)	κενταυρίω
+neural	κενταύριον	N;ACC(DU)	κενταυρίω
+
+ref		κενταύριον	N;ACC(PL)	κενταύρῐονᾰ
+mono	κενταύριον	N;ACC(PL)	κενταύριοις
+mul		κενταύριον	N;ACC(PL)	κεντᾰύρῐᾰ
+mul2	κενταύριον	N;ACC(PL)	κενταύρῐους
+neural	κενταύριον	N;ACC(PL)	κενταύριᾰ
+
+ref		κενταύριον	N;ACC(SG)	κενταύρῐονον
+mono	κενταύριον	N;ACC(SG)	κενταύριον
+mul		κενταύριον	N;ACC(SG)	κεντᾰύρῐον
+mul2	κενταύριον	N;ACC(SG)	κενταύρῐον
+neural	κενταύριον	N;ACC(SG)	κενταύριον
+
+ref		κενταύριον	N;DAT(DU)	ουοιν
+mono	κενταύριον	N;DAT(DU)	κενταυρίοιν
+mul		κενταύριον	N;DAT(DU)	κεντᾰυρῐ́οιν
+mul2	κενταύριον	N;DAT(DU)	κενταυρίοιν
+neural	κενταύριον	N;DAT(DU)	κενταυρίοιν
+
+ref		κενταύριον	N;DAT(PL)	ουοις
+mono	κενταύριον	N;DAT(PL)	κενταυρίοις
+mul		κενταύριον	N;DAT(PL)	κεντᾰυρῐ́οις
+mul2	κενταύριον	N;DAT(PL)	κενταυρίοις
+neural	κενταύριον	N;DAT(PL)	κενταυρίοις
+
+ref		κενταύριον	N;DAT(SG)	ουῳ
+mono	κενταύριον	N;DAT(SG)	κενταυρῐ́ῳ
+mul		κενταύριον	N;DAT(SG)	κενταυρῐ́ῳ
+mul2	κενταύριον	N;DAT(SG)	κενταυρίῳ
+neural	κενταύριον	N;DAT(SG)	κενταυρίῳ
+
+ref		κενταύριον	N;NOM(DU)	ουω
+mono	κενταύριον	N;NOM(DU)	κενταύριω
+mul		κενταύριον	N;NOM(DU)	κεντᾰυρῐ́ω
+mul2	κενταύριον	N;NOM(DU)	κενταυρίω
+neural	κενταύριον	N;NOM(DU)	κενταυρίω
+
+ref		κενταύριον	N;NOM(PL)	κενταύρῐονᾰ
+mono	κενταύριον	N;NOM(PL)	κενταύριοι
+mul		κενταύριον	N;NOM(PL)	κεντᾰύρῐοι
+mul2	κενταύριον	N;NOM(PL)	κενταύρῐοι
+neural	κενταύριον	N;NOM(PL)	κενταύριᾰ
+
+ref		κενταύριον	N;NOM(SG)	κενταύρῐονον
+mono	κενταύριον	N;NOM(SG)	κενταύριον
+mul		κενταύριον	N;NOM(SG)	κεντᾰύρῐον
+mul2	κενταύριον	N;NOM(SG)	κενταύρῐον
+neural	κενταύριον	N;NOM(SG)	κενταύριον
+
+ref		κενταύριον	N;VOC(DU)	ουω
+mono	κενταύριον	N;VOC(DU)	κεντᾰύρῐω
+mul		κενταύριον	N;VOC(DU)	κεντᾰυρῐ́ω
+mul2	κενταύριον	N;VOC(DU)	κενταυρίω
+neural	κενταύριον	N;VOC(DU)	κενταυρίω
+
+ref		κενταύριον	N;VOC(PL)	κενταύρῐονᾰ
+mono	κενταύριον	N;VOC(PL)	κενταύριοι
+mul		κενταύριον	N;VOC(PL)	κεντᾰύρῐοι
+mul2	κενταύριον	N;VOC(PL)	κενταύρῐοι
+neural	κενταύριον	N;VOC(PL)	κενταύριᾰ
+
+ref		κενταύριον	N;VOC(SG)	κενταύρῐονον
+mono	κενταύριον	N;VOC(SG)	κενταύριε
+mul		κενταύριον	N;VOC(SG)	κεντᾰύρῐε
+mul2	κενταύριον	N;VOC(SG)	κενταύρῐε
+neural	κενταύριον	N;VOC(SG)	κενταύριον
+
+error rate κενταύριον:0.8
+
+
+
+ref		λειμώνιον	N;ACC(PL)	λειμώνῐᾰ
+mono	λειμώνιον	N;ACC(PL)	λειμώνῐοις
+mul2	λειμώνιον	N;ACC(PL)	λειμώνῐους
+neural	λειμώνιον	N;ACC(PL)	λειμώνιᾰ
+
+error rate λειμώνιον:0.06666666666666667
+
+ref		μελῳδία	N;DAT(DU)	μελῳδῐ́αιν
+mono	μελῳδία	N;DAT(DU)	μελογδῐ́αιν
+mul		μελῳδία	N;DAT(DU)	μελογδῐ́αιν
+mul2	μελῳδία	N;DAT(DU)	μελοδῐ́αιν
+neural	μελῳδία	N;DAT(DU)	μελῳδίαιν
+
+ref		μελῳδία	N;GEN(DU)	μελῳδῐ́αιν
+mono	μελῳδία	N;GEN(DU)	μελογδῐ́αιν
+mul		μελῳδία	N;GEN(DU)	μελογδῐ́αιν
+mul2	μελῳδία	N;GEN(DU)	μελοδῐ́αιν
+neural	μελῳδία	N;GEN(DU)	μελῳδίαιν
+
+error rate μελῳδία:0.13333333333333333
+
+ref		οἶνος	N;GEN(DU)	οἴνοιν
+mono	οἶνος	N;GEN(DU)	οἶνοιν
+mul		οἶνος	N;GEN(DU)	ούνοιν
+mul2	οἶνος	N;GEN(DU)	οἶνοιν
+neural	οἶνος	N;GEN(DU)	οὔνοιν
+
+ref		οἶνος	N;GEN(PL)	οἴνων
+mono	οἶνος	N;GEN(PL)	οἶνους
+mul		οἶνος	N;GEN(PL)	ούνων
+mul2	οἶνος	N;GEN(PL)	οἶνων
+neural	οἶνος	N;GEN(PL)	οὐνων
+
+error rate οἶνος:0.13333333333333333
+
+
+
+ref		ποτήριον	N;ACC(PL)	ποτήριᾰ
+mono	ποτήριον	N;ACC(PL)	ποτήρῐοις
+mul		ποτήριον	N;ACC(PL)	ποτηρῐ́ᾱς
+mul2	ποτήριον	N;ACC(PL)	ποτήρῐους
+neural	ποτήριον	N;ACC(PL)	ποτῆρῐᾰ
+
+error rate ποτήριον:0.06666666666666667
+
+
+
+ref		σίραιον	N;DAT(PL)	σιραίοις
+mono	σίραιον	N;DAT(PL)	σῐρᾰ́οις
+mul2	σίραιον	N;DAT(PL)	σῐραίοις
+neural	σίραιον	N;DAT(PL)	σιρᾰ́ιοις
+
+ref		σίραιον	N;DAT(SG)	σιραίῳ
+mono	σίραιον	N;DAT(SG)	σῐρᾰ́ῳ
+mul2	σίραιον	N;DAT(SG)	σῐρᾰ́ῳ
+neural	σίραιον	N;DAT(SG)	σιρᾰ́ῳ
+
+ref		σίραιον	N;GEN(DU)	σιραίοιν
+mono	σίραιον	N;GEN(DU)	σῐρᾰ́οιν
+mul2	σίραιον	N;GEN(DU)	σῐραίοιν
+neural	σίραιον	N;GEN(DU)	σιρᾱ́ιν
+
+ref		σίραιον	N;GEN(PL)	σιραίων
+mono	σίραιον	N;GEN(PL)	σῐρᾰ́ους
+mul		σίραιον	N;GEN(PL)	σῐρᾰ́δων
+mul2	σίραιον	N;GEN(PL)	σῐραίων
+neural	σίραιον	N;GEN(PL)	σιρᾰ́ων
+
+ref		σίραιον	N;GEN(SG)	σιραίου
+mono	σίραιον	N;GEN(SG)	σῐρᾰ́ῳ
+mul		σίραιον	N;GEN(SG)	σῐρᾰ́ου
+mul2	σίραιον	N;GEN(SG)	σῐραίου
+neural	σίραιον	N;GEN(SG)	σιρᾰ́ιου
+
+error rate σίραιον:0.3333333333333333
+
+
+ref		σχόλιον	N;ACC(PL)	σχόλιᾰ
+mono	σχόλιον	N;ACC(PL)	σχολῐ́οις
+mul		σχόλιον	N;ACC(PL)	σχολῐ́ᾱς
+mul2	σχόλιον	N;ACC(PL)	σχόλῐους
+neural	σχόλιον	N;ACC(PL)	σχόλλῐᾰ
+
+error rate σχόλιον:0.06666666666666667
+
+
+
+ref		ἀμέλεια	N;GEN(PL)	ᾰ̓μελειῶν
+mono	ἀμέλεια	N;GEN(PL)	ἀμελείᾱς
+mul		ἀμέλεια	N;GEN(PL)	ἀμελείων
+mul2	ἀμέλεια	N;GEN(PL)	ἀμελειῶν
+neural	ἀμέλεια	N;GEN(PL)	ἀμελειῶν
+
+ref		ἀμέλεια	N;NOM(SG)	ᾰ̓μέλειᾰ
+mono	ἀμέλεια	N;NOM(SG)	ἀμελείᾱ
+mul		ἀμέλεια	N;NOM(SG)	ἀμέλειᾱ
+mul2	ἀμέλεια	N;NOM(SG)	ἀμέλεια
+neural	ἀμέλεια	N;NOM(SG)	ἀμέλειᾰ
+
+error rate ἀμέλεια:0.13333333333333333
+
+
+
+
+
+ref		ἀρχισυνάγωγος	N;DAT(DU)	ἀρχῐσῠνᾰγώγοιν
+mono	ἀρχισυνάγωγος	N;DAT(DU)	ἀρχισυναγώγοιν
+mul		ἀρχισυνάγωγος	N;DAT(DU)	ἀρχισυνᾰγώγοιν
+mul2	ἀρχισυνάγωγος	N;DAT(DU)	ἀρχισυναγώγοιν
+neural	ἀρχισυνάγωγος	N;DAT(DU)	ἀρχισυνγήγοιν
+
+ref		ἀρχισυνάγωγος	N;DAT(PL)	ἀρχῐσῠνᾰγώγοις
+mono	ἀρχισυνάγωγος	N;DAT(PL)	ἀρχισυναγώγοις
+mul		ἀρχισυνάγωγος	N;DAT(PL)	ἀρχισυνᾰγώγοις
+mul2	ἀρχισυνάγωγος	N;DAT(PL)	ἀρχισυναγώγοις
+neural	ἀρχισυνάγωγος	N;DAT(PL)	ἀρχισυνγώγοις
+
+ref		ἀρχισυνάγωγος	N;DAT(SG)	ἀρχῐσῠνᾰγώγῳ
+mono	ἀρχισυνάγωγος	N;DAT(SG)	ἀρχισυναγώγῳ
+mul		ἀρχισυνάγωγος	N;DAT(SG)	ἀρχισυνᾰγώγῳ
+mul2	ἀρχισυνάγωγος	N;DAT(SG)	ἀρχισυναγώγῳ
+neural	ἀρχισυνάγωγος	N;DAT(SG)	ἀρχισυνγώγῳ
+
+error rate ἀρχισυνάγωγος:0.2
+
+
+
+
+
+
+
+ref		Ἔλυμος	N;DAT(PL)	Ἐλύμοις
+mono	Ἔλυμος	N;DAT(PL)	Ἔλυμοις
+mul		Ἔλυμος	N;DAT(PL)	Ἔλύμοις
+mul2	Ἔλυμος	N;DAT(PL)	Ἔλυμοις
+neural	Ἔλυμος	N;DAT(PL)	ολύμοις
+
+ref		Ἔλυμος	N;NOM(DU)	Ἐλύμω
+mono	Ἔλυμος	N;NOM(DU)	Ἔλυμω
+mul		Ἔλυμος	N;NOM(DU)	Ἔλύμω
+mul2	Ἔλυμος	N;NOM(DU)	Ἔλυμω
+neural	Ἔλυμος	N;NOM(DU)	λύμω
+
+ref		Ἔλυμος	N;VOC(DU)	Ἐλύμω
+mono	Ἔλυμος	N;VOC(DU)	Ἔλυμω
+mul		Ἔλυμος	N;VOC(DU)	Ἔλύμω
+mul2	Ἔλυμος	N;VOC(DU)	Ἔλυμω
+neural	Ἔλυμος	N;VOC(DU)	λύμω
+
+error rate Ἔλυμος:0.2
+
+
+
+
+ref		ὀστοῦν	N;DAT(DU)	ὀστοῖν
+mono	ὀστοῦν	N;DAT(DU)	ὀστοῖνοιν
+mul		ὀστοῦν	N;DAT(DU)	ὀστοίνοιν
+mul2	ὀστοῦν	N;DAT(DU)	ὀστοῖνοιν
+neural	ὀστοῦν	N;DAT(DU)	ὀστούνοιν
+
+ref		ὀστοῦν	N;DAT(PL)	ὀστοῖς
+mono	ὀστοῦν	N;DAT(PL)	ὀστοῖσῐ(ν)
+mul		ὀστοῦν	N;DAT(PL)	ὀστοῖσῐ(ν)
+mul2	ὀστοῦν	N;DAT(PL)	ὀστοῦντῐ(ν)
+neural	ὀστοῦν	N;DAT(PL)	ὀστούσοις
+
+ref		ὀστοῦν	N;DAT(SG)	ὀστῷ
+mono	ὀστοῦν	N;DAT(SG)	ὀστοῦν
+mul		ὀστοῦν	N;DAT(SG)	ὀστοῦ
+mul2	ὀστοῦν	N;DAT(SG)	ὀστοῦν
+neural	ὀστοῦν	N;DAT(SG)	ὀστούνῐ
+
+ref		ὀστοῦν	N;GEN(DU)	ὀστοῖν
+mono	ὀστοῦν	N;GEN(DU)	ὀστοῖνοιν
+mul		ὀστοῦν	N;GEN(DU)	ὀστοίνοιν
+mul2	ὀστοῦν	N;GEN(DU)	ὀστοῦνοιν
+neural	ὀστοῦν	N;GEN(DU)	ὀστούνοιν
+
+ref		ὀστοῦν	N;GEN(PL)	ὀστῶν
+mono	ὀστοῦν	N;GEN(PL)	ὀστοῦντῶν
+mul		ὀστοῦν	N;GEN(PL)	ὀστοῖς
+mul2	ὀστοῦν	N;GEN(PL)	ὀστοῦντων
+neural	ὀστοῦν	N;GEN(PL)	ὀστούνων
+
+ref		ὀστοῦν	N;GEN(SG)	ὀστοῦ
+mono	ὀστοῦν	N;GEN(SG)	ὀστοῦν
+mul		ὀστοῦν	N;GEN(SG)	ὀστοῦντος
+mul2	ὀστοῦν	N;GEN(SG)	ὀστοῦν
+neural	ὀστοῦν	N;GEN(SG)	ὀστούνος
+
+ref		ὀστοῦν	N;NOM(PL)	ὀστᾶ
+mono	ὀστοῦν	N;NOM(PL)	ὀστοῦν
+mul		ὀστοῦν	N;NOM(PL)	ὀστοῦν
+mul2	ὀστοῦν	N;NOM(PL)	ὀστοῦντᾰ
+neural	ὀστοῦν	N;NOM(PL)	ὀστοῦνᾰ
+
+ref		ὀστοῦν	N;VOC(DU)	ὀστώ
+mono	ὀστοῦν	N;VOC(DU)	ὀστοῖν
+mul		ὀστοῦν	N;VOC(DU)	ὀστοῦν
+mul2	ὀστοῦν	N;VOC(DU)	ὀστοῦ
+neural	ὀστοῦν	N;VOC(DU)	ὀστούνε
+
+error rate ὀστοῦν:0.5333333333333333
+
+ref		ὁμόγραφος	ADJ;ACC(DU;NEUT)	ὁμογράφω
+mono	ὁμόγραφος	ADJ;ACC(DU;NEUT)	ὁμόγραφω
+mul2	ὁμόγραφος	ADJ;ACC(DU;NEUT)	ὁμογρᾰ́φω
+neural	ὁμόγραφος	ADJ;ACC(DU;NEUT)	ὁμογρᾰ́φω
+
+ref		ὁμόγραφος	ADJ;NOM(DU;NEUT)	ὁμογράφω
+mono	ὁμόγραφος	ADJ;NOM(DU;NEUT)	ὁμόγραφω
+mul2	ὁμόγραφος	ADJ;NOM(DU;NEUT)	ὁμογρᾰ́φω
+neural	ὁμόγραφος	ADJ;NOM(DU;NEUT)	ὁμογρᾰ́φω
+
+ref		ὁμόγραφος	ADJ;VOC(DU;NEUT)	ὁμογράφω
+mono	ὁμόγραφος	ADJ;VOC(DU;NEUT)	ὁμόγραφω
+mul2	ὁμόγραφος	ADJ;VOC(DU;NEUT)	ὁμογρᾰ́φω
+neural	ὁμόγραφος	ADJ;VOC(DU;NEUT)	ὁμογρᾰ́φω
+
+error rate ὁμόγραφος:0.09090909090909091
+
+ref		ὅμιλος	N;ACC(DU)	ὁμῑ́λω
+mono	ὅμιλος	N;ACC(DU)	ὅμῐ́λω
+mul		ὅμιλος	N;ACC(DU)	ὅμῑ́λω
+mul2	ὅμιλος	N;ACC(DU)	ὅμίλω
+neural	ὅμιλος	N;ACC(DU)	ομῑ́λω
+
+ref		ὅμιλος	N;ACC(PL)	ὁμῑ́λους
+mono	ὅμιλος	N;ACC(PL)	ὅμῐ́λους
+mul		ὅμιλος	N;ACC(PL)	ὅμῑ́λους
+mul2	ὅμιλος	N;ACC(PL)	ὅμίλους
+neural	ὅμιλος	N;ACC(PL)	ομῑ́λους
+
+ref		ὅμιλος	N;DAT(DU)	ὁμῑ́λοιν
+mono	ὅμιλος	N;DAT(DU)	ὅμίλοιν
+mul		ὅμιλος	N;DAT(DU)	ὅμῑ́λοιν
+mul2	ὅμιλος	N;DAT(DU)	ὅμίλοιν
+neural	ὅμιλος	N;DAT(DU)	αίλλοιν
+
+ref		ὅμιλος	N;DAT(PL)	ὁμῑ́λοις
+mono	ὅμιλος	N;DAT(PL)	ὅμίλοις
+mul		ὅμιλος	N;DAT(PL)	ὅμῑ́λοις
+mul2	ὅμιλος	N;DAT(PL)	ὅμίλοις
+neural	ὅμιλος	N;DAT(PL)	ομῑ́λοις
+
+ref		ὅμιλος	N;DAT(SG)	ὁμῑ́λῳ
+mono	ὅμιλος	N;DAT(SG)	ὅμῐ́λῳ
+mul		ὅμιλος	N;DAT(SG)	ὅμῑ́λῳ
+mul2	ὅμιλος	N;DAT(SG)	ὅμίλῳ
+neural	ὅμιλος	N;DAT(SG)	ομῑ́λῳ
+
+ref		ὅμιλος	N;GEN(DU)	ὁμῑ́λοιν
+mono	ὅμιλος	N;GEN(DU)	ὅμίλοιν
+mul		ὅμιλος	N;GEN(DU)	ὅμῑ́λοιν
+mul2	ὅμιλος	N;GEN(DU)	ὅμίλοιν
+neural	ὅμιλος	N;GEN(DU)	αίλλοιν
+
+ref		ὅμιλος	N;GEN(PL)	ὁμῑ́λων
+mono	ὅμιλος	N;GEN(PL)	ὅμίλους
+mul		ὅμιλος	N;GEN(PL)	ὅμῑ́λων
+mul2	ὅμιλος	N;GEN(PL)	ὅμίλων
+neural	ὅμιλος	N;GEN(PL)	αίλων
+
+ref		ὅμιλος	N;GEN(SG)	ὁμῑ́λου
+mono	ὅμιλος	N;GEN(SG)	ὅμῐ́λου
+mul		ὅμιλος	N;GEN(SG)	ὅμῑ́λου
+mul2	ὅμιλος	N;GEN(SG)	ὅμίλου
+neural	ὅμιλος	N;GEN(SG)	αιλῐ́ου
+
+ref		ὅμιλος	N;NOM(DU)	ὁμῑ́λω
+mono	ὅμιλος	N;NOM(DU)	ὅμῐ́λω
+mul		ὅμιλος	N;NOM(DU)	ὅμῑ́λω
+mul2	ὅμιλος	N;NOM(DU)	ὅμίλω
+neural	ὅμιλος	N;NOM(DU)	ομῑ́λω
+
+ref		ὅμιλος	N;NOM(PL)	ὅμῑλοι
+mono	ὅμιλος	N;NOM(PL)	ὅμῐ́λοι
+mul		ὅμιλος	N;NOM(PL)	ὅμῐ́λοι
+mul2	ὅμιλος	N;NOM(PL)	ὅμίλοι
+neural	ὅμιλος	N;NOM(PL)	αιλῐ́οι
+
+ref		ὅμιλος	N;VOC(DU)	ὁμῑ́λω
+mono	ὅμιλος	N;VOC(DU)	ὅμῐ́λω
+mul		ὅμιλος	N;VOC(DU)	ὅμῑ́λω
+mul2	ὅμιλος	N;VOC(DU)	ὅμίλω
+neural	ὅμιλος	N;VOC(DU)	ομῑ́λω
+
+error rate ὅμιλος:0.7333333333333333
+
+ref		ῥάδιξ	N;ACC(DU)	ῥᾱδῖκε
+mono	ῥάδιξ	N;ACC(DU)	ῥᾰ́δῐκε
+mul		ῥάδιξ	N;ACC(DU)	ῥᾰ́δῐκε
+mul2	ῥάδιξ	N;ACC(DU)	ῥᾰδῐ́κε
+neural	ῥάδιξ	N;ACC(DU)	ῥᾰ́δῐκε
+
+ref		ῥάδιξ	N;ACC(SG)	ῥᾱδῖκᾰ
+mono	ῥάδιξ	N;ACC(SG)	ῥᾰ́δῐκε
+mul		ῥάδιξ	N;ACC(SG)	ῥᾰ́δῐκᾰ
+mul2	ῥάδιξ	N;ACC(SG)	ῥᾰ́δῐκν
+neural	ῥάδιξ	N;ACC(SG)	ῥᾰ́δῐκᾰ
+
+ref		ῥάδιξ	N;DAT(DU)	ῥᾱδῑ́κοιν
+mono	ῥάδιξ	N;DAT(DU)	ῥᾰδῐκοῖν
+mul		ῥάδιξ	N;DAT(DU)	ῥᾰδῐκοῖν
+mul2	ῥάδιξ	N;DAT(DU)	ῥᾰδῐ́κοιν
+neural	ῥάδιξ	N;DAT(DU)	ῥᾰδῑ́κοιν
+
+ref		ῥάδιξ	N;DAT(PL)	ῥᾱδῖκῐ(ν)
+mono	ῥάδιξ	N;DAT(PL)	ῥᾰδῐκοῖς
+mul		ῥάδιξ	N;DAT(PL)	ῥᾰδῐκοῖς
+mul2	ῥάδιξ	N;DAT(PL)	ῥᾰδῐ́κοις
+neural	ῥάδιξ	N;DAT(PL)	ῥᾰ́διξῐ(ν)
+
+ref		ῥάδιξ	N;GEN(SG)	ῥᾱδῖκος
+mono	ῥάδιξ	N;GEN(SG)	ῥᾰδῐκῆς
+mul		ῥάδιξ	N;GEN(SG)	ῥᾰ́δῐκος
+mul2	ῥάδιξ	N;GEN(SG)	ῥᾰδῐκῆς
+neural	ῥάδιξ	N;GEN(SG)	ῥᾰ́δῐκος
+
+ref		ῥάδιξ	N;NOM(DU)	ῥᾱδῖκε
+mono	ῥάδιξ	N;NOM(DU)	ῥᾰ́δῐκε
+mul		ῥάδιξ	N;NOM(DU)	ῥᾰ́δῐκε
+mul2	ῥάδιξ	N;NOM(DU)	ῥᾰδῐ́κε
+neural	ῥάδιξ	N;NOM(DU)	ῥᾰ́δῐκε
+
+ref		ῥάδιξ	N;NOM(SG)	ῥᾱ́δῑξ
+mono	ῥάδιξ	N;NOM(SG)	ῥᾰ́δῐκε
+mul		ῥάδιξ	N;NOM(SG)	ῥᾰ́δῐξ
+mul2	ῥάδιξ	N;NOM(SG)	ῥᾰ́δῐκ
+neural	ῥάδιξ	N;NOM(SG)	ῥᾰ́δῐξ
+
+ref		ῥάδιξ	N;VOC(DU)	ῥᾱδῖκε
+mono	ῥάδιξ	N;VOC(DU)	ῥᾰ́δῐκε
+mul		ῥάδιξ	N;VOC(DU)	ῥᾰ́δῐκε
+mul2	ῥάδιξ	N;VOC(DU)	ῥᾰδῐ́κε
+neural	ῥάδιξ	N;VOC(DU)	ῥᾰ́δῐκε
+
+error rate ῥάδιξ:0.5333333333333333
+

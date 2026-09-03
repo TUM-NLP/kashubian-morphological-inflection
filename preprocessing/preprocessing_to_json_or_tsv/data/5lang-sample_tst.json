@@ -1,0 +1,1000 @@
+{"input": "Navajo: Inflect yiyiilįh | V;IND;IPFV;NOM(1,GRPL)","target": "deiidlįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;IPFV;NOM(1,PL)","target": "yiidlįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;IPFV;NOM(1,SG)","target": "yiishłįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;IPFV;NOM(2,GRPL)","target": "daoohłįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;IPFV;NOM(2,PL)","target": "woohłįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;IPFV;NOM(2,SG)","target": "yiilįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;IPFV;NOM(3,PL)","target": "yiyiilįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;IPFV;NOM(3,SG)","target": "yiyiilįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;IPFV;NOM(4,GRPL)","target": "dajiilįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;IPFV;NOM(4,PL)","target": "jiilįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;IPFV;NOM(4,SG)","target": "jiilįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PFV;NOM(1,GRPL)","target": "dasiidlįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PFV;NOM(1,PL)","target": "siidlįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PFV;NOM(1,SG)","target": "sélįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PFV;NOM(2,GRPL)","target": "dasoolįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PFV;NOM(2,PL)","target": "soolįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PFV;NOM(2,SG)","target": "sínílįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PFV;NOM(3,GRPL)","target": "deizlįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PFV;NOM(3,SG)","target": "yizlįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PFV;NOM(4,GRPL)","target": "dajizlįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PFV;NOM(4,PL)","target": "jizlįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PROSP;NOM(1,GRPL)","target": "dadiiłįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PROSP;NOM(1,PL)","target": "diiłįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PROSP;NOM(1,SG)","target": "deeshłįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PROSP;NOM(2,GRPL)","target": "dadoohłįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PROSP;NOM(2,PL)","target": "doohłįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PROSP;NOM(2,SG)","target": "dííłįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PROSP;NOM(3,PL)","target": "yidoołįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PROSP;NOM(3,SG)","target": "yidoołįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PROSP;NOM(4,GRPL)","target": "dazhdoołįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PROSP;NOM(4,PL)","target": "jidoołįh"}
+{"input": "Navajo: Inflect yiyiilįh | V;IND;PROSP;NOM(4,SG)","target": "jidoołįh"}
+{"input": "Navajo: Inflect yidiłid | V;IND;IPFV;NOM(1,PL)","target": "diidlid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;IPFV;NOM(1,SG)","target": "dishłid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;IPFV;NOM(2,PL)","target": "dohłid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;IPFV;NOM(3,GRPL)","target": "deidiłid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;IPFV;NOM(3,PL)","target": "yidiłid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;IPFV;NOM(3,SG)","target": "yidiłid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;IPFV;NOM(4,GRPL)","target": "dazhdiłid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;IPFV;NOM(4,PL)","target": "jidiłid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;IPFV;NOM(4,SG)","target": "jidiłid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;PFV;NOM(1,PL)","target": "diidlid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;PFV;NOM(1,SG)","target": "dííłid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;PFV;NOM(2,PL)","target": "doołid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;PFV;NOM(2,SG)","target": "dííníłid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;PFV;NOM(3,GRPL)","target": "deidííłid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;PFV;NOM(3,PL)","target": "yidííłid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;PFV;NOM(3,SG)","target": "yidííłid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;PFV;NOM(4,GRPL)","target": "dazhdííłid"}
+{"input": "Navajo: Inflect yidiłid | V;IND;PFV;NOM(4,PL)","target": "jidííłid"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;IPFV;NOM(1,PL)","target": "iitsʼǫǫd"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;IPFV;NOM(1,SG)","target": "iistsʼǫǫd"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;IPFV;NOM(2,GRPL)","target": "adaahtsʼǫǫd"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;IPFV;NOM(2,PL)","target": "oohtsʼǫǫd"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;IPFV;NOM(2,SG)","target": "anitsʼǫǫd"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;IPFV;NOM(3,GRPL)","target": "adaatsʼǫǫd"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;IPFV;NOM(3,PL)","target": "iitsʼǫǫd"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;IPFV;NOM(3,SG)","target": "iitsʼǫǫd"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;IPFV;NOM(4,GRPL)","target": "adajitsʼǫǫd"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;IPFV;NOM(4,PL)","target": "ajitsʼǫǫd"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;IPFV;NOM(4,SG)","target": "ajitsʼǫǫd"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PFV;NOM(1,GRPL)","target": "adasiitsʼǫ́ǫ́d"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PFV;NOM(1,PL)","target": "iitsʼǫ́ǫ́d"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PFV;NOM(2,GRPL)","target": "adasootsʼǫ́ǫ́d"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PFV;NOM(2,PL)","target": "ootsʼǫ́ǫ́d"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PFV;NOM(2,SG)","target": "íínítsʼǫ́ǫ́d"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PFV;NOM(3,PL)","target": "íítsʼǫ́ǫ́d"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PFV;NOM(3,SG)","target": "íítsʼǫ́ǫ́d"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PFV;NOM(4,PL)","target": "ajíítsʼǫ́ǫ́d"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PFV;NOM(4,SG)","target": "ajíítsʼǫ́ǫ́d"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PROSP;NOM(1,GRPL)","target": "adadiitsʼǫł"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PROSP;NOM(1,PL)","target": "adiitsʼǫł"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PROSP;NOM(1,SG)","target": "adeestsʼǫł"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PROSP;NOM(2,GRPL)","target": "adadoohtsʼǫł"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PROSP;NOM(2,PL)","target": "adoohtsʼǫł"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PROSP;NOM(2,SG)","target": "adíítsʼǫł"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PROSP;NOM(3,GRPL)","target": "adadootsʼǫł"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PROSP;NOM(3,PL)","target": "adootsʼǫł"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PROSP;NOM(3,SG)","target": "adootsʼǫł"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PROSP;NOM(4,GRPL)","target": "adazhdootsʼǫł"}
+{"input": "Navajo: Inflect iitsʼǫǫd | V;IND;PROSP;NOM(4,PL)","target": "azhdootsʼǫł"}
+{"input": "Navajo: Inflect yoołʼah | V;IND;PFV;NOM(1,PL)","target": "yiilʼah"}
+{"input": "Navajo: Inflect yoołʼah | V;IND;PFV;NOM(2,GRPL)","target": "deínółʼááh"}
+{"input": "Navajo: Inflect yoołʼah | V;IND;PFV;NOM(2,PL)","target": "wołʼah"}
+{"input": "Navajo: Inflect yoołʼah | V;IND;PFV;NOM(2,SG)","target": "yíłʼah"}
+{"input": "Navajo: Inflect yoołʼah | V;IND;PFV;NOM(3,GRPL)","target": "deíłʼááh"}
+{"input": "Navajo: Inflect yoołʼah | V;IND;PFV;NOM(3,PL)","target": "yoołʼah"}
+{"input": "Navajo: Inflect yoołʼah | V;IND;PFV;NOM(3,SG)","target": "yoołʼah"}
+{"input": "Navajo: Inflect yoołʼah | V;IND;PFV;NOM(4,GRPL)","target": "dajíłʼááh"}
+{"input": "Navajo: Inflect yoołʼah | V;IND;PFV;NOM(4,SG)","target": "joołʼah"}
+{"input": "Navajo: Inflect yeełtʼé | V;IND;PFV;NOM(1,PL)","target": "biniiltʼé"}
+{"input": "Navajo: Inflect yeełtʼé | V;IND;PFV;NOM(1,SG)","target": "binishtʼé"}
+{"input": "Navajo: Inflect yeełtʼé | V;IND;PFV;NOM(2,GRPL)","target": "bidanołtʼé"}
+{"input": "Navajo: Inflect yeełtʼé | V;IND;PFV;NOM(2,PL)","target": "binołtʼé"}
+{"input": "Navajo: Inflect yeełtʼé | V;IND;PFV;NOM(3,GRPL)","target": "yidaałtʼé"}
+{"input": "Navajo: Inflect yeełtʼé | V;IND;PFV;NOM(3,SG)","target": "yeełtʼé"}
+{"input": "Navajo: Inflect yeełtʼé | V;IND;PFV;NOM(4,GRPL)","target": "bidajíłtʼé"}
+{"input": "Navajo: Inflect yeełtʼé | V;IND;PFV;NOM(4,PL)","target": "bijíłtʼé"}
+{"input": "Navajo: Inflect yeełtʼé | V;IND;PFV;NOM(4,SG)","target": "bijíłtʼé"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;IPFV;NOM(1,GRPL)","target": "adeiiltʼééh"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;IPFV;NOM(1,PL)","target": "iiltʼééh"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;IPFV;NOM(2,GRPL)","target": "adaałtʼééh"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;IPFV;NOM(2,PL)","target": "oołtʼééh"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;IPFV;NOM(2,SG)","target": "aniłtʼééh"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;IPFV;NOM(3,GRPL)","target": "adeiłtʼééh"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;IPFV;NOM(3,PL)","target": "iiłtʼééh"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;IPFV;NOM(3,SG)","target": "iiłtʼééh"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;IPFV;NOM(4,GRPL)","target": "adajiłtʼééh"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;IPFV;NOM(4,PL)","target": "ajiłtʼééh"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;IPFV;NOM(4,SG)","target": "ajiłtʼééh"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PFV;NOM(1,GRPL)","target": "adasiiltʼiʼ"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PFV;NOM(1,SG)","target": "ííłtʼiʼ"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PFV;NOM(2,GRPL)","target": "adasoołtʼiʼ"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PFV;NOM(2,PL)","target": "oołtʼiʼ"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PFV;NOM(2,SG)","target": "ííníłtʼiʼ"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PFV;NOM(3,SG)","target": "ayííłtʼiʼ"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PFV;NOM(4,GRPL)","target": "adajistʼiʼ"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PFV;NOM(4,PL)","target": "ajííłtʼiʼ"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PROSP;NOM(1,PL)","target": "adiiltʼih"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PROSP;NOM(1,SG)","target": "adeeshtʼih"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PROSP;NOM(2,GRPL)","target": "adadoołtʼih"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PROSP;NOM(2,PL)","target": "adoołtʼih"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PROSP;NOM(2,SG)","target": "adííłtʼih"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PROSP;NOM(3,GRPL)","target": "adeidoołtʼih"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PROSP;NOM(3,PL)","target": "iidoołtʼih"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PROSP;NOM(4,GRPL)","target": "adazhdoołtʼih"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PROSP;NOM(4,PL)","target": "azhdoołtʼih"}
+{"input": "Navajo: Inflect iiłtʼééh | V;IND;PROSP;NOM(4,SG)","target": "azhdoołtʼih"}
+{"input": "Navajo: Inflect yiłbąąs | V;IND;IPFV;NOM(1,GRPL)","target": "deiilbąąs"}
+{"input": "Navajo: Inflect yiłbąąs | V;IND;IPFV;NOM(1,PL)","target": "yiilbąąs"}
+{"input": "Navajo: Inflect yiłbąąs | V;IND;IPFV;NOM(1,SG)","target": "yisbąąs"}
+{"input": "Navajo: Inflect yiłbąąs | V;IND;IPFV;NOM(2,GRPL)","target": "daałbąąs"}
+{"input": "Navajo: Inflect yiłbąąs | V;IND;IPFV;NOM(2,PL)","target": "wołbąąs"}
+{"input": "Navajo: Inflect yiłbąąs | V;IND;IPFV;NOM(2,SG)","target": "niłbąąs"}
+{"input": "Navajo: Inflect yiłbąąs | V;IND;IPFV;NOM(3,SG)","target": "yiłbąąs"}
+{"input": "Navajo: Inflect yiłbąąs | V;IND;IPFV;NOM(4,GRPL)","target": "dajiłbąąs"}
+{"input": "Navajo: Inflect yiłbąąs | V;IND;IPFV;NOM(4,PL)","target": "jiłbąąs"}
+{"input": "Navajo: Inflect yiłbąąs | V;IND;IPFV;NOM(4,SG)","target": "jiłbąąs"}
+{"input": "Navajo: Inflect yiłbąąs | V;IND;PFV;NOM(1,PL)","target": "yiilbą́ą́z"}
+{"input": "Navajo: Inflect yiłbąąs | V;IND;PFV;NOM(2,SG)","target": "yíníłbą́ą́z"}
+{"input": "Navajo: Inflect yiłbąąs | V;IND;PFV;NOM(3,PL)","target": "yiyííłbą́ą́z"}
+{"input": "Navajo: Inflect yiłbąąs | V;IND;PFV;NOM(4,PL)","target": "jííłbą́ą́z"}
+{"input": "Navajo: Inflect yiłbąąs | V;IND;PFV;NOM(4,SG)","target": "jííłbą́ą́z"}
+{"input": "Navajo: Inflect yooʼááł | V;IND;PFV;NOM(1,GRPL)","target": "deíníitʼaah"}
+{"input": "Navajo: Inflect yooʼááł | V;IND;PFV;NOM(1,PL)","target": "yiitʼááł"}
+{"input": "Navajo: Inflect yooʼááł | V;IND;PFV;NOM(1,SG)","target": "yishʼááł"}
+{"input": "Navajo: Inflect yooʼááł | V;IND;PFV;NOM(2,PL)","target": "wohʼááł"}
+{"input": "Navajo: Inflect yooʼááł | V;IND;PFV;NOM(2,SG)","target": "yíʼááł"}
+{"input": "Navajo: Inflect yooʼááł | V;IND;PFV;NOM(3,SG)","target": "yooʼááł"}
+{"input": "Navajo: Inflect yooʼááł | V;IND;PFV;NOM(4,GRPL)","target": "dajíʼaah"}
+{"input": "Navajo: Inflect yooʼááł | V;IND;PFV;NOM(4,PL)","target": "jooʼááł"}
+{"input": "Navajo: Inflect yigan | V;IND;IPFV;NOM(1,GRPL)","target": "deiigan"}
+{"input": "Navajo: Inflect yigan | V;IND;IPFV;NOM(1,PL)","target": "yiigan"}
+{"input": "Navajo: Inflect yigan | V;IND;IPFV;NOM(2,GRPL)","target": "daahgan"}
+{"input": "Navajo: Inflect yigan | V;IND;IPFV;NOM(2,PL)","target": "wohgan"}
+{"input": "Navajo: Inflect yigan | V;IND;IPFV;NOM(2,SG)","target": "nigan"}
+{"input": "Navajo: Inflect yigan | V;IND;IPFV;NOM(3,GRPL)","target": "daagan"}
+{"input": "Navajo: Inflect yigan | V;IND;IPFV;NOM(3,PL)","target": "yigan"}
+{"input": "Navajo: Inflect yigan | V;IND;IPFV;NOM(3,SG)","target": "yigan"}
+{"input": "Navajo: Inflect yigan | V;IND;IPFV;NOM(4,GRPL)","target": "dajigan"}
+{"input": "Navajo: Inflect yigan | V;IND;IPFV;NOM(4,PL)","target": "jigan"}
+{"input": "Navajo: Inflect yigan | V;IND;PFV;NOM(1,GRPL)","target": "dasiigan"}
+{"input": "Navajo: Inflect yigan | V;IND;PFV;NOM(1,SG)","target": "ségan"}
+{"input": "Navajo: Inflect yigan | V;IND;PFV;NOM(2,SG)","target": "sínígan"}
+{"input": "Navajo: Inflect yigan | V;IND;PFV;NOM(3,GRPL)","target": "daazgan"}
+{"input": "Navajo: Inflect yigan | V;IND;PFV;NOM(4,GRPL)","target": "dajizgan"}
+{"input": "Navajo: Inflect yigan | V;IND;PFV;NOM(4,PL)","target": "jizgan"}
+{"input": "Navajo: Inflect yitʼood | V;IND;IPFV;NOM(1,GRPL)","target": "deiitʼood"}
+{"input": "Navajo: Inflect yitʼood | V;IND;IPFV;NOM(1,PL)","target": "yiitʼood"}
+{"input": "Navajo: Inflect yitʼood | V;IND;IPFV;NOM(2,GRPL)","target": "daahtʼood"}
+{"input": "Navajo: Inflect yitʼood | V;IND;IPFV;NOM(2,PL)","target": "wohtʼood"}
+{"input": "Navajo: Inflect yitʼood | V;IND;IPFV;NOM(2,SG)","target": "nitʼood"}
+{"input": "Navajo: Inflect yitʼood | V;IND;IPFV;NOM(3,GRPL)","target": "deitʼood"}
+{"input": "Navajo: Inflect yitʼood | V;IND;IPFV;NOM(3,PL)","target": "yitʼood"}
+{"input": "Navajo: Inflect yitʼood | V;IND;IPFV;NOM(3,SG)","target": "yitʼood"}
+{"input": "Navajo: Inflect yitʼood | V;IND;IPFV;NOM(4,GRPL)","target": "dajitʼood"}
+{"input": "Navajo: Inflect yitʼood | V;IND;IPFV;NOM(4,PL)","target": "jitʼood"}
+{"input": "Navajo: Inflect yitʼood | V;IND;IPFV;NOM(4,SG)","target": "jitʼood"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PFV;NOM(1,GRPL)","target": "deiitʼóód"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PFV;NOM(1,PL)","target": "yiitʼóód"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PFV;NOM(1,SG)","target": "yítʼóód"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PFV;NOM(2,GRPL)","target": "daootʼóód"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PFV;NOM(2,SG)","target": "yínítʼóód"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PFV;NOM(3,GRPL)","target": "dayíítʼóód"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PFV;NOM(3,PL)","target": "yiyíítʼóód"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PFV;NOM(3,SG)","target": "yiyíítʼóód"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PFV;NOM(4,GRPL)","target": "dajíítʼóód"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PFV;NOM(4,PL)","target": "jíítʼóód"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PFV;NOM(4,SG)","target": "jíítʼóód"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PROSP;NOM(1,GRPL)","target": "dadiitʼoł"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PROSP;NOM(1,SG)","target": "deeshtʼoł"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PROSP;NOM(2,GRPL)","target": "dadoohtʼoł"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PROSP;NOM(2,PL)","target": "doohtʼoł"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PROSP;NOM(2,SG)","target": "díítʼoł"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PROSP;NOM(3,GRPL)","target": "deidootʼoł"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PROSP;NOM(3,PL)","target": "yidootʼoł"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PROSP;NOM(3,SG)","target": "yidootʼoł"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PROSP;NOM(4,GRPL)","target": "dazhdootʼoł"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PROSP;NOM(4,PL)","target": "jidootʼoł"}
+{"input": "Navajo: Inflect yitʼood | V;IND;PROSP;NOM(4,SG)","target": "jidootʼoł"}
+{"input": "German: Inflect auflösen | V.PTCP;PST","target": "aufgelöst"}
+{"input": "German: Inflect auflösen | V;IND;PRS;NOM(1,PL)","target": "lösen auf"}
+{"input": "German: Inflect auflösen | V;IND;PRS;NOM(1,SG)","target": "löse auf"}
+{"input": "German: Inflect auflösen | V;IND;PRS;NOM(3,SG)","target": "löst auf"}
+{"input": "German: Inflect auflösen | V;SBJV;PRS;NOM(1,SG)","target": "löse auf"}
+{"input": "German: Inflect auflösen | V;SBJV;PRS;NOM(3,PL)","target": "lösen auf"}
+{"input": "German: Inflect auflösen | V;SBJV;PST;NOM(2,SG)","target": "löstest auf"}
+{"input": "German: Inflect drohen | V.PTCP;PRS","target": "drohend"}
+{"input": "German: Inflect drohen | V;IND;PRS;NOM(1,SG)","target": "drohe"}
+{"input": "German: Inflect drohen | V;IND;PRS;NOM(3,PL)","target": "drohen"}
+{"input": "German: Inflect drohen | V;IND;PST;NOM(2,SG)","target": "drohtest"}
+{"input": "German: Inflect drohen | V;NFIN","target": "drohen"}
+{"input": "German: Inflect drohen | V;SBJV;PRS;NOM(1,PL)","target": "drohen"}
+{"input": "German: Inflect drohen | V;SBJV;PST;NOM(1,PL)","target": "drohten"}
+{"input": "German: Inflect hehlen | V;IMP;NOM(2,PL)","target": "hehlt"}
+{"input": "German: Inflect hehlen | V;IND;PRS;NOM(1,SG)","target": "hehle"}
+{"input": "German: Inflect hehlen | V;IND;PRS;NOM(3,PL)","target": "hehlen"}
+{"input": "German: Inflect hehlen | V;IND;PST;NOM(1,SG)","target": "hehlte"}
+{"input": "German: Inflect hehlen | V;IND;PST;NOM(3,SG)","target": "hehlte"}
+{"input": "German: Inflect hehlen | V;SBJV;PRS;NOM(1,PL)","target": "hehlen"}
+{"input": "German: Inflect hehlen | V;SBJV;PRS;NOM(3,PL)","target": "hehlen"}
+{"input": "German: Inflect hehlen | V;SBJV;PST;NOM(2,PL)","target": "hehltet"}
+{"input": "German: Inflect hehlen | V;SBJV;PST;NOM(3,SG)","target": "hehlte"}
+{"input": "German: Inflect Äußerlichkeit | N;ACC(PL)","target": "Äußerlichkeiten"}
+{"input": "German: Inflect Äußerlichkeit | N;ACC(SG)","target": "Äußerlichkeit"}
+{"input": "German: Inflect Äußerlichkeit | N;GEN(SG)","target": "Äußerlichkeit"}
+{"input": "German: Inflect Äußerlichkeit | N;NOM(PL)","target": "Äußerlichkeiten"}
+{"input": "German: Inflect einziehen | V;IMP;NOM(2,PL)","target": "zieht ein"}
+{"input": "German: Inflect einziehen | V;IND;PRS;NOM(1,PL)","target": "ziehen ein"}
+{"input": "German: Inflect einziehen | V;IND;PST;NOM(1,SG)","target": "zog ein"}
+{"input": "German: Inflect einziehen | V;SBJV;PRS;NOM(1,PL)","target": "ziehen ein"}
+{"input": "German: Inflect einziehen | V;SBJV;PST;NOM(2,SG)","target": "zögest ein"}
+{"input": "German: Inflect Orangeat | N;DAT(PL)","target": "Orangeaten"}
+{"input": "German: Inflect Orangeat | N;DAT(SG)","target": "Orangeat"}
+{"input": "German: Inflect Orangeat | N;GEN(PL)","target": "Orangeate"}
+{"input": "German: Inflect Orangeat | N;GEN(SG)","target": "Orangeates"}
+{"input": "German: Inflect Orangeat | N;NOM(SG)","target": "Orangeat"}
+{"input": "German: Inflect Fahnenträger | N;ACC(PL)","target": "Fahnenträger"}
+{"input": "German: Inflect Fahnenträger | N;ACC(SG)","target": "Fahnenträger"}
+{"input": "German: Inflect Fahnenträger | N;DAT(PL)","target": "Fahnenträgern"}
+{"input": "German: Inflect Fahnenträger | N;DAT(SG)","target": "Fahnenträger"}
+{"input": "German: Inflect Fahnenträger | N;GEN(PL)","target": "Fahnenträger"}
+{"input": "German: Inflect Fahnenträger | N;NOM(PL)","target": "Fahnenträger"}
+{"input": "German: Inflect pellen | V;IND;PRS;NOM(2,PL)","target": "pellt"}
+{"input": "German: Inflect pellen | V;SBJV;PRS;NOM(1,SG)","target": "pelle"}
+{"input": "German: Inflect pellen | V;SBJV;PST;NOM(1,SG)","target": "pellte"}
+{"input": "German: Inflect pellen | V;SBJV;PST;NOM(2,PL)","target": "pelltet"}
+{"input": "German: Inflect pellen | V;SBJV;PST;NOM(3,SG)","target": "pellte"}
+{"input": "German: Inflect erben | V;IND;PRS;NOM(1,PL)","target": "erben"}
+{"input": "German: Inflect erben | V;IND;PRS;NOM(2,PL)","target": "erbt"}
+{"input": "German: Inflect erben | V;IND;PRS;NOM(2,SG)","target": "erbst"}
+{"input": "German: Inflect erben | V;IND;PST;NOM(1,SG)","target": "erbte"}
+{"input": "German: Inflect erben | V;IND;PST;NOM(2,SG)","target": "erbtest"}
+{"input": "German: Inflect erben | V;IND;PST;NOM(3,SG)","target": "erbte"}
+{"input": "German: Inflect erben | V;SBJV;PRS;NOM(1,SG)","target": "erbe"}
+{"input": "German: Inflect erben | V;SBJV;PRS;NOM(3,PL)","target": "erben"}
+{"input": "German: Inflect erben | V;SBJV;PST;NOM(2,PL)","target": "erbtet"}
+{"input": "German: Inflect erben | V;SBJV;PST;NOM(3,SG)","target": "erbte"}
+{"input": "German: Inflect Fünfer | N;ACC(SG)","target": "Fünfer"}
+{"input": "German: Inflect Fünfer | N;DAT(PL)","target": "Fünfern"}
+{"input": "German: Inflect Fünfer | N;GEN(PL)","target": "Fünfer"}
+{"input": "German: Inflect Fünfer | N;GEN(SG)","target": "Fünfers"}
+{"input": "German: Inflect Fünfer | N;NOM(SG)","target": "Fünfer"}
+{"input": "German: Inflect Versuch | N;ACC(PL)","target": "Versuche"}
+{"input": "German: Inflect Versuch | N;DAT(PL)","target": "Versuchen"}
+{"input": "German: Inflect Versuch | N;NOM(SG)","target": "Versuch"}
+{"input": "German: Inflect Konnotation | N;ACC(SG)","target": "Konnotation"}
+{"input": "German: Inflect sparen | V.PTCP;PST","target": "gespart"}
+{"input": "German: Inflect sparen | V;IMP;NOM(2,SG)","target": "spar"}
+{"input": "German: Inflect sparen | V;SBJV;PRS;NOM(2,SG)","target": "sparest"}
+{"input": "German: Inflect sparen | V;SBJV;PST;NOM(2,PL)","target": "spartet"}
+{"input": "German: Inflect sparen | V;SBJV;PST;NOM(2,SG)","target": "spartest"}
+{"input": "German: Inflect verbleiben | V.PTCP;PRS","target": "verbleibend"}
+{"input": "German: Inflect verbleiben | V;IND;PRS;NOM(3,SG)","target": "verbleibt"}
+{"input": "German: Inflect verbleiben | V;IND;PST;NOM(2,SG)","target": "verbliebst"}
+{"input": "German: Inflect verbleiben | V;IND;PST;NOM(3,SG)","target": "verblieb"}
+{"input": "German: Inflect verbleiben | V;NFIN","target": "verbleiben"}
+{"input": "German: Inflect verbleiben | V;SBJV;PRS;NOM(1,PL)","target": "verbleiben"}
+{"input": "German: Inflect verbleiben | V;SBJV;PST;NOM(2,PL)","target": "verbliebet"}
+{"input": "German: Inflect verbleiben | V;SBJV;PST;NOM(2,SG)","target": "verbliebest"}
+{"input": "German: Inflect verbleiben | V;SBJV;PST;NOM(3,PL)","target": "verblieben"}
+{"input": "German: Inflect industrialisieren | V.PTCP;PRS","target": "industrialisierend"}
+{"input": "German: Inflect industrialisieren | V.PTCP;PST","target": "industrialisiert"}
+{"input": "German: Inflect industrialisieren | V;IND;PRS;NOM(2,PL)","target": "industrialisiert"}
+{"input": "German: Inflect industrialisieren | V;IND;PRS;NOM(3,PL)","target": "industrialisieren"}
+{"input": "German: Inflect industrialisieren | V;IND;PST;NOM(3,SG)","target": "industrialisierte"}
+{"input": "German: Inflect industrialisieren | V;NFIN","target": "industrialisieren"}
+{"input": "German: Inflect industrialisieren | V;SBJV;PRS;NOM(2,PL)","target": "industrialisieret"}
+{"input": "German: Inflect industrialisieren | V;SBJV;PRS;NOM(2,SG)","target": "industrialisierest"}
+{"input": "German: Inflect Heiratsgut | N;DAT(PL)","target": "Heiratsgütern"}
+{"input": "German: Inflect Heiratsgut | N;GEN(PL)","target": "Heiratsgüter"}
+{"input": "German: Inflect Heiratsgut | N;GEN(SG)","target": "Heiratsgutes"}
+{"input": "German: Inflect pissen | V.PTCP;PST","target": "gepisst"}
+{"input": "German: Inflect pissen | V;IMP;NOM(2,SG)","target": "piss"}
+{"input": "German: Inflect pissen | V;IND;PRS;NOM(3,SG)","target": "pisst"}
+{"input": "German: Inflect pissen | V;IND;PST;NOM(1,SG)","target": "pisste"}
+{"input": "German: Inflect pissen | V;NFIN","target": "pissen"}
+{"input": "German: Inflect pissen | V;SBJV;PRS;NOM(2,PL)","target": "pisset"}
+{"input": "German: Inflect pissen | V;SBJV;PRS;NOM(3,PL)","target": "pissen"}
+{"input": "German: Inflect pissen | V;SBJV;PST;NOM(1,PL)","target": "pissten"}
+{"input": "German: Inflect pissen | V;SBJV;PST;NOM(3,SG)","target": "pisste"}
+{"input": "German: Inflect Antidot | N;ACC(SG)","target": "Antidot"}
+{"input": "German: Inflect Antidot | N;DAT(PL)","target": "Antidoten"}
+{"input": "German: Inflect Antidot | N;NOM(PL)","target": "Antidote"}
+{"input": "German: Inflect Antidot | N;NOM(SG)","target": "Antidot"}
+{"input": "German: Inflect Statthalter | N;GEN(PL)","target": "Statthalter"}
+{"input": "German: Inflect Statthalter | N;GEN(SG)","target": "Statthalters"}
+{"input": "German: Inflect abrunden | V;IMP;NOM(2,SG)","target": "runde ab"}
+{"input": "German: Inflect abrunden | V;IND;PRS;NOM(2,PL)","target": "rundet ab"}
+{"input": "German: Inflect abrunden | V;IND;PRS;NOM(3,PL)","target": "runden ab"}
+{"input": "German: Inflect abrunden | V;IND;PST;NOM(2,PL)","target": "rundetet ab"}
+{"input": "German: Inflect abrunden | V;SBJV;PRS;NOM(1,SG)","target": "runde ab"}
+{"input": "German: Inflect abrunden | V;SBJV;PRS;NOM(3,PL)","target": "runden ab"}
+{"input": "German: Inflect abrunden | V;SBJV;PST;NOM(1,PL)","target": "rundeten ab"}
+{"input": "German: Inflect abrunden | V;SBJV;PST;NOM(2,PL)","target": "rundetet ab"}
+{"input": "German: Inflect abrunden | V;SBJV;PST;NOM(3,SG)","target": "rundete ab"}
+{"input": "German: Inflect Anstalt | N;DAT(SG)","target": "Anstalt"}
+{"input": "German: Inflect Fumarole | N;DAT(SG)","target": "Fumarole"}
+{"input": "German: Inflect Fumarole | N;GEN(SG)","target": "Fumarole"}
+{"input": "German: Inflect Fumarole | N;NOM(SG)","target": "Fumarole"}
+{"input": "German: Inflect zwängen | V.PTCP;PST","target": "gezwängt"}
+{"input": "German: Inflect zwängen | V;IND;PST;NOM(2,PL)","target": "zwängtet"}
+{"input": "German: Inflect zwängen | V;SBJV;PRS;NOM(1,SG)","target": "zwänge"}
+{"input": "German: Inflect zwängen | V;SBJV;PST;NOM(2,SG)","target": "zwängtest"}
+{"input": "German: Inflect Eibisch | N;ACC(SG)","target": "Eibisch"}
+{"input": "German: Inflect Eibisch | N;DAT(PL)","target": "Eibischen"}
+{"input": "German: Inflect Eibisch | N;DAT(SG)","target": "Eibisch"}
+{"input": "German: Inflect Eibisch | N;GEN(SG)","target": "Eibisches"}
+{"input": "German: Inflect Eibisch | N;NOM(SG)","target": "Eibisch"}
+{"input": "German: Inflect Brettspiel | N;ACC(PL)","target": "Brettspiele"}
+{"input": "German: Inflect Brettspiel | N;GEN(PL)","target": "Brettspiele"}
+{"input": "German: Inflect Brettspiel | N;GEN(SG)","target": "Brettspieles"}
+{"input": "German: Inflect Brettspiel | N;NOM(SG)","target": "Brettspiel"}
+{"input": "German: Inflect bereuen | V;IND;PRS;NOM(1,PL)","target": "bereuen"}
+{"input": "German: Inflect bereuen | V;IND;PST;NOM(1,PL)","target": "bereuten"}
+{"input": "German: Inflect bereuen | V;IND;PST;NOM(1,SG)","target": "bereute"}
+{"input": "German: Inflect bereuen | V;SBJV;PRS;NOM(1,SG)","target": "bereue"}
+{"input": "German: Inflect bereuen | V;SBJV;PRS;NOM(2,PL)","target": "bereuet"}
+{"input": "German: Inflect bereuen | V;SBJV;PST;NOM(1,SG)","target": "bereute"}
+{"input": "German: Inflect verbreiten | V;IMP;NOM(2,PL)","target": "verbreitet"}
+{"input": "German: Inflect verbreiten | V;IND;PRS;NOM(1,SG)","target": "verbreite"}
+{"input": "German: Inflect verbreiten | V;IND;PST;NOM(3,SG)","target": "verbreitete"}
+{"input": "German: Inflect verbreiten | V;SBJV;PRS;NOM(1,PL)","target": "verbreiten"}
+{"input": "German: Inflect verbreiten | V;SBJV;PRS;NOM(3,PL)","target": "verbreiten"}
+{"input": "German: Inflect verbreiten | V;SBJV;PST;NOM(1,PL)","target": "verbreiteten"}
+{"input": "German: Inflect verbreiten | V;SBJV;PST;NOM(2,PL)","target": "verbreitetet"}
+{"input": "German: Inflect gedeihen | V.PTCP;PRS","target": "gedeihend"}
+{"input": "German: Inflect gedeihen | V;IND;PRS;NOM(1,PL)","target": "gedeihen"}
+{"input": "German: Inflect gedeihen | V;IND;PRS;NOM(2,SG)","target": "gedeihst"}
+{"input": "German: Inflect gedeihen | V;IND;PST;NOM(1,SG)","target": "gedieh"}
+{"input": "German: Inflect gedeihen | V;IND;PST;NOM(2,SG)","target": "gediehst"}
+{"input": "German: Inflect gedeihen | V;SBJV;PRS;NOM(1,SG)","target": "gedeihe"}
+{"input": "German: Inflect gedeihen | V;SBJV;PRS;NOM(2,PL)","target": "gedeihet"}
+{"input": "German: Inflect gedeihen | V;SBJV;PRS;NOM(3,PL)","target": "gedeihen"}
+{"input": "German: Inflect gedeihen | V;SBJV;PRS;NOM(3,SG)","target": "gedeihe"}
+{"input": "German: Inflect gedeihen | V;SBJV;PST;NOM(3,PL)","target": "gediehen"}
+{"input": "German: Inflect gedeihen | V;SBJV;PST;NOM(3,SG)","target": "gediehe"}
+{"input": "German: Inflect beschäftigen | V;IND;PRS;NOM(3,SG)","target": "beschäftigt"}
+{"input": "German: Inflect beschäftigen | V;IND;PST;NOM(2,SG)","target": "beschäftigtest"}
+{"input": "German: Inflect Stiefkind | N;GEN(PL)","target": "Stiefkinder"}
+{"input": "German: Inflect Stiefkind | N;NOM(PL)","target": "Stiefkinder"}
+{"input": "German: Inflect Seitensprung | N;GEN(PL)","target": "Seitensprünge"}
+{"input": "German: Inflect Seitensprung | N;GEN(SG)","target": "Seitensprunges"}
+{"input": "German: Inflect Seitensprung | N;NOM(PL)","target": "Seitensprünge"}
+{"input": "German: Inflect amputieren | V.PTCP;PST","target": "amputiert"}
+{"input": "German: Inflect amputieren | V;IND;PRS;NOM(3,SG)","target": "amputiert"}
+{"input": "German: Inflect amputieren | V;IND;PST;NOM(3,PL)","target": "amputierten"}
+{"input": "German: Inflect amputieren | V;SBJV;PST;NOM(1,SG)","target": "amputierte"}
+{"input": "German: Inflect amputieren | V;SBJV;PST;NOM(2,PL)","target": "amputiertet"}
+{"input": "German: Inflect Aushelferin | N;ACC(SG)","target": "Aushelferin"}
+{"input": "German: Inflect Aushelferin | N;GEN(PL)","target": "Aushelferinnen"}
+{"input": "German: Inflect Aushelferin | N;GEN(SG)","target": "Aushelferin"}
+{"input": "German: Inflect Aushelferin | N;NOM(PL)","target": "Aushelferinnen"}
+{"input": "German: Inflect Aushelferin | N;NOM(SG)","target": "Aushelferin"}
+{"input": "German: Inflect Einklang | N;DAT(SG)","target": "Einklang"}
+{"input": "German: Inflect Einklang | N;GEN(PL)","target": "Einklänge"}
+{"input": "German: Inflect Einklang | N;NOM(PL)","target": "Einklänge"}
+{"input": "German: Inflect Einklang | N;NOM(SG)","target": "Einklang"}
+{"input": "German: Inflect einordnen | V.PTCP;PRS","target": "einordnend"}
+{"input": "German: Inflect einordnen | V;IND;PRS;NOM(3,SG)","target": "ordnet ein"}
+{"input": "German: Inflect einordnen | V;IND;PST;NOM(2,PL)","target": "ordnetet ein"}
+{"input": "German: Inflect einordnen | V;IND;PST;NOM(2,SG)","target": "ordnetest ein"}
+{"input": "German: Inflect einordnen | V;SBJV;PRS;NOM(1,SG)","target": "ordne ein"}
+{"input": "German: Inflect einordnen | V;SBJV;PRS;NOM(2,PL)","target": "ordnet ein"}
+{"input": "German: Inflect einordnen | V;SBJV;PRS;NOM(2,SG)","target": "ordnest ein"}
+{"input": "German: Inflect einordnen | V;SBJV;PST;NOM(3,SG)","target": "ordnete ein"}
+{"input": "German: Inflect Gebetsteppich | N;DAT(PL)","target": "Gebetsteppichen"}
+{"input": "German: Inflect Gebetsteppich | N;NOM(SG)","target": "Gebetsteppich"}
+{"input": "German: Inflect dokumentieren | V;IMP;NOM(2,SG)","target": "dokumentier"}
+{"input": "German: Inflect dokumentieren | V;IND;PRS;NOM(3,SG)","target": "dokumentiert"}
+{"input": "German: Inflect dokumentieren | V;IND;PST;NOM(3,SG)","target": "dokumentierte"}
+{"input": "German: Inflect dokumentieren | V;SBJV;PRS;NOM(3,PL)","target": "dokumentieren"}
+{"input": "German: Inflect dokumentieren | V;SBJV;PST;NOM(1,PL)","target": "dokumentierten"}
+{"input": "German: Inflect dokumentieren | V;SBJV;PST;NOM(3,PL)","target": "dokumentierten"}
+{"input": "German: Inflect Borosilikat | N;DAT(PL)","target": "Borosilikaten"}
+{"input": "German: Inflect Borosilikat | N;GEN(PL)","target": "Borosilikate"}
+{"input": "German: Inflect Primas | N;ACC(SG)","target": "Primas"}
+{"input": "German: Inflect Primas | N;DAT(PL)","target": "Primaten"}
+{"input": "German: Inflect Primas | N;DAT(SG)","target": "Primas"}
+{"input": "German: Inflect Primas | N;GEN(SG)","target": "Primas"}
+{"input": "Khaling: Inflect kekt | V;PRS;NEG;TR;ABS(2,SG);ERG(1,SG)","target": "mʌkêːŋʌ"}
+{"input": "Khaling: Inflect kekt | V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,PL)","target": "ʔikêːni"}
+{"input": "Khaling: Inflect kekt | V;PRS;POS;TR;ABS(1,SG);ERG(2,PL)","target": "kêːnu"}
+{"input": "Khaling: Inflect kekt | V;PRS;POS;TR;ABS(2,DU);ERG(1,SG)","target": "ʔikêːŋʌsu"}
+{"input": "Khaling: Inflect kekt | V;PRS;POS;TR;ABS(2,DU);ERG(3,DU)","target": "ʔikeki"}
+{"input": "Khaling: Inflect kekt | V;PST;POS;TR;ABS(1,EXCL,DU);ERG(2,DU)","target": "ʔikekiti"}
+{"input": "Khaling: Inflect kekt | V;PST;POS;TR;ABS(3,SG);ERG(1,INCL,DU)","target": "ʔikekiti"}
+{"input": "Khaling: Inflect sʌpt | V;IMP;POS;TR;ABS(2,DU);ERG(3,PL)","target": "sʌpnuje"}
+{"input": "Khaling: Inflect sʌpt | V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(2,SG,FORM)","target": "mʌsʌp"}
+{"input": "Khaling: Inflect sʌpt | V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,DU)","target": "musʌpu"}
+{"input": "Khaling: Inflect sʌpt | V;PRS;NEG;TR;ABS(3,DU);ERG(1,INCL,DU)","target": "mʌsʌpi"}
+{"input": "Khaling: Inflect sʌpt | V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(3,PL)","target": "sʌpkʌ"}
+{"input": "Khaling: Inflect sʌpt | V;PRS;POS;TR;ABS(3,SG);ERG(3,SG)","target": "sʌptʉ"}
+{"input": "Khaling: Inflect sʌpt | V;PST;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)","target": "mʌsʌpwʌkʌ"}
+{"input": "Khaling: Inflect sʌpt | V;PST;NEG;TR;ABS(3,SG);ERG(3,PL)","target": "musʌpwɛnu"}
+{"input": "Khaling: Inflect rɛtt | V;IMP;NEG;TR;ABS(2,SG);ERG(3,DU)","target": "murɛʦije"}
+{"input": "Khaling: Inflect rɛtt | V;IMP;NEG;TR;ABS(2,SG);ERG(3,PL)","target": "murɛsnuje"}
+{"input": "Khaling: Inflect rɛtt | V;IMP;POS;TR;ABS(2,SG);ERG(1,EXCL,DU)","target": "rɛʦuje"}
+{"input": "Khaling: Inflect rɛtt | V;IMP;POS;TR;ABS(2,SG);ERG(1,SG)","target": "rɛʦʌje"}
+{"input": "Khaling: Inflect rɛtt | V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,DU)","target": "murɛʦu"}
+{"input": "Khaling: Inflect rɛtt | V;PRS;NEG;TR;ABS(1,EXCL,PL);ERG(3,PL)","target": "murɛçkʌ"}
+{"input": "Khaling: Inflect rɛtt | V;PRS;POS;TR;ABS(2,SG);ERG(1,SG)","target": "ʔirɛ̂jŋʌ"}
+{"input": "Khaling: Inflect rɛtt | V;PRS;POS;TR;ABS(3,PL);ERG(2,DU)","target": "ʔirɛʦi"}
+{"input": "Khaling: Inflect rɛtt | V;PRS;POS;TR;ABS(3,SG);ERG(3,SG)","target": "rɛtʉ"}
+{"input": "Khaling: Inflect rɛtt | V;PST;NEG;TR;ABS(1,INCL,PL);ERG(3,SG)","target": "murɛçwiki"}
+{"input": "Khaling: Inflect rɛtt | V;PST;NEG;TR;ABS(1,SG);ERG(3,DU)","target": "murɛtwʌsu"}
+{"input": "Khaling: Inflect rɛtt | V;PST;NEG;TR;ABS(3,PL);ERG(2,PL)","target": "mʌrɛswɛnu"}
+{"input": "Khaling: Inflect rɛtt | V;PST;NEG;TR;ABS(3,PL);ERG(2,SG,FORM)","target": "mʌrɛswɛ"}
+{"input": "Khaling: Inflect rɛtt | V;PST;POS;TR;ABS(1,SG);ERG(2,SG,FORM)","target": "rɛ̂ntɛni"}
+{"input": "Khaling: Inflect rɛtt | V;PST;POS;TR;ABS(3,PL);ERG(1,EXCL,DU)","target": "ʔirɛstu"}
+{"input": "Khaling: Inflect blɛtt | V;PRS;NEG;TR;ABS(1,INCL,DU);ERG(3,SG)","target": "mublɛʦi"}
+{"input": "Khaling: Inflect blɛtt | V;PRS;NEG;TR;ABS(3,SG);ERG(1,INCL,DU)","target": "mʌblɛʦi"}
+{"input": "Khaling: Inflect blɛtt | V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,SG,FORM)","target": "ʔiblɛ̂j"}
+{"input": "Khaling: Inflect blɛtt | V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(3,DU)","target": "blɛçkʌ"}
+{"input": "Khaling: Inflect blɛtt | V;PRS;POS;TR;ABS(1,INCL,DU);ERG(3,SG)","target": "blɛʦi"}
+{"input": "Khaling: Inflect blɛtt | V;PRS;POS;TR;ABS(1,INCL,PL);ERG(3,DU)","target": "blɛçki"}
+{"input": "Khaling: Inflect blɛtt | V;PRS;POS;TR;ABS(1,SG);ERG(2,DU)","target": "blɛ̂nsu"}
+{"input": "Khaling: Inflect blɛtt | V;PRS;POS;TR;ABS(2,SG);ERG(3,SG)","target": "ʔiblɛtʉ"}
+{"input": "Khaling: Inflect blɛtt | V;PRS;POS;TR;ABS(3,PL);ERG(1,INCL,DU)","target": "ʔiblɛʦi"}
+{"input": "Khaling: Inflect blɛtt | V;PRS;POS;TR;ABS(3,SG);ERG(1,EXCL,DU)","target": "ʔiblɛʦu"}
+{"input": "Khaling: Inflect blɛtt | V;PRS;POS;TR;ABS(3,SG);ERG(1,SG)","target": "ʔiblɛ̂jŋʌ"}
+{"input": "Khaling: Inflect blɛtt | V;PST;NEG;TR;ABS(2,PL);ERG(3,SG)","target": "mʌblɛswɛnu"}
+{"input": "Khaling: Inflect blɛtt | V;PST;NEG;TR;ABS(3,PL);ERG(1,EXCL,DU)","target": "mʌblɛswu"}
+{"input": "Khaling: Inflect blɛtt | V;PST;NEG;TR;ABS(3,SG);ERG(1,EXCL,PL)","target": "mʌblɛçwʌkʌ"}
+{"input": "Khaling: Inflect blɛtt | V;PST;POS;TR;ABS(1,SG);ERG(3,SG)","target": "blɛttʌ"}
+{"input": "Khaling: Inflect jot | V;NFIN;POS;INTR","target": "joɔ̂nnɛ"}
+{"input": "Khaling: Inflect jot | V;PRS;NEG;INTR;ABS(1,EXCL,PL)","target": "mujoɔçkʌ"}
+{"input": "Khaling: Inflect jot | V;PRS;NEG;INTR;ABS(2,PL)","target": "mʌjoɔ̂nni"}
+{"input": "Khaling: Inflect jot | V;PRS;POS;INTR;ABS(2,DU)","target": "ʔijɵʦi"}
+{"input": "Khaling: Inflect jot | V;PRS;POS;INTR;ABS(3,PL)","target": "joɔ̂nnu"}
+{"input": "Khaling: Inflect jot | V;PRS;POS;INTR;ABS(3,SG)","target": "joɔ̂j"}
+{"input": "Khaling: Inflect jot | V;PST;NEG;INTR;ABS(1,EXCL,DU)","target": "mujɵswu"}
+{"input": "Khaling: Inflect jot | V;PST;POS;INTR;ABS(1,EXCL,PL)","target": "joɔçtʌkʌ"}
+{"input": "Khaling: Inflect jot | V;PST;POS;INTR;ABS(1,INCL,DU)","target": "jɵsti"}
+{"input": "Khaling: Inflect tel | V;IMP;NEG;TR;ABS(2,DU);ERG(1,EXCL,PL)","target": "mutelkʌje"}
+{"input": "Khaling: Inflect tel | V;PRS;NEG;TR;ABS(1,SG);ERG(3,DU)","target": "mutelusu"}
+{"input": "Khaling: Inflect tel | V;PRS;NEG;TR;ABS(3,PL);ERG(3,DU)","target": "mutêlnu"}
+{"input": "Khaling: Inflect tel | V;PST;NEG;TR;ABS(2,PL);ERG(3,SG)","target": "mʌtêlwɛnu"}
+{"input": "Khaling: Inflect tel | V;PST;NEG;TR;ABS(3,DU);ERG(1,INCL,DU)","target": "mʌteliwi"}
+{"input": "Khaling: Inflect tel | V;PST;POS;TR;ABS(1,SG);ERG(3,SG)","target": "telutʌ"}
+{"input": "Khaling: Inflect tel | V;PST;POS;TR;ABS(2,SG);ERG(1,EXCL,DU)","target": "ʔitelutu"}
+{"input": "Khaling: Inflect tel | V;PST;POS;TR;ABS(3,DU);ERG(3,DU)","target": "têltɛsu"}
+{"input": "Khaling: Inflect tel | V;PST;POS;TR;ABS(3,PL);ERG(2,SG,FORM)","target": "ʔitêltɛ"}
+{"input": "Khaling: Inflect tel | V;PST;POS;TR;ABS(3,SG);ERG(2,DU)","target": "ʔiteliti"}
+{"input": "Khaling: Inflect kʰun | V;IMP;NEG;INTR;ABS(2,PL)","target": "mukʰʉːsnuje"}
+{"input": "Khaling: Inflect kʰun | V;IMP;POS;INTR;ABS(2,DU)","target": "kʰʉːʦije"}
+{"input": "Khaling: Inflect kʰun | V;IMP;POS;INTR;ABS(2,SG)","target": "kʰʉːʦe"}
+{"input": "Khaling: Inflect kʰun | V;PRS;NEG;INTR;ABS(2,DU)","target": "mʌkʰʉːʦi"}
+{"input": "Khaling: Inflect kʰun | V;PRS;POS;INTR;ABS(1,EXCL,DU)","target": "kʰʉːʦu"}
+{"input": "Khaling: Inflect kʰun | V;PRS;POS;INTR;ABS(2,PL)","target": "ʔikʰʌjni"}
+{"input": "Khaling: Inflect kʰun | V;PST;NEG;INTR;ABS(1,SG)","target": "mukʰʉːswʌ"}
+{"input": "Khaling: Inflect kʰun | V;PST;NEG;INTR;ABS(3,DU)","target": "mukʰʉːswi"}
+{"input": "Khaling: Inflect kʰun | V;PST;POS;INTR;ABS(1,EXCL,DU)","target": "kʰʉːstu"}
+{"input": "Khaling: Inflect ɦut | V;IMP;NEG;INTR;ABS(2,SG)","target": "muɦʉʦʦe"}
+{"input": "Khaling: Inflect ɦut | V;IMP;POS;INTR;ABS(2,DU)","target": "ɦʉʦije"}
+{"input": "Khaling: Inflect ɦut | V;IMP;POS;INTR;ABS(2,PL)","target": "ɦʉsnuje"}
+{"input": "Khaling: Inflect ɦut | V;PRS;NEG;INTR;ABS(3,PL)","target": "muɦʌ̂nnu"}
+{"input": "Khaling: Inflect ɦut | V;PRS;POS;INTR;ABS(1,INCL,PL)","target": "ɦʌçki"}
+{"input": "Khaling: Inflect ɦut | V;PRS;POS;INTR;ABS(1,SG)","target": "ɦʌ̂jŋʌ"}
+{"input": "Khaling: Inflect ɦut | V;PRS;POS;INTR;ABS(2,PL)","target": "ʔiɦʌ̂nni"}
+{"input": "Khaling: Inflect ɦut | V;PST;NEG;INTR;ABS(1,EXCL,PL)","target": "muɦʌçwʌkʌ"}
+{"input": "Khaling: Inflect ɦut | V;PST;NEG;INTR;ABS(3,PL)","target": "muɦʉswɛnu"}
+{"input": "Khaling: Inflect ɦut | V;PST;POS;INTR;ABS(1,EXCL,PL)","target": "ɦʌçtʌkʌ"}
+{"input": "Khaling: Inflect ɦut | V;PST;POS;INTR;ABS(1,INCL,PL)","target": "ɦʌçtiki"}
+{"input": "Khaling: Inflect pʰlunt | V;IMP;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)","target": "mupʰlʌjkʌje"}
+{"input": "Khaling: Inflect pʰlunt | V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,PL)","target": "mupʰlʉːʦu"}
+{"input": "Khaling: Inflect pʰlunt | V;PRS;NEG;TR;ABS(1,SG);ERG(2,SG,FORM)","target": "mupʰlʌjnɛ"}
+{"input": "Khaling: Inflect pʰlunt | V;PST;NEG;TR;ABS(3,DU);ERG(1,EXCL,PL)","target": "mʌpʰlʌjwʌkʌ"}
+{"input": "Khaling: Inflect pʰlunt | V;PST;NEG;TR;ABS(3,PL);ERG(2,DU)","target": "mʌpʰlʉːswi"}
+{"input": "Khaling: Inflect pʰlunt | V;PST;POS;TR;ABS(2,DU);ERG(3,DU)","target": "ʔipʰlʉːsti"}
+{"input": "Khaling: Inflect pʰlunt | V;PST;POS;TR;ABS(3,DU);ERG(1,EXCL,PL)","target": "ʔipʰlʌjtʌkʌ"}
+{"input": "Khaling: Inflect pʰlunt | V;PST;POS;TR;ABS(3,SG);ERG(1,EXCL,DU)","target": "ʔipʰlʉːstu"}
+{"input": "Khaling: Inflect jep | V;IMP;NEG;INTR;ABS(2,PL)","target": "mujepnuje"}
+{"input": "Khaling: Inflect jep | V;PRS;POS;INTR;ABS(1,INCL,PL)","target": "jepki"}
+{"input": "Khaling: Inflect jep | V;PRS;POS;INTR;ABS(3,PL)","target": "jêmnu"}
+{"input": "Khaling: Inflect jep | V;PRS;POS;INTR;ABS(3,SG)","target": "jêːp"}
+{"input": "Khaling: Inflect jep | V;PST;NEG;INTR;ABS(2,DU)","target": "mʌjepiwi"}
+{"input": "Khaling: Inflect jep | V;PST;NEG;INTR;ABS(3,DU)","target": "mujepiwi"}
+{"input": "Khaling: Inflect jep | V;PST;NEG;INTR;ABS(3,SG)","target": "mujepwɛ"}
+{"input": "Khaling: Inflect jep | V;PST;POS;INTR;ABS(1,INCL,DU)","target": "jepiti"}
+{"input": "Khaling: Inflect jep | V;PST;POS;INTR;ABS(3,SG)","target": "jeptɛ"}
+{"input": "Khaling: Inflect gʰol | V;PRS;NEG;INTR;ABS(1,INCL,DU)","target": "mugʰɵli"}
+{"input": "Khaling: Inflect gʰol | V;PRS;NEG;INTR;ABS(2,DU)","target": "mʌgʰɵli"}
+{"input": "Khaling: Inflect gʰol | V;PRS;NEG;INTR;ABS(2,SG)","target": "mʌgʰoɔl"}
+{"input": "Khaling: Inflect gʰol | V;PRS;NEG;INTR;ABS(3,DU)","target": "mugʰɵli"}
+{"input": "Khaling: Inflect gʰol | V;PRS;NEG;INTR;ABS(3,SG)","target": "mugʰoɔl"}
+{"input": "Khaling: Inflect gʰol | V;PRS;POS;INTR;ABS(1,SG)","target": "gʰoɔlŋʌ"}
+{"input": "Khaling: Inflect gʰol | V;PRS;POS;INTR;ABS(2,PL)","target": "ʔigʰoɔlni"}
+{"input": "Khaling: Inflect gʰol | V;PRS;POS;INTR;ABS(3,SG)","target": "gʰoɔl"}
+{"input": "Khaling: Inflect gʰol | V;PST;NEG;INTR;ABS(2,PL)","target": "mʌgʰɵ̂lwɛnu"}
+{"input": "Khaling: Inflect gʰol | V;PST;POS;INTR;ABS(2,SG)","target": "ʔigʰɵ̂ltɛ"}
+{"input": "Khaling: Inflect pʰlo | V;IMP;NEG;TR;ABS(2,PL);ERG(1,EXCL,DU)","target": "mupʰlɵ̂jje"}
+{"input": "Khaling: Inflect pʰlo | V;PRS;NEG;TR;ABS(2,DU);ERG(3,SG)","target": "mʌpʰlɵji"}
+{"input": "Khaling: Inflect pʰlo | V;PRS;NEG;TR;ABS(3,DU);ERG(3,DU)","target": "mupʰlɵsu"}
+{"input": "Khaling: Inflect pʰlo | V;PRS;NEG;TR;ABS(3,SG);ERG(2,DU)","target": "mʌpʰlɵji"}
+{"input": "Khaling: Inflect pʰlo | V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,PL)","target": "ʔipʰlɵni"}
+{"input": "Khaling: Inflect pʰlo | V;PRS;POS;TR;ABS(3,DU);ERG(2,DU)","target": "ʔipʰlɵji"}
+{"input": "Khaling: Inflect pʰlo | V;PRS;POS;TR;ABS(3,PL);ERG(3,PL)","target": "pʰlɵnu"}
+{"input": "Khaling: Inflect pʰlo | V;PST;NEG;TR;ABS(2,SG);ERG(3,SG)","target": "mʌpʰlowɛ"}
+{"input": "Khaling: Inflect pʰlo | V;PST;NEG;TR;ABS(3,PL);ERG(1,INCL,DU)","target": "mʌpʰlɵiwi"}
+{"input": "Khaling: Inflect pʰlo | V;PST;POS;TR;ABS(1,EXCL,DU);ERG(2,PL)","target": "ʔipʰloːtnu"}
+{"input": "Khaling: Inflect pʰlo | V;PST;POS;TR;ABS(1,INCL,PL);ERG(3,SG)","target": "pʰlɵktiki"}
+{"input": "Khaling: Inflect pʰlo | V;PST;POS;TR;ABS(1,SG);ERG(2,DU)","target": "pʰlɵntɛnsu"}
+{"input": "Khaling: Inflect pʰlo | V;PST;POS;TR;ABS(2,SG);ERG(3,DU)","target": "ʔipʰlossu"}
+{"input": "Khaling: Inflect pʰlo | V;PST;POS;TR;ABS(3,SG);ERG(3,SG)","target": "pʰlotɛ"}
+{"input": "Khaling: Inflect jal | V;IMP;POS;TR;ABS(2,DU);ERG(3,PL)","target": "jʌlnuje"}
+{"input": "Khaling: Inflect jal | V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(3,DU)","target": "jalkʌ"}
+{"input": "Khaling: Inflect jal | V;PRS;POS;TR;ABS(2,PL);ERG(3,SG)","target": "ʔijalni"}
+{"input": "Khaling: Inflect jal | V;PRS;POS;TR;ABS(2,SG);ERG(1,EXCL,PL)","target": "ʔijalkʌ"}
+{"input": "Khaling: Inflect jal | V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(2,PL)","target": "mʌjʌ̂lwɛnu"}
+{"input": "Khaling: Inflect jal | V;PST;NEG;TR;ABS(1,INCL,DU);ERG(3,DU)","target": "mujʌliwi"}
+{"input": "Khaling: Inflect jal | V;PST;NEG;TR;ABS(3,PL);ERG(1,EXCL,PL)","target": "mʌjalwʌkʌ"}
+{"input": "Khaling: Inflect jal | V;PST;NEG;TR;ABS(3,PL);ERG(3,PL)","target": "mujâlwɛnu"}
+{"input": "Khaling: Inflect jal | V;PST;NEG;TR;ABS(3,SG);ERG(1,EXCL,PL)","target": "mʌjalwʌkʌ"}
+{"input": "Khaling: Inflect jal | V;PST;POS;TR;ABS(1,INCL,PL);ERG(3,DU)","target": "jaltiki"}
+{"input": "Khaling: Inflect mu | V;IMP;NEG;TR;ABS(2,SG);ERG(1,EXCL,DU)","target": "mumʉ̂jje"}
+{"input": "Khaling: Inflect mu | V;IMP;POS;TR;ABS(2,DU);ERG(3,DU)","target": "mʉ̂jje"}
+{"input": "Khaling: Inflect mu | V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,SG)","target": "mumʉju"}
+{"input": "Khaling: Inflect mu | V;PRS;NEG;TR;ABS(1,SG);ERG(2,PL)","target": "mumʉnnu"}
+{"input": "Khaling: Inflect mu | V;PRS;NEG;TR;ABS(2,PL);ERG(1,EXCL,PL)","target": "mʌmʉkʌ"}
+{"input": "Khaling: Inflect mu | V;PRS;POS;INTR;ABS(3,SG)","target": "mu"}
+{"input": "Khaling: Inflect mu | V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,PL)","target": "ʔimʉni"}
+{"input": "Khaling: Inflect mu | V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(3,SG)","target": "mʉju"}
+{"input": "Khaling: Inflect mu | V;PRS;POS;TR;ABS(2,DU);ERG(3,PL)","target": "ʔimʉji"}
+{"input": "Khaling: Inflect mu | V;PST;POS;TR;ABS(2,DU);ERG(3,SG)","target": "ʔimʉ̂jti"}
+{"input": "Khaling: Inflect sik | V;IMP;NEG;TR;ABS(2,DU);ERG(3,PL)","target": "musiknuje"}
+{"input": "Khaling: Inflect sik | V;IMP;POS;TR;ABS(2,SG);ERG(3,SG)","target": "siːge"}
+{"input": "Khaling: Inflect sik | V;PRS;NEG;TR;ABS(1,SG);ERG(3,PL)","target": "musigunu"}
+{"input": "Khaling: Inflect sik | V;PRS;NEG;TR;ABS(3,SG);ERG(3,PL)","target": "musîːknu"}
+{"input": "Khaling: Inflect sik | V;PST;NEG;TR;ABS(3,DU);ERG(1,INCL,PL)","target": "mʌsakwiki"}
+{"input": "Khaling: Inflect sik | V;PST;NEG;TR;ABS(3,PL);ERG(1,INCL,PL)","target": "mʌsakwiki"}
+{"input": "Khaling: Inflect tʰo | V;IMP;POS;TR;ABS(2,DU);ERG(1,EXCL,PL)","target": "tʰɵkʌje"}
+{"input": "Khaling: Inflect tʰo | V;PRS;NEG;TR;ABS(1,INCL,PL);ERG(3,SG)","target": "mutʰɵki"}
+{"input": "Khaling: Inflect tʰo | V;PRS;NEG;TR;ABS(2,PL);ERG(3,DU)","target": "mʌtʰɵni"}
+{"input": "Khaling: Inflect tʰo | V;PRS;NEG;TR;ABS(3,DU);ERG(2,DU)","target": "mʌtʰɵji"}
+{"input": "Khaling: Inflect tʰo | V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(3,SG)","target": "tʰɵju"}
+{"input": "Khaling: Inflect tʰo | V;PST;NEG;TR;ABS(3,DU);ERG(1,INCL,PL)","target": "mʌtʰɵkwiki"}
+{"input": "Khaling: Inflect tʰo | V;PST;NEG;TR;ABS(3,DU);ERG(3,DU)","target": "mutʰowɛsu"}
+{"input": "Khaling: Inflect tʰo | V;PST;POS;TR;ABS(1,EXCL,PL);ERG(3,SG)","target": "tʰɵktʌkʌ"}
+{"input": "Khaling: Inflect mop | V;IMP;NEG;TR;ABS(2,DU);ERG(3,DU)","target": "mumɵpije"}
+{"input": "Khaling: Inflect mop | V;PRS;NEG;TR;ABS(3,PL);ERG(2,SG,FORM)","target": "mʌmoɔp"}
+{"input": "Khaling: Inflect mop | V;PRS;NEG;TR;ABS(3,SG);ERG(1,INCL,PL)","target": "mʌmoɔpki"}
+{"input": "Khaling: Inflect mop | V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(3,DU)","target": "moɔpkʌ"}
+{"input": "Khaling: Inflect mop | V;PRS;POS;TR;ABS(2,PL);ERG(3,PL)","target": "ʔimoɔ̂mni"}
+{"input": "Khaling: Inflect mop | V;PRS;POS;TR;ABS(3,SG);ERG(1,EXCL,PL)","target": "ʔimoɔpkʌ"}
+{"input": "Khaling: Inflect mop | V;PST;NEG;INTR;ABS(2,DU)","target": "mʌmɵpiwi"}
+{"input": "Khaling: Inflect mop | V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(2,DU)","target": "mʌmɵpiwi"}
+{"input": "Khaling: Inflect mop | V;PST;NEG;TR;ABS(1,EXCL,PL);ERG(2,PL)","target": "mʌmɵpwɛnu"}
+{"input": "Khaling: Inflect mop | V;PST;NEG;TR;ABS(2,DU);ERG(1,EXCL,PL)","target": "mʌmoɔpwʌkʌ"}
+{"input": "Khaling: Inflect mop | V;PST;NEG;TR;ABS(2,PL);ERG(3,DU)","target": "mʌmɵpwɛnu"}
+{"input": "Khaling: Inflect mop | V;PST;NEG;TR;ABS(3,SG);ERG(3,DU)","target": "mumɵ̂ːpwɛsu"}
+{"input": "Khaling: Inflect mop | V;PST;POS;INTR;ABS(2,DU)","target": "ʔimɵpiti"}
+{"input": "Khaling: Inflect mop | V;PST;POS;TR;ABS(1,EXCL,PL);ERG(2,SG,FORM)","target": "ʔimɵptɛ"}
+{"input": "Khaling: Inflect tʰint | V;IMP;NEG;TR;ABS(2,SG);ERG(3,PL)","target": "mutʰiːsnuje"}
+{"input": "Khaling: Inflect tʰint | V;PRS;NEG;TR;ABS(1,SG);ERG(3,DU)","target": "mutʰʌndusu"}
+{"input": "Khaling: Inflect tʰint | V;PRS;NEG;TR;ABS(1,SG);ERG(3,SG)","target": "mutʰʌndu"}
+{"input": "Khaling: Inflect tʰint | V;PRS;NEG;TR;ABS(3,DU);ERG(1,INCL,PL)","target": "mʌtʰʌjki"}
+{"input": "Khaling: Inflect tʰint | V;PRS;NEG;TR;ABS(3,SG);ERG(3,DU)","target": "mutʰʌ̂nsu"}
+{"input": "Khaling: Inflect tʰint | V;PRS;POS;TR;ABS(1,SG);ERG(3,SG)","target": "tʰʌndu"}
+{"input": "Khaling: Inflect tʰint | V;PST;POS;TR;ABS(1,EXCL,DU);ERG(2,DU)","target": "ʔitʰiːsti"}
+{"input": "Khaling: Inflect lit | V;IMP;NEG;INTR;ABS(2,DU)","target": "muliʦije"}
+{"input": "Khaling: Inflect lit | V;PRS;NEG;INTR;ABS(1,INCL,PL)","target": "mulʌçki"}
+{"input": "Khaling: Inflect lit | V;PRS;NEG;INTR;ABS(2,PL)","target": "mʌlʌ̂nni"}
+{"input": "Khaling: Inflect lit | V;PRS;POS;INTR;ABS(1,SG)","target": "lʌ̂jŋʌ"}
+{"input": "Khaling: Inflect lit | V;PRS;POS;INTR;ABS(3,SG)","target": "lʌ̂j"}
+{"input": "Khaling: Inflect lit | V;PST;NEG;INTR;ABS(2,DU)","target": "mʌliswi"}
+{"input": "Khaling: Inflect lit | V;PST;POS;INTR;ABS(1,INCL,PL)","target": "lʌçtiki"}
+{"input": "Khaling: Inflect lit | V;PST;POS;INTR;ABS(2,DU)","target": "ʔilisti"}
+{"input": "Khaling: Inflect lit | V;PST;POS;INTR;ABS(2,PL)","target": "ʔilistɛnu"}
+{"input": "Khaling: Inflect lit | V;PST;POS;INTR;ABS(3,DU)","target": "listi"}
+{"input": "Khaling: Inflect lit | V;PST;POS;INTR;ABS(3,SG)","target": "listɛ"}
+{"input": "Khaling: Inflect bʰert | V;IMP;POS;TR;ABS(2,PL);ERG(3,SG)","target": "bʰernuje"}
+{"input": "Khaling: Inflect bʰert | V;PRS;NEG;TR;ABS(2,DU);ERG(1,EXCL,DU)","target": "mʌbʰeru"}
+{"input": "Khaling: Inflect bʰert | V;PRS;NEG;TR;ABS(2,PL);ERG(3,PL)","target": "mʌbʰerni"}
+{"input": "Khaling: Inflect bʰert | V;PRS;NEG;TR;ABS(3,DU);ERG(2,PL)","target": "mʌbʰerni"}
+{"input": "Khaling: Inflect bʰert | V;PRS;NEG;TR;ABS(3,PL);ERG(2,SG,FORM)","target": "mʌbʰer"}
+{"input": "Khaling: Inflect bʰert | V;PRS;POS;TR;ABS(3,DU);ERG(1,INCL,PL)","target": "ʔibʰerki"}
+{"input": "Khaling: Inflect bʰert | V;PRS;POS;TR;ABS(3,PL);ERG(1,EXCL,DU)","target": "ʔibʰeru"}
+{"input": "Khaling: Inflect bʰert | V;PST;NEG;TR;ABS(1,INCL,PL);ERG(3,PL)","target": "mubʰerwiki"}
+{"input": "Khaling: Inflect bʰert | V;PST;NEG;TR;ABS(3,PL);ERG(2,DU)","target": "mʌbʰeriwi"}
+{"input": "Amharic: Inflect ቀረና | V.CVB;NOM(MASC;3,SG)","target": "ቀርንቶ"}
+{"input": "Amharic: Inflect ቀረና | V.MSDR","target": "መቀርናት"}
+{"input": "Amharic: Inflect ቀረና | V;IMP;NOM(MASC;3,SG)","target": "ይቀርና"}
+{"input": "Amharic: Inflect ቀረና | V;IPFV;NFIN;NOM(MASC;3,SG)","target": "ይቀረና"}
+{"input": "Amharic: Inflect ቀረና | V;IPFV;NOM(MASC;3,SG)","target": "ይቀረናል"}
+{"input": "Amharic: Inflect ቀረና | V;PRF;NOM(MASC;3,SG)","target": "ቀርንቷል"}
+{"input": "Amharic: Inflect ተከታተለ | V;IMP;NOM(2,PL)","target": "ተከታተሉ"}
+{"input": "Amharic: Inflect ተከታተለ | V;IPFV;NFIN;NOM(1,PL)","target": "እንከታተል"}
+{"input": "Amharic: Inflect ተከታተለ | V;PFV;NOM(1,PL)","target": "ተከታተልን"}
+{"input": "Amharic: Inflect ተከታተለ | V;PRF;NOM(3,PL)","target": "ተከታትለዋል"}
+{"input": "Amharic: Inflect ሐኪም | N","target": "ሐኪም"}
+{"input": "Amharic: Inflect ሐኪም | N;DEF;MASC","target": "ሐኪሙ"}
+{"input": "Amharic: Inflect ሐኪም | N;DEF;PL","target": "ሐኪሞቹ"}
+{"input": "Amharic: Inflect ሐኪም | N;PL;PSS(2,PL)","target": "ሐኪሞቻችሁ"}
+{"input": "Amharic: Inflect ሐኪም | N;PL;PSS(2,SG,MASC)","target": "ሐኪሞችህ"}
+{"input": "Amharic: Inflect ሐኪም | N;PL;PSS(3,PL)","target": "ሐኪሞቻቸው"}
+{"input": "Amharic: Inflect ሐኪም | N;PSS(1,SG)","target": "ሐኪሜ"}
+{"input": "Amharic: Inflect ከፈተ | V;IPFV;NOM(2,PL)","target": "ትከፍታላችሁ"}
+{"input": "Amharic: Inflect ከፈተ | V;PFV;NOM(1,PL)","target": "ከፈትን"}
+{"input": "Amharic: Inflect ከፈተ | V;PRF;NOM(1,SG)","target": "ከፍቻለሁ"}
+{"input": "Amharic: Inflect ወይፈን | N;DEF;MASC","target": "ወይፈኑ"}
+{"input": "Amharic: Inflect ወይፈን | N;PL","target": "ወይፈኖች"}
+{"input": "Amharic: Inflect ደወለ | V.CVB;NOM(MASC;2,SG)","target": "ደውለህ"}
+{"input": "Amharic: Inflect ደወለ | V;PFV;NOM(1,PL)","target": "ደወልን"}
+{"input": "Amharic: Inflect ደወለ | V;PFV;NOM(1,SG)","target": "ደወልኩ"}
+{"input": "Amharic: Inflect ደወለ | V;PFV;NOM(FEM;3,SG)","target": "ደወለች"}
+{"input": "Amharic: Inflect ደወለ | V;PFV;NOM(MASC;2,SG)","target": "ደወልክ"}
+{"input": "Amharic: Inflect ደወለ | V;PFV;NOM(MASC;3,SG)","target": "ደወለ"}
+{"input": "Amharic: Inflect ደወለ | V;PRF;NOM(3,PL)","target": "ደውለዋል"}
+{"input": "Amharic: Inflect ሚዛን | N;PL;PSS(2,SG,FEM)","target": "ሚዛኖችሽ"}
+{"input": "Amharic: Inflect ሚዛን | N;PSS(2,SG,FORM)","target": "ሚዛንዎ"}
+{"input": "Amharic: Inflect ደነገገ | V.CVB;NOM(MASC;3,SG)","target": "ደንግጎ"}
+{"input": "Amharic: Inflect ደነገገ | V;IMP;NOM(FEM;3,SG)","target": "ትደንግግ"}
+{"input": "Amharic: Inflect ደነገገ | V;IMP;NOM(MASC;3,SG)","target": "ይደንግግ"}
+{"input": "Amharic: Inflect ደነገገ | V;IPFV;NFIN;NOM(3,PL)","target": "ይደነግጉ"}
+{"input": "Amharic: Inflect ደነገገ | V;IPFV;NOM(1,SG)","target": "እደነግጋለሁ"}
+{"input": "Amharic: Inflect ደነገገ | V;IPFV;NOM(3,PL)","target": "ይደነግጋሉ"}
+{"input": "Amharic: Inflect ደነገገ | V;PFV;NOM(MASC;3,SG)","target": "ደነገገ"}
+{"input": "Amharic: Inflect ደነገገ | V;PRF;NOM(1,PL)","target": "ደንግገናል"}
+{"input": "Amharic: Inflect ደነገገ | V;PRF;NOM(MASC;3,SG)","target": "ደንግጓል"}
+{"input": "Amharic: Inflect ግል | N;PSS(1,PL)","target": "ግላችን"}
+{"input": "Amharic: Inflect ግል | N;PSS(1,SG)","target": "ግሌ"}
+{"input": "Amharic: Inflect ግል | N;PSS(2,SG,FORM)","target": "ግልዎ"}
+{"input": "Amharic: Inflect አሰረ | V.CVB;NOM(MASC;2,SG)","target": "አስረህ"}
+{"input": "Amharic: Inflect አሰረ | V;IMP;NOM(MASC;2,SG)","target": "እሰር"}
+{"input": "Amharic: Inflect አሰረ | V;IPFV;NFIN;NOM(FEM;3,SG)","target": "ታስር"}
+{"input": "Amharic: Inflect አሰረ | V;IPFV;NOM(1,PL)","target": "እናስራለን"}
+{"input": "Amharic: Inflect አሰረ | V;IPFV;NOM(2,PL)","target": "ታስራላችሁ"}
+{"input": "Amharic: Inflect አሰረ | V;PFV;NOM(1,PL)","target": "አሰርን"}
+{"input": "Amharic: Inflect አሰረ | V;PFV;NOM(2,PL)","target": "አሰራችሁ"}
+{"input": "Amharic: Inflect አሰረ | V;PRF;NOM(MASC;3,SG)","target": "አስሯል"}
+{"input": "Amharic: Inflect ወደመ | V.CVB;NOM(1,SG)","target": "ወድሜ"}
+{"input": "Amharic: Inflect ወደመ | V.CVB;NOM(MASC;3,SG)","target": "ወድሞ"}
+{"input": "Amharic: Inflect ወደመ | V;IMP;NOM(2,PL)","target": "ውደሙ"}
+{"input": "Amharic: Inflect ወደመ | V;IPFV;NOM(3,PL)","target": "ይወድማሉ"}
+{"input": "Amharic: Inflect ወደመ | V;IPFV;NOM(MASC;3,SG)","target": "ይወድማል"}
+{"input": "Amharic: Inflect ቤንዚን | N;DEF;MASC","target": "ቤንዚኑ"}
+{"input": "Amharic: Inflect ተቀበረ | V.CVB;NOM(FEM;2,SG)","target": "ተቀብረሽ"}
+{"input": "Amharic: Inflect ተቀበረ | V;IMP;NOM(1,PL)","target": "እንቀበር"}
+{"input": "Amharic: Inflect ተቀበረ | V;IPFV;NOM(2,PL)","target": "ትቀበራላችሁ"}
+{"input": "Amharic: Inflect ተቀበረ | V;IPFV;NOM(3,PL)","target": "ይቀበራሉ"}
+{"input": "Amharic: Inflect ተቀበረ | V;IPFV;NOM(FEM;3,SG)","target": "ትቀበራለች"}
+{"input": "Amharic: Inflect ተቀበረ | V;PRF;NOM(1,SG)","target": "ተቀብሬያለሁ"}
+{"input": "Amharic: Inflect ተቀበረ | V;PRF;NOM(MASC;3,SG)","target": "ተቀብሯል"}
+{"input": "Amharic: Inflect አኖረ | V.CVB;NOM(FEM;3,SG)","target": "አኖራ"}
+{"input": "Amharic: Inflect አኖረ | V;IPFV;NFIN;NOM(3,PL)","target": "ያኖሩ"}
+{"input": "Amharic: Inflect አኖረ | V;IPFV;NOM(1,PL)","target": "እናኖራለን"}
+{"input": "Amharic: Inflect አኖረ | V;IPFV;NOM(3,PL)","target": "ያኖራሉ"}
+{"input": "Amharic: Inflect አኖረ | V;PFV;NOM(MASC;2,SG)","target": "አኖርክ"}
+{"input": "Amharic: Inflect አኖረ | V;PFV;NOM(MASC;3,SG)","target": "አኖረ"}
+{"input": "Amharic: Inflect አኖረ | V;PRF;NOM(1,SG)","target": "አኖሬያለሁ"}
+{"input": "Amharic: Inflect አኖረ | V;PRF;NOM(2,PL)","target": "አኖራችኋል"}
+{"input": "Amharic: Inflect አኖረ | V;PRF;NOM(FEM;3,SG)","target": "አኖራለች"}
+{"input": "Amharic: Inflect አኖረ | V;PRF;NOM(MASC;3,SG)","target": "አኖሯል"}
+{"input": "Amharic: Inflect አሽሙር | N;DEF;MASC","target": "አሽሙሩ"}
+{"input": "Amharic: Inflect አሽሙር | N;PSS(1,SG)","target": "አሽሙሬ"}
+{"input": "Amharic: Inflect አሽሙር | N;PSS(2,SG,FORM)","target": "አሽሙርዎ"}
+{"input": "Amharic: Inflect አሽሙር | N;PSS(3,PL)","target": "አሽሙራቸው"}
+{"input": "Amharic: Inflect አሽሙር | N;PSS(3,SG,FEM)","target": "አሽሙሯ"}
+{"input": "Amharic: Inflect ተነፋ | V.CVB;NOM(1,SG)","target": "ተነፍቼ"}
+{"input": "Amharic: Inflect ተነፋ | V;IMP;NOM(3,PL)","target": "ይነፉ"}
+{"input": "Amharic: Inflect ተነፋ | V;IMP;NOM(FEM;2,SG)","target": "ተነፊ"}
+{"input": "Amharic: Inflect ተነፋ | V;IMP;NOM(MASC;2,SG)","target": "ተነፋ"}
+{"input": "Amharic: Inflect ተነፋ | V;IPFV;NOM(FEM;2,SG)","target": "ትነፊያለሽ"}
+{"input": "Amharic: Inflect ተነፋ | V;IPFV;NOM(MASC;3,SG)","target": "ይነፋል"}
+{"input": "Amharic: Inflect ተነፋ | V;PRF;NOM(2,PL)","target": "ተነፍታችኋል"}
+{"input": "Amharic: Inflect ሽጉጥ | N;PL","target": "ሽጉጦች"}
+{"input": "Amharic: Inflect ጽሁፍ | N;PL;PSS(2,SG,FEM)","target": "ጽሁፎችሽ"}
+{"input": "Amharic: Inflect ጽሁፍ | N;PL;PSS(2,SG,MASC)","target": "ጽሁፎችህ"}
+{"input": "Amharic: Inflect ጽሁፍ | N;PL;PSS(3,SG,FEM)","target": "ጽሁፎቿ"}
+{"input": "Amharic: Inflect ጽሁፍ | N;PSS(2,SG,FORM)","target": "ጽሁፍዎ"}
+{"input": "Amharic: Inflect ጽሁፍ | N;PSS(3,PL)","target": "ጽሁፋቸው"}
+{"input": "Amharic: Inflect ተላከ | V.CVB;NOM(1,SG)","target": "ተልኬ"}
+{"input": "Amharic: Inflect ተላከ | V.CVB;NOM(3,PL)","target": "ተልከው"}
+{"input": "Amharic: Inflect ተላከ | V;IMP;NOM(3,PL)","target": "ይላኩ"}
+{"input": "Amharic: Inflect ተላከ | V;IPFV;NFIN;NOM(1,SG)","target": "እላክ"}
+{"input": "Amharic: Inflect ተላከ | V;IPFV;NOM(MASC;3,SG)","target": "ይላካል"}
+{"input": "Amharic: Inflect ተላከ | V;PFV;NOM(1,SG)","target": "ተላኩ"}
+{"input": "Amharic: Inflect ተላከ | V;PFV;NOM(FEM;3,SG)","target": "ተላከች"}
+{"input": "Amharic: Inflect ተላከ | V;PFV;NOM(MASC;2,SG)","target": "ተላክ"}
+{"input": "Amharic: Inflect ተላከ | V;PRF;NOM(FEM;3,SG)","target": "ተልካለች"}
+{"input": "Amharic: Inflect ዛለ | V;IPFV;NFIN;NOM(3,PL)","target": "ይዝሉ"}
+{"input": "Amharic: Inflect ዛለ | V;IPFV;NFIN;NOM(FEM;3,SG)","target": "ትዝል"}
+{"input": "Amharic: Inflect ዛለ | V;IPFV;NFIN;NOM(MASC;3,SG)","target": "ይዝል"}
+{"input": "Amharic: Inflect ዛለ | V;IPFV;NOM(2,PL)","target": "ትዝላላችሁ"}
+{"input": "Amharic: Inflect ዛለ | V;PFV;NOM(2,PL)","target": "ዛላችሁ"}
+{"input": "Amharic: Inflect ዛለ | V;PFV;NOM(FEM;2,SG)","target": "ዛልሽ"}
+{"input": "Amharic: Inflect ዛለ | V;PFV;NOM(MASC;3,SG)","target": "ዛለ"}
+{"input": "Amharic: Inflect ዛለ | V;PRF;NOM(1,PL)","target": "ዝለናል"}
+{"input": "Amharic: Inflect ሰይፍ | N;PL","target": "ሰይፎች"}
+{"input": "Amharic: Inflect ሰይፍ | N;PL;PSS(2,PL)","target": "ሰይፎቻችሁ"}
+{"input": "Amharic: Inflect ሰይፍ | N;PL;PSS(2,SG,FEM)","target": "ሰይፎችሽ"}
+{"input": "Amharic: Inflect ሰይፍ | N;PL;PSS(3,SG,FEM)","target": "ሰይፎቿ"}
+{"input": "Amharic: Inflect ሰይፍ | N;PSS(1,PL)","target": "ሰይፋችን"}
+{"input": "Amharic: Inflect ሰይፍ | N;PSS(2,SG,MASC)","target": "ሰይፍህ"}
+{"input": "Amharic: Inflect ደረቅ | N","target": "ደረቅ"}
+{"input": "Amharic: Inflect አረደ | V.CVB;NOM(MASC;2,SG)","target": "አርደህ"}
+{"input": "Amharic: Inflect አረደ | V.CVB;NOM(MASC;3,SG)","target": "አርዶ"}
+{"input": "Amharic: Inflect አረደ | V;IMP;NOM(3,PL)","target": "ይረዱ"}
+{"input": "Amharic: Inflect አረደ | V;IPFV;NFIN;NOM(1,SG)","target": "አርድ"}
+{"input": "Amharic: Inflect አረደ | V;IPFV;NFIN;NOM(FEM;2,SG)","target": "ታርጂ"}
+{"input": "Amharic: Inflect አረደ | V;IPFV;NOM(2,PL)","target": "ታርዳላችሁ"}
+{"input": "Amharic: Inflect አረደ | V;IPFV;NOM(FEM;2,SG)","target": "ታርጃለሽ"}
+{"input": "Amharic: Inflect አረደ | V;PFV;NOM(1,SG)","target": "አረድኩ"}
+{"input": "Amharic: Inflect አረደ | V;PFV;NOM(3,PL)","target": "አረዱ"}
+{"input": "Amharic: Inflect ቀነሰ | V.CVB;NOM(1,PL)","target": "ቀንሰን"}
+{"input": "Amharic: Inflect ቀነሰ | V;IPFV;NFIN;NOM(1,PL)","target": "እንቀንስ"}
+{"input": "Amharic: Inflect ቀነሰ | V;IPFV;NFIN;NOM(1,SG)","target": "እቀንስ"}
+{"input": "Amharic: Inflect ቀነሰ | V;IPFV;NFIN;NOM(MASC;3,SG)","target": "ይቀንስ"}
+{"input": "Amharic: Inflect ቀነሰ | V;PFV;NOM(1,PL)","target": "ቀነስን"}
+{"input": "Amharic: Inflect ቀነሰ | V;PFV;NOM(1,SG)","target": "ቀነስኩ"}
+{"input": "Amharic: Inflect ቀነሰ | V;PRF;NOM(1,SG)","target": "ቀንሻለሁ"}
+{"input": "Amharic: Inflect ቀነሰ | V;PRF;NOM(MASC;3,SG)","target": "ቀንሷል"}
+{"input": "Amharic: Inflect ጠማ | V;IPFV;NFIN;NOM(MASC;3,SG)","target": "ይጠማ"}
+{"input": "Amharic: Inflect ጠማ | V;PRF;NOM(MASC;3,SG)","target": "ጠምቷል"}
+{"input": "Amharic: Inflect ድር | N;DEF;PL","target": "ድሮቹ"}
+{"input": "Amharic: Inflect ድር | N;PL","target": "ድሮች"}
+{"input": "Amharic: Inflect ድር | N;PL;PSS(1,SG)","target": "ድሮቼ"}
+{"input": "Amharic: Inflect ድር | N;PL;PSS(2,SG,FEM)","target": "ድሮችሽ"}
+{"input": "Amharic: Inflect ድር | N;PL;PSS(2,SG,FORM)","target": "ድሮችዎ"}
+{"input": "Amharic: Inflect ድር | N;PL;PSS(3,SG,MASC)","target": "ድሮቹ"}
+{"input": "Amharic: Inflect ድር | N;PSS(2,PL)","target": "ድራችሁ"}
+{"input": "Amharic: Inflect ድር | N;PSS(2,SG,FORM)","target": "ድርዎ"}
+{"input": "Amharic: Inflect ድር | N;PSS(2,SG,MASC)","target": "ድርህ"}
+{"input": "Amharic: Inflect ጽሑፍ | N;DEF;PL","target": "ጽሑፎቹ"}
+{"input": "Amharic: Inflect ጽሑፍ | N;PL","target": "ጽሑፎች"}
+{"input": "Amharic: Inflect ጽሑፍ | N;PL;PSS(1,SG)","target": "ጽሑፎቼ"}
+{"input": "Amharic: Inflect ጽሑፍ | N;PL;PSS(2,SG,MASC)","target": "ጽሑፎችህ"}
+{"input": "Amharic: Inflect ጽሑፍ | N;PSS(1,SG)","target": "ጽሑፌ"}
+{"input": "Amharic: Inflect ጽሑፍ | N;PSS(2,PL)","target": "ጽሑፋችሁ"}
+{"input": "Amharic: Inflect ጽሑፍ | N;PSS(2,SG,FEM)","target": "ጽሑፍሽ"}
+{"input": "Amharic: Inflect ለውጥ | N","target": "ለውጥ"}
+{"input": "Amharic: Inflect ለውጥ | N;DEF;MASC","target": "ለውጡ"}
+{"input": "Amharic: Inflect ስሜት | N;PL;PSS(1,SG)","target": "ስሜቶቼ"}
+{"input": "Amharic: Inflect ስሜት | N;PL;PSS(3,PL)","target": "ስሜቶቻቸው"}
+{"input": "Amharic: Inflect ስሜት | N;PSS(2,SG,FEM)","target": "ስሜትሽ"}
+{"input": "Amharic: Inflect ስሜት | N;PSS(2,SG,FORM)","target": "ስሜትዎ"}
+{"input": "Amharic: Inflect ተጠበቀ | V.CVB;NOM(MASC;3,SG)","target": "ተጠብቆ"}
+{"input": "Amharic: Inflect ተጠበቀ | V.MSDR","target": "መጠበቅ"}
+{"input": "Amharic: Inflect ተጠበቀ | V;IMP;NOM(MASC;3,SG)","target": "ይጠበቅ"}
+{"input": "Amharic: Inflect ተጠበቀ | V;IPFV;NFIN;NOM(MASC;3,SG)","target": "ይጠበቅ"}
+{"input": "Amharic: Inflect ተጠበቀ | V;IPFV;NOM(MASC;3,SG)","target": "ይጠበቃል"}
+{"input": "Amharic: Inflect ተጠበቀ | V;PRF;NOM(MASC;3,SG)","target": "ተጠብቋል"}
+{"input": "Amharic: Inflect ተደሰተ | V;IMP;NOM(FEM;3,SG)","target": "ትደሰት"}
+{"input": "Amharic: Inflect ተደሰተ | V;IMP;NOM(MASC;3,SG)","target": "ይደሰት"}
+{"input": "Amharic: Inflect ተደሰተ | V;PFV;NOM(FEM;3,SG)","target": "ተደሰተች"}
+{"input": "Amharic: Inflect ተደሰተ | V;PRF;NOM(1,PL)","target": "ተደስተናል"}
+{"input": "Amharic: Inflect ጃፓን | N","target": "ጃፓን"}
+{"input": "Amharic: Inflect ጃፓን | N;DEF;PL","target": "ጃፓኖቹ"}
+{"input": "Amharic: Inflect ደረጀ | V;IMP;NOM(1,PL)","target": "እንደርጅ"}
+{"input": "Amharic: Inflect ደረጀ | V;IPFV;NOM(MASC;3,SG)","target": "ይደረጃል"}
+{"input": "Amharic: Inflect ደረጀ | V;PRF;NOM(2,PL)","target": "ደርጅታችኋል"}
+{"input": "Amharic: Inflect አስታወሰ | V.CVB;NOM(1,SG)","target": "አስታውሼ"}
+{"input": "Amharic: Inflect አስታወሰ | V.CVB;NOM(FEM;3,SG)","target": "አስታውሳ"}
+{"input": "Amharic: Inflect አስታወሰ | V;IMP;NOM(1,SG)","target": "ላስታውስ"}
+{"input": "Amharic: Inflect አስታወሰ | V;IPFV;NOM(3,PL)","target": "ያስታውሳሉ"}
+{"input": "Amharic: Inflect አስታወሰ | V;PFV;NOM(MASC;3,SG)","target": "አስታወሰ"}
+{"input": "Amharic: Inflect አስታወሰ | V;PRF;NOM(FEM;2,SG)","target": "አስታውሰሻል"}
+{"input": "Amharic: Inflect አስጠጣ | V.CVB;NOM(FEM;3,SG)","target": "አስጠጥታ"}
+{"input": "Amharic: Inflect አስጠጣ | V;IMP;NOM(2,PL)","target": "አስጠጡ"}
+{"input": "Amharic: Inflect አስጠጣ | V;IPFV;NFIN;NOM(FEM;3,SG)","target": "ታስጠጣ"}
+{"input": "Amharic: Inflect አስጠጣ | V;IPFV;NOM(2,PL)","target": "ታስጠጣላችሁ"}
+{"input": "Amharic: Inflect አስጠጣ | V;PFV;NOM(1,PL)","target": "አስጠጣን"}
+{"input": "Amharic: Inflect ናፈቀ | V.MSDR","target": "መናፈቅ"}
+{"input": "Amharic: Inflect ናፈቀ | V;IMP;NOM(1,PL)","target": "እንናፍቅ"}
+{"input": "Amharic: Inflect ናፈቀ | V;IMP;NOM(1,SG)","target": "ልናፍቅ"}
+{"input": "Amharic: Inflect ናፈቀ | V;IPFV;NFIN;NOM(MASC;3,SG)","target": "ይናፍቅ"}
+{"input": "Amharic: Inflect ናፈቀ | V;IPFV;NOM(2,PL)","target": "ትናፍቃላችሁ"}
+{"input": "Amharic: Inflect ናፈቀ | V;IPFV;NOM(FEM;3,SG)","target": "ትናፍቃለች"}
+{"input": "Amharic: Inflect ናፈቀ | V;PFV;NOM(1,PL)","target": "ናፈቅን"}
+{"input": "Amharic: Inflect ናፈቀ | V;PFV;NOM(FEM;2,SG)","target": "ናፈቅሽ"}
+{"input": "Amharic: Inflect ናፈቀ | V;PFV;NOM(MASC;3,SG)","target": "ናፈቀ"}
+{"input": "Amharic: Inflect ናፈቀ | V;PRF;NOM(1,PL)","target": "ናፍቀናል"}
+{"input": "Amharic: Inflect ናፈቀ | V;PRF;NOM(2,PL)","target": "ናፍቃችኋል"}
+{"input": "Amharic: Inflect ልሣን | N;DEF;MASC","target": "ልሣኑ"}
+{"input": "Amharic: Inflect ልሣን | N;DEF;PL","target": "ልሣኖቹ"}
+{"input": "Amharic: Inflect ልሣን | N;PL","target": "ልሣኖች"}
+{"input": "Amharic: Inflect ምህረት | N","target": "ምህረት"}
+{"input": "Amharic: Inflect ምህረት | N;PSS(2,PL)","target": "ምህረታችሁ"}
+{"input": "Amharic: Inflect ምህረት | N;PSS(2,SG,FEM)","target": "ምህረትሽ"}
+{"input": "Ancient Greek: Inflect παιδοτρίβης | N;ACC(DU)","target": "παιδοτρῐ́βᾱ"}
+{"input": "Ancient Greek: Inflect παιδοτρίβης | N;DAT(PL)","target": "παιδοτρῐ́βαις"}
+{"input": "Ancient Greek: Inflect παιδοτρίβης | N;NOM(DU)","target": "παιδοτρῐ́βᾱ"}
+{"input": "Ancient Greek: Inflect παιδοτρίβης | N;VOC(DU)","target": "παιδοτρῐ́βᾱ"}
+{"input": "Ancient Greek: Inflect παιδοτρίβης | N;VOC(SG)","target": "παιδοτρῐ́βη"}
+{"input": "Ancient Greek: Inflect δεινός | ADJ;ACC(DU;MASC)","target": "δεινώ"}
+{"input": "Ancient Greek: Inflect δεινός | ADJ;ACC(PL;MASC)","target": "δεινούς"}
+{"input": "Ancient Greek: Inflect δεινός | ADJ;DAT(PL;FEM)","target": "δειναῖς"}
+{"input": "Ancient Greek: Inflect δεινός | ADJ;DAT(PL;MASC)","target": "δεινοῖς"}
+{"input": "Ancient Greek: Inflect δεινός | ADJ;DAT(PL;NEUT)","target": "δεινοῖς"}
+{"input": "Ancient Greek: Inflect δεινός | ADJ;DAT(SG;FEM)","target": "δεινῇ"}
+{"input": "Ancient Greek: Inflect δεινός | ADJ;GEN(DU;FEM)","target": "δειναῖν"}
+{"input": "Ancient Greek: Inflect δεινός | ADJ;GEN(PL;MASC)","target": "δεινῶν"}
+{"input": "Ancient Greek: Inflect δεινός | ADJ;NOM(PL;MASC)","target": "δεινοί"}
+{"input": "Ancient Greek: Inflect δεινός | ADJ;NOM(SG;FEM)","target": "δεινή"}
+{"input": "Ancient Greek: Inflect δεινός | ADJ;NOM(SG;NEUT)","target": "δεινόν"}
+{"input": "Ancient Greek: Inflect δεινός | ADJ;VOC(DU;NEUT)","target": "δεινώ"}
+{"input": "Ancient Greek: Inflect δεινός | ADJ;VOC(PL;FEM)","target": "δειναί"}
+{"input": "Ancient Greek: Inflect δεινός | ADJ;VOC(PL;MASC)","target": "δεινοί"}
+{"input": "Ancient Greek: Inflect δεινός | ADJ;VOC(SG;NEUT)","target": "δεινόν"}
+{"input": "Ancient Greek: Inflect μάρτυρ | N;DAT(DU)","target": "μᾰρτῠ́ροιν"}
+{"input": "Ancient Greek: Inflect μάρτυρ | N;DAT(SG)","target": "μᾰ́ρτῠρῐ"}
+{"input": "Ancient Greek: Inflect μάρτυρ | N;NOM(DU)","target": "μᾰ́ρτῠρε"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;ACC(DU;MASC)","target": "συγγενικώ"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;ACC(PL;MASC)","target": "συγγενικούς"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;ACC(PL;NEUT)","target": "συγγενικᾰ́"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;ACC(SG;NEUT)","target": "συγγενικόν"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;DAT(DU;FEM)","target": "συγγενικαῖν"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;DAT(DU;MASC)","target": "συγγενικοῖν"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;DAT(DU;NEUT)","target": "συγγενικοῖν"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;DAT(PL;FEM)","target": "συγγενικαῖς"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;DAT(PL;NEUT)","target": "συγγενικοῖς"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;DAT(SG;NEUT)","target": "συγγενικῷ"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;GEN(PL;NEUT)","target": "συγγενικῶν"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;NOM(DU;FEM)","target": "συγγενικᾱ́"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;NOM(PL;FEM)","target": "συγγενικαί"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;NOM(SG;MASC)","target": "συγγενικός"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;VOC(DU;NEUT)","target": "συγγενικώ"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;VOC(SG;FEM)","target": "συγγενική"}
+{"input": "Ancient Greek: Inflect συγγενικός | ADJ;VOC(SG;MASC)","target": "συγγενικέ"}
+{"input": "Ancient Greek: Inflect θεόπνευστος | ADJ;ACC(DU;MASC)","target": "θεοπνεύστω"}
+{"input": "Ancient Greek: Inflect θεόπνευστος | ADJ;ACC(PL;NEUT)","target": "θεόπνευστα"}
+{"input": "Ancient Greek: Inflect θεόπνευστος | ADJ;ACC(SG;MASC)","target": "θεόπνευστον"}
+{"input": "Ancient Greek: Inflect θεόπνευστος | ADJ;ACC(SG;NEUT)","target": "θεόπνευστον"}
+{"input": "Ancient Greek: Inflect θεόπνευστος | ADJ;DAT(DU;FEM)","target": "θεοπνεύστοιν"}
+{"input": "Ancient Greek: Inflect θεόπνευστος | ADJ;DAT(DU;NEUT)","target": "θεοπνεύστοιν"}
+{"input": "Ancient Greek: Inflect θεόπνευστος | ADJ;DAT(SG;FEM)","target": "θεοπνεύστῳ"}
+{"input": "Ancient Greek: Inflect θεόπνευστος | ADJ;GEN(SG;MASC)","target": "θεοπνεύστου"}
+{"input": "Ancient Greek: Inflect θεόπνευστος | ADJ;NOM(SG;FEM)","target": "θεόπνευστος"}
+{"input": "Ancient Greek: Inflect θεόπνευστος | ADJ;VOC(DU;NEUT)","target": "θεοπνεύστω"}
+{"input": "Ancient Greek: Inflect θεόπνευστος | ADJ;VOC(PL;FEM)","target": "θεόπνευστοι"}
+{"input": "Ancient Greek: Inflect θεόπνευστος | ADJ;VOC(PL;MASC)","target": "θεόπνευστοι"}
+{"input": "Ancient Greek: Inflect θεόπνευστος | ADJ;VOC(PL;NEUT)","target": "θεόπνευστα"}
+{"input": "Ancient Greek: Inflect μάρμαρος | N;ACC(SG)","target": "μάρμαρον"}
+{"input": "Ancient Greek: Inflect μάρμαρος | N;DAT(DU)","target": "μαρμάροιν"}
+{"input": "Ancient Greek: Inflect μάρμαρος | N;DAT(PL)","target": "μαρμάροις"}
+{"input": "Ancient Greek: Inflect μάρμαρος | N;GEN(DU)","target": "μαρμάροιν"}
+{"input": "Ancient Greek: Inflect μάρμαρος | N;GEN(PL)","target": "μαρμάρων"}
+{"input": "Ancient Greek: Inflect μάρμαρος | N;NOM(PL)","target": "μάρμαροι"}
+{"input": "Ancient Greek: Inflect παλίμψηστος | ADJ;ACC(DU;NEUT)","target": "παλιμψήστω"}
+{"input": "Ancient Greek: Inflect παλίμψηστος | ADJ;ACC(PL;MASC)","target": "παλιμψήστους"}
+{"input": "Ancient Greek: Inflect παλίμψηστος | ADJ;ACC(SG;FEM)","target": "παλίμψηστον"}
+{"input": "Ancient Greek: Inflect παλίμψηστος | ADJ;DAT(DU;NEUT)","target": "παλιμψήστοιν"}
+{"input": "Ancient Greek: Inflect παλίμψηστος | ADJ;DAT(PL;MASC)","target": "παλιμψήστοις"}
+{"input": "Ancient Greek: Inflect παλίμψηστος | ADJ;DAT(SG;MASC)","target": "παλιμψήστῳ"}
+{"input": "Ancient Greek: Inflect παλίμψηστος | ADJ;GEN(DU;FEM)","target": "παλιμψήστοιν"}
+{"input": "Ancient Greek: Inflect παλίμψηστος | ADJ;GEN(DU;MASC)","target": "παλιμψήστοιν"}
+{"input": "Ancient Greek: Inflect παλίμψηστος | ADJ;GEN(PL;FEM)","target": "παλιμψήστων"}
+{"input": "Ancient Greek: Inflect παλίμψηστος | ADJ;GEN(SG;MASC)","target": "παλιμψήστου"}
+{"input": "Ancient Greek: Inflect παλίμψηστος | ADJ;NOM(PL;MASC)","target": "παλίμψηστοι"}
+{"input": "Ancient Greek: Inflect παλίμψηστος | ADJ;VOC(DU;NEUT)","target": "παλιμψήστω"}
+{"input": "Ancient Greek: Inflect παλίμψηστος | ADJ;VOC(PL;NEUT)","target": "παλίμψηστα"}
+{"input": "Ancient Greek: Inflect παλίμψηστος | ADJ;VOC(SG;FEM)","target": "παλίμψηστε"}
+{"input": "Ancient Greek: Inflect ἀντιστοιχία | N;DAT(PL)","target": "ἀντῐστοιχῐ́αις"}
+{"input": "Ancient Greek: Inflect ἀντιστοιχία | N;VOC(DU)","target": "ἀντῐστοιχῐ́ᾱ"}
+{"input": "Ancient Greek: Inflect ἀντιστοιχία | N;VOC(PL)","target": "ἀντῐστοιχῐ́αι"}
+{"input": "Ancient Greek: Inflect ἀγαπητός | ADJ;ACC(PL;FEM)","target": "ἀγαπητᾱ́ς"}
+{"input": "Ancient Greek: Inflect ἀγαπητός | ADJ;ACC(PL;NEUT)","target": "ἀγαπητᾰ́"}
+{"input": "Ancient Greek: Inflect ἀγαπητός | ADJ;ACC(SG;NEUT)","target": "ἀγαπητόν"}
+{"input": "Ancient Greek: Inflect ἀγαπητός | ADJ;DAT(SG;FEM)","target": "ἀγαπητῇ"}
+{"input": "Ancient Greek: Inflect ἀγαπητός | ADJ;GEN(DU;NEUT)","target": "ἀγαπητοῖν"}
+{"input": "Ancient Greek: Inflect ἀγαπητός | ADJ;GEN(PL;FEM)","target": "ἀγαπητῶν"}
+{"input": "Ancient Greek: Inflect ἀγαπητός | ADJ;GEN(SG;NEUT)","target": "ἀγαπητοῦ"}
+{"input": "Ancient Greek: Inflect ἀγαπητός | ADJ;VOC(DU;FEM)","target": "ἀγαπητᾱ́"}
+{"input": "Ancient Greek: Inflect ἀγαπητός | ADJ;VOC(PL;NEUT)","target": "ἀγαπητᾰ́"}
+{"input": "Ancient Greek: Inflect ἀγαπητός | ADJ;VOC(SG;MASC)","target": "ἀγαπητέ"}
+{"input": "Ancient Greek: Inflect γλυφή | N;ACC(PL)","target": "γλῠφᾱ́ς"}
+{"input": "Ancient Greek: Inflect γλυφή | N;DAT(DU)","target": "γλῠφαῖν"}
+{"input": "Ancient Greek: Inflect γλυφή | N;DAT(PL)","target": "γλῠφαῖς"}
+{"input": "Ancient Greek: Inflect γλυφή | N;GEN(PL)","target": "γλῠφῶν"}
+{"input": "Ancient Greek: Inflect γλυφή | N;NOM(PL)","target": "γλῠφαί"}
+{"input": "Ancient Greek: Inflect γλυφή | N;NOM(SG)","target": "γλῠφή"}
+{"input": "Ancient Greek: Inflect γλυφή | N;VOC(PL)","target": "γλῠφαί"}
+{"input": "Ancient Greek: Inflect ἀπροσδόκητος | ADJ;ACC(PL;FEM)","target": "ἀπροσδοκήτους"}
+{"input": "Ancient Greek: Inflect ἀπροσδόκητος | ADJ;ACC(SG;FEM)","target": "ἀπροσδόκητον"}
+{"input": "Ancient Greek: Inflect ἀπροσδόκητος | ADJ;ACC(SG;MASC)","target": "ἀπροσδόκητον"}
+{"input": "Ancient Greek: Inflect ἀπροσδόκητος | ADJ;DAT(DU;FEM)","target": "ἀπροσδοκήτοιν"}
+{"input": "Ancient Greek: Inflect ἀπροσδόκητος | ADJ;DAT(SG;NEUT)","target": "ἀπροσδοκήτῳ"}
+{"input": "Ancient Greek: Inflect ἀπροσδόκητος | ADJ;GEN(DU;FEM)","target": "ἀπροσδοκήτοιν"}
+{"input": "Ancient Greek: Inflect ἀπροσδόκητος | ADJ;GEN(DU;MASC)","target": "ἀπροσδοκήτοιν"}
+{"input": "Ancient Greek: Inflect ἀπροσδόκητος | ADJ;GEN(PL;FEM)","target": "ἀπροσδοκήτων"}
+{"input": "Ancient Greek: Inflect ἀπροσδόκητος | ADJ;GEN(PL;NEUT)","target": "ἀπροσδοκήτων"}
+{"input": "Ancient Greek: Inflect ἀπροσδόκητος | ADJ;GEN(SG;NEUT)","target": "ἀπροσδοκήτου"}
+{"input": "Ancient Greek: Inflect ἀπροσδόκητος | ADJ;NOM(DU;FEM)","target": "ἀπροσδοκήτω"}
+{"input": "Ancient Greek: Inflect ἀπροσδόκητος | ADJ;NOM(DU;NEUT)","target": "ἀπροσδοκήτω"}
+{"input": "Ancient Greek: Inflect ἀπροσδόκητος | ADJ;NOM(PL;NEUT)","target": "ἀπροσδόκητα"}
+{"input": "Ancient Greek: Inflect ἀπροσδόκητος | ADJ;NOM(SG;MASC)","target": "ἀπροσδόκητος"}
+{"input": "Ancient Greek: Inflect ἀπροσδόκητος | ADJ;VOC(PL;NEUT)","target": "ἀπροσδόκητα"}
+{"input": "Ancient Greek: Inflect σεληνιακός | ADJ;ACC(PL;FEM)","target": "σεληνιακᾱ́ς"}
+{"input": "Ancient Greek: Inflect σεληνιακός | ADJ;ACC(SG;FEM)","target": "σεληνιακήν"}
+{"input": "Ancient Greek: Inflect σεληνιακός | ADJ;DAT(SG;FEM)","target": "σεληνιακῇ"}
+{"input": "Ancient Greek: Inflect σεληνιακός | ADJ;DAT(SG;MASC)","target": "σεληνιακῷ"}
+{"input": "Ancient Greek: Inflect σεληνιακός | ADJ;DAT(SG;NEUT)","target": "σεληνιακῷ"}
+{"input": "Ancient Greek: Inflect σεληνιακός | ADJ;GEN(PL;NEUT)","target": "σεληνιακῶν"}
+{"input": "Ancient Greek: Inflect σεληνιακός | ADJ;GEN(SG;MASC)","target": "σεληνιακοῦ"}
+{"input": "Ancient Greek: Inflect σεληνιακός | ADJ;NOM(DU;MASC)","target": "σεληνιακώ"}
+{"input": "Ancient Greek: Inflect σεληνιακός | ADJ;NOM(PL;NEUT)","target": "σεληνιακᾰ́"}
+{"input": "Ancient Greek: Inflect σεληνιακός | ADJ;NOM(SG;FEM)","target": "σεληνιακή"}
+{"input": "Ancient Greek: Inflect σεληνιακός | ADJ;NOM(SG;MASC)","target": "σεληνιακός"}
+{"input": "Ancient Greek: Inflect σεληνιακός | ADJ;VOC(DU;NEUT)","target": "σεληνιακώ"}
+{"input": "Ancient Greek: Inflect σεληνιακός | ADJ;VOC(PL;MASC)","target": "σεληνιακοί"}
+{"input": "Ancient Greek: Inflect σεληνιακός | ADJ;VOC(PL;NEUT)","target": "σεληνιακᾰ́"}
+{"input": "Ancient Greek: Inflect σπονδή | N;ACC(PL)","target": "σπονδᾱ́ς"}
+{"input": "Ancient Greek: Inflect σπονδή | N;ACC(SG)","target": "σπονδήν"}
+{"input": "Ancient Greek: Inflect σπονδή | N;DAT(DU)","target": "σπονδαῖν"}
+{"input": "Ancient Greek: Inflect σπονδή | N;DAT(PL)","target": "σπονδαῖς"}
+{"input": "Ancient Greek: Inflect σπονδή | N;DAT(SG)","target": "σπονδῇ"}
+{"input": "Ancient Greek: Inflect σπονδή | N;GEN(SG)","target": "σπονδῆς"}
+{"input": "Ancient Greek: Inflect σπονδή | N;NOM(DU)","target": "σπονδᾱ́"}
+{"input": "Ancient Greek: Inflect σπονδή | N;NOM(PL)","target": "σπονδαί"}
+{"input": "Ancient Greek: Inflect σπονδή | N;VOC(SG)","target": "σπονδή"}
+{"input": "Ancient Greek: Inflect γονή | N;ACC(SG)","target": "γονήν"}
+{"input": "Ancient Greek: Inflect γονή | N;DAT(PL)","target": "γοναῖς"}
+{"input": "Ancient Greek: Inflect γονή | N;NOM(DU)","target": "γονᾱ́"}
+{"input": "Ancient Greek: Inflect γονή | N;VOC(SG)","target": "γονή"}
+{"input": "Ancient Greek: Inflect ῥιζικός | ADJ;ACC(PL;NEUT)","target": "ῥιζικᾰ́"}
+{"input": "Ancient Greek: Inflect ῥιζικός | ADJ;ACC(SG;FEM)","target": "ῥιζικήν"}
+{"input": "Ancient Greek: Inflect ῥιζικός | ADJ;DAT(SG;FEM)","target": "ῥιζικῇ"}
+{"input": "Ancient Greek: Inflect ῥιζικός | ADJ;GEN(DU;FEM)","target": "ῥιζικαῖν"}
+{"input": "Ancient Greek: Inflect ῥιζικός | ADJ;GEN(DU;MASC)","target": "ῥιζικοῖν"}
+{"input": "Ancient Greek: Inflect ῥιζικός | ADJ;GEN(PL;MASC)","target": "ῥιζικῶν"}
+{"input": "Ancient Greek: Inflect ῥιζικός | ADJ;GEN(PL;NEUT)","target": "ῥιζικῶν"}
+{"input": "Ancient Greek: Inflect ῥιζικός | ADJ;GEN(SG;NEUT)","target": "ῥιζικοῦ"}
+{"input": "Ancient Greek: Inflect ῥιζικός | ADJ;NOM(DU;FEM)","target": "ῥιζικᾱ́"}
+{"input": "Ancient Greek: Inflect ῥιζικός | ADJ;NOM(PL;FEM)","target": "ῥιζικαί"}
+{"input": "Ancient Greek: Inflect ῥιζικός | ADJ;NOM(PL;MASC)","target": "ῥιζικοί"}
+{"input": "Ancient Greek: Inflect ῥιζικός | ADJ;VOC(DU;FEM)","target": "ῥιζικᾱ́"}
+{"input": "Ancient Greek: Inflect ῥιζικός | ADJ;VOC(PL;FEM)","target": "ῥιζικαί"}
+{"input": "Ancient Greek: Inflect ῥιζικός | ADJ;VOC(PL;NEUT)","target": "ῥιζικᾰ́"}
+{"input": "Ancient Greek: Inflect μισανδρία | N;ACC(DU)","target": "μῑσανδρῐ́ᾱ"}
+{"input": "Ancient Greek: Inflect μισανδρία | N;DAT(DU)","target": "μῑσανδρῐ́αιν"}
+{"input": "Ancient Greek: Inflect μισανδρία | N;DAT(PL)","target": "μῑσανδρῐ́αις"}
+{"input": "Ancient Greek: Inflect μισανδρία | N;VOC(DU)","target": "μῑσανδρῐ́ᾱ"}
+{"input": "Ancient Greek: Inflect μισανδρία | N;VOC(SG)","target": "μῑσανδρῐ́ᾱ"}
+{"input": "Ancient Greek: Inflect φραστικός | ADJ;ACC(DU;NEUT)","target": "φραστικώ"}
+{"input": "Ancient Greek: Inflect φραστικός | ADJ;ACC(PL;MASC)","target": "φραστικούς"}
+{"input": "Ancient Greek: Inflect φραστικός | ADJ;ACC(PL;NEUT)","target": "φραστικᾰ́"}
+{"input": "Ancient Greek: Inflect φραστικός | ADJ;ACC(SG;FEM)","target": "φραστικήν"}
+{"input": "Ancient Greek: Inflect φραστικός | ADJ;ACC(SG;NEUT)","target": "φραστικόν"}
+{"input": "Ancient Greek: Inflect φραστικός | ADJ;DAT(PL;NEUT)","target": "φραστικοῖς"}
+{"input": "Ancient Greek: Inflect φραστικός | ADJ;GEN(DU;MASC)","target": "φραστικοῖν"}
+{"input": "Ancient Greek: Inflect φραστικός | ADJ;GEN(DU;NEUT)","target": "φραστικοῖν"}
+{"input": "Ancient Greek: Inflect φραστικός | ADJ;GEN(SG;FEM)","target": "φραστικῆς"}
+{"input": "Ancient Greek: Inflect φραστικός | ADJ;NOM(PL;FEM)","target": "φραστικαί"}
+{"input": "Ancient Greek: Inflect φραστικός | ADJ;VOC(DU;NEUT)","target": "φραστικώ"}
+{"input": "Ancient Greek: Inflect φραστικός | ADJ;VOC(PL;FEM)","target": "φραστικαί"}
+{"input": "Ancient Greek: Inflect φραστικός | ADJ;VOC(PL;MASC)","target": "φραστικοί"}
+{"input": "Ancient Greek: Inflect φραστικός | ADJ;VOC(SG;NEUT)","target": "φραστικόν"}
+{"input": "Ancient Greek: Inflect ἡρωίς | N;NOM(DU)","target": "ἡρωῐ́δε"}
+{"input": "Ancient Greek: Inflect ἡρωίς | N;NOM(SG)","target": "ἡρωῐ́ς"}
+{"input": "Ancient Greek: Inflect ἐφελκυστικός | ADJ;ACC(DU;NEUT)","target": "ἐφελκυστικώ"}
+{"input": "Ancient Greek: Inflect ἐφελκυστικός | ADJ;ACC(PL;NEUT)","target": "ἐφελκυστικᾰ́"}
+{"input": "Ancient Greek: Inflect ἐφελκυστικός | ADJ;DAT(DU;FEM)","target": "ἐφελκυστικαῖν"}
+{"input": "Ancient Greek: Inflect ἐφελκυστικός | ADJ;DAT(DU;NEUT)","target": "ἐφελκυστικοῖν"}
+{"input": "Ancient Greek: Inflect ἐφελκυστικός | ADJ;DAT(PL;MASC)","target": "ἐφελκυστικοῖς"}
+{"input": "Ancient Greek: Inflect ἐφελκυστικός | ADJ;GEN(DU;FEM)","target": "ἐφελκυστικαῖν"}
+{"input": "Ancient Greek: Inflect ἐφελκυστικός | ADJ;GEN(PL;FEM)","target": "ἐφελκυστικῶν"}
+{"input": "Ancient Greek: Inflect ἐφελκυστικός | ADJ;GEN(PL;NEUT)","target": "ἐφελκυστικῶν"}
+{"input": "Ancient Greek: Inflect ἐφελκυστικός | ADJ;GEN(SG;MASC)","target": "ἐφελκυστικοῦ"}
+{"input": "Ancient Greek: Inflect ἐφελκυστικός | ADJ;NOM(PL;NEUT)","target": "ἐφελκυστικᾰ́"}
+{"input": "Ancient Greek: Inflect ἐφελκυστικός | ADJ;NOM(SG;FEM)","target": "ἐφελκυστική"}
+{"input": "Ancient Greek: Inflect ἐφελκυστικός | ADJ;VOC(DU;NEUT)","target": "ἐφελκυστικώ"}
+{"input": "Ancient Greek: Inflect ἐφελκυστικός | ADJ;VOC(PL;FEM)","target": "ἐφελκυστικαί"}
+{"input": "Ancient Greek: Inflect ἐφελκυστικός | ADJ;VOC(PL;MASC)","target": "ἐφελκυστικοί"}
+{"input": "Ancient Greek: Inflect ἐφελκυστικός | ADJ;VOC(SG;NEUT)","target": "ἐφελκυστικόν"}
+{"input": "Ancient Greek: Inflect συμπρακτικός | ADJ;ACC(DU;FEM)","target": "συμπρακτικᾱ́"}
+{"input": "Ancient Greek: Inflect συμπρακτικός | ADJ;ACC(DU;NEUT)","target": "συμπρακτικώ"}
+{"input": "Ancient Greek: Inflect συμπρακτικός | ADJ;ACC(SG;MASC)","target": "συμπρακτικόν"}
+{"input": "Ancient Greek: Inflect συμπρακτικός | ADJ;DAT(PL;MASC)","target": "συμπρακτικοῖς"}
+{"input": "Ancient Greek: Inflect συμπρακτικός | ADJ;DAT(SG;MASC)","target": "συμπρακτικῷ"}
+{"input": "Ancient Greek: Inflect συμπρακτικός | ADJ;GEN(PL;NEUT)","target": "συμπρακτικῶν"}
+{"input": "Ancient Greek: Inflect συμπρακτικός | ADJ;NOM(DU;MASC)","target": "συμπρακτικώ"}
+{"input": "Ancient Greek: Inflect συμπρακτικός | ADJ;NOM(PL;FEM)","target": "συμπρακτικαί"}
+{"input": "Ancient Greek: Inflect συμπρακτικός | ADJ;NOM(SG;FEM)","target": "συμπρακτική"}
+{"input": "Ancient Greek: Inflect συμπρακτικός | ADJ;NOM(SG;NEUT)","target": "συμπρακτικόν"}
+{"input": "Ancient Greek: Inflect συμπρακτικός | ADJ;VOC(DU;FEM)","target": "συμπρακτικᾱ́"}
+{"input": "Ancient Greek: Inflect συμπρακτικός | ADJ;VOC(DU;NEUT)","target": "συμπρακτικώ"}
+{"input": "Ancient Greek: Inflect συμπρακτικός | ADJ;VOC(PL;FEM)","target": "συμπρακτικαί"}
+{"input": "Ancient Greek: Inflect συμπρακτικός | ADJ;VOC(SG;MASC)","target": "συμπρακτικέ"}
+{"input": "Ancient Greek: Inflect συμπρακτικός | ADJ;VOC(SG;NEUT)","target": "συμπρακτικόν"}

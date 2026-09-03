@@ -1,0 +1,303 @@
+
+ref		abstrákta	ADJ;COM(PL)	abstrávttaiguin
+neural	abstrákta	ADJ;COM(PL)	abstrábuiguin
+
+ref		abstrákta	ADJ;FRML(SG)	abstráktan
+neural	abstrákta	ADJ;FRML(SG)	abstrábun
+
+ref		abstrákta	ADJ;GEN(PL)	abstrávttaid
+neural	abstrákta	ADJ;GEN(PL)	abstrábuid
+
+ref		abstrákta	ADJ;GEN(SG)	abstrávtta
+neural	abstrákta	ADJ;GEN(SG)	abstrábu
+
+ref		abstrákta	ADJ;IN+ALL(SG)	abstráktii
+neural	abstrákta	ADJ;IN+ALL(SG)	abstrábui
+
+ref		abstrákta	ADJ;NOM(SG)	abstrákta
+neural	abstrákta	ADJ;NOM(SG)	abstrát
+------------------------
+ref		bieđgát	V;COND;LGSPEC1;NOM(1,PL)	bieđgáleimmet
+neural	bieđgát	V;COND;LGSPEC1;NOM(1,PL)	bieggáleimmet
+
+ref		bieđgát	V;COND;LGSPEC1;NOM(1,SG)	bieđgálin
+neural	bieđgát	V;COND;LGSPEC1;NOM(1,SG)	bieggálin
+
+ref		bieđgát	V;COND;LGSPEC1;NOM(2,DU)	bieđgáleidde
+neural	bieđgát	V;COND;LGSPEC1;NOM(2,DU)	bieggáleidde
+
+ref		bieđgát	V;COND;LGSPEC1;NOM(2,SG)	bieđgálit
+neural	bieđgát	V;COND;LGSPEC1;NOM(2,SG)	bieggálit
+
+ref		bieđgát	V;COND;LGSPEC1;NOM(3,DU)	bieđgáleigga
+neural	bieđgát	V;COND;LGSPEC1;NOM(3,DU)	bieggáleigga
+
+ref		bieđgát	V;COND;LGSPEC1;NOM(3,PL)	bieđgále
+neural	bieđgát	V;COND;LGSPEC1;NOM(3,PL)	bieggále
+
+ref		bieđgát	V;COND;LGSPEC1;NOM(3,SG)	bieđgálii
+neural	bieđgát	V;COND;LGSPEC1;NOM(3,SG)	bieggálii
+
+ref		bieđgát	V;COND;NOM(1,DU)	bieđgášeimme
+neural	bieđgát	V;COND;NOM(1,DU)	bieggášeimme
+
+ref		bieđgát	V;COND;NOM(1,PL)	bieđgášeimmet
+neural	bieđgát	V;COND;NOM(1,PL)	bieggášeimmet
+
+ref		bieđgát	V;COND;NOM(2,PL)	bieđgášeiddet
+neural	bieđgát	V;COND;NOM(2,PL)	bieggášeiddet
+
+ref		bieđgát	V;COND;NOM(2,SG)	bieđgášit
+neural	bieđgát	V;COND;NOM(2,SG)	bieggášit
+
+ref		bieđgát	V;IMP;NOM(1,SG)	bieđgájehkon
+neural	bieđgát	V;IMP;NOM(1,SG)	bieggájehkon
+
+ref		bieđgát	V;IMP;NOM(2,DU)	bieđgájeahkki
+neural	bieđgát	V;IMP;NOM(2,DU)	bieggájeahkki
+
+ref		bieđgát	V;IMP;NOM(2,PL)	bieđgájehket
+neural	bieđgát	V;IMP;NOM(2,PL)	bieggájehket
+
+ref		bieđgát	V;IMP;NOM(2,SG)	bieđgá
+neural	bieđgát	V;IMP;NOM(2,SG)	bieggá
+
+ref		bieđgát	V;IMP;NOM(3,DU)	bieđgájehkoska
+neural	bieđgát	V;IMP;NOM(3,DU)	bieggájehkoska
+
+ref		bieđgát	V;POT;NOM(1,DU)	bieđgážetne
+neural	bieđgát	V;POT;NOM(1,DU)	bieggážetne
+
+ref		bieđgát	V;POT;NOM(1,PL)	bieđgážit
+neural	bieđgát	V;POT;NOM(1,PL)	bieggážit
+
+ref		bieđgát	V;POT;NOM(1,SG)	bieđgážan
+neural	bieđgát	V;POT;NOM(1,SG)	bieggážan
+
+ref		bieđgát	V;POT;NOM(2,DU)	bieđgážeahppi
+neural	bieđgát	V;POT;NOM(2,DU)	bieggážeahppi
+
+ref		bieđgát	V;POT;NOM(2,PL)	bieđgážehpet
+neural	bieđgát	V;POT;NOM(2,PL)	bieggážehpet
+
+ref		bieđgát	V;POT;NOM(3,DU)	bieđgážeaba
+neural	bieđgát	V;POT;NOM(3,DU)	bieggážeaba
+
+ref		bieđgát	V;PRS;IND;NOM(1,DU)	bieđgájetne
+neural	bieđgát	V;PRS;IND;NOM(1,DU)	bieggájetne
+
+ref		bieđgát	V;PRS;IND;NOM(1,PL)	bieđgát
+neural	bieđgát	V;PRS;IND;NOM(1,PL)	bieggát
+
+ref		bieđgát	V;PRS;IND;NOM(1,SG)	bieđgán
+neural	bieđgát	V;PRS;IND;NOM(1,SG)	bieggán
+
+ref		bieđgát	V;PRS;IND;NOM(2,DU)	bieđgábeahtti
+neural	bieđgát	V;PRS;IND;NOM(2,DU)	bieggábeahtti
+
+ref		bieđgát	V;PRS;IND;NOM(2,PL)	bieđgábehtet
+neural	bieđgát	V;PRS;IND;NOM(2,PL)	bieggábehtet
+
+ref		bieđgát	V;PRS;IND;NOM(3,PL)	bieđgájit
+neural	bieđgát	V;PRS;IND;NOM(3,PL)	bieggájit
+
+ref		bieđgát	V;PST;IND;NOM(1,PL)	bieđgáimet
+neural	bieđgát	V;PST;IND;NOM(1,PL)	bieggáimet
+
+ref		bieđgát	V;PST;IND;NOM(1,SG)	bieđgájin
+neural	bieđgát	V;PST;IND;NOM(1,SG)	bieggájin
+
+ref		bieđgát	V;PST;IND;NOM(2,PL)	bieđgáidet
+neural	bieđgát	V;PST;IND;NOM(2,PL)	bieggáidet
+
+ref		bieđgát	V;PST;IND;NOM(3,PL)	bieđgájedje
+neural	bieđgát	V;PST;IND;NOM(3,PL)	bieggájedje
+------------------------
+ref		báistit	V;COND;LGSPEC1;NOM(1,PL)	báisttáleimmet
+neural	báistit	V;COND;LGSPEC1;NOM(1,PL)	báistivččiimet
+
+ref		báistit	V;COND;LGSPEC1;NOM(1,SG)	báisttálin
+neural	báistit	V;COND;LGSPEC1;NOM(1,SG)	báistivččen
+
+ref		báistit	V;COND;LGSPEC1;NOM(2,DU)	báisttáleidde
+neural	báistit	V;COND;LGSPEC1;NOM(2,DU)	báistivččiide
+
+ref		báistit	V;COND;LGSPEC1;NOM(2,PL)	báisttáleiddet
+neural	báistit	V;COND;LGSPEC1;NOM(2,PL)	báistivččiidet
+
+ref		báistit	V;COND;LGSPEC1;NOM(2,SG)	báisttálit
+neural	báistit	V;COND;LGSPEC1;NOM(2,SG)	báistivččet
+
+ref		báistit	V;COND;LGSPEC1;NOM(3,DU)	báisttáleigga
+neural	báistit	V;COND;LGSPEC1;NOM(3,DU)	báistivččiiga
+
+ref		báistit	V;COND;LGSPEC1;NOM(3,PL)	báisttále
+neural	báistit	V;COND;LGSPEC1;NOM(3,PL)	báistivčče
+
+ref		báistit	V;COND;LGSPEC1;NOM(3,SG)	báisttálii
+neural	báistit	V;COND;LGSPEC1;NOM(3,SG)	báistivččii
+
+ref		báistit	V;COND;NOM(1,DU)	báisttášeimme
+neural	báistit	V;COND;NOM(1,DU)	báistivččiime
+
+ref		báistit	V;COND;NOM(1,SG)	báisttášin
+neural	báistit	V;COND;NOM(1,SG)	báistivččen
+
+ref		báistit	V;COND;NOM(2,DU)	báisttášeidde
+neural	báistit	V;COND;NOM(2,DU)	báistivččiide
+
+ref		báistit	V;COND;NOM(3,DU)	báisttášeigga
+neural	báistit	V;COND;NOM(3,DU)	báistivččiiga
+
+ref		báistit	V;COND;NOM(3,PL)	báisttáše
+neural	báistit	V;COND;NOM(3,PL)	báistivčče
+
+ref		báistit	V;COND;NOM(3,SG)	báisttášii
+neural	báistit	V;COND;NOM(3,SG)	báistivččii
+
+ref		báistit	V;IMP;NOM(1,DU)	báistu
+neural	báistit	V;IMP;NOM(1,DU)	báisteadnu
+
+ref		báistit	V;IMP;NOM(1,PL)	báistot
+neural	báistit	V;IMP;NOM(1,PL)	báistehkot
+
+ref		báistit	V;IMP;NOM(2,PL)	báistet
+neural	báistit	V;IMP;NOM(2,PL)	báistehket
+
+ref		báistit	V;POT;NOM(1,SG)	báisttežan
+neural	báistit	V;POT;NOM(1,SG)	báisteaččan
+
+ref		báistit	V;POT;NOM(2,PL)	báisttežehpet
+neural	báistit	V;POT;NOM(2,PL)	báisteažžabehtet
+
+ref		báistit	V;POT;NOM(3,DU)	báisttežeaba
+neural	báistit	V;POT;NOM(3,DU)	báisteažžaba
+
+ref		báistit	V;POT;NOM(3,PL)	báisttežit
+neural	báistit	V;POT;NOM(3,PL)	báistežžet
+
+ref		báistit	V;POT;NOM(3,SG)	báistteža
+neural	báistit	V;POT;NOM(3,SG)	báisteš
+
+ref		báistit	V;PRS;IND;NOM(1,DU)	báiste
+neural	báistit	V;PRS;IND;NOM(1,DU)	báistetne
+
+ref		báistit	V;PRS;IND;NOM(3,SG)	báistá
+neural	báistit	V;PRS;IND;NOM(3,SG)	báista
+
+ref		báistit	V;PST;IND;NOM(1,DU)	báisttiime
+neural	báistit	V;PST;IND;NOM(1,DU)	báisteimme
+
+ref		báistit	V;PST;IND;NOM(1,SG)	báisten
+neural	báistit	V;PST;IND;NOM(1,SG)	báistin
+
+ref		báistit	V;PST;IND;NOM(3,DU)	báisttiiga
+neural	báistit	V;PST;IND;NOM(3,DU)	báisteigga
+
+ref		bálgán	N;ACC(SG)	bálgán
+neural	bálgán	N;ACC(SG)	bálgáma
+
+ref		dorvvolaččat	ADJ;FRML(SG)	dorvvolaččabun
+neural	dorvvolaččat	ADJ;FRML(SG)	dorvvolaččadin
+
+ref		geahppán	N;ACC(SG)	geahppán
+neural	geahppán	N;ACC(SG)	geahppáma
+------------------------
+ref		guoktelogigoalmmát	ADJ;ACC(PL)	guoktelogigoalmmádiid
+neural	guoktelogigoalmmát	ADJ;ACC(PL)	guoktelogigilládiid
+
+ref		guoktelogigoalmmát	ADJ;ACC(SG)	guoktelogigoalmmáda
+neural	guoktelogigoalmmát	ADJ;ACC(SG)	guoktelogigilláda
+
+ref		guoktelogigoalmmát	ADJ;COM(PL)	guoktelogigoalmmádiiguin
+neural	guoktelogigoalmmát	ADJ;COM(PL)	guoktelogigilládiiguin
+
+ref		guoktelogigoalmmát	ADJ;COM(SG)	guoktelogigoalmmádiin
+neural	guoktelogigoalmmát	ADJ;COM(SG)	guoktelogigilládiin
+
+ref		guoktelogigoalmmát	ADJ;FRML(SG)	guoktelogigoalmmádin
+neural	guoktelogigoalmmát	ADJ;FRML(SG)	guoktelogigilládin
+
+ref		guoktelogigoalmmát	ADJ;GEN(PL)	guoktelogigoalmmádiid
+neural	guoktelogigoalmmát	ADJ;GEN(PL)	guoktelogigilládiid
+
+ref		guoktelogigoalmmát	ADJ;GEN(SG)	guoktelogigoalmmáda
+neural	guoktelogigoalmmát	ADJ;GEN(SG)	guoktelogigilláda
+
+ref		guoktelogigoalmmát	ADJ;IN+ALL(PL)	guoktelogigoalmmádiidda
+neural	guoktelogigoalmmát	ADJ;IN+ALL(PL)	guoktelogigilládiidda
+
+ref		guoktelogigoalmmát	ADJ;NOM(PL)	guoktelogigoalmmádat
+neural	guoktelogigoalmmát	ADJ;NOM(PL)	guoktelogigilládat
+
+ref		guoktelogigoalmmát	ADJ;NOM(SG)	guoktelogigoalmmát
+neural	guoktelogigoalmmát	ADJ;NOM(SG)	guoktelogigiollát
+
+ref		guoktelogigoalmmát	ADJ;PRP(PL)	guoktelogigoalmmádiin
+neural	guoktelogigoalmmát	ADJ;PRP(PL)	guoktelogigilládiin
+
+ref		guoktelogigoalmmát	ADJ;PRP(SG)	guoktelogigoalmmádis
+neural	guoktelogigoalmmát	ADJ;PRP(SG)	guoktelogigilládis
+
+ref		jiehtanas	N;ACC(SG)	jiehtanasa
+neural	jiehtanas	N;ACC(SG)	jiehttana
+
+ref		jiehtanas	N;GEN(SG)	jiehtanasa
+neural	jiehtanas	N;GEN(SG)	jiehttana
+
+ref		jiehtanas	N;NOM(PL)	jiehtanasat
+neural	jiehtanas	N;NOM(PL)	jiehttanat
+
+ref		jiehtanas	N;NOM(SG)	jiehtanas
+neural	jiehtanas	N;NOM(SG)	jiehttans
+------------------------
+ref		positiiva	ADJ;ACC(PL)	positiivvaid
+neural	positiiva	ADJ;ACC(PL)	positivvaid
+
+ref		positiiva	ADJ;ACC(SG)	positiivva
+neural	positiiva	ADJ;ACC(SG)	positivva
+
+ref		positiiva	ADJ;COM(PL)	positiivvaiguin
+neural	positiiva	ADJ;COM(PL)	positivvaiguin
+
+ref		positiiva	ADJ;COM(SG)	positiivvain
+neural	positiiva	ADJ;COM(SG)	positivvain
+
+ref		positiiva	ADJ;FRML(SG)	positiivan
+neural	positiiva	ADJ;FRML(SG)	positivabun
+
+ref		positiiva	ADJ;GEN(PL)	positiivvaid
+neural	positiiva	ADJ;GEN(PL)	positivvaid
+
+ref		positiiva	ADJ;GEN(SG)	positiivva
+neural	positiiva	ADJ;GEN(SG)	positivva
+
+ref		positiiva	ADJ;IN+ALL(PL)	positiivvaide
+neural	positiiva	ADJ;IN+ALL(PL)	positivvaide
+
+ref		positiiva	ADJ;NOM(PL)	positiivvat
+neural	positiiva	ADJ;NOM(PL)	positivvat
+
+ref		positiiva	ADJ;NOM(SG)	positiiva
+neural	positiiva	ADJ;NOM(SG)	positiva
+
+ref		positiiva	ADJ;PRP(PL)	positiivvain
+neural	positiiva	ADJ;PRP(PL)	positivvain
+
+ref		positiiva	ADJ;PRP(SG)	positiivvas
+neural	positiiva	ADJ;PRP(SG)	positivvas
+
+ref		čavgat	ADJ;FRML(SG)	čavgadin
+neural	čavgat	ADJ;FRML(SG)	čavggabun
+
+ref		čavgat	ADJ;NOM(SG)	čavgat
+neural	čavgat	ADJ;NOM(SG)	čavggat
+
+ref		čuovgat	ADJ;ACC(SG)	čuovgada
+neural	čuovgat	ADJ;ACC(SG)	čuovggabu
+
+ref		čuovgat	ADJ;FRML(SG)	čuovgadin
+neural	čuovgat	ADJ;FRML(SG)	čuovggabun
+
+ref		čuovgat	ADJ;NOM(SG)	čuovgat
+neural	čuovgat	ADJ;NOM(SG)	čuovggat

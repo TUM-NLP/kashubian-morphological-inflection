@@ -1,0 +1,92 @@
+DL	V;PST	DLed
+D e d	D L e d	1.47396719455719	1
+DL	V;V.PTCP;PST	DLed
+D e d	D L e d	1.469835877418518	1
+GI	V;PRS;NOM(3,SG)	GIs
+G æ I s	G I s	2.337888240814209	1
+GI	V;V.PTCP;PRS	GIing
+G æ F i n g	G I i n g	1.7795562744140625	2
+GI	V;V.PTCP;PST	GIed
+G æ I F e d	G I e d	2.0497262477874756	2
+Godcast	V;V.PTCP;PST	Godcast
+G o d c a s t e d	G o d c a s t	0.5601256489753723	2
+IRC	V;NFIN	IRC
+F I F	I R C	4.572442054748535	3
+IRC	V;PRS;NOM(3,SG)	IRCs
+F I F s	I R C s	3.6707382202148438	3
+IRC	V;PST	IRCed
+F I F e d	I R C e d	4.26043701171875	3
+IRC	V;V.PTCP;PST	IRCed
+F I F e d	I R C e d	4.246614456176758	3
+atsake	V;PST	atsook
+a t s a k e	a t s o o k	0.6463202238082886	3
+beshape	V;V.PTCP;PST	beshaped
+b e s h a p e n	b e s h a p e d	0.3528911769390106	1
+bliken	V;PST	blikened
+b l i k e n t	b l i k e n e d	0.14861156046390533	2
+bliken	V;V.PTCP;PST	blikened
+b l i k e n t	b l i k e n e d	0.1429905742406845	2
+coimmunoprecipitate	V;NFIN	coimmunoprecipitate
+c o i m m u n o p r e c i p i a t e	c o i m m u n o p r e c i p i t a t e	0.5906059741973877	1
+coimmunoprecipitate	V;PRS;NOM(3,SG)	coimmunoprecipitates
+c o i m m u n o p r e c i p i a t e s	c o i m m u n o p r e c i p i t a t e s	0.5852330327033997	1
+coimmunoprecipitate	V;V.PTCP;PRS	coimmunoprecipitating
+c o i m m u n o p r e c i p i a t i n g	c o i m m u n o p r e c i p i t a t i n g	0.5796492099761963	1
+coimmunoprecipitate	V;V.PTCP;PST	coimmunoprecipitated
+c o i m m u n o p r e c i p i a t e d	c o i m m u n o p r e c i p i t a t e d	0.5532153248786926	1
+comarket	V;PST	comarketed
+c o m a r k e t t e d	c o m a r k e t e d	0.49777889251708984	1
+comarket	V;V.PTCP;PRS	comarketing
+c o m a r k e t t i n g	c o m a r k e t i n g	0.5167868733406067	1
+comarket	V;V.PTCP;PST	comarketed
+c o m a r k e t t e d	c o m a r k e t e d	0.5663232207298279	1
+cordon	V;PST	cordoned
+c o r d o n n e d	c o r d o n e d	0.7047129273414612	1
+cordon	V;V.PTCP;PST	cordoned
+c o r d o n n e d	c o r d o n e d	0.6926753520965576	1
+counterindoctrinate	V;NFIN	counterindoctrinate
+c o u n t e r i n d o c t i n a t e	c o u n t e r i n d o c t r i n a t e	0.21539905667304993	1
+counterindoctrinate	V;V.PTCP;PST	counterindoctrinated
+c o u n t e r i n d o c t i n a t e d	c o u n t e r i n d o c t r i n a t e d	0.19225120544433594	1
+delve	V;V.PTCP;PST	dolven
+d e l v e d	d o l v e n	1.7915284633636475	2
+enring	V;PST	enringed
+e n r o u g h t	e n r i n g e d	0.3011800944805145	4
+graffiti	V;PRS;NOM(3,SG)	graffitis
+g r a f f i t i e s	g r a f f i t i s	0.6357197165489197	1
+graffiti	V;V.PTCP;PRS	graffitiing
+g r a f f i t i n g	g r a f f i t i i n g	0.30878257751464844	1
+jetski	V;V.PTCP;PRS	jetskiing
+j e t s k i n g	j e t s k i i n g	0.42389440536499023	1
+livetweet	V;PST	livetweeted
+l i v e t w e p t e d	l i v e t w e e t e d	0.16595469415187836	1
+misken	V;PST	miskent
+m i s k e n e d	m i s k e n t	0.765979528427124	2
+misken	V;V.PTCP;PRS	miskenning
+m i s k e n i n g	m i s k e n n i n g	0.2785632312297821	1
+preshow	V;V.PTCP;PST	preshown
+p r e s h o w e d	p r e s h o w n	0.772229015827179	2
+roadshow	V;V.PTCP;PST	roadshown
+r o a d s h o w e d	r o a d s h o w n	0.5777096152305603	2
+sie	V;PST	sied
+s a i n	s i e d	0.43168267607688904	3
+sie	V;V.PTCP;PRS	sying
+s i e i n g	s y i n g	0.4220164716243744	2
+strow	V;V.PTCP;PST	strown
+s t r o w e d	s t r o w n	0.7912001609802246	2
+trench-plough	V;PRS;NOM(3,SG)	trench-ploughs
+t r e n c h e s l o u g h s	t r e n c h - p l o u g h s	0.20658189058303833	2
+trench-plough	V;V.PTCP;PST	trench-ploughed
+t r e n c h e d l o u g h e d	t r e n c h - p l o u g h e d	0.18050862848758698	2
+unfocus	V;PST	unfocussed
+u n f o c u s e d	u n f o c u s s e d	0.657628059387207	1
+unfocus	V;V.PTCP;PRS	unfocussing
+u n f o c u s i n g	u n f o c u s s i n g	0.6065924763679504	1
+unfocus	V;V.PTCP;PST	unfocussed
+u n f o c u s e d	u n f o c u s s e d	0.6622973680496216	1
+unsell	V;PST	unsold
+u n s e l l e d	u n s o l d	0.8988620638847351	3
+unsell	V;V.PTCP;PST	unsold
+u n s e l l e d	u n s o l d	0.9484840631484985	3
+withsay	V;V.PTCP;PST	withsaid
+w i t h s a y e d	w i t h s a i d	0.791994035243988	2

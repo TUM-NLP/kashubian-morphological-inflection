@@ -1,0 +1,1372 @@
+non-neural:	blaŋt	V;PRS;NEG;REFL;ABS(1,SG)	mublaŋnsiŋʌ
+ref:	blaŋt	V;PRS;NEG;REFL;ABS(1,SG)	mublansiŋʌ
+
+non-neural:	blaŋt	V;PRS;NEG;REFL;ABS(2,SG)	mʌblaŋt
+ref:	blaŋt	V;PRS;NEG;REFL;ABS(2,SG)	mʌblansi
+
+non-neural:	blaŋt	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,SG)	mublaŋu
+ref:	blaŋt	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,SG)	mublʌŋu
+
+non-neural:	blaŋt	V;PRS;NEG;TR;ABS(3,DU);ERG(1,INCL,DU)	mʌblaŋi
+ref:	blaŋt	V;PRS;NEG;TR;ABS(3,DU);ERG(1,INCL,DU)	mʌblʌŋi
+
+non-neural:	blaŋt	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(3,DU)	blaŋu
+ref:	blaŋt	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(3,DU)	blʌŋu
+
+non-neural:	blaŋt	V;PRS;POS;TR;ABS(3,PL);ERG(3,SG)	blaŋnu
+ref:	blaŋt	V;PRS;POS;TR;ABS(3,PL);ERG(3,SG)	blânnu
+
+non-neural:	blaŋt	V;PRS;POS;TR;ABS(3,SG);ERG(3,SG)	blaɔndʉ
+ref:	blaŋt	V;PRS;POS;TR;ABS(3,SG);ERG(3,SG)	blandʉ
+
+non-neural:	blaŋt	V;PST;NEG;TR;ABS(1,EXCL,PL);ERG(2,DU)	mʌblaŋiwi
+ref:	blaŋt	V;PST;NEG;TR;ABS(1,EXCL,PL);ERG(2,DU)	mʌblʌŋiwi
+
+non-neural:	blaŋt	V;PST;NEG;TR;ABS(2,DU);ERG(3,SG)	mʌblaŋiwi
+ref:	blaŋt	V;PST;NEG;TR;ABS(2,DU);ERG(3,SG)	mʌblʌŋiwi
+
+non-neural:	blaŋt	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(2,SG,FORM)	ʔiblaŋtɛ
+ref:	blaŋt	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(2,SG,FORM)	ʔiblʌ̂ŋtɛ
+
+non-neural:	blaŋt	V;PST;POS;TR;ABS(2,PL);ERG(1,EXCL,DU)	ʔiblaŋutu
+ref:	blaŋt	V;PST;POS;TR;ABS(2,PL);ERG(1,EXCL,DU)	ʔiblʌŋutu
+
+non-neural:	blaŋt	V;PST;POS;TR;ABS(3,SG);ERG(2,DU)	ʔiblaŋiti
+ref:	blaŋt	V;PST;POS;TR;ABS(3,SG);ERG(2,DU)	ʔiblʌŋiti
+
+--- 
+non-neural:	bɛnt	V;IMP;NEG;TR;ABS(2,PL);ERG(1,EXCL,DU)	mubɛje
+ref:	bɛnt	V;IMP;NEG;TR;ABS(2,PL);ERG(1,EXCL,DU)	mubɛːʦuje
+
+non-neural:	bɛnt	V;PRS;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)	mʌbɛɔjkʌ
+ref:	bɛnt	V;PRS;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)	mʌbɛjkʌ
+
+non-neural:	bɛnt	V;PRS;NEG;TR;ABS(3,SG);ERG(1,INCL,DU)	mʌbɛʦi
+ref:	bɛnt	V;PRS;NEG;TR;ABS(3,SG);ERG(1,INCL,DU)	mʌbɛːʦi
+
+non-neural:	bɛnt	V;PST;NEG;TR;ABS(3,SG);ERG(1,INCL,DU)	mʌbɛniwi
+ref:	bɛnt	V;PST;NEG;TR;ABS(3,SG);ERG(1,INCL,DU)	mʌbɛːswi
+
+non-neural:	bʰlept	V;PRS;NEG;TR;ABS(2,PL);ERG(3,PL)	mʌbʰlepːni
+ref:	bʰlept	V;PRS;NEG;TR;ABS(2,PL);ERG(3,PL)	mʌbʰlêmni
+
+non-neural:	bʰlept	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,SG,FORM)	ʔibʰlep
+ref:	bʰlept	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,SG,FORM)	ʔibʰlêːp
+
+non-neural:	deŋt	V;PRS;POS;TR;ABS(3,SG);ERG(3,PL)	deɔ̂nnu
+ref:	deŋt	V;PRS;POS;TR;ABS(3,SG);ERG(3,PL)	dênnu
+
+non-neural:	deŋt	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(3,PL)	deŋti
+ref:	deŋt	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(3,PL)	deŋiti
+
+non-neural:	deŋt	V;PST;POS;TR;ABS(3,DU);ERG(2,PL)	ʔideŋtɛnu
+ref:	deŋt	V;PST;POS;TR;ABS(3,DU);ERG(2,PL)	ʔidêŋtɛnu
+
+non-neural:	deŋt	V;PST;POS;TR;ABS(3,PL);ERG(1,EXCL,DU)	ʔideŋtu
+ref:	deŋt	V;PST;POS;TR;ABS(3,PL);ERG(1,EXCL,DU)	ʔideŋutu
+
+non-neural:	duŋt	V;IMP;POS;TR;ABS(2,DU);ERG(1,SG)	duŋʌsuje
+ref:	duŋt	V;IMP;POS;TR;ABS(2,DU);ERG(1,SG)	dʉŋʌsuje
+
+non-neural:	duŋt	V;PRS;NEG;TR;ABS(3,PL);ERG(2,PL)	mʌduŋːni
+ref:	duŋt	V;PRS;NEG;TR;ABS(3,PL);ERG(2,PL)	mʌduːni
+
+non-neural:	duŋt	V;PRS;NEG;TR;ABS(3,PL);ERG(3,DU)	mudûnnu
+ref:	duŋt	V;PRS;NEG;TR;ABS(3,PL);ERG(3,DU)	mudʌ̂nnu
+
+non-neural:	duŋt	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(3,PL)	duŋu
+ref:	duŋt	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(3,PL)	dʉŋu
+
+non-neural:	duŋt	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,DU)	ʔiduŋi
+ref:	duŋt	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,DU)	ʔidʉŋi
+
+non-neural:	duŋt	V;PRS;POS;TR;ABS(1,INCL,DU);ERG(3,DU)	duŋi
+ref:	duŋt	V;PRS;POS;TR;ABS(1,INCL,DU);ERG(3,DU)	dʉŋi
+
+non-neural:	duŋt	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(3,PL)	muduŋiwi
+ref:	duŋt	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(3,PL)	mudʉŋiwi
+
+non-neural:	duŋt	V;PST;NEG;TR;ABS(1,SG);ERG(2,DU)	muduŋsu
+ref:	duŋt	V;PST;NEG;TR;ABS(1,SG);ERG(2,DU)	mudûnwɛnsu
+
+non-neural:	duŋt	V;PST;NEG;TR;ABS(1,SG);ERG(3,PL)	muduŋwʌnu
+ref:	duŋt	V;PST;NEG;TR;ABS(1,SG);ERG(3,PL)	mudʌnwʌnu
+
+non-neural:	duŋt	V;PST;NEG;TR;ABS(2,PL);ERG(3,SG)	mʌdûŋwɛnu
+ref:	duŋt	V;PST;NEG;TR;ABS(2,PL);ERG(3,SG)	mʌdʉ̂ŋwɛnu
+
+non-neural:	duŋt	V;PST;NEG;TR;ABS(2,SG);ERG(3,SG)	mʌduŋwɛ
+ref:	duŋt	V;PST;NEG;TR;ABS(2,SG);ERG(3,SG)	mʌdʌ̂nwɛ
+
+non-neural:	duŋt	V;PST;NEG;TR;ABS(3,DU);ERG(3,PL)	mudurʌ̂nwɛnu
+ref:	duŋt	V;PST;NEG;TR;ABS(3,DU);ERG(3,PL)	mudʌ̂nwɛnu
+
+non-neural:	duŋt	V;PST;NEG;TR;ABS(3,DU);ERG(3,SG)	mudûnwɛsu
+ref:	duŋt	V;PST;NEG;TR;ABS(3,DU);ERG(3,SG)	mudʌ̂nwɛsu
+
+non-neural:	duŋt	V;PST;POS;TR;ABS(2,PL);ERG(3,SG)	ʔidûŋtɛnu
+ref:	duŋt	V;PST;POS;TR;ABS(2,PL);ERG(3,SG)	ʔidʉ̂ŋtɛnu
+
+non-neural:	gup	V;IMP;NEG;REFL;ABS(2,DU)	mugupsîjje
+ref:	gup	V;IMP;NEG;REFL;ABS(2,DU)	mugʉpsîjje
+
+non-neural:	gup	V;IMP;NEG;TR;ABS(2,DU);ERG(1,EXCL,DU)	mugup
+ref:	gup	V;IMP;NEG;TR;ABS(2,DU);ERG(1,EXCL,DU)	mugʉpuje
+
+non-neural:	gup	V;PRS;NEG;REFL;ABS(2,PL)	mʌguɔ̂msini
+ref:	gup	V;PRS;NEG;REFL;ABS(2,PL)	mʌgʌ̂msini
+
+non-neural:	gup	V;PRS;NEG;REFL;ABS(3,DU)	mugupsiji
+ref:	gup	V;PRS;NEG;REFL;ABS(3,DU)	mugʉpsiji
+
+non-neural:	gup	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(2,SG,FORM)	mʌgup
+ref:	gup	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(2,SG,FORM)	mʌgʌp
+
+non-neural:	gup	V;PRS;NEG;TR;ABS(3,PL);ERG(2,DU)	mʌgupi
+ref:	gup	V;PRS;NEG;TR;ABS(3,PL);ERG(2,DU)	mʌgʉpi
+
+non-neural:	gup	V;PRS;NEG;TR;ABS(3,PL);ERG(3,PL)	mugupu
+ref:	gup	V;PRS;NEG;TR;ABS(3,PL);ERG(3,PL)	mugʉ̂ːpnu
+
+non-neural:	gup	V;PRS;POS;TR;ABS(2,PL);ERG(1,EXCL,PL)	ʔigupkʌ
+ref:	gup	V;PRS;POS;TR;ABS(2,PL);ERG(1,EXCL,PL)	ʔigʌpkʌ
+
+non-neural:	gup	V;PRS;POS;TR;ABS(3,DU);ERG(1,EXCL,DU)	ʔigup
+ref:	gup	V;PRS;POS;TR;ABS(3,DU);ERG(1,EXCL,DU)	ʔigʉpu
+
+non-neural:	gup	V;PST;NEG;REFL;ABS(2,SG)	mʌguɔ̂mwɛsi
+ref:	gup	V;PST;NEG;REFL;ABS(2,SG)	mʌgʌ̂mwɛsi
+
+non-neural:	gup	V;PST;NEG;TR;ABS(1,EXCL,PL);ERG(3,DU)	mugupwʌkʌ
+ref:	gup	V;PST;NEG;TR;ABS(1,EXCL,PL);ERG(3,DU)	mugʌpwʌkʌ
+
+non-neural:	gup	V;PST;NEG;TR;ABS(2,PL);ERG(1,EXCL,PL)	mʌgupkʌ
+ref:	gup	V;PST;NEG;TR;ABS(2,PL);ERG(1,EXCL,PL)	mʌgʌpwʌkʌ
+
+non-neural:	gup	V;PST;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)	mʌgup
+ref:	gup	V;PST;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)	mʌgʌpwʌkʌ
+
+non-neural:	gup	V;PST;NEG;TR;ABS(3,DU);ERG(1,INCL,PL)	mʌgup
+ref:	gup	V;PST;NEG;TR;ABS(3,DU);ERG(1,INCL,PL)	mʌgʌpwiki
+
+non-neural:	gup	V;PST;POS;REFL;ABS(1,SG)	gupʌ
+ref:	gup	V;PST;POS;REFL;ABS(1,SG)	gʌ̂msiŋʌtʌ
+
+non-neural:	gup	V;PST;POS;TR;ABS(3,DU);ERG(3,DU)	gûːptɛsu
+ref:	gup	V;PST;POS;TR;ABS(3,DU);ERG(3,DU)	gʉ̂ːptɛsu
+
+non-neural:	gup	V;PST;POS;TR;ABS(3,SG);ERG(2,DU)	ʔigupiti
+ref:	gup	V;PST;POS;TR;ABS(3,SG);ERG(2,DU)	ʔigʉpiti
+
+non-neural:	gup	V;PST;POS;TR;ABS(3,SG);ERG(3,SG)	gûːptɛ
+ref:	gup	V;PST;POS;TR;ABS(3,SG);ERG(3,SG)	gʉ̂ːptɛ
+
+non-neural:	gʰlaŋ	V;PST;NEG;INTR;ABS(1,SG)	mugʰlaŋʌwʌ
+ref:	gʰlaŋ	V;PST;NEG;INTR;ABS(1,SG)	mugʰlʌŋʌwʌ
+
+non-neural:	gʰlaŋ	V;PST;NEG;INTR;ABS(2,PL)	mʌgʰlâŋwɛnu
+ref:	gʰlaŋ	V;PST;NEG;INTR;ABS(2,PL)	mʌgʰlʌ̂ŋwɛnu
+
+non-neural:	gʰum	V;PRS;NEG;TR;ABS(1,INCL,PL);ERG(3,PL)	mugʰuɔmki
+ref:	gʰum	V;PRS;NEG;TR;ABS(1,INCL,PL);ERG(3,PL)	mugʰʌmki
+
+non-neural:	gʰum	V;PRS;NEG;TR;ABS(2,DU);ERG(1,SG)	mʌgʰuɔmŋʌsu
+ref:	gʰum	V;PRS;NEG;TR;ABS(2,DU);ERG(1,SG)	mʌgʰʌmŋʌsu
+
+non-neural:	gʰum	V;PRS;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)	mʌgʰumkʌ
+ref:	gʰum	V;PRS;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)	mʌgʰʌmkʌ
+
+non-neural:	gʰum	V;PRS;NEG;TR;ABS(3,DU);ERG(3,PL)	mugʰumnu
+ref:	gʰum	V;PRS;NEG;TR;ABS(3,DU);ERG(3,PL)	mugʰʉ̂mnu
+
+non-neural:	gʰum	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,SG,FORM)	ʔigʰum
+ref:	gʰum	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,SG,FORM)	ʔigʰʌm
+
+non-neural:	gʰum	V;PRS;POS;TR;ABS(2,DU);ERG(3,DU)	ʔigʰumi
+ref:	gʰum	V;PRS;POS;TR;ABS(2,DU);ERG(3,DU)	ʔigʰʉmi
+
+non-neural:	gʰum	V;PRS;POS;TR;ABS(3,SG);ERG(2,PL)	ʔigʰumni
+ref:	gʰum	V;PRS;POS;TR;ABS(3,SG);ERG(2,PL)	ʔigʰʌmni
+
+non-neural:	gʰum	V;PST;NEG;TR;ABS(1,INCL,DU);ERG(3,SG)	mugʰuɦʉmiwi
+ref:	gʰum	V;PST;NEG;TR;ABS(1,INCL,DU);ERG(3,SG)	mugʰʉmiwi
+
+non-neural:	gʰum	V;PST;NEG;TR;ABS(2,PL);ERG(1,EXCL,DU)	mʌgʰumuwu
+ref:	gʰum	V;PST;NEG;TR;ABS(2,PL);ERG(1,EXCL,DU)	mʌgʰʉmuwu
+
+non-neural:	gʰum	V;PST;POS;TR;ABS(1,SG);ERG(2,DU)	gʰûmtɛnsu
+ref:	gʰum	V;PST;POS;TR;ABS(1,SG);ERG(2,DU)	gʰʌ̂mtɛnsu
+
+non-neural:	gʰum	V;PST;POS;TR;ABS(3,SG);ERG(1,INCL,PL)	ʔigʰumtiki
+ref:	gʰum	V;PST;POS;TR;ABS(3,SG);ERG(1,INCL,PL)	ʔigʰʌmtiki
+
+non-neural:	gʰum	V;PST;POS;TR;ABS(3,SG);ERG(2,SG,FORM)	ʔigʰûmtɛ
+ref:	gʰum	V;PST;POS;TR;ABS(3,SG);ERG(2,SG,FORM)	ʔigʰʉ̂mtɛ
+
+non-neural:	jokt	V;IMP;NEG;TR;ABS(2,PL);ERG(3,PL)	mujoknuje
+ref:	jokt	V;IMP;NEG;TR;ABS(2,PL);ERG(3,PL)	mujɵknuje
+
+non-neural:	jokt	V;IMP;NEG;TR;ABS(2,SG);ERG(1,EXCL,DU)	mujokuje
+ref:	jokt	V;IMP;NEG;TR;ABS(2,SG);ERG(1,EXCL,DU)	mujɵkuje
+
+non-neural:	jokt	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(2,DU)	mʌjoki
+ref:	jokt	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(2,DU)	mʌjɵki
+
+non-neural:	jokt	V;PRS;NEG;TR;ABS(1,INCL,DU);ERG(3,PL)	mujoki
+ref:	jokt	V;PRS;NEG;TR;ABS(1,INCL,DU);ERG(3,PL)	mujɵki
+
+non-neural:	jokt	V;PRS;NEG;TR;ABS(1,SG);ERG(3,DU)	mujumoktusu
+ref:	jokt	V;PRS;NEG;TR;ABS(1,SG);ERG(3,DU)	mujoktusu
+
+non-neural:	jokt	V;PRS;POS;TR;ABS(3,DU);ERG(2,SG,FORM)	ʔijiʔôː
+ref:	jokt	V;PRS;POS;TR;ABS(3,DU);ERG(2,SG,FORM)	ʔijôː
+
+non-neural:	jokt	V;PST;NEG;TR;ABS(1,EXCL,PL);ERG(2,DU)	mʌjokiwi
+ref:	jokt	V;PST;NEG;TR;ABS(1,EXCL,PL);ERG(2,DU)	mʌjɵkiwi
+
+non-neural:	jokt	V;PST;POS;TR;ABS(2,PL);ERG(3,SG)	ʔijoktɛnu
+ref:	jokt	V;PST;POS;TR;ABS(2,PL);ERG(3,SG)	ʔijɵktɛnu
+
+non-neural:	kik	V;PRS;NEG;REFL;ABS(3,PL)	mukînsinu
+ref:	kik	V;PRS;NEG;REFL;ABS(3,PL)	mukʌ̂nsinu
+
+non-neural:	kik	V;PRS;NEG;TR;ABS(1,EXCL,PL);ERG(3,DU)	mukikkʌ
+ref:	kik	V;PRS;NEG;TR;ABS(1,EXCL,PL);ERG(3,DU)	mukakkʌ
+
+non-neural:	kik	V;PRS;NEG;TR;ABS(2,PL);ERG(1,EXCL,DU)	mʌkik
+ref:	kik	V;PRS;NEG;TR;ABS(2,PL);ERG(1,EXCL,DU)	mʌkiku
+
+non-neural:	kik	V;PRS;NEG;TR;ABS(3,SG);ERG(2,PL)	mʌkîːni
+ref:	kik	V;PRS;NEG;TR;ABS(3,SG);ERG(2,PL)	mʌkûːni
+
+non-neural:	kik	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(3,DU)	kik
+ref:	kik	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(3,DU)	kiku
+
+non-neural:	kik	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,PL)	ʔikîːni
+ref:	kik	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,PL)	ʔikûːni
+
+non-neural:	kik	V;PST;NEG;REFL;ABS(2,PL)	mʌkînwɛnnu
+ref:	kik	V;PST;NEG;REFL;ABS(2,PL)	mʌkʌ̂nwɛnnu
+
+non-neural:	kik	V;PST;NEG;TR;ABS(1,SG);ERG(2,DU)	mukîːwɛnsu
+ref:	kik	V;PST;NEG;TR;ABS(1,SG);ERG(2,DU)	mukûːwɛnsu
+
+non-neural:	kik	V;PST;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)	mʌkikwʌkʌ
+ref:	kik	V;PST;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)	mʌkakwʌkʌ
+
+non-neural:	kik	V;PST;POS;TR;ABS(3,DU);ERG(3,SG)	kiksu
+ref:	kik	V;PST;POS;TR;ABS(3,DU);ERG(3,SG)	kîːktɛsu
+
+non-neural:	kopt	V;IMP;NEG;TR;ABS(2,SG);ERG(1,EXCL,DU)	mukopuje
+ref:	kopt	V;IMP;NEG;TR;ABS(2,SG);ERG(1,EXCL,DU)	mukɵpuje
+
+non-neural:	kopt	V;IMP;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)	mukopkʌje
+ref:	kopt	V;IMP;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)	mukoɔpkʌje
+
+non-neural:	kopt	V;IMP;POS;TR;ABS(2,PL);ERG(1,EXCL,DU)	kopuje
+ref:	kopt	V;IMP;POS;TR;ABS(2,PL);ERG(1,EXCL,DU)	kɵpuje
+
+non-neural:	kopt	V;IMP;POS;TR;ABS(2,SG);ERG(1,SG)	kopʌje
+ref:	kopt	V;IMP;POS;TR;ABS(2,SG);ERG(1,SG)	kɵpʌje
+
+non-neural:	kopt	V;IMP;POS;TR;ABS(2,SG);ERG(3,DU)	kopije
+ref:	kopt	V;IMP;POS;TR;ABS(2,SG);ERG(3,DU)	kɵpije
+
+non-neural:	kopt	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,DU)	mukopu
+ref:	kopt	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,DU)	mukɵpu
+
+non-neural:	kopt	V;PRS;NEG;TR;ABS(1,EXCL,PL);ERG(2,SG,FORM)	mʌkôːp
+ref:	kopt	V;PRS;NEG;TR;ABS(1,EXCL,PL);ERG(2,SG,FORM)	mʌkoɔp
+
+non-neural:	kopt	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,PL)	ʔikopːni
+ref:	kopt	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,PL)	ʔikoɔ̂mni
+
+non-neural:	kopt	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(3,DU)	kopkʌ
+ref:	kopt	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(3,DU)	koɔpkʌ
+
+non-neural:	kopt	V;PRS;POS;TR;ABS(1,INCL,DU);ERG(3,SG)	kopi
+ref:	kopt	V;PRS;POS;TR;ABS(1,INCL,DU);ERG(3,SG)	kɵpi
+
+non-neural:	kopt	V;PRS;POS;TR;ABS(1,SG);ERG(2,PL)	kômnu
+ref:	kopt	V;PRS;POS;TR;ABS(1,SG);ERG(2,PL)	koɔ̂mnu
+
+non-neural:	kopt	V;PRS;POS;TR;ABS(1,SG);ERG(3,SG)	kopdu
+ref:	kopt	V;PRS;POS;TR;ABS(1,SG);ERG(3,SG)	koɔptu
+
+non-neural:	kopt	V;PST;POS;TR;ABS(1,SG);ERG(3,SG)	koptʌ
+ref:	kopt	V;PST;POS;TR;ABS(1,SG);ERG(3,SG)	koɔptʌ
+
+non-neural:	kott	V;PRS;NEG;TR;ABS(3,SG);ERG(3,SG)	mukotʉ
+ref:	kott	V;PRS;NEG;TR;ABS(3,SG);ERG(3,SG)	mukoɔttʉ
+
+non-neural:	kott	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,PL)	ʔikônni
+ref:	kott	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,PL)	ʔikoɔ̂nni
+
+non-neural:	kott	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(3,DU)	koçkʌ
+ref:	kott	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(3,DU)	koɔçkʌ
+
+non-neural:	kott	V;PRS;POS;TR;ABS(2,SG);ERG(1,SG)	ʔikôjŋʌ
+ref:	kott	V;PRS;POS;TR;ABS(2,SG);ERG(1,SG)	ʔikoɔ̂jŋʌ
+
+non-neural:	kott	V;PRS;POS;TR;ABS(3,SG);ERG(3,PL)	kotnu
+ref:	kott	V;PRS;POS;TR;ABS(3,SG);ERG(3,PL)	koɔtnu
+
+non-neural:	kott	V;PST;NEG;TR;ABS(2,DU);ERG(1,EXCL,PL)	mʌkoçwʌkʌ
+ref:	kott	V;PST;NEG;TR;ABS(2,DU);ERG(1,EXCL,PL)	mʌkoɔçwʌkʌ
+
+non-neural:	kott	V;PST;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)	mʌkoçwʌkʌ
+ref:	kott	V;PST;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)	mʌkoɔçwʌkʌ
+
+non-neural:	kott	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(2,SG,FORM)	ʔikottɛ
+ref:	kott	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(2,SG,FORM)	ʔikɵstɛ
+
+non-neural:	kott	V;PST;POS;TR;ABS(1,INCL,DU);ERG(3,SG)	kosti
+ref:	kott	V;PST;POS;TR;ABS(1,INCL,DU);ERG(3,SG)	kɵsti
+
+non-neural:	kott	V;PST;POS;TR;ABS(3,SG);ERG(1,EXCL,DU)	ʔikostu
+ref:	kott	V;PST;POS;TR;ABS(3,SG);ERG(1,EXCL,DU)	ʔikɵstu
+
+non-neural:	kʰe	V;PRS;NEG;TR;ABS(1,INCL,DU);ERG(3,SG)	mukʰe
+ref:	kʰe	V;PRS;NEG;TR;ABS(1,INCL,DU);ERG(3,SG)	mukʰeji
+
+non-neural:	kʰe	V;PRS;NEG;TR;ABS(2,PL);ERG(3,PL)	mʌkʰei
+ref:	kʰe	V;PRS;NEG;TR;ABS(2,PL);ERG(3,PL)	mʌkʰeni
+
+non-neural:	kʰe	V;PRS;NEG;TR;ABS(2,SG);ERG(3,DU)	mʌkʰe
+ref:	kʰe	V;PRS;NEG;TR;ABS(2,SG);ERG(3,DU)	mʌkʰesu
+
+non-neural:	kʰe	V;PRS;NEG;TR;ABS(3,DU);ERG(1,INCL,DU)	mʌkʰe
+ref:	kʰe	V;PRS;NEG;TR;ABS(3,DU);ERG(1,INCL,DU)	mʌkʰeji
+
+non-neural:	kʰe	V;PRS;NEG;TR;ABS(3,DU);ERG(3,PL)	mukʰeu
+ref:	kʰe	V;PRS;NEG;TR;ABS(3,DU);ERG(3,PL)	mukʰenu
+
+non-neural:	kʰe	V;PRS;NEG;TR;ABS(3,PL);ERG(1,INCL,PL)	mʌkʰe
+ref:	kʰe	V;PRS;NEG;TR;ABS(3,PL);ERG(1,INCL,PL)	mʌkʰeki
+
+non-neural:	kʰe	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,DU)	ʔikʰe
+ref:	kʰe	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,DU)	ʔikʰeji
+
+non-neural:	kʰe	V;PRS;POS;TR;ABS(1,INCL,DU);ERG(3,SG)	kʰe
+ref:	kʰe	V;PRS;POS;TR;ABS(1,INCL,DU);ERG(3,SG)	kʰeji
+
+non-neural:	kʰe	V;PRS;POS;TR;ABS(3,PL);ERG(1,SG)	ʔikʰe
+ref:	kʰe	V;PRS;POS;TR;ABS(3,PL);ERG(1,SG)	ʔikʰeŋʌnu
+
+non-neural:	kʰe	V;PST;NEG;TR;ABS(2,DU);ERG(1,EXCL,PL)	mʌkʰe
+ref:	kʰe	V;PST;NEG;TR;ABS(2,DU);ERG(1,EXCL,PL)	mʌkʰekwʌkʌ
+
+non-neural:	kʰe	V;PST;NEG;TR;ABS(3,PL);ERG(1,INCL,PL)	mʌkʰe
+ref:	kʰe	V;PST;NEG;TR;ABS(3,PL);ERG(1,INCL,PL)	mʌkʰekwiki
+
+non-neural:	kʰe	V;PST;NEG;TR;ABS(3,SG);ERG(3,SG)	mukʰeɛ
+ref:	kʰe	V;PST;NEG;TR;ABS(3,SG);ERG(3,SG)	mukʰewɛ
+
+non-neural:	kʰe	V;PST;POS;TR;ABS(1,EXCL,PL);ERG(2,PL)	ʔikʰe
+ref:	kʰe	V;PST;POS;TR;ABS(1,EXCL,PL);ERG(2,PL)	ʔikʰeːtnu
+
+non-neural:	kʰe	V;PST;POS;TR;ABS(1,EXCL,PL);ERG(3,PL)	kʰeʌkʌ
+ref:	kʰe	V;PST;POS;TR;ABS(1,EXCL,PL);ERG(3,PL)	kʰektʌkʌ
+
+non-neural:	kʰe	V;PST;POS;TR;ABS(1,INCL,PL);ERG(3,PL)	kʰeiki
+ref:	kʰe	V;PST;POS;TR;ABS(1,INCL,PL);ERG(3,PL)	kʰektiki
+
+non-neural:	kʰe	V;PST;POS;TR;ABS(1,SG);ERG(3,DU)	kʰeʌsu
+ref:	kʰe	V;PST;POS;TR;ABS(1,SG);ERG(3,DU)	kʰêŋtʌsu
+
+non-neural:	kʰe	V;PST;POS;TR;ABS(3,SG);ERG(1,EXCL,DU)	ʔikʰe
+ref:	kʰe	V;PST;POS;TR;ABS(3,SG);ERG(1,EXCL,DU)	ʔikʰêjtu
+
+non-neural:	kʰipt	V;PRS;NEG;TR;ABS(2,SG);ERG(3,PL)	mʌkʰipnu
+ref:	kʰipt	V;PRS;NEG;TR;ABS(2,SG);ERG(3,PL)	mʌkʰʌpnu
+
+non-neural:	kʰipt	V;PRS;NEG;TR;ABS(3,SG);ERG(1,SG)	mʌkʰiɔ̂mŋʌ
+ref:	kʰipt	V;PRS;NEG;TR;ABS(3,SG);ERG(1,SG)	mʌkʰʌ̂mŋʌ
+
+non-neural:	kʰipt	V;PRS;POS;TR;ABS(2,DU);ERG(1,EXCL,PL)	ʔikʰipkʌ
+ref:	kʰipt	V;PRS;POS;TR;ABS(2,DU);ERG(1,EXCL,PL)	ʔikʰʌpkʌ
+
+non-neural:	kʰipt	V;PRS;POS;TR;ABS(3,DU);ERG(1,INCL,PL)	ʔikʰipki
+ref:	kʰipt	V;PRS;POS;TR;ABS(3,DU);ERG(1,INCL,PL)	ʔikʰʌpki
+
+non-neural:	kʰipt	V;PRS;POS;TR;ABS(3,SG);ERG(1,SG)	ʔikʰirʌ̂mŋʌ
+ref:	kʰipt	V;PRS;POS;TR;ABS(3,SG);ERG(1,SG)	ʔikʰʌ̂mŋʌ
+
+non-neural:	kʰipt	V;PST;POS;TR;ABS(3,PL);ERG(1,EXCL,PL)	ʔikʰiɔptʌkʌ
+ref:	kʰipt	V;PST;POS;TR;ABS(3,PL);ERG(1,EXCL,PL)	ʔikʰʌptʌkʌ
+
+non-neural:	kʰipt	V;PST;POS;TR;ABS(3,PL);ERG(3,DU)	kʰiɔptɛnu
+ref:	kʰipt	V;PST;POS;TR;ABS(3,PL);ERG(3,DU)	kʰʌptɛnu
+
+non-neural:	kʰok	V;IMP;NEG;TR;ABS(2,DU);ERG(1,SG)	mukʰoke
+ref:	kʰok	V;IMP;NEG;TR;ABS(2,DU);ERG(1,SG)	mukʰɵkʌsuje
+
+non-neural:	kʰok	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(3,SG)	kʰoku
+ref:	kʰok	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(3,SG)	kʰɵku
+
+non-neural:	kʰok	V;PRS;POS;TR;ABS(1,INCL,PL);ERG(3,PL)	kʰoki
+ref:	kʰok	V;PRS;POS;TR;ABS(1,INCL,PL);ERG(3,PL)	kʰokki
+
+non-neural:	kʰok	V;PRS;POS;TR;ABS(3,PL);ERG(2,PL)	ʔikʰoki
+ref:	kʰok	V;PRS;POS;TR;ABS(3,PL);ERG(2,PL)	ʔikʰôːni
+
+non-neural:	kʰok	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(3,DU)	mukʰokiwi
+ref:	kʰok	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(3,DU)	mukʰɵkiwi
+
+non-neural:	kʰok	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(3,PL)	mukʰokiwi
+ref:	kʰok	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(3,PL)	mukʰɵkiwi
+
+non-neural:	kʰok	V;PST;NEG;TR;ABS(2,SG);ERG(1,EXCL,DU)	mʌkʰok
+ref:	kʰok	V;PST;NEG;TR;ABS(2,SG);ERG(1,EXCL,DU)	mʌkʰɵkuwu
+
+non-neural:	kʰok	V;PST;NEG;TR;ABS(3,PL);ERG(3,SG)	mukʰôːkwɛnu
+ref:	kʰok	V;PST;NEG;TR;ABS(3,PL);ERG(3,SG)	mukʰɵ̂ːkwɛnu
+
+non-neural:	kʰok	V;PST;POS;TR;ABS(2,DU);ERG(3,PL)	ʔikʰokiti
+ref:	kʰok	V;PST;POS;TR;ABS(2,DU);ERG(3,PL)	ʔikʰɵkiti
+
+non-neural:	kʰok	V;PST;POS;TR;ABS(3,DU);ERG(1,INCL,DU)	ʔikʰok
+ref:	kʰok	V;PST;POS;TR;ABS(3,DU);ERG(1,INCL,DU)	ʔikʰɵkiti
+
+non-neural:	kʰop	V;IMP;POS;TR;ABS(2,DU);ERG(3,PL)	kʰop
+ref:	kʰop	V;IMP;POS;TR;ABS(2,DU);ERG(3,PL)	kʰɵpnuje
+
+non-neural:	kʰop	V;IMP;POS;TR;ABS(2,PL);ERG(1,EXCL,DU)	kʰopuje
+ref:	kʰop	V;IMP;POS;TR;ABS(2,PL);ERG(1,EXCL,DU)	kʰɵpuje
+
+non-neural:	kʰop	V;IMP;POS;TR;ABS(2,PL);ERG(3,PL)	kʰopnuje
+ref:	kʰop	V;IMP;POS;TR;ABS(2,PL);ERG(3,PL)	kʰɵpnuje
+
+non-neural:	kʰop	V;PRS;NEG;TR;ABS(1,SG);ERG(3,DU)	mukʰopsu
+ref:	kʰop	V;PRS;NEG;TR;ABS(1,SG);ERG(3,DU)	mukʰobusu
+
+non-neural:	kʰop	V;PRS;NEG;TR;ABS(2,SG);ERG(3,SG)	mʌkʰoːbʉ
+ref:	kʰop	V;PRS;NEG;TR;ABS(2,SG);ERG(3,SG)	mʌkʰɵːbʉ
+
+non-neural:	kʰop	V;PRS;NEG;TR;ABS(3,DU);ERG(1,INCL,DU)	mʌkʰop
+ref:	kʰop	V;PRS;NEG;TR;ABS(3,DU);ERG(1,INCL,DU)	mʌkʰɵpi
+
+non-neural:	kʰop	V;PRS;POS;REFL;ABS(1,INCL,DU)	kʰop
+ref:	kʰop	V;PRS;POS;REFL;ABS(1,INCL,DU)	kʰɵpsiji
+
+non-neural:	kʰop	V;PRS;POS;TR;ABS(1,INCL,PL);ERG(3,SG)	kʰopki
+ref:	kʰop	V;PRS;POS;TR;ABS(1,INCL,PL);ERG(3,SG)	kʰoɔpki
+
+non-neural:	kʰop	V;PRS;POS;TR;ABS(2,DU);ERG(3,DU)	ʔikʰopi
+ref:	kʰop	V;PRS;POS;TR;ABS(2,DU);ERG(3,DU)	ʔikʰɵpi
+
+non-neural:	kʰop	V;PRS;POS;TR;ABS(2,SG);ERG(3,PL)	ʔikʰop
+ref:	kʰop	V;PRS;POS;TR;ABS(2,SG);ERG(3,PL)	ʔikʰɵ̂ːpnu
+
+non-neural:	kʰop	V;PRS;POS;TR;ABS(2,SG);ERG(3,SG)	ʔikʰiʔɵːbʉ
+ref:	kʰop	V;PRS;POS;TR;ABS(2,SG);ERG(3,SG)	ʔikʰɵːbʉ
+
+non-neural:	kʰop	V;PRS;POS;TR;ABS(3,PL);ERG(3,SG)	kʰopu
+ref:	kʰop	V;PRS;POS;TR;ABS(3,PL);ERG(3,SG)	kʰɵ̂ːpnu
+
+non-neural:	kʰop	V;PST;NEG;TR;ABS(3,PL);ERG(3,PL)	mukʰop
+ref:	kʰop	V;PST;NEG;TR;ABS(3,PL);ERG(3,PL)	mukʰɵ̂ːpwɛnu
+
+non-neural:	kʰop	V;PST;NEG;TR;ABS(3,SG);ERG(2,PL)	mʌkʰop
+ref:	kʰop	V;PST;NEG;TR;ABS(3,SG);ERG(2,PL)	mʌkʰɵpwɛnu
+
+non-neural:	kʰop	V;PST;POS;TR;ABS(2,SG);ERG(3,SG)	ʔikʰôːptɛ
+ref:	kʰop	V;PST;POS;TR;ABS(2,SG);ERG(3,SG)	ʔikʰɵ̂ːptɛ
+
+non-neural:	kʰop	V;PST;POS;TR;ABS(3,PL);ERG(1,INCL,DU)	ʔikʰopiti
+ref:	kʰop	V;PST;POS;TR;ABS(3,PL);ERG(1,INCL,DU)	ʔikʰɵpiti
+
+non-neural:	kʰop	V;PST;POS;TR;ABS(3,SG);ERG(2,PL)	ʔikʰoptɛnu
+ref:	kʰop	V;PST;POS;TR;ABS(3,SG);ERG(2,PL)	ʔikʰɵptɛnu
+
+non-neural:	kʰoŋt	V;IMP;POS;TR;ABS(2,DU);ERG(3,SG)	kʰoŋije
+ref:	kʰoŋt	V;IMP;POS;TR;ABS(2,DU);ERG(3,SG)	kʰɵŋije
+
+non-neural:	kʰoŋt	V;PRS;NEG;TR;ABS(1,SG);ERG(3,SG)	mukʰorʌndu
+ref:	kʰoŋt	V;PRS;NEG;TR;ABS(1,SG);ERG(3,SG)	mukʰoɔndu
+
+non-neural:	kʰoŋt	V;PRS;POS;TR;ABS(3,DU);ERG(1,INCL,DU)	ʔikʰoŋi
+ref:	kʰoŋt	V;PRS;POS;TR;ABS(3,DU);ERG(1,INCL,DU)	ʔikʰɵŋi
+
+non-neural:	kʰoŋt	V;PST;POS;TR;ABS(1,SG);ERG(3,PL)	kʰontʌnu
+ref:	kʰoŋt	V;PST;POS;TR;ABS(1,SG);ERG(3,PL)	kʰoɔntʌnu
+
+non-neural:	kʰoŋt	V;PST;POS;TR;ABS(1,SG);ERG(3,SG)	kʰontʌ
+ref:	kʰoŋt	V;PST;POS;TR;ABS(1,SG);ERG(3,SG)	kʰoɔntʌ
+
+non-neural:	kʰoŋt	V;PST;POS;TR;ABS(3,DU);ERG(1,EXCL,DU)	ʔikʰoŋutu
+ref:	kʰoŋt	V;PST;POS;TR;ABS(3,DU);ERG(1,EXCL,DU)	ʔikʰɵŋutu
+
+non-neural:	kʰunt	V;IMP;NEG;REFL;ABS(2,PL)	mukʰujnuje
+ref:	kʰunt	V;IMP;NEG;REFL;ABS(2,PL)	mukʰʌjnuje
+
+non-neural:	kʰunt	V;PRS;NEG;TR;ABS(1,INCL,PL);ERG(3,PL)	mukʰuɔjki
+ref:	kʰunt	V;PRS;NEG;TR;ABS(1,INCL,PL);ERG(3,PL)	mukʰʌjki
+
+non-neural:	kʰunt	V;PRS;NEG;TR;ABS(2,PL);ERG(1,SG)	mʌkʰujŋʌnu
+ref:	kʰunt	V;PRS;NEG;TR;ABS(2,PL);ERG(1,SG)	mʌkʰʌjŋʌnu
+
+non-neural:	kʰunt	V;PRS;NEG;TR;ABS(3,PL);ERG(1,INCL,DU)	mʌkʰuni
+ref:	kʰunt	V;PRS;NEG;TR;ABS(3,PL);ERG(1,INCL,DU)	mʌkʰʉːʦi
+
+non-neural:	kʰunt	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(3,DU)	kʰuːʦu
+ref:	kʰunt	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(3,DU)	kʰʉːʦu
+
+non-neural:	kʰunt	V;PRS;POS;TR;ABS(2,SG);ERG(1,SG)	ʔikʰuɔjŋʌ
+ref:	kʰunt	V;PRS;POS;TR;ABS(2,SG);ERG(1,SG)	ʔikʰʌjŋʌ
+
+non-neural:	kʰunt	V;PST;NEG;REFL;ABS(2,SG)	mʌkʰun̂nwɛsi
+ref:	kʰunt	V;PST;NEG;REFL;ABS(2,SG)	mʌkʰʌjwɛsi
+
+non-neural:	kʰunt	V;PST;NEG;TR;ABS(1,SG);ERG(3,SG)	mukʰunwʌ
+ref:	kʰunt	V;PST;NEG;TR;ABS(1,SG);ERG(3,SG)	mukʰʌnwʌ
+
+non-neural:	kʰunt	V;PST;NEG;TR;ABS(2,PL);ERG(3,DU)	mʌkʰûːswɛnu
+ref:	kʰunt	V;PST;NEG;TR;ABS(2,PL);ERG(3,DU)	mʌkʰʉ̂ːswɛnu
+
+non-neural:	kʰunt	V;PST;NEG;TR;ABS(2,PL);ERG(3,PL)	mʌkʰunu
+ref:	kʰunt	V;PST;NEG;TR;ABS(2,PL);ERG(3,PL)	mʌkʰʉ̂ːswɛnu
+
+non-neural:	kʰunt	V;PST;NEG;TR;ABS(3,PL);ERG(1,SG)	mʌkʰuːswʌnu
+ref:	kʰunt	V;PST;NEG;TR;ABS(3,PL);ERG(1,SG)	mʌkʰʉːswʌnu
+
+non-neural:	kʰunt	V;PST;NEG;TR;ABS(3,SG);ERG(3,DU)	mukʰuɔ̂nwɛsu
+ref:	kʰunt	V;PST;NEG;TR;ABS(3,SG);ERG(3,DU)	mukʰʌ̂nwɛsu
+
+non-neural:	kʰunt	V;PST;POS;REFL;ABS(1,EXCL,PL)	kʰujsiktʌkʌ
+ref:	kʰunt	V;PST;POS;REFL;ABS(1,EXCL,PL)	kʰʌjsiktʌkʌ
+
+non-neural:	kʰɛl	V;PRS;NEG;TR;ABS(1,EXCL,PL);ERG(2,DU)	mʌkʰɛl
+ref:	kʰɛl	V;PRS;NEG;TR;ABS(1,EXCL,PL);ERG(2,DU)	mʌkʰɛli
+
+non-neural:	kʰɛl	V;PRS;POS;TR;ABS(3,DU);ERG(2,SG,FORM)	ʔikʰɛjʌl
+ref:	kʰɛl	V;PRS;POS;TR;ABS(3,DU);ERG(2,SG,FORM)	ʔikʰɛl
+
+non-neural:	kʰɛl	V;PST;NEG;TR;ABS(3,DU);ERG(3,PL)	mukʰɛl
+ref:	kʰɛl	V;PST;NEG;TR;ABS(3,DU);ERG(3,PL)	mukʰɛ̂lwɛnu
+
+non-neural:	kʰɛl	V;PST;POS;TR;ABS(3,PL);ERG(2,PL)	ʔikʰɛl
+ref:	kʰɛl	V;PST;POS;TR;ABS(3,PL);ERG(2,PL)	ʔikʰɛ̂ltɛnu
+
+non-neural:	nott	V;PRS;NEG;TR;ABS(3,DU);ERG(2,DU)	mʌnoʦi
+ref:	nott	V;PRS;NEG;TR;ABS(3,DU);ERG(2,DU)	mʌnɵʦi
+
+non-neural:	nott	V;PRS;NEG;TR;ABS(3,DU);ERG(2,SG,FORM)	mʌnôj
+ref:	nott	V;PRS;NEG;TR;ABS(3,DU);ERG(2,SG,FORM)	mʌnoɔ̂j
+
+non-neural:	nott	V;PRS;NEG;TR;ABS(3,DU);ERG(3,SG)	munotsu
+ref:	nott	V;PRS;NEG;TR;ABS(3,DU);ERG(3,SG)	munoɔtsu
+
+non-neural:	nott	V;PRS;POS;TR;ABS(1,SG);ERG(3,DU)	nottusu
+ref:	nott	V;PRS;POS;TR;ABS(1,SG);ERG(3,DU)	noɔttusu
+
+non-neural:	nott	V;PRS;POS;TR;ABS(3,SG);ERG(1,EXCL,PL)	ʔinoçkʌ
+ref:	nott	V;PRS;POS;TR;ABS(3,SG);ERG(1,EXCL,PL)	ʔinoɔçkʌ
+
+non-neural:	nott	V;PRS;POS;TR;ABS(3,SG);ERG(2,SG,FORM)	ʔinôj
+ref:	nott	V;PRS;POS;TR;ABS(3,SG);ERG(2,SG,FORM)	ʔinoɔ̂j
+
+non-neural:	nott	V;PRS;POS;TR;ABS(3,SG);ERG(3,DU)	notsu
+ref:	nott	V;PRS;POS;TR;ABS(3,SG);ERG(3,DU)	noɔtsu
+
+non-neural:	nott	V;PST;NEG;TR;ABS(3,SG);ERG(1,INCL,PL)	mʌnoçwiki
+ref:	nott	V;PST;NEG;TR;ABS(3,SG);ERG(1,INCL,PL)	mʌnoɔçwiki
+
+non-neural:	nott	V;PST;POS;TR;ABS(3,DU);ERG(1,SG)	ʔinostʌsu
+ref:	nott	V;PST;POS;TR;ABS(3,DU);ERG(1,SG)	ʔinɵstʌsu
+
+neural:	nu	V;IMP;NEG;INTR;ABS(2,SG)	munuːje
+non-neural:	nu	V;IMP;NEG;INTR;ABS(2,SG)	munuːje
+ref:	nu	V;IMP;NEG;INTR;ABS(2,SG)	munoːje
+
+non-neural:	nu	V;PRS;NEG;INTR;ABS(1,EXCL,PL)	munulʉkʌ
+ref:	nu	V;PRS;NEG;INTR;ABS(1,EXCL,PL)	munʉkʌ
+
+non-neural:	nu	V;PRS;NEG;INTR;ABS(1,INCL,DU)	munu
+ref:	nu	V;PRS;NEG;INTR;ABS(1,INCL,DU)	munʉji
+
+non-neural:	nu	V;PRS;NEG;INTR;ABS(1,INCL,PL)	munumuki
+ref:	nu	V;PRS;NEG;INTR;ABS(1,INCL,PL)	munʉki
+
+non-neural:	nu	V;PRS;NEG;INTR;ABS(1,SG)	munusʉŋʌ
+ref:	nu	V;PRS;NEG;INTR;ABS(1,SG)	munʉŋʌ
+
+non-neural:	nu	V;PRS;NEG;INTR;ABS(3,SG)	munu
+ref:	nu	V;PRS;NEG;INTR;ABS(3,SG)	munʉ
+
+non-neural:	nu	V;PRS;POS;INTR;ABS(3,SG)	nu
+ref:	nu	V;PRS;POS;INTR;ABS(3,SG)	nʉ
+
+non-neural:	nu	V;PST;NEG;INTR;ABS(1,INCL,PL)	munulʉkwiki
+ref:	nu	V;PST;NEG;INTR;ABS(1,INCL,PL)	munʉkwiki
+
+neural:	nu	V;PST;NEG;INTR;ABS(2,SG)	mʌnuːwɛ
+non-neural:	nu	V;PST;NEG;INTR;ABS(2,SG)	mʌnuːwɛ
+ref:	nu	V;PST;NEG;INTR;ABS(2,SG)	mʌnoːwɛ
+
+non-neural:	nu	V;PST;NEG;INTR;ABS(3,DU)	munulʉiwi
+ref:	nu	V;PST;NEG;INTR;ABS(3,DU)	munʉiwi
+
+non-neural:	nu	V;PST;POS;INTR;ABS(3,DU)	nu
+ref:	nu	V;PST;POS;INTR;ABS(3,DU)	nʉ̂jti
+
+neural:	nu	V;PST;POS;INTR;ABS(3,PL)	nuːtnu
+non-neural:	nu	V;PST;POS;INTR;ABS(3,PL)	nuu
+ref:	nu	V;PST;POS;INTR;ABS(3,PL)	noːtnu
+
+neural:	nu	V;PST;POS;INTR;ABS(3,SG)	nuːtɛ
+ref:	nu	V;PST;POS;INTR;ABS(3,SG)	noːtɛ
+
+non-neural:	nuk	V;IMP;POS;TR;ABS(2,DU);ERG(1,EXCL,DU)	nukuje
+ref:	nuk	V;IMP;POS;TR;ABS(2,DU);ERG(1,EXCL,DU)	nʉkuje
+
+non-neural:	nuk	V;IMP;POS;TR;ABS(2,DU);ERG(1,SG)	nuke
+ref:	nuk	V;IMP;POS;TR;ABS(2,DU);ERG(1,SG)	nʉkʌsuje
+
+non-neural:	nuk	V;PRS;NEG;REFL;ABS(2,SG)	mʌnuk
+ref:	nuk	V;PRS;NEG;REFL;ABS(2,SG)	mʌnûnsi
+
+non-neural:	nuk	V;PRS;POS;TR;ABS(2,DU);ERG(1,EXCL,DU)	ʔinuku
+ref:	nuk	V;PRS;POS;TR;ABS(2,DU);ERG(1,EXCL,DU)	ʔinʉku
+
+non-neural:	nuk	V;PRS;POS;TR;ABS(2,PL);ERG(1,EXCL,PL)	ʔinuk
+ref:	nuk	V;PRS;POS;TR;ABS(2,PL);ERG(1,EXCL,PL)	ʔinukkʌ
+
+non-neural:	nuk	V;PST;NEG;REFL;ABS(1,INCL,DU)	munuki
+ref:	nuk	V;PST;NEG;REFL;ABS(1,INCL,DU)	munʉksiiwi
+
+non-neural:	nuk	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(2,PL)	mʌnukwɛnu
+ref:	nuk	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(2,PL)	mʌnʉkwɛnu
+
+non-neural:	nuk	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(3,PL)	munukiwi
+ref:	nuk	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(3,PL)	munʉkiwi
+
+non-neural:	nuk	V;PST;NEG;TR;ABS(2,SG);ERG(3,PL)	mʌnuk
+ref:	nuk	V;PST;NEG;TR;ABS(2,SG);ERG(3,PL)	mʌnʉ̂ːkwɛnu
+
+non-neural:	nuk	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(2,DU)	ʔinukiti
+ref:	nuk	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(2,DU)	ʔinʉkiti
+
+non-neural:	nuk	V;PST;POS;TR;ABS(3,DU);ERG(3,PL)	nûːktɛnu
+ref:	nuk	V;PST;POS;TR;ABS(3,DU);ERG(3,PL)	nʉ̂ːktɛnu
+
+non-neural:	nuk	V;PST;POS;TR;ABS(3,PL);ERG(3,DU)	nûːktɛnu
+ref:	nuk	V;PST;POS;TR;ABS(3,PL);ERG(3,DU)	nʉ̂ːktɛnu
+
+non-neural:	nuk	V;PST;POS;TR;ABS(3,SG);ERG(1,SG)	ʔinukʌtʌ
+ref:	nuk	V;PST;POS;TR;ABS(3,SG);ERG(1,SG)	ʔinʉkʌtʌ
+
+non-neural:	nɛl	V;PRS;NEG;TR;ABS(2,SG);ERG(3,DU)	mʌnɛl
+ref:	nɛl	V;PRS;NEG;TR;ABS(2,SG);ERG(3,DU)	mʌnɛ̂lsu
+
+non-neural:	nɛl	V;PRS;NEG;TR;ABS(2,SG);ERG(3,PL)	mʌnʌmɛ̂lnu
+ref:	nɛl	V;PRS;NEG;TR;ABS(2,SG);ERG(3,PL)	mʌnɛ̂lnu
+
+non-neural:	nɛl	V;PRS;POS;TR;ABS(3,PL);ERG(3,SG)	nɛlu
+ref:	nɛl	V;PRS;POS;TR;ABS(3,PL);ERG(3,SG)	nɛ̂lnu
+
+non-neural:	nɛl	V;PST;NEG;INTR;ABS(1,SG)	munɛl
+ref:	nɛl	V;PST;NEG;INTR;ABS(1,SG)	munɛlʌwʌ
+
+non-neural:	nɛl	V;PST;NEG;TR;ABS(1,INCL,PL);ERG(3,SG)	munɛl
+ref:	nɛl	V;PST;NEG;TR;ABS(1,INCL,PL);ERG(3,SG)	munɛlwiki
+
+non-neural:	nɛl	V;PST;NEG;TR;ABS(2,PL);ERG(1,EXCL,PL)	mʌnʌmɛlwʌkʌ
+ref:	nɛl	V;PST;NEG;TR;ABS(2,PL);ERG(1,EXCL,PL)	mʌnɛlwʌkʌ
+
+non-neural:	nɛl	V;PST;NEG;TR;ABS(3,SG);ERG(1,INCL,DU)	mʌnɛl
+ref:	nɛl	V;PST;NEG;TR;ABS(3,SG);ERG(1,INCL,DU)	mʌnɛliwi
+
+non-neural:	nɛl	V;PST;NEG;TR;ABS(3,SG);ERG(3,SG)	munɛlɛ
+ref:	nɛl	V;PST;NEG;TR;ABS(3,SG);ERG(3,SG)	munɛ̂lwɛ
+
+non-neural:	paŋ	V;PRS;POS;INTR;ABS(1,INCL,DU)	paŋi
+ref:	paŋ	V;PRS;POS;INTR;ABS(1,INCL,DU)	pʌŋi
+
+non-neural:	paŋ	V;PST;NEG;INTR;ABS(2,PL)	mʌpâŋwɛnu
+ref:	paŋ	V;PST;NEG;INTR;ABS(2,PL)	mʌpʌ̂ŋwɛnu
+
+non-neural:	paŋ	V;PST;NEG;INTR;ABS(3,DU)	mupaŋiwi
+ref:	paŋ	V;PST;NEG;INTR;ABS(3,DU)	mupʌŋiwi
+
+non-neural:	pʰaŋt	V;PRS;NEG;TR;ABS(1,EXCL,PL);ERG(2,PL)	mʌpʰaŋ̂nni
+ref:	pʰaŋt	V;PRS;NEG;TR;ABS(1,EXCL,PL);ERG(2,PL)	mʌpʰaːni
+
+non-neural:	pʰaŋt	V;PRS;POS;TR;ABS(2,DU);ERG(1,EXCL,DU)	ʔipʰaŋu
+ref:	pʰaŋt	V;PRS;POS;TR;ABS(2,DU);ERG(1,EXCL,DU)	ʔipʰʌŋu
+
+non-neural:	pʰaŋt	V;PRS;POS;TR;ABS(3,PL);ERG(2,DU)	ʔipʰaŋi
+ref:	pʰaŋt	V;PRS;POS;TR;ABS(3,PL);ERG(2,DU)	ʔipʰʌŋi
+
+non-neural:	pʰaŋt	V;PST;NEG;TR;ABS(1,SG);ERG(3,DU)	mupʰaŋwʌsu
+ref:	pʰaŋt	V;PST;NEG;TR;ABS(1,SG);ERG(3,DU)	mupʰanwʌsu
+
+non-neural:	pʰaŋt	V;PST;NEG;TR;ABS(3,PL);ERG(2,DU)	mʌpʰaŋiwi
+ref:	pʰaŋt	V;PST;NEG;TR;ABS(3,PL);ERG(2,DU)	mʌpʰʌŋiwi
+
+non-neural:	pʰaŋt	V;PST;POS;TR;ABS(2,SG);ERG(3,SG)	ʔipʰaɔ̂ntɛ
+ref:	pʰaŋt	V;PST;POS;TR;ABS(2,SG);ERG(3,SG)	ʔipʰântɛ
+
+non-neural:	pʰaŋt	V;PST;POS;TR;ABS(3,PL);ERG(2,DU)	ʔipʰaŋiti
+ref:	pʰaŋt	V;PST;POS;TR;ABS(3,PL);ERG(2,DU)	ʔipʰʌŋiti
+
+non-neural:	pʰer	V;PRS;NEG;TR;ABS(1,EXCL,PL);ERG(3,SG)	mupʰer
+ref:	pʰer	V;PRS;NEG;TR;ABS(1,EXCL,PL);ERG(3,SG)	mupʰerkʌ
+
+non-neural:	pʰer	V;PRS;NEG;TR;ABS(3,SG);ERG(2,PL)	mʌpʰer
+ref:	pʰer	V;PRS;NEG;TR;ABS(3,SG);ERG(2,PL)	mʌpʰerni
+
+non-neural:	pʰer	V;PRS;POS;TR;ABS(1,SG);ERG(2,PL)	pʰer
+ref:	pʰer	V;PRS;POS;TR;ABS(1,SG);ERG(2,PL)	pʰêrnu
+
+non-neural:	pʰer	V;PST;NEG;TR;ABS(3,PL);ERG(1,SG)	mʌpʰer
+ref:	pʰer	V;PST;NEG;TR;ABS(3,PL);ERG(1,SG)	mʌpʰerʌwʌnu
+
+non-neural:	pʰer	V;PST;NEG;TR;ABS(3,PL);ERG(3,SG)	mupʰesʉ̂rwɛnu
+ref:	pʰer	V;PST;NEG;TR;ABS(3,PL);ERG(3,SG)	mupʰêrwɛnu
+
+non-neural:	pʰer	V;PST;POS;TR;ABS(1,INCL,PL);ERG(3,PL)	pʰeriki
+ref:	pʰer	V;PST;POS;TR;ABS(1,INCL,PL);ERG(3,PL)	pʰertiki
+
+non-neural:	pʰer	V;PST;POS;TR;ABS(3,PL);ERG(3,PL)	pʰernu
+ref:	pʰer	V;PST;POS;TR;ABS(3,PL);ERG(3,PL)	pʰêrtɛnu
+
+non-neural:	pʰrɛpt	V;PRS;NEG;TR;ABS(3,SG);ERG(2,PL)	mʌpʰrɛɔ̂mni
+ref:	pʰrɛpt	V;PRS;NEG;TR;ABS(3,SG);ERG(2,PL)	mʌpʰrɛ̂mni
+
+non-neural:	pʰrɛpt	V;PRS;POS;TR;ABS(2,PL);ERG(1,SG)	ʔipʰrɛpu
+ref:	pʰrɛpt	V;PRS;POS;TR;ABS(2,PL);ERG(1,SG)	ʔipʰrɛ̂mŋʌnu
+
+non-neural:	pʰrɛpt	V;PRS;POS;TR;ABS(3,DU);ERG(1,SG)	ʔipʰrɛpŋʌsu
+ref:	pʰrɛpt	V;PRS;POS;TR;ABS(3,DU);ERG(1,SG)	ʔipʰrɛ̂mŋʌsu
+
+non-neural:	reŋt	V;PRS;NEG;TR;ABS(2,DU);ERG(1,SG)	mʌreŋu
+ref:	reŋt	V;PRS;NEG;TR;ABS(2,DU);ERG(1,SG)	mʌreŋŋʌsu
+
+non-neural:	reŋt	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,PL)	ʔireŋːni
+ref:	reŋt	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,PL)	ʔireːni
+
+non-neural:	reŋt	V;PRS;POS;TR;ABS(3,PL);ERG(1,SG)	ʔireŋu
+ref:	reŋt	V;PRS;POS;TR;ABS(3,PL);ERG(1,SG)	ʔireŋŋʌnu
+
+non-neural:	reŋt	V;PST;POS;TR;ABS(3,DU);ERG(2,SG,FORM)	ʔireŋtɛ
+ref:	reŋt	V;PST;POS;TR;ABS(3,DU);ERG(2,SG,FORM)	ʔirêŋtɛ
+
+non-neural:	ritt	V;IMP;NEG;TR;ABS(2,SG);ERG(1,SG)	muritʌje
+ref:	ritt	V;IMP;NEG;TR;ABS(2,SG);ERG(1,SG)	muriʦʌje
+
+non-neural:	ritt	V;PRS;NEG;TR;ABS(3,PL);ERG(2,PL)	mʌrînni
+ref:	ritt	V;PRS;NEG;TR;ABS(3,PL);ERG(2,PL)	mʌrʌ̂nni
+
+non-neural:	ritt	V;PRS;POS;TR;ABS(1,SG);ERG(3,SG)	rittu
+ref:	ritt	V;PRS;POS;TR;ABS(1,SG);ERG(3,SG)	rʌttu
+
+non-neural:	ritt	V;PRS;POS;TR;ABS(2,PL);ERG(3,SG)	ʔiritmni
+ref:	ritt	V;PRS;POS;TR;ABS(2,PL);ERG(3,SG)	ʔirʌ̂nni
+
+non-neural:	ritt	V;PRS;POS;TR;ABS(2,SG);ERG(3,DU)	ʔiritsu
+ref:	ritt	V;PRS;POS;TR;ABS(2,SG);ERG(3,DU)	ʔirʌtsu
+
+non-neural:	ritt	V;PST;NEG;TR;ABS(1,INCL,PL);ERG(3,PL)	muriçwiki
+ref:	ritt	V;PST;NEG;TR;ABS(1,INCL,PL);ERG(3,PL)	murʌçwiki
+
+non-neural:	ritt	V;PST;NEG;TR;ABS(1,SG);ERG(3,PL)	murikʌtwʌnu
+ref:	ritt	V;PST;NEG;TR;ABS(1,SG);ERG(3,PL)	murʌtwʌnu
+
+non-neural:	ritt	V;PST;POS;TR;ABS(2,PL);ERG(1,EXCL,PL)	ʔiriçtʌkʌ
+ref:	ritt	V;PST;POS;TR;ABS(2,PL);ERG(1,EXCL,PL)	ʔirʌçtʌkʌ
+
+non-neural:	ritt	V;PST;POS;TR;ABS(3,DU);ERG(1,EXCL,DU)	ʔiritu
+ref:	ritt	V;PST;POS;TR;ABS(3,DU);ERG(1,EXCL,DU)	ʔiristu
+
+non-neural:	rol	V;IMP;NEG;TR;ABS(2,PL);ERG(3,DU)	murolnuje
+ref:	rol	V;IMP;NEG;TR;ABS(2,PL);ERG(3,DU)	murɵlnuje
+
+non-neural:	rol	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,SG)	murol
+ref:	rol	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,SG)	murɵlu
+
+non-neural:	rol	V;PRS;NEG;TR;ABS(2,DU);ERG(1,EXCL,PL)	mʌrolkʌ
+ref:	rol	V;PRS;NEG;TR;ABS(2,DU);ERG(1,EXCL,PL)	mʌroɔlkʌ
+
+non-neural:	rol	V;PRS;POS;TR;ABS(1,INCL,DU);ERG(3,DU)	rol
+ref:	rol	V;PRS;POS;TR;ABS(1,INCL,DU);ERG(3,DU)	rɵli
+
+non-neural:	rol	V;PRS;POS;TR;ABS(2,SG);ERG(1,EXCL,DU)	ʔirolu
+ref:	rol	V;PRS;POS;TR;ABS(2,SG);ERG(1,EXCL,DU)	ʔirɵlu
+
+non-neural:	rol	V;PRS;POS;TR;ABS(3,DU);ERG(3,PL)	rôlnu
+ref:	rol	V;PRS;POS;TR;ABS(3,DU);ERG(3,PL)	rɵ̂lnu
+
+non-neural:	rol	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(3,PL)	muroliwi
+ref:	rol	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(3,PL)	murɵliwi
+
+non-neural:	rol	V;PST;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)	mʌrol
+ref:	rol	V;PST;NEG;TR;ABS(2,SG);ERG(1,EXCL,PL)	mʌroɔlwʌkʌ
+
+non-neural:	rol	V;PST;NEG;TR;ABS(2,SG);ERG(3,SG)	mʌrolwɛ
+ref:	rol	V;PST;NEG;TR;ABS(2,SG);ERG(3,SG)	mʌrɵ̂lwɛ
+
+non-neural:	rol	V;PST;NEG;TR;ABS(3,PL);ERG(1,INCL,PL)	mʌrolwiki
+ref:	rol	V;PST;NEG;TR;ABS(3,PL);ERG(1,INCL,PL)	mʌroɔlwiki
+
+non-neural:	rol	V;PST;NEG;TR;ABS(3,PL);ERG(3,DU)	muroʉ̂lwɛnu
+ref:	rol	V;PST;NEG;TR;ABS(3,PL);ERG(3,DU)	murɵ̂lwɛnu
+
+non-neural:	rol	V;PST;NEG;TR;ABS(3,SG);ERG(2,SG,FORM)	mʌrôlwɛ
+ref:	rol	V;PST;NEG;TR;ABS(3,SG);ERG(2,SG,FORM)	mʌrɵ̂lwɛ
+
+non-neural:	rol	V;PST;POS;TR;ABS(1,SG);ERG(2,PL)	rôltɛnnu
+ref:	rol	V;PST;POS;TR;ABS(1,SG);ERG(2,PL)	roɔ̂ltɛnnu
+
+non-neural:	rol	V;PST;POS;TR;ABS(3,DU);ERG(1,INCL,DU)	ʔiriʔɵliti
+ref:	rol	V;PST;POS;TR;ABS(3,DU);ERG(1,INCL,DU)	ʔirɵliti
+
+non-neural:	rol	V;PST;POS;TR;ABS(3,SG);ERG(2,PL)	ʔirôltɛnu
+ref:	rol	V;PST;POS;TR;ABS(3,SG);ERG(2,PL)	ʔirɵ̂ltɛnu
+
+non-neural:	rot	V;IMP;POS;TR;ABS(2,SG);ERG(1,EXCL,PL)	rokʌje
+ref:	rot	V;IMP;POS;TR;ABS(2,SG);ERG(1,EXCL,PL)	roɔçkʌje
+
+non-neural:	rot	V;PRS;NEG;TR;ABS(1,SG);ERG(2,DU)	murosu
+ref:	rot	V;PRS;NEG;TR;ABS(1,SG);ERG(2,DU)	muroɔ̂nsu
+
+non-neural:	rot	V;PRS;NEG;TR;ABS(2,DU);ERG(3,DU)	mʌroi
+ref:	rot	V;PRS;NEG;TR;ABS(2,DU);ERG(3,DU)	mʌrɵʦi
+
+non-neural:	rot	V;PRS;NEG;TR;ABS(2,DU);ERG(3,PL)	mʌroi
+ref:	rot	V;PRS;NEG;TR;ABS(2,DU);ERG(3,PL)	mʌrɵʦi
+
+non-neural:	rot	V;PRS;POS;TR;ABS(2,PL);ERG(1,EXCL,PL)	ʔirokʌ
+ref:	rot	V;PRS;POS;TR;ABS(2,PL);ERG(1,EXCL,PL)	ʔiroɔçkʌ
+
+non-neural:	rot	V;PRS;POS;TR;ABS(3,DU);ERG(3,SG)	rosu
+ref:	rot	V;PRS;POS;TR;ABS(3,DU);ERG(3,SG)	rɵ̂ːtsu
+
+non-neural:	rot	V;PST;NEG;TR;ABS(2,PL);ERG(1,EXCL,DU)	mʌrowu
+ref:	rot	V;PST;NEG;TR;ABS(2,PL);ERG(1,EXCL,DU)	mʌrɵswu
+
+non-neural:	rot	V;PST;NEG;TR;ABS(3,PL);ERG(3,DU)	murowɛnu
+ref:	rot	V;PST;NEG;TR;ABS(3,PL);ERG(3,DU)	murɵ̂ːtwɛnu
+
+non-neural:	rot	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(2,DU)	ʔiroti
+ref:	rot	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(2,DU)	ʔirɵsti
+
+non-neural:	rot	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(3,PL)	roti
+ref:	rot	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(3,PL)	rɵsti
+
+non-neural:	rot	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(3,SG)	roti
+ref:	rot	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(3,SG)	rɵsti
+
+non-neural:	rot	V;PST;POS;TR;ABS(1,INCL,PL);ERG(3,DU)	rotiki
+ref:	rot	V;PST;POS;TR;ABS(1,INCL,PL);ERG(3,DU)	roɔçtiki
+
+non-neural:	rot	V;PST;POS;TR;ABS(2,SG);ERG(1,EXCL,PL)	ʔirotʌkʌ
+ref:	rot	V;PST;POS;TR;ABS(2,SG);ERG(1,EXCL,PL)	ʔiroɔçtʌkʌ
+
+non-neural:	rot	V;PST;POS;TR;ABS(3,SG);ERG(1,INCL,PL)	ʔirotiki
+ref:	rot	V;PST;POS;TR;ABS(3,SG);ERG(1,INCL,PL)	ʔiroɔçtiki
+
+non-neural:	set	V;IMP;NEG;TR;ABS(2,DU);ERG(1,EXCL,DU)	museuje
+ref:	set	V;IMP;NEG;TR;ABS(2,DU);ERG(1,EXCL,DU)	museʦuje
+
+non-neural:	set	V;IMP;POS;TR;ABS(2,SG);ERG(3,DU)	seije
+ref:	set	V;IMP;POS;TR;ABS(2,SG);ERG(3,DU)	seʦije
+
+non-neural:	set	V;IMP;POS;TR;ABS(2,SG);ERG(3,SG)	sete
+ref:	set	V;IMP;POS;TR;ABS(2,SG);ERG(3,SG)	seːde
+
+non-neural:	set	V;PRS;NEG;TR;ABS(2,DU);ERG(3,DU)	mʌsei
+ref:	set	V;PRS;NEG;TR;ABS(2,DU);ERG(3,DU)	mʌseʦi
+
+non-neural:	set	V;PRS;NEG;TR;ABS(2,SG);ERG(3,PL)	mʌsenu
+ref:	set	V;PRS;NEG;TR;ABS(2,SG);ERG(3,PL)	mʌsêːtnu
+
+non-neural:	set	V;PRS;NEG;TR;ABS(3,PL);ERG(2,DU)	mʌsei
+ref:	set	V;PRS;NEG;TR;ABS(3,PL);ERG(2,DU)	mʌseʦi
+
+non-neural:	set	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,SG,FORM)	ʔisej
+ref:	set	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,SG,FORM)	ʔisêj
+
+non-neural:	set	V;PRS;POS;TR;ABS(1,INCL,DU);ERG(3,SG)	sei
+ref:	set	V;PRS;POS;TR;ABS(1,INCL,DU);ERG(3,SG)	seʦi
+
+non-neural:	set	V;PRS;POS;TR;ABS(1,SG);ERG(2,SG,FORM)	seːnɛ
+ref:	set	V;PRS;POS;TR;ABS(1,SG);ERG(2,SG,FORM)	sênnɛ
+
+non-neural:	set	V;PST;NEG;TR;ABS(1,EXCL,PL);ERG(2,SG,FORM)	mʌsewɛ
+ref:	set	V;PST;NEG;TR;ABS(1,EXCL,PL);ERG(2,SG,FORM)	mʌseswɛ
+
+non-neural:	set	V;PST;NEG;TR;ABS(1,INCL,DU);ERG(3,DU)	museiwi
+ref:	set	V;PST;NEG;TR;ABS(1,INCL,DU);ERG(3,DU)	museswi
+
+non-neural:	set	V;PST;POS;TR;ABS(2,PL);ERG(3,SG)	ʔisetɛnu
+ref:	set	V;PST;POS;TR;ABS(2,PL);ERG(3,SG)	ʔisestɛnu
+
+non-neural:	set	V;PST;POS;TR;ABS(2,SG);ERG(3,SG)	ʔisetɛ
+ref:	set	V;PST;POS;TR;ABS(2,SG);ERG(3,SG)	ʔisêːtɛ
+
+non-neural:	set	V;PST;POS;TR;ABS(3,DU);ERG(1,EXCL,PL)	ʔisetʌkʌ
+ref:	set	V;PST;POS;TR;ABS(3,DU);ERG(1,EXCL,PL)	ʔiseçtʌkʌ
+
+non-neural:	set	V;PST;POS;TR;ABS(3,DU);ERG(3,DU)	setɛsu
+ref:	set	V;PST;POS;TR;ABS(3,DU);ERG(3,DU)	sêːtɛsu
+
+non-neural:	set	V;PST;POS;TR;ABS(3,PL);ERG(1,EXCL,DU)	ʔisetu
+ref:	set	V;PST;POS;TR;ABS(3,PL);ERG(1,EXCL,DU)	ʔisestu
+
+non-neural:	set	V;PST;POS;TR;ABS(3,PL);ERG(1,INCL,DU)	ʔiseti
+ref:	set	V;PST;POS;TR;ABS(3,PL);ERG(1,INCL,DU)	ʔisesti
+
+non-neural:	set	V;PST;POS;TR;ABS(3,PL);ERG(2,PL)	ʔisetɛnu
+ref:	set	V;PST;POS;TR;ABS(3,PL);ERG(2,PL)	ʔisestɛnu
+
+non-neural:	sit	V;IMP;NEG;TR;ABS(2,PL);ERG(3,PL)	musije
+ref:	sit	V;IMP;NEG;TR;ABS(2,PL);ERG(3,PL)	musisnuje
+
+non-neural:	sit	V;IMP;POS;TR;ABS(2,PL);ERG(3,PL)	sinuje
+ref:	sit	V;IMP;POS;TR;ABS(2,PL);ERG(3,PL)	sisnuje
+
+non-neural:	sit	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(2,SG,FORM)	mʌsi
+ref:	sit	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(2,SG,FORM)	mʌsʌ̂j
+
+non-neural:	sit	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,DU)	musiu
+ref:	sit	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,DU)	musiʦu
+
+non-neural:	sit	V;PRS;NEG;TR;ABS(2,DU);ERG(3,SG)	mʌsii
+ref:	sit	V;PRS;NEG;TR;ABS(2,DU);ERG(3,SG)	mʌsiʦi
+
+non-neural:	sit	V;PRS;NEG;TR;ABS(2,PL);ERG(1,EXCL,PL)	mʌsikʌ
+ref:	sit	V;PRS;NEG;TR;ABS(2,PL);ERG(1,EXCL,PL)	mʌsʌçkʌ
+
+non-neural:	sit	V;PRS;NEG;TR;ABS(3,DU);ERG(1,EXCL,DU)	mʌsiu
+ref:	sit	V;PRS;NEG;TR;ABS(3,DU);ERG(1,EXCL,DU)	mʌsiʦu
+
+non-neural:	sit	V;PRS;NEG;TR;ABS(3,DU);ERG(3,DU)	musisu
+ref:	sit	V;PRS;NEG;TR;ABS(3,DU);ERG(3,DU)	musîːtsu
+
+non-neural:	sit	V;PRS;NEG;TR;ABS(3,SG);ERG(1,INCL,DU)	mʌsii
+ref:	sit	V;PRS;NEG;TR;ABS(3,SG);ERG(1,INCL,DU)	mʌsiʦi
+
+non-neural:	sit	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,PL)	ʔisiːni
+ref:	sit	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,PL)	ʔisʌ̂nni
+
+non-neural:	sit	V;PRS;POS;TR;ABS(2,SG);ERG(3,SG)	ʔisitʉ
+ref:	sit	V;PRS;POS;TR;ABS(2,SG);ERG(3,SG)	ʔisiːdʉ
+
+non-neural:	sit	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(2,SG,FORM)	mʌsiwɛ
+ref:	sit	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(2,SG,FORM)	mʌsiswɛ
+
+non-neural:	sit	V;PST;NEG;TR;ABS(1,EXCL,PL);ERG(3,PL)	musiwʌkʌ
+ref:	sit	V;PST;NEG;TR;ABS(1,EXCL,PL);ERG(3,PL)	musʌçwʌkʌ
+
+non-neural:	sit	V;PST;NEG;TR;ABS(2,DU);ERG(1,EXCL,DU)	mʌsiuwu
+ref:	sit	V;PST;NEG;TR;ABS(2,DU);ERG(1,EXCL,DU)	mʌsiswu
+
+non-neural:	sit	V;PST;NEG;TR;ABS(2,DU);ERG(3,DU)	mʌsiwi
+ref:	sit	V;PST;NEG;TR;ABS(2,DU);ERG(3,DU)	mʌsiswi
+
+non-neural:	sit	V;PST;NEG;TR;ABS(2,PL);ERG(3,SG)	mʌsiwɛnu
+ref:	sit	V;PST;NEG;TR;ABS(2,PL);ERG(3,SG)	mʌsiswɛnu
+
+non-neural:	sit	V;PST;NEG;TR;ABS(3,DU);ERG(1,EXCL,DU)	mʌsiuwu
+ref:	sit	V;PST;NEG;TR;ABS(3,DU);ERG(1,EXCL,DU)	mʌsiswu
+
+non-neural:	sit	V;PST;NEG;TR;ABS(3,DU);ERG(1,EXCL,PL)	mʌsiwʌkʌ
+ref:	sit	V;PST;NEG;TR;ABS(3,DU);ERG(1,EXCL,PL)	mʌsʌçwʌkʌ
+
+non-neural:	sit	V;PST;NEG;TR;ABS(3,PL);ERG(3,SG)	musiwɛnu
+ref:	sit	V;PST;NEG;TR;ABS(3,PL);ERG(3,SG)	musîːtwɛnu
+
+non-neural:	sit	V;PST;POS;TR;ABS(2,PL);ERG(3,SG)	ʔisitɛnu
+ref:	sit	V;PST;POS;TR;ABS(2,PL);ERG(3,SG)	ʔisistɛnu
+
+non-neural:	tɛm	V;PRS;NEG;TR;ABS(3,PL);ERG(1,INCL,DU)	mʌtɛm
+ref:	tɛm	V;PRS;NEG;TR;ABS(3,PL);ERG(1,INCL,DU)	mʌtɛmi
+
+non-neural:	tɛm	V;PRS;POS;TR;ABS(2,PL);ERG(3,PL)	ʔitiʔɛmni
+ref:	tɛm	V;PRS;POS;TR;ABS(2,PL);ERG(3,PL)	ʔitɛmni
+
+non-neural:	tɛm	V;PRS;POS;TR;ABS(2,SG);ERG(3,PL)	ʔitɛm
+ref:	tɛm	V;PRS;POS;TR;ABS(2,SG);ERG(3,PL)	ʔitɛ̂mnu
+
+non-neural:	tɛm	V;PRS;POS;TR;ABS(3,DU);ERG(3,DU)	tɛm
+ref:	tɛm	V;PRS;POS;TR;ABS(3,DU);ERG(3,DU)	tɛ̂msu
+
+non-neural:	tɛm	V;PST;NEG;TR;ABS(3,PL);ERG(2,SG,FORM)	mʌtɛmɛ
+ref:	tɛm	V;PST;NEG;TR;ABS(3,PL);ERG(2,SG,FORM)	mʌtɛ̂mwɛ
+
+non-neural:	tɛm	V;PST;POS;TR;ABS(3,DU);ERG(2,PL)	ʔitɛm
+ref:	tɛm	V;PST;POS;TR;ABS(3,DU);ERG(2,PL)	ʔitɛ̂mtɛnu
+
+non-neural:	tʰint	V;IMP;NEG;TR;ABS(2,DU);ERG(3,DU)	mutʰipʉːʦije
+ref:	tʰint	V;IMP;NEG;TR;ABS(2,DU);ERG(3,DU)	mutʰiːʦije
+
+non-neural:	tʰint	V;PRS;NEG;TR;ABS(1,SG);ERG(3,DU)	mutʰindusu
+ref:	tʰint	V;PRS;NEG;TR;ABS(1,SG);ERG(3,DU)	mutʰʌndusu
+
+non-neural:	tʰint	V;PRS;NEG;TR;ABS(1,SG);ERG(3,SG)	mutʰintu
+ref:	tʰint	V;PRS;NEG;TR;ABS(1,SG);ERG(3,SG)	mutʰʌndu
+
+non-neural:	tʰint	V;PRS;NEG;TR;ABS(3,DU);ERG(1,INCL,PL)	mʌtʰinki
+ref:	tʰint	V;PRS;NEG;TR;ABS(3,DU);ERG(1,INCL,PL)	mʌtʰʌjki
+
+non-neural:	tʰint	V;PRS;NEG;TR;ABS(3,DU);ERG(2,DU)	mʌtʰini
+ref:	tʰint	V;PRS;NEG;TR;ABS(3,DU);ERG(2,DU)	mʌtʰiːʦi
+
+non-neural:	tʰint	V;PRS;NEG;TR;ABS(3,SG);ERG(3,DU)	mutʰînsu
+ref:	tʰint	V;PRS;NEG;TR;ABS(3,SG);ERG(3,DU)	mutʰʌ̂nsu
+
+non-neural:	tʰint	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(3,SG)	tʰinkʌ
+ref:	tʰint	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(3,SG)	tʰʌjkʌ
+
+non-neural:	tʰint	V;PRS;POS;TR;ABS(1,SG);ERG(3,SG)	tʰindu
+ref:	tʰint	V;PRS;POS;TR;ABS(1,SG);ERG(3,SG)	tʰʌndu
+
+non-neural:	tʰint	V;PST;POS;TR;ABS(3,DU);ERG(1,EXCL,DU)	ʔitʰinutu
+ref:	tʰint	V;PST;POS;TR;ABS(3,DU);ERG(1,EXCL,DU)	ʔitʰiːstu
+
+non-neural:	tʰint	V;PST;POS;TR;ABS(3,DU);ERG(2,SG,FORM)	ʔitʰintɛ
+ref:	tʰint	V;PST;POS;TR;ABS(3,DU);ERG(2,SG,FORM)	ʔitʰîːstɛ
+
+non-neural:	tʰint	V;PST;POS;TR;ABS(3,PL);ERG(3,SG)	tʰîntɛnu
+ref:	tʰint	V;PST;POS;TR;ABS(3,PL);ERG(3,SG)	tʰʌ̂ntɛnu
+
+non-neural:	tʰol	V;IMP;NEG;TR;ABS(2,PL);ERG(1,EXCL,DU)	mutʰol
+ref:	tʰol	V;IMP;NEG;TR;ABS(2,PL);ERG(1,EXCL,DU)	mutʰɵluje
+
+non-neural:	tʰol	V;IMP;NEG;TR;ABS(2,SG);ERG(3,PL)	mutʰolnuje
+ref:	tʰol	V;IMP;NEG;TR;ABS(2,SG);ERG(3,PL)	mutʰɵlnuje
+
+non-neural:	tʰol	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,PL)	mutʰol
+ref:	tʰol	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,PL)	mutʰɵlu
+
+non-neural:	tʰol	V;PRS;NEG;TR;ABS(2,DU);ERG(1,EXCL,DU)	mʌtʰolu
+ref:	tʰol	V;PRS;NEG;TR;ABS(2,DU);ERG(1,EXCL,DU)	mʌtʰɵlu
+
+non-neural:	tʰol	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(3,SG)	tʰol
+ref:	tʰol	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(3,SG)	tʰɵlu
+
+non-neural:	tʰol	V;PRS;POS;TR;ABS(1,INCL,DU);ERG(3,DU)	tʰol
+ref:	tʰol	V;PRS;POS;TR;ABS(1,INCL,DU);ERG(3,DU)	tʰɵli
+
+non-neural:	tʰol	V;PRS;POS;TR;ABS(1,INCL,DU);ERG(3,PL)	tʰoli
+ref:	tʰol	V;PRS;POS;TR;ABS(1,INCL,DU);ERG(3,PL)	tʰɵli
+
+non-neural:	tʰol	V;PRS;POS;TR;ABS(1,SG);ERG(3,PL)	tʰolu
+ref:	tʰol	V;PRS;POS;TR;ABS(1,SG);ERG(3,PL)	tʰolunu
+
+non-neural:	tʰol	V;PRS;POS;TR;ABS(3,PL);ERG(2,DU)	ʔitʰol
+ref:	tʰol	V;PRS;POS;TR;ABS(3,PL);ERG(2,DU)	ʔitʰɵli
+
+non-neural:	tʰol	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(3,PL)	mutʰoliwi
+ref:	tʰol	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(3,PL)	mutʰɵliwi
+
+non-neural:	tʰol	V;PST;NEG;TR;ABS(3,DU);ERG(1,INCL,DU)	mʌtʰoliwi
+ref:	tʰol	V;PST;NEG;TR;ABS(3,DU);ERG(1,INCL,DU)	mʌtʰɵliwi
+
+non-neural:	tʰol	V;PST;NEG;TR;ABS(3,SG);ERG(2,PL)	mʌtʰol
+ref:	tʰol	V;PST;NEG;TR;ABS(3,SG);ERG(2,PL)	mʌtʰɵ̂lwɛnu
+
+non-neural:	tʰol	V;PST;POS;TR;ABS(1,INCL,PL);ERG(3,DU)	tʰoltiki
+ref:	tʰol	V;PST;POS;TR;ABS(1,INCL,PL);ERG(3,DU)	tʰoɔltiki
+
+non-neural:	tʰol	V;PST;POS;TR;ABS(2,PL);ERG(3,SG)	ʔitʰôltɛnu
+ref:	tʰol	V;PST;POS;TR;ABS(2,PL);ERG(3,SG)	ʔitʰɵ̂ltɛnu
+
+non-neural:	tʰol	V;PST;POS;TR;ABS(3,DU);ERG(1,INCL,PL)	ʔitʰoltiki
+ref:	tʰol	V;PST;POS;TR;ABS(3,DU);ERG(1,INCL,PL)	ʔitʰoɔltiki
+
+non-neural:	tʰol	V;PST;POS;TR;ABS(3,DU);ERG(1,SG)	ʔitʰolʌtʌsu
+ref:	tʰol	V;PST;POS;TR;ABS(3,DU);ERG(1,SG)	ʔitʰɵlʌtʌsu
+
+non-neural:	tʰɛpt	V;PRS;POS;TR;ABS(3,SG);ERG(1,INCL,DU)	ʔitʰɛʔɵpi
+ref:	tʰɛpt	V;PRS;POS;TR;ABS(3,SG);ERG(1,INCL,DU)	ʔitʰɛpi
+
+non-neural:	ɦip	V;IMP;NEG;TR;ABS(2,DU);ERG(1,EXCL,DU)	muɦip
+ref:	ɦip	V;IMP;NEG;TR;ABS(2,DU);ERG(1,EXCL,DU)	muɦipuje
+
+non-neural:	ɦip	V;PRS;NEG;TR;ABS(1,SG);ERG(2,SG,FORM)	muɦîmnɛ
+ref:	ɦip	V;PRS;NEG;TR;ABS(1,SG);ERG(2,SG,FORM)	muɦʌ̂mnɛ
+
+non-neural:	ɦip	V;PRS;NEG;TR;ABS(3,SG);ERG(3,SG)	muɦip
+ref:	ɦip	V;PRS;NEG;TR;ABS(3,SG);ERG(3,SG)	muɦiːbʉ
+
+non-neural:	ɦip	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,DU)	ʔiɦip
+ref:	ɦip	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,DU)	ʔiɦipi
+
+non-neural:	ɦip	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,DU)	ʔiɦip
+ref:	ɦip	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,DU)	ʔiɦipi
+
+non-neural:	ɦip	V;PRS;POS;TR;ABS(2,DU);ERG(1,SG)	ʔiɦîmŋʌsu
+ref:	ɦip	V;PRS;POS;TR;ABS(2,DU);ERG(1,SG)	ʔiɦʌ̂mŋʌsu
+
+non-neural:	ɦip	V;PST;NEG;TR;ABS(1,INCL,PL);ERG(3,SG)	muɦip
+ref:	ɦip	V;PST;NEG;TR;ABS(1,INCL,PL);ERG(3,SG)	muɦʌpwiki
+
+non-neural:	ɦip	V;PST;NEG;TR;ABS(3,DU);ERG(3,DU)	muɦipɛsu
+ref:	ɦip	V;PST;NEG;TR;ABS(3,DU);ERG(3,DU)	muɦîːpwɛsu
+
+non-neural:	ɦip	V;PST;NEG;TR;ABS(3,SG);ERG(1,EXCL,DU)	mʌɦip
+ref:	ɦip	V;PST;NEG;TR;ABS(3,SG);ERG(1,EXCL,DU)	mʌɦipuwu
+
+non-neural:	ɦip	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(3,PL)	ɦipi
+ref:	ɦip	V;PST;POS;TR;ABS(1,EXCL,DU);ERG(3,PL)	ɦipiti
+
+non-neural:	ɦip	V;PST;POS;TR;ABS(1,EXCL,PL);ERG(3,DU)	ɦipʌkʌ
+ref:	ɦip	V;PST;POS;TR;ABS(1,EXCL,PL);ERG(3,DU)	ɦʌptʌkʌ
+
+non-neural:	ɦip	V;PST;POS;TR;ABS(3,DU);ERG(2,PL)	ʔiɦip
+ref:	ɦip	V;PST;POS;TR;ABS(3,DU);ERG(2,PL)	ʔiɦiptɛnu
+
+non-neural:	ɦont	V;IMP;POS;TR;ABS(2,SG);ERG(3,SG)	ɦonde
+ref:	ɦont	V;IMP;POS;TR;ABS(2,SG);ERG(3,SG)	ɦoɔnde
+
+non-neural:	ɦont	V;PRS;NEG;TR;ABS(1,SG);ERG(2,DU)	muɦôjsu
+ref:	ɦont	V;PRS;NEG;TR;ABS(1,SG);ERG(2,DU)	muɦoɔ̂jsu
+
+non-neural:	ɦont	V;PRS;NEG;TR;ABS(2,SG);ERG(3,SG)	mʌɦondʉ
+ref:	ɦont	V;PRS;NEG;TR;ABS(2,SG);ERG(3,SG)	mʌɦoɔndʉ
+
+non-neural:	ɦont	V;PRS;NEG;TR;ABS(3,DU);ERG(1,EXCL,DU)	mʌɦoːʦu
+ref:	ɦont	V;PRS;NEG;TR;ABS(3,DU);ERG(1,EXCL,DU)	mʌɦɵːʦu
+
+non-neural:	ɦont	V;PRS;NEG;TR;ABS(3,DU);ERG(1,INCL,DU)	mʌɦoːʦi
+ref:	ɦont	V;PRS;NEG;TR;ABS(3,DU);ERG(1,INCL,DU)	mʌɦɵːʦi
+
+non-neural:	ɦont	V;PRS;NEG;TR;ABS(3,DU);ERG(2,SG,FORM)	mʌɦoj
+ref:	ɦont	V;PRS;NEG;TR;ABS(3,DU);ERG(2,SG,FORM)	mʌɦoɔj
+
+non-neural:	ɦont	V;PRS;NEG;TR;ABS(3,SG);ERG(1,SG)	mʌɦojŋʌ
+ref:	ɦont	V;PRS;NEG;TR;ABS(3,SG);ERG(1,SG)	mʌɦoɔjŋʌ
+
+non-neural:	ɦont	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,DU)	ʔiɦoni
+ref:	ɦont	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,DU)	ʔiɦɵːʦi
+
+non-neural:	ɦont	V;PRS;POS;TR;ABS(2,PL);ERG(1,EXCL,DU)	ʔiɦoʦu
+ref:	ɦont	V;PRS;POS;TR;ABS(2,PL);ERG(1,EXCL,DU)	ʔiɦɵːʦu
+
+non-neural:	ɦont	V;PRS;POS;TR;ABS(2,PL);ERG(3,DU)	ʔiɦojni
+ref:	ɦont	V;PRS;POS;TR;ABS(2,PL);ERG(3,DU)	ʔiɦoɔjni
+
+non-neural:	ɦont	V;PRS;POS;TR;ABS(2,SG);ERG(1,EXCL,PL)	ʔiɦoŋʌjkʌ
+ref:	ɦont	V;PRS;POS;TR;ABS(2,SG);ERG(1,EXCL,PL)	ʔiɦoɔjkʌ
+
+non-neural:	ɦont	V;PRS;POS;TR;ABS(3,PL);ERG(2,DU)	ʔiɦoːʦi
+ref:	ɦont	V;PRS;POS;TR;ABS(3,PL);ERG(2,DU)	ʔiɦɵːʦi
+
+non-neural:	ɦont	V;PST;POS;TR;ABS(2,SG);ERG(1,EXCL,DU)	ʔiɦoːstu
+ref:	ɦont	V;PST;POS;TR;ABS(2,SG);ERG(1,EXCL,DU)	ʔiɦɵːstu
+
+non-neural:	ɦont	V;PST;POS;TR;ABS(3,PL);ERG(2,PL)	ʔiɦôːstɛnu
+ref:	ɦont	V;PST;POS;TR;ABS(3,PL);ERG(2,PL)	ʔiɦɵ̂ːstɛnu
+
+non-neural:	ɦɛm	V;PRS;NEG;TR;ABS(1,SG);ERG(2,SG,FORM)	muɦɛm
+ref:	ɦɛm	V;PRS;NEG;TR;ABS(1,SG);ERG(2,SG,FORM)	muɦɛmnɛ
+
+non-neural:	ɦɛm	V;PST;POS;TR;ABS(3,DU);ERG(2,PL)	ʔiɦɛm
+ref:	ɦɛm	V;PST;POS;TR;ABS(3,DU);ERG(2,PL)	ʔiɦɛ̂mtɛnu
+
+non-neural:	ʔi	V;IMP;NEG;INTR;ABS(2,PL)	muʔi
+ref:	ʔi	V;IMP;NEG;INTR;ABS(2,PL)	muʔûnje
+
+non-neural:	ʔi	V;PRS;POS;INTR;ABS(1,EXCL,PL)	ʔiʌ
+ref:	ʔi	V;PRS;POS;INTR;ABS(1,EXCL,PL)	ʔikʌ
+
+non-neural:	ʔok	V;PRS;POS;INTR;ABS(1,INCL,DU)	ʔoki
+ref:	ʔok	V;PRS;POS;INTR;ABS(1,INCL,DU)	ʔɵki
+
+non-neural:	ʔok	V;PST;NEG;INTR;ABS(2,DU)	mʌʔokiwi
+ref:	ʔok	V;PST;NEG;INTR;ABS(2,DU)	mʌʔɵkiwi
+
+non-neural:	ʔok	V;PST;POS;INTR;ABS(1,SG)	ʔokʌtʌ
+ref:	ʔok	V;PST;POS;INTR;ABS(1,SG)	ʔɵkʌtʌ
+
+non-neural:	ʔok	V;PST;POS;INTR;ABS(3,DU)	ʔokiti
+ref:	ʔok	V;PST;POS;INTR;ABS(3,DU)	ʔɵkiti
+
+non-neural:	ʔok	V;PST;POS;INTR;ABS(3,SG)	ʔoːtɛ
+ref:	ʔok	V;PST;POS;INTR;ABS(3,SG)	ʔɵktɛ
+
+non-neural:	ʔont	V;IMP;NEG;TR;ABS(2,PL);ERG(1,EXCL,PL)	muʔojkʌje
+ref:	ʔont	V;IMP;NEG;TR;ABS(2,PL);ERG(1,EXCL,PL)	muʔoɔjkʌje
+
+non-neural:	ʔont	V;IMP;POS;TR;ABS(2,DU);ERG(1,EXCL,PL)	ʔonkʌje
+ref:	ʔont	V;IMP;POS;TR;ABS(2,DU);ERG(1,EXCL,PL)	ʔoɔjkʌje
+
+non-neural:	ʔont	V;IMP;POS;TR;ABS(2,PL);ERG(3,SG)	ʔoːsnuje
+ref:	ʔont	V;IMP;POS;TR;ABS(2,PL);ERG(3,SG)	ʔɵːsnuje
+
+non-neural:	ʔont	V;IMP;POS;TR;ABS(2,SG);ERG(3,SG)	ʔonde
+ref:	ʔont	V;IMP;POS;TR;ABS(2,SG);ERG(3,SG)	ʔoɔnde
+
+non-neural:	ʔont	V;PRS;NEG;TR;ABS(2,SG);ERG(3,SG)	mʌʔondʉ
+ref:	ʔont	V;PRS;NEG;TR;ABS(2,SG);ERG(3,SG)	mʌʔoɔndʉ
+
+non-neural:	ʔont	V;PRS;NEG;TR;ABS(3,DU);ERG(1,EXCL,PL)	mʌʔokʌ
+ref:	ʔont	V;PRS;NEG;TR;ABS(3,DU);ERG(1,EXCL,PL)	mʌʔoɔjkʌ
+
+non-neural:	ʔont	V;PRS;NEG;TR;ABS(3,DU);ERG(2,DU)	mʌʔoni
+ref:	ʔont	V;PRS;NEG;TR;ABS(3,DU);ERG(2,DU)	mʌʔɵːʦi
+
+non-neural:	ʔont	V;PRS;NEG;TR;ABS(3,PL);ERG(3,DU)	muʔônnu
+ref:	ʔont	V;PRS;NEG;TR;ABS(3,PL);ERG(3,DU)	muʔoɔ̂nnu
+
+non-neural:	ʔont	V;PRS;NEG;TR;ABS(3,SG);ERG(3,SG)	muʔondʉ
+ref:	ʔont	V;PRS;NEG;TR;ABS(3,SG);ERG(3,SG)	muʔoɔndʉ
+
+non-neural:	ʔont	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,DU)	ʔiʔoːʦi
+ref:	ʔont	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,DU)	ʔiʔɵːʦi
+
+non-neural:	ʔont	V;PRS;POS;TR;ABS(1,SG);ERG(2,PL)	ʔôjnu
+ref:	ʔont	V;PRS;POS;TR;ABS(1,SG);ERG(2,PL)	ʔoɔ̂jnu
+
+non-neural:	ʔont	V;PRS;POS;TR;ABS(3,PL);ERG(1,EXCL,DU)	ʔiʔoːʦu
+ref:	ʔont	V;PRS;POS;TR;ABS(3,PL);ERG(1,EXCL,DU)	ʔiʔɵːʦu
+
+non-neural:	ʔont	V;PST;NEG;TR;ABS(1,EXCL,PL);ERG(2,DU)	mʌʔoːswi
+ref:	ʔont	V;PST;NEG;TR;ABS(1,EXCL,PL);ERG(2,DU)	mʌʔɵːswi
+
+non-neural:	ʔont	V;PST;POS;TR;ABS(2,SG);ERG(3,SG)	ʔiʔôntɛ
+ref:	ʔont	V;PST;POS;TR;ABS(2,SG);ERG(3,SG)	ʔiʔoɔ̂ntɛ
+
+non-neural:	ʔont	V;PST;POS;TR;ABS(3,PL);ERG(2,SG,FORM)	ʔiʔôːstɛ
+ref:	ʔont	V;PST;POS;TR;ABS(3,PL);ERG(2,SG,FORM)	ʔiʔɵ̂ːstɛ
+
+non-neural:	ʦik	V;NFIN;POS;INTR	ʦîːnɛ
+ref:	ʦik	V;NFIN;POS;INTR	ʦûːnɛ
+
+non-neural:	ʦik	V;PRS;NEG;INTR;ABS(1,EXCL,PL)	muʦikkʌ
+ref:	ʦik	V;PRS;NEG;INTR;ABS(1,EXCL,PL)	muʦakkʌ
+
+non-neural:	ʦik	V;PRS;NEG;INTR;ABS(1,SG)	muʦîːŋʌ
+ref:	ʦik	V;PRS;NEG;INTR;ABS(1,SG)	muʦûːŋʌ
+
+non-neural:	ʦik	V;PRS;NEG;INTR;ABS(2,SG)	mʌʦîː
+ref:	ʦik	V;PRS;NEG;INTR;ABS(2,SG)	mʌʦûː
+
+non-neural:	ʦik	V;PRS;POS;INTR;ABS(1,EXCL,PL)	ʦikkʌ
+ref:	ʦik	V;PRS;POS;INTR;ABS(1,EXCL,PL)	ʦakkʌ
+
+non-neural:	ʦik	V;PRS;POS;INTR;ABS(1,INCL,PL)	ʦikki
+ref:	ʦik	V;PRS;POS;INTR;ABS(1,INCL,PL)	ʦakki
+
+non-neural:	ʦik	V;PRS;POS;INTR;ABS(2,SG)	ʔiʦîː
+ref:	ʦik	V;PRS;POS;INTR;ABS(2,SG)	ʔiʦûː
+
+non-neural:	ʦik	V;PRS;POS;INTR;ABS(3,SG)	ʦîː
+ref:	ʦik	V;PRS;POS;INTR;ABS(3,SG)	ʦûː
+
+non-neural:	ʦik	V;PST;NEG;INTR;ABS(1,INCL,PL)	muʦikwiki
+ref:	ʦik	V;PST;NEG;INTR;ABS(1,INCL,PL)	muʦakwiki
+
+non-neural:	ʦik	V;PST;POS;INTR;ABS(1,EXCL,PL)	ʦiktʌkʌ
+ref:	ʦik	V;PST;POS;INTR;ABS(1,EXCL,PL)	ʦaktʌkʌ
+
+non-neural:	ʦir	V;IMP;NEG;TR;ABS(2,PL);ERG(3,DU)	muʦitʉrnuje
+ref:	ʦir	V;IMP;NEG;TR;ABS(2,PL);ERG(3,DU)	muʦirnuje
+
+non-neural:	ʦir	V;PRS;NEG;REFL;ABS(1,EXCL,DU)	muʦir
+ref:	ʦir	V;PRS;NEG;REFL;ABS(1,EXCL,DU)	muʦirsiju
+
+non-neural:	ʦir	V;PRS;NEG;REFL;ABS(1,EXCL,PL)	muʦir
+ref:	ʦir	V;PRS;NEG;REFL;ABS(1,EXCL,PL)	muʦʌrsikʌ
+
+non-neural:	ʦir	V;PRS;NEG;REFL;ABS(1,INCL,DU)	muʦir
+ref:	ʦir	V;PRS;NEG;REFL;ABS(1,INCL,DU)	muʦirsiji
+
+non-neural:	ʦir	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(2,PL)	mʌʦirni
+ref:	ʦir	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(2,PL)	mʌʦʌrni
+
+non-neural:	ʦir	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,PL)	ʔiʦir
+ref:	ʦir	V;PRS;POS;TR;ABS(1,EXCL,DU);ERG(2,PL)	ʔiʦʌrni
+
+non-neural:	ʦir	V;PRS;POS;TR;ABS(2,SG);ERG(1,EXCL,DU)	ʔiʦir
+ref:	ʦir	V;PRS;POS;TR;ABS(2,SG);ERG(1,EXCL,DU)	ʔiʦiru
+
+non-neural:	ʦir	V;PRS;POS;TR;ABS(3,DU);ERG(1,INCL,PL)	ʔiʦirki
+ref:	ʦir	V;PRS;POS;TR;ABS(3,DU);ERG(1,INCL,PL)	ʔiʦʌrki
+
+non-neural:	ʦir	V;PRS;POS;TR;ABS(3,SG);ERG(1,EXCL,PL)	ʔiʦirʌ
+ref:	ʦir	V;PRS;POS;TR;ABS(3,SG);ERG(1,EXCL,PL)	ʔiʦʌrkʌ
+
+non-neural:	ʦir	V;PST;NEG;TR;ABS(3,PL);ERG(3,DU)	muʦikʉ̂rwɛnu
+ref:	ʦir	V;PST;NEG;TR;ABS(3,PL);ERG(3,DU)	muʦîrwɛnu
+
+non-neural:	ʦir	V;PST;POS;TR;ABS(1,INCL,PL);ERG(3,DU)	ʦiri
+ref:	ʦir	V;PST;POS;TR;ABS(1,INCL,PL);ERG(3,DU)	ʦʌrtiki
+
+non-neural:	ʦir	V;PST;POS;TR;ABS(1,SG);ERG(2,PL)	ʦîrtɛnnu
+ref:	ʦir	V;PST;POS;TR;ABS(1,SG);ERG(2,PL)	ʦʌ̂rtɛnnu
+
+non-neural:	ʦir	V;PST;POS;TR;ABS(3,PL);ERG(1,EXCL,PL)	ʔiʦirtʌkʌ
+ref:	ʦir	V;PST;POS;TR;ABS(3,PL);ERG(1,EXCL,PL)	ʔiʦʌrtʌkʌ
+
+non-neural:	ʦʰop	V;IMP;NEG;TR;ABS(2,DU);ERG(3,SG)	muʦʰope
+ref:	ʦʰop	V;IMP;NEG;TR;ABS(2,DU);ERG(3,SG)	muʦʰɵpije
+
+non-neural:	ʦʰop	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,SG)	muʦʰopu
+ref:	ʦʰop	V;PRS;NEG;TR;ABS(1,EXCL,DU);ERG(3,SG)	muʦʰɵpu
+
+non-neural:	ʦʰop	V;PRS;NEG;TR;ABS(2,DU);ERG(1,EXCL,DU)	mʌʦʰopu
+ref:	ʦʰop	V;PRS;NEG;TR;ABS(2,DU);ERG(1,EXCL,DU)	mʌʦʰɵpu
+
+non-neural:	ʦʰop	V;PRS;NEG;TR;ABS(2,PL);ERG(1,EXCL,PL)	mʌʦʰopkʌ
+ref:	ʦʰop	V;PRS;NEG;TR;ABS(2,PL);ERG(1,EXCL,PL)	mʌʦʰoɔpkʌ
+
+non-neural:	ʦʰop	V;PRS;NEG;TR;ABS(3,DU);ERG(2,SG,FORM)	mʌʦʰop
+ref:	ʦʰop	V;PRS;NEG;TR;ABS(3,DU);ERG(2,SG,FORM)	mʌʦʰoɔp
+
+non-neural:	ʦʰop	V;PRS;NEG;TR;ABS(3,DU);ERG(3,PL)	muʦʰopu
+ref:	ʦʰop	V;PRS;NEG;TR;ABS(3,DU);ERG(3,PL)	muʦʰɵ̂ːpnu
+
+non-neural:	ʦʰop	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,DU)	ʔiʦʰop
+ref:	ʦʰop	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,DU)	ʔiʦʰɵpi
+
+non-neural:	ʦʰop	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,PL)	ʔiʦʰo
+ref:	ʦʰop	V;PRS;POS;TR;ABS(1,EXCL,PL);ERG(2,PL)	ʔiʦʰoɔ̂mni
+
+non-neural:	ʦʰop	V;PRS;POS;TR;ABS(1,INCL,PL);ERG(3,PL)	ʦʰopki
+ref:	ʦʰop	V;PRS;POS;TR;ABS(1,INCL,PL);ERG(3,PL)	ʦʰoɔpki
+
+non-neural:	ʦʰop	V;PRS;POS;TR;ABS(3,DU);ERG(3,PL)	ʦʰôːpnu
+ref:	ʦʰop	V;PRS;POS;TR;ABS(3,DU);ERG(3,PL)	ʦʰɵ̂ːpnu
+
+non-neural:	ʦʰop	V;PRS;POS;TR;ABS(3,PL);ERG(1,INCL,PL)	ʔiʦʰop
+ref:	ʦʰop	V;PRS;POS;TR;ABS(3,PL);ERG(1,INCL,PL)	ʔiʦʰoɔpki
+
+non-neural:	ʦʰop	V;PRS;POS;TR;ABS(3,SG);ERG(1,INCL,PL)	ʔiʦʰop
+ref:	ʦʰop	V;PRS;POS;TR;ABS(3,SG);ERG(1,INCL,PL)	ʔiʦʰoɔpki
+
+non-neural:	ʦʰop	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(2,SG,FORM)	mʌʦʰopwɛ
+ref:	ʦʰop	V;PST;NEG;TR;ABS(1,EXCL,DU);ERG(2,SG,FORM)	mʌʦʰɵpwɛ
+
+non-neural:	ʦʰop	V;PST;NEG;TR;ABS(3,DU);ERG(1,INCL,DU)	mʌʦʰop
+ref:	ʦʰop	V;PST;NEG;TR;ABS(3,DU);ERG(1,INCL,DU)	mʌʦʰɵpiwi
+
+non-neural:	ʦʰop	V;PST;NEG;TR;ABS(3,DU);ERG(3,PL)	muʦʰop
+ref:	ʦʰop	V;PST;NEG;TR;ABS(3,DU);ERG(3,PL)	muʦʰɵ̂ːpwɛnu
+
+non-neural:	ʦʰop	V;PST;NEG;TR;ABS(3,PL);ERG(1,SG)	mʌʦʰop
+ref:	ʦʰop	V;PST;NEG;TR;ABS(3,PL);ERG(1,SG)	mʌʦʰɵpʌwʌnu
+
+non-neural:	ʦʰop	V;PST;POS;TR;ABS(1,EXCL,PL);ERG(3,PL)	ʦʰopʌkʌ
+ref:	ʦʰop	V;PST;POS;TR;ABS(1,EXCL,PL);ERG(3,PL)	ʦʰoɔptʌkʌ
+
+non-neural:	ʦʰop	V;PST;POS;TR;ABS(3,PL);ERG(3,SG)	ʦʰopnu
+ref:	ʦʰop	V;PST;POS;TR;ABS(3,PL);ERG(3,SG)	ʦʰɵ̂ːptɛnu
+
+non-neural:	ʦʰɛtt	V;IMP;NEG;REFL;ABS(2,PL)	muʦʰɛtnnuje
+ref:	ʦʰɛtt	V;IMP;NEG;REFL;ABS(2,PL)	muʦʰɛ̂nnuje
+
+non-neural:	ʦʰɛtt	V;PRS;NEG;TR;ABS(1,EXCL,PL);ERG(3,SG)	muʦʰɛtkʌ
+ref:	ʦʰɛtt	V;PRS;NEG;TR;ABS(1,EXCL,PL);ERG(3,SG)	muʦʰɛçkʌ
+
+non-neural:	ʦʰɛtt	V;PRS;POS;TR;ABS(3,DU);ERG(2,PL)	ʔiʦʰɛɔ̂nni
+ref:	ʦʰɛtt	V;PRS;POS;TR;ABS(3,DU);ERG(2,PL)	ʔiʦʰɛ̂nni
+
+non-neural:	ʦʰɛtt	V;PST;POS;REFL;ABS(1,EXCL,PL)	ʦʰɛtsiktʌkʌ
+ref:	ʦʰɛtt	V;PST;POS;REFL;ABS(1,EXCL,PL)	ʦʰɛssiktʌkʌ
+
+non-neural:	ʦʰɛtt	V;PST;POS;TR;ABS(2,PL);ERG(3,PL)	ʔiʦʰɛttɛnu
+ref:	ʦʰɛtt	V;PST;POS;TR;ABS(2,PL);ERG(3,PL)	ʔiʦʰɛstɛnu
+
