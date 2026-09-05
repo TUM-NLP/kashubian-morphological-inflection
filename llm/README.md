@@ -1,12 +1,12 @@
 All LLMs are accessed via [openrouter.ai](https://openrouter.ai/).
-# Zero-Shot Morphological Inflection
+# 1. Zero-Shot Morphological Inflection using large-scale LLMs
 ## Models: Large Scale LLMs:
 - Gemini 2.5 Flash 
 - GPT-OSS 120B
 ## Inference 
 - Output: `/data/<model_name>/csb_<model_name>.out`
 
-# Synthetic Kashubian fine-tuning: Generating synthetic Kashubian task data using Gemini from Kashubian corpus
+# 2. Synthetic Kashubian fine-tuning: Generating synthetic Kashubian task data using Gemini from Kashubian corpus
 Gemini extracts inflected words (**target**) from **Kashubian sentences** and predicts the root form (**lemma**) and the morphosyntactic **features** of the inflected word. These are the (lemma, features, target) triplets for the **synthetic Kashubian** data.
 
 The synthetic samples are reduced by invalid forms (see acceptance critia below) and down-sampled to 10,000 samples.
