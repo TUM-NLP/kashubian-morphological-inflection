@@ -1,6 +1,6 @@
-TRAIN_FILEPATH = "../../2023InflectionST/part1/data/"
-TEST_FILEPATH = "../../2023InflectionST/part1/data/"
-EVAL_FILEPATH = "../../2023InflectionST/part1/data/"
+TRAIN_FILEPATH = "../../data/2023InflectionST/part1/data/"
+TEST_FILEPATH = "../../data/2023InflectionST/part1/data/"
+EVAL_FILEPATH = "../../data/2023InflectionST/part1/data/"
 LANGS = ["grc","dan","fra","sme","deu","nav","jap","klr","eng","mul","deu_eng"]+["ote","pol","mul_2","csb","amh"]
 OUTPUT_TRAIN_FILEPATH = "data/"
 OUTPUT_TEST_FILEPATH = "data/"  

@@ -1,6 +1,6 @@
-TRAIN_FILEPATH = "../../2023InflectionST/part1/data/"
-TEST_FILEPATH = "../../2023InflectionST/part1/data/"
-EVAL_FILEPATH = "../../2023InflectionST/part1/data/"
+TRAIN_FILEPATH = "../../data/2023InflectionST/part1/data/"
+TEST_FILEPATH = "../../data/2023InflectionST/part1/data/"
+EVAL_FILEPATH = "../../data/2023InflectionST/part1/data/"
 OUT_DIR = TRAIN_FILEPATH
 LANGS = ["deu","eng"]
 TARGET_LANG = "deu_eng"
