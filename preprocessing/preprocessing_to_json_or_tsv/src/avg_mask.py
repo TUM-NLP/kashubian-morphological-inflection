@@ -34,8 +34,8 @@ def preprocess_function(examples): # receives unmasked sentence as input
 from array import array
 # load dataset
 lang = "csb-pol-sent"
-train_path = f"<path_to>/kashubian-morphological-inflection/preprocessing/preprocessing_to_json_or_tsv/data/{lang}_trn.tsv"
-eval_path = f"<path_to>/kashubian-morphological-inflection/preprocessing/preprocessing_to_json_or_tsv/data/{lang}_dev.tsv"
+train_path = f"<path_to>/kashubian-morphological-inflection/data/processing/preprocessing/preprocessing_to_json_or_tsv/data/{lang}_trn.tsv"
+eval_path = f"<path_to>/kashubian-morphological-inflection/data/processing/preprocessing/preprocessing_to_json_or_tsv/data/{lang}_dev.tsv"
 dataset = load_dataset("csv", delimiter="\t",column_names=["input"],data_files={"train": train_path,"validation": eval_path},quoting=3) # disable quote parsing
 mean_train = numpy.mean(
     list(map(preprocess_function, dataset["train"]))

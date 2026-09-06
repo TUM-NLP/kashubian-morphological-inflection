@@ -27,7 +27,7 @@ for lang in LANGS:
     from datasets import load_dataset
     OUT_DIR = "output_byt5_small/"
     PATH = "../preprocessing_to_json/data/" + LANG + "_test.json"
-    PATH_ORIG = "../data/2023InflectionST/part1/data/" + LANG + ".tst"
+    PATH_ORIG = "../data/data-files/2023InflectionST/part1/data/" + LANG + ".tst"
     LEN = 1000
     with open (OUT_DIR + LANG + "_byt5-small.out","w") as out_file, open (PATH_ORIG, "r") as test_file:
         COUNTER = 0
