@@ -1,8 +1,3 @@
 /ByT5/byt5_small/
 .env
-/data/
-# /data/processing/preprocessing/hierarchical_schema/data/ces
-# /data/processing/preprocessing/hierarchical_schema/data/slk
-# /data/processing/preprocessing/hierarchical_schema/data/dsb
-# /data/processing/preprocessing/hierarchical_schema/data
 /data/processing/preprocessing/hierarchical_schema/data.tar.gz
