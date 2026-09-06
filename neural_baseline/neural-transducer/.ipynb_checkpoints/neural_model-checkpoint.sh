@@ -1,4 +1,4 @@
-source /dss/dsshome1/03/ge87wod2/miniconda/etc/profile.d/conda.sh 
+source <path_to>/kashubian-miniconda/etc/profile.d/conda.sh 
 conda init
 conda env create -n nt -f environment.yml 
 conda activate nt
