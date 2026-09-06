@@ -1,0 +1,1000 @@
+{"input": "Inflect остар | ADJ;SG;MASC;INDF","target": "остар"}
+{"input": "Inflect остар | ADJ;SG;FEM;INDF","target": "остра"}
+{"input": "Inflect остар | ADJ;PROX;SG;FEM;DEF","target": "острава"}
+{"input": "Inflect остар | ADJ;REMT;SG;FEM;DEF","target": "острана"}
+{"input": "Inflect остар | ADJ;SG;FEM;DEF","target": "острата"}
+{"input": "Inflect остар | ADJ;PROX;PL;DEF","target": "остриве"}
+{"input": "Inflect остар | ADJ;PROX;SG;MASC;DEF","target": "остриов"}
+{"input": "Inflect остар | ADJ;REMT;SG;MASC;DEF","target": "острион"}
+{"input": "Inflect остар | ADJ;PROX;SG;NEUT;DEF","target": "острово"}
+{"input": "Inflect остар | ADJ;REMT;SG;NEUT;DEF","target": "остроно"}
+{"input": "Inflect остар | ADJ;SG;NEUT;DEF","target": "острото"}
+{"input": "Inflect гребен | N;SG;INDF","target": "гребен"}
+{"input": "Inflect гребен | N;VOC(PL)","target": "гребени"}
+{"input": "Inflect гребен | N;PROX;PL;DEF","target": "гребениве"}
+{"input": "Inflect гребен | N;REMT;PL;DEF","target": "гребенине"}
+{"input": "Inflect гребен | N;PL;DEF","target": "гребените"}
+{"input": "Inflect гребен | N;SG;DEF","target": "гребенот"}
+{"input": "Inflect гребен | N;VOC(SG)","target": "гребену"}
+{"input": "Inflect љубомора | N;SG;INDF","target": "љубомора"}
+{"input": "Inflect љубомора | N;PROX;SG;DEF","target": "љубоморава"}
+{"input": "Inflect љубомора | N;REMT;SG;DEF","target": "љубоморана"}
+{"input": "Inflect продукт | N;SG;INDF","target": "продукт"}
+{"input": "Inflect продукт | N;PL","target": "продукта"}
+{"input": "Inflect продукт | N;PL;INDF","target": "продукти"}
+{"input": "Inflect продукт | N;PROX;PL;DEF","target": "продуктиве"}
+{"input": "Inflect продукт | N;REMT;PL;DEF","target": "продуктине"}
+{"input": "Inflect продукт | N;PL;DEF","target": "продуктите"}
+{"input": "Inflect продукт | N;PROX;SG;DEF","target": "продуктов"}
+{"input": "Inflect продукт | N;REMT;SG;DEF","target": "продуктон"}
+{"input": "Inflect тестамент | N;SG;INDF","target": "тестамент"}
+{"input": "Inflect тестамент | N;PL","target": "тестамента"}
+{"input": "Inflect тестамент | N;PROX;PL;DEF","target": "тестаментиве"}
+{"input": "Inflect тестамент | N;SG;DEF","target": "тестаментот"}
+{"input": "Inflect тестамент | N;VOC(SG)","target": "тестаменту"}
+{"input": "Inflect јавач | N;SG;INDF","target": "јавач"}
+{"input": "Inflect јавач | N;PL","target": "јавача"}
+{"input": "Inflect јавач | N;PL;INDF","target": "јавачи"}
+{"input": "Inflect јавач | N;PROX;PL;DEF","target": "јавачиве"}
+{"input": "Inflect јавач | N;REMT;PL;DEF","target": "јавачине"}
+{"input": "Inflect јавач | N;PROX;SG;DEF","target": "јавачов"}
+{"input": "Inflect скенира | V;PST;NOM(3,SG)","target": "искенира"}
+{"input": "Inflect скенира | V;PROG;PST;NOM(3,PL)","target": "искенираа"}
+{"input": "Inflect скенира | V;PST;NOM(3,PL)","target": "искенираа"}
+{"input": "Inflect скенира | V;PRS;NOM(3,PL)","target": "искенираат"}
+{"input": "Inflect скенира | V;PROG;PST;NOM(1,SG)","target": "искенирав"}
+{"input": "Inflect скенира | V;PROG;PST;NOM(1,PL)","target": "искениравме"}
+{"input": "Inflect скенира | V;PST;NOM(1,PL)","target": "искениравме"}
+{"input": "Inflect скенира | V;PROG;PST;NOM(2,PL)","target": "искениравте"}
+{"input": "Inflect скенира | V;IMP;NOM(2,SG)","target": "искенирај"}
+{"input": "Inflect скенира | V;IMP;NOM(2,PL)","target": "искенирајте"}
+{"input": "Inflect скенира | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "искенирал"}
+{"input": "Inflect скенира | V.PTCP;PST;NOM(SG,MASC)","target": "искенирал"}
+{"input": "Inflect скенира | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "искенирала"}
+{"input": "Inflect скенира | V.PTCP;PROG;PST;NOM(PL)","target": "искенирале"}
+{"input": "Inflect скенира | V;PRS;NOM(1,SG)","target": "искенирам"}
+{"input": "Inflect скенира | V;PRS;NOM(1,PL)","target": "искенираме"}
+{"input": "Inflect скенира | V.PTCP;PST;PASS;NOM()","target": "искениран"}
+{"input": "Inflect скенира | V;PRS;NOM(2,SG)","target": "искенираш"}
+{"input": "Inflect скенира | V;PROG;PST;NOM(3,SG)","target": "искенираше"}
+{"input": "Inflect агресивност | N;SG;INDF","target": "агресивност"}
+{"input": "Inflect агресивност | N;VOC(SG)","target": "агресивност"}
+{"input": "Inflect агресивност | N;SG;DEF","target": "агресивноста"}
+{"input": "Inflect виола | N;PROX;SG;DEF","target": "виолава"}
+{"input": "Inflect виола | N;REMT;SG;DEF","target": "виолана"}
+{"input": "Inflect виола | N;SG;DEF","target": "виолата"}
+{"input": "Inflect виола | N;PL;INDF","target": "виоли"}
+{"input": "Inflect виола | N;VOC(PL)","target": "виоли"}
+{"input": "Inflect виола | N;PROX;PL;DEF","target": "виоливе"}
+{"input": "Inflect виола | N;PL;DEF","target": "виолите"}
+{"input": "Inflect виола | N;VOC(SG)","target": "виоло"}
+{"input": "Inflect заќути | V;PRS;NOM(3,PL)","target": "заќутат"}
+{"input": "Inflect заќути | V;PST;NOM(2,SG)","target": "заќуте"}
+{"input": "Inflect заќути | V;PROG;PST;NOM(3,PL)","target": "заќутеа"}
+{"input": "Inflect заќути | V;PROG;PST;NOM(1,SG)","target": "заќутев"}
+{"input": "Inflect заќути | V;PST;NOM(1,SG)","target": "заќутев"}
+{"input": "Inflect заќути | V;PROG;PST;NOM(1,PL)","target": "заќутевме"}
+{"input": "Inflect заќути | V;PST;NOM(1,PL)","target": "заќутевме"}
+{"input": "Inflect заќути | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "заќутел"}
+{"input": "Inflect заќути | V.PTCP;PST;NOM(SG,MASC)","target": "заќутел"}
+{"input": "Inflect заќути | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "заќутела"}
+{"input": "Inflect заќути | V.PTCP;PST;NOM(SG,FEM)","target": "заќутела"}
+{"input": "Inflect заќути | V.PTCP;PROG;PST;NOM(PL)","target": "заќутеле"}
+{"input": "Inflect заќути | V.PTCP;PST;NOM(SG,NEUT)","target": "заќутело"}
+{"input": "Inflect заќути | V;IMP;NOM(2,PL)","target": "заќутете"}
+{"input": "Inflect заќути | V;PROG;PST;NOM(2,SG)","target": "заќутеше"}
+{"input": "Inflect заќути | V;PROG;PST;NOM(3,SG)","target": "заќутеше"}
+{"input": "Inflect заќути | V;IMP;NOM(2,SG)","target": "заќути"}
+{"input": "Inflect заќути | V;PRS;NOM(3,SG)","target": "заќути"}
+{"input": "Inflect заќути | V;PRS;NOM(1,PL)","target": "заќутиме"}
+{"input": "Inflect заќути | V;PRS;NOM(2,PL)","target": "заќутите"}
+{"input": "Inflect заќути | V;PRS;NOM(2,SG)","target": "заќутиш"}
+{"input": "Inflect исенчи | V;PRS;NOM(1,SG)","target": "исенчам"}
+{"input": "Inflect исенчи | V;PROG;PST;NOM(1,SG)","target": "исенчев"}
+{"input": "Inflect исенчи | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "исенчела"}
+{"input": "Inflect исенчи | V.PTCP;PROG;PST;NOM(PL)","target": "исенчеле"}
+{"input": "Inflect исенчи | V.PTCP;PST;PASS;NOM()","target": "исенчен"}
+{"input": "Inflect исенчи | V;PROG;PST;NOM(2,SG)","target": "исенчеше"}
+{"input": "Inflect исенчи | V;PROG;PST;NOM(3,SG)","target": "исенчеше"}
+{"input": "Inflect исенчи | V;PST;NOM(1,SG)","target": "исенчив"}
+{"input": "Inflect исенчи | V;PST;NOM(1,PL)","target": "исенчивме"}
+{"input": "Inflect исенчи | V;PST;NOM(2,PL)","target": "исенчивте"}
+{"input": "Inflect исенчи | V;PST;NOM(3,PL)","target": "исенчија"}
+{"input": "Inflect исенчи | V.PTCP;PST;NOM(SG,MASC)","target": "исенчил"}
+{"input": "Inflect исенчи | V.PTCP;PST;NOM(SG,FEM)","target": "исенчила"}
+{"input": "Inflect исенчи | V.PTCP;PST;NOM(SG,NEUT)","target": "исенчило"}
+{"input": "Inflect исенчи | V;PRS;NOM(1,PL)","target": "исенчиме"}
+{"input": "Inflect огорченост | N;VOC(SG)","target": "огорченост"}
+{"input": "Inflect читач | N;SG;INDF","target": "читач"}
+{"input": "Inflect читач | N;PL","target": "читача"}
+{"input": "Inflect читач | N;PL;INDF","target": "читачи"}
+{"input": "Inflect читач | N;PROX;PL;DEF","target": "читачиве"}
+{"input": "Inflect читач | N;PL;DEF","target": "читачите"}
+{"input": "Inflect читач | N;SG;DEF","target": "читачот"}
+{"input": "Inflect читач | N;VOC(SG)","target": "читачу"}
+{"input": "Inflect дупнатина | N;SG;INDF","target": "дупнатина"}
+{"input": "Inflect дупнатина | N;PROX;SG;DEF","target": "дупнатинава"}
+{"input": "Inflect дупнатина | N;REMT;SG;DEF","target": "дупнатинана"}
+{"input": "Inflect дупнатина | N;PL;INDF","target": "дупнатини"}
+{"input": "Inflect дупнатина | N;VOC(PL)","target": "дупнатини"}
+{"input": "Inflect дупнатина | N;PROX;PL;DEF","target": "дупнатиниве"}
+{"input": "Inflect дупнатина | N;REMT;PL;DEF","target": "дупнатинине"}
+{"input": "Inflect дупнатина | N;PL;DEF","target": "дупнатините"}
+{"input": "Inflect дупнатина | N;VOC(SG)","target": "дупнатино"}
+{"input": "Inflect мирен | ADJ;SG;MASC;INDF","target": "мирен"}
+{"input": "Inflect мирен | ADJ;PROX;SG;FEM;DEF","target": "мирнава"}
+{"input": "Inflect мирен | ADJ;REMT;SG;FEM;DEF","target": "мирнана"}
+{"input": "Inflect мирен | ADJ;SG;FEM;DEF","target": "мирната"}
+{"input": "Inflect мирен | ADJ;PROX;PL;DEF","target": "мирниве"}
+{"input": "Inflect мирен | ADJ;REMT;PL;DEF","target": "мирнине"}
+{"input": "Inflect мирен | ADJ;SG;MASC;DEF","target": "мирниот"}
+{"input": "Inflect мирен | ADJ;PL;DEF","target": "мирните"}
+{"input": "Inflect мирен | ADJ;PROX;SG;NEUT;DEF","target": "мирново"}
+{"input": "Inflect мирен | ADJ;REMT;SG;NEUT;DEF","target": "мирноно"}
+{"input": "Inflect мирен | ADJ;SG;NEUT;DEF","target": "мирното"}
+{"input": "Inflect заварува | V;PRS;NOM(3,PL)","target": "заваруваат"}
+{"input": "Inflect заварува | V;PROG;PST;NOM(1,SG)","target": "заварував"}
+{"input": "Inflect заварува | V;IMP;NOM(2,SG)","target": "заварувај"}
+{"input": "Inflect заварува | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "заварувал"}
+{"input": "Inflect заварува | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "заварувала"}
+{"input": "Inflect заварува | V.PTCP;PROG;PST;NOM(PL)","target": "заварувале"}
+{"input": "Inflect заварува | V.MSDR;NOM()","target": "заварување"}
+{"input": "Inflect заварува | V;PRS;NOM(2,PL)","target": "заварувате"}
+{"input": "Inflect заварува | V;PRS;NOM(2,SG)","target": "заваруваш"}
+{"input": "Inflect заварува | V;PROG;PST;NOM(2,SG)","target": "заваруваше"}
+{"input": "Inflect заварува | V;PROG;PST;NOM(3,SG)","target": "заваруваше"}
+{"input": "Inflect се состои | V;PROG;PST;NOM(1,SG)","target": "се состоев"}
+{"input": "Inflect се состои | V.PTCP;PROG;PST;NOM(PL)","target": "се состоеле"}
+{"input": "Inflect се состои | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "се состоело"}
+{"input": "Inflect се состои | V;PROG;PST;NOM(2,SG)","target": "се состоеше"}
+{"input": "Inflect се состои | V;PROG;PST;NOM(3,SG)","target": "се состоеше"}
+{"input": "Inflect се состои | V;PRS;NOM(3,SG)","target": "се состои"}
+{"input": "Inflect се состои | V;PRS;NOM(1,PL)","target": "се состоиме"}
+{"input": "Inflect се состои | V;PRS;NOM(2,PL)","target": "се состоите"}
+{"input": "Inflect се состои | V;PRS;NOM(2,SG)","target": "се состоиш"}
+{"input": "Inflect се состои | V.CVB;NOM()","target": "состоејќи се"}
+{"input": "Inflect се состои | V;IMP;NOM(2,SG)","target": "состој се"}
+{"input": "Inflect се исценка | V;IMP;NOM(2,SG)","target": "исценкај се"}
+{"input": "Inflect се исценка | V;PRS;NOM(3,SG)","target": "се исценка"}
+{"input": "Inflect се исценка | V;PST;NOM(2,SG)","target": "се исценка"}
+{"input": "Inflect се исценка | V;PST;NOM(3,SG)","target": "се исценка"}
+{"input": "Inflect се исценка | V;PROG;PST;NOM(3,PL)","target": "се исценкаа"}
+{"input": "Inflect се исценка | V;PST;NOM(3,PL)","target": "се исценкаа"}
+{"input": "Inflect се исценка | V;PROG;PST;NOM(1,SG)","target": "се исценкав"}
+{"input": "Inflect се исценка | V;PROG;PST;NOM(1,PL)","target": "се исценкавме"}
+{"input": "Inflect се исценка | V;PST;NOM(1,PL)","target": "се исценкавме"}
+{"input": "Inflect се исценка | V;PROG;PST;NOM(2,PL)","target": "се исценкавте"}
+{"input": "Inflect се исценка | V;PST;NOM(2,PL)","target": "се исценкавте"}
+{"input": "Inflect се исценка | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "се исценкала"}
+{"input": "Inflect се исценка | V.PTCP;PST;NOM(SG,FEM)","target": "се исценкала"}
+{"input": "Inflect се исценка | V.PTCP;PST;NOM(PL)","target": "се исценкале"}
+{"input": "Inflect се исценка | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "се исценкало"}
+{"input": "Inflect се исценка | V.PTCP;PST;NOM(SG,NEUT)","target": "се исценкало"}
+{"input": "Inflect се исценка | V;PRS;NOM(1,SG)","target": "се исценкам"}
+{"input": "Inflect се исценка | V;PRS;NOM(1,PL)","target": "се исценкаме"}
+{"input": "Inflect се исценка | V;PRS;NOM(2,SG)","target": "се исценкаш"}
+{"input": "Inflect се исценка | V;PROG;PST;NOM(2,SG)","target": "се исценкаше"}
+{"input": "Inflect се исценка | V;PROG;PST;NOM(3,SG)","target": "се исценкаше"}
+{"input": "Inflect кесе | N;SG;INDF","target": "кесе"}
+{"input": "Inflect кесе | N;VOC(SG)","target": "кесе"}
+{"input": "Inflect кесе | N;REMT;SG;DEF","target": "кесено"}
+{"input": "Inflect кесе | N;SG;DEF","target": "кесето"}
+{"input": "Inflect кесе | N;PL;INDF","target": "кесиња"}
+{"input": "Inflect кесе | N;VOC(PL)","target": "кесиња"}
+{"input": "Inflect кесе | N;PROX;PL;DEF","target": "кесињава"}
+{"input": "Inflect кесе | N;REMT;PL;DEF","target": "кесињана"}
+{"input": "Inflect кесе | N;PL;DEF","target": "кесињата"}
+{"input": "Inflect нутрија | N;PROX;PL;DEF","target": "нутрииве"}
+{"input": "Inflect нутрија | N;REMT;PL;DEF","target": "нутриине"}
+{"input": "Inflect нутрија | N;PL;DEF","target": "нутриите"}
+{"input": "Inflect нутрија | N;SG;INDF","target": "нутрија"}
+{"input": "Inflect нутрија | N;PROX;SG;DEF","target": "нутријава"}
+{"input": "Inflect нутрија | N;REMT;SG;DEF","target": "нутријана"}
+{"input": "Inflect нутрија | N;SG;DEF","target": "нутријата"}
+{"input": "Inflect нутрија | N;VOC(SG)","target": "нутријо"}
+{"input": "Inflect лакомец | N;SG;INDF","target": "лакомец"}
+{"input": "Inflect лакомец | N;PL","target": "лакомеца"}
+{"input": "Inflect лакомец | N;SG;DEF","target": "лакомецот"}
+{"input": "Inflect лакомец | N;VOC(SG)","target": "лакомецу"}
+{"input": "Inflect лакомец | N;PL;INDF","target": "лакомци"}
+{"input": "Inflect лакомец | N;PROX;PL;DEF","target": "лакомциве"}
+{"input": "Inflect шило | N;PL;INDF","target": "шила"}
+{"input": "Inflect шило | N;VOC(PL)","target": "шила"}
+{"input": "Inflect шило | N;PROX;PL;DEF","target": "шилава"}
+{"input": "Inflect шило | N;REMT;PL;DEF","target": "шилана"}
+{"input": "Inflect шило | N;SG;DEF","target": "шилото"}
+{"input": "Inflect подбив | N;SG;INDF","target": "подбив"}
+{"input": "Inflect подбив | N;PL;INDF","target": "подбиви"}
+{"input": "Inflect подбив | N;PROX;SG;DEF","target": "подбивов"}
+{"input": "Inflect подбив | N;VOC(SG)","target": "подбиву"}
+{"input": "Inflect обвинител | N;SG;INDF","target": "обвинител"}
+{"input": "Inflect обвинител | N;PL","target": "обвинитела"}
+{"input": "Inflect обвинител | N;VOC(SG)","target": "обвинителе"}
+{"input": "Inflect обвинител | N;PL;INDF","target": "обвинители"}
+{"input": "Inflect обвинител | N;VOC(PL)","target": "обвинители"}
+{"input": "Inflect обвинител | N;PROX;PL;DEF","target": "обвинителиве"}
+{"input": "Inflect обвинител | N;REMT;PL;DEF","target": "обвинителине"}
+{"input": "Inflect обвинител | N;PROX;SG;DEF","target": "обвинителов"}
+{"input": "Inflect обвинител | N;SG;DEF","target": "обвинителот"}
+{"input": "Inflect раска | N;SG;INDF","target": "раска"}
+{"input": "Inflect раска | N;PROX;SG;DEF","target": "раскава"}
+{"input": "Inflect раска | N;REMT;SG;DEF","target": "раскана"}
+{"input": "Inflect раска | N;SG;DEF","target": "раската"}
+{"input": "Inflect раска | N;PL;INDF","target": "раски"}
+{"input": "Inflect раска | N;VOC(PL)","target": "раски"}
+{"input": "Inflect раска | N;PL;DEF","target": "раските"}
+{"input": "Inflect раска | N;VOC(SG)","target": "раско"}
+{"input": "Inflect прифатлив | ADJ;SG;FEM;INDF","target": "прифатлива"}
+{"input": "Inflect прифатлив | ADJ;PROX;SG;FEM;DEF","target": "прифатливава"}
+{"input": "Inflect прифатлив | ADJ;SG;FEM;DEF","target": "прифатливата"}
+{"input": "Inflect прифатлив | ADJ;PL;INDF","target": "прифатливи"}
+{"input": "Inflect прифатлив | ADJ;PROX;PL;DEF","target": "прифатлививе"}
+{"input": "Inflect прифатлив | ADJ;REMT;PL;DEF","target": "прифатливине"}
+{"input": "Inflect прифатлив | ADJ;PROX;SG;MASC;DEF","target": "прифатливиов"}
+{"input": "Inflect прифатлив | ADJ;PL;DEF","target": "прифатливите"}
+{"input": "Inflect прифатлив | ADJ;SG;NEUT;INDF","target": "прифатливо"}
+{"input": "Inflect прифатлив | ADJ;PROX;SG;NEUT;DEF","target": "прифатливово"}
+{"input": "Inflect прифатлив | ADJ;SG;NEUT;DEF","target": "прифатливото"}
+{"input": "Inflect заљубен | ADJ;SG;MASC;INDF","target": "заљубен"}
+{"input": "Inflect заљубен | ADJ;SG;FEM;INDF","target": "заљубена"}
+{"input": "Inflect заљубен | ADJ;PROX;SG;FEM;DEF","target": "заљубенава"}
+{"input": "Inflect заљубен | ADJ;REMT;SG;FEM;DEF","target": "заљубенана"}
+{"input": "Inflect заљубен | ADJ;PL;INDF","target": "заљубени"}
+{"input": "Inflect заљубен | ADJ;REMT;PL;DEF","target": "заљубенине"}
+{"input": "Inflect заљубен | ADJ;PROX;SG;MASC;DEF","target": "заљубениов"}
+{"input": "Inflect заљубен | ADJ;REMT;SG;MASC;DEF","target": "заљубенион"}
+{"input": "Inflect заљубен | ADJ;SG;MASC;DEF","target": "заљубениот"}
+{"input": "Inflect заљубен | ADJ;SG;NEUT;INDF","target": "заљубено"}
+{"input": "Inflect заљубен | ADJ;PROX;SG;NEUT;DEF","target": "заљубеново"}
+{"input": "Inflect заљубен | ADJ;REMT;SG;NEUT;DEF","target": "заљубеноно"}
+{"input": "Inflect заљубен | ADJ;SG;NEUT;DEF","target": "заљубеното"}
+{"input": "Inflect среден | ADJ;SG;MASC;INDF","target": "среден"}
+{"input": "Inflect среден | ADJ;PROX;SG;FEM;DEF","target": "среднава"}
+{"input": "Inflect среден | ADJ;REMT;SG;FEM;DEF","target": "среднана"}
+{"input": "Inflect среден | ADJ;PL;INDF","target": "средни"}
+{"input": "Inflect среден | ADJ;PROX;PL;DEF","target": "средниве"}
+{"input": "Inflect среден | ADJ;REMT;PL;DEF","target": "среднине"}
+{"input": "Inflect среден | ADJ;PROX;SG;MASC;DEF","target": "средниов"}
+{"input": "Inflect среден | ADJ;REMT;SG;MASC;DEF","target": "среднион"}
+{"input": "Inflect среден | ADJ;PL;DEF","target": "средните"}
+{"input": "Inflect среден | ADJ;SG;NEUT;INDF","target": "средно"}
+{"input": "Inflect среден | ADJ;REMT;SG;NEUT;DEF","target": "средноно"}
+{"input": "Inflect среден | ADJ;SG;NEUT;DEF","target": "средното"}
+{"input": "Inflect сопнува | V;PRS;NOM(3,SG)","target": "сопнува"}
+{"input": "Inflect сопнува | V;PROG;PST;NOM(3,PL)","target": "сопнуваа"}
+{"input": "Inflect сопнува | V;PRS;NOM(3,PL)","target": "сопнуваат"}
+{"input": "Inflect сопнува | V;PROG;PST;NOM(1,SG)","target": "сопнував"}
+{"input": "Inflect сопнува | V;PROG;PST;NOM(1,PL)","target": "сопнувавме"}
+{"input": "Inflect сопнува | V;PROG;PST;NOM(2,PL)","target": "сопнувавте"}
+{"input": "Inflect сопнува | V.CVB;NOM()","target": "сопнувајќи"}
+{"input": "Inflect сопнува | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "сопнувал"}
+{"input": "Inflect сопнува | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "сопнувала"}
+{"input": "Inflect сопнува | V;PRS;NOM(1,SG)","target": "сопнувам"}
+{"input": "Inflect сопнува | V.PTCP;PST;PASS;NOM()","target": "сопнуван"}
+{"input": "Inflect сопнува | V.MSDR;NOM()","target": "сопнување"}
+{"input": "Inflect сопнува | V;PRS;NOM(2,SG)","target": "сопнуваш"}
+{"input": "Inflect Швеѓанка | N;PROX;SG;DEF","target": "Швеѓанкава"}
+{"input": "Inflect Швеѓанка | N;REMT;SG;DEF","target": "Швеѓанкана"}
+{"input": "Inflect Швеѓанка | N;PL;INDF","target": "Швеѓанки"}
+{"input": "Inflect Швеѓанка | N;REMT;PL;DEF","target": "Швеѓанкине"}
+{"input": "Inflect Швеѓанка | N;PL;DEF","target": "Швеѓанките"}
+{"input": "Inflect ролна | N;PROX;SG;DEF","target": "ролнава"}
+{"input": "Inflect ролна | N;REMT;SG;DEF","target": "ролнана"}
+{"input": "Inflect ролна | N;SG;DEF","target": "ролната"}
+{"input": "Inflect ролна | N;PL;INDF","target": "ролни"}
+{"input": "Inflect ролна | N;VOC(PL)","target": "ролни"}
+{"input": "Inflect ролна | N;VOC(SG)","target": "ролно"}
+{"input": "Inflect чкрипи | V;PRS;NOM(1,SG)","target": "чкрипам"}
+{"input": "Inflect чкрипи | V;PROG;PST;NOM(3,PL)","target": "чкрипеа"}
+{"input": "Inflect чкрипи | V;PROG;PST;NOM(1,SG)","target": "чкрипев"}
+{"input": "Inflect чкрипи | V;PROG;PST;NOM(2,PL)","target": "чкрипевте"}
+{"input": "Inflect чкрипи | V.CVB;NOM()","target": "чкрипејќи"}
+{"input": "Inflect чкрипи | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "чкрипела"}
+{"input": "Inflect чкрипи | V.MSDR;NOM()","target": "чкрипење"}
+{"input": "Inflect чкрипи | V;IMP;NOM(2,PL)","target": "чкрипете"}
+{"input": "Inflect чкрипи | V;PROG;PST;NOM(2,SG)","target": "чкрипеше"}
+{"input": "Inflect чкрипи | V;PRS;NOM(2,SG)","target": "чкрипиш"}
+{"input": "Inflect трагедија | N;PL;INDF","target": "трагедии"}
+{"input": "Inflect трагедија | N;VOC(PL)","target": "трагедии"}
+{"input": "Inflect трагедија | N;PROX;PL;DEF","target": "трагедииве"}
+{"input": "Inflect трагедија | N;PL;DEF","target": "трагедиите"}
+{"input": "Inflect трагедија | N;PROX;SG;DEF","target": "трагедијава"}
+{"input": "Inflect трагедија | N;SG;DEF","target": "трагедијата"}
+{"input": "Inflect трагедија | N;VOC(SG)","target": "трагедијо"}
+{"input": "Inflect удар | N;SG;INDF","target": "удар"}
+{"input": "Inflect удар | N;PL","target": "удара"}
+{"input": "Inflect удар | N;PL;INDF","target": "удари"}
+{"input": "Inflect удар | N;VOC(PL)","target": "удари"}
+{"input": "Inflect удар | N;PROX;PL;DEF","target": "удариве"}
+{"input": "Inflect удар | N;PL;DEF","target": "ударите"}
+{"input": "Inflect удар | N;PROX;SG;DEF","target": "ударов"}
+{"input": "Inflect удар | N;REMT;SG;DEF","target": "ударон"}
+{"input": "Inflect удар | N;VOC(SG)","target": "удару"}
+{"input": "Inflect капира | V;PROG;PST;NOM(3,PL)","target": "капираа"}
+{"input": "Inflect капира | V;PRS;NOM(3,PL)","target": "капираат"}
+{"input": "Inflect капира | V;PROG;PST;NOM(1,SG)","target": "капирав"}
+{"input": "Inflect капира | V;PROG;PST;NOM(2,PL)","target": "капиравте"}
+{"input": "Inflect капира | V;IMP;NOM(2,SG)","target": "капирај"}
+{"input": "Inflect капира | V;IMP;NOM(2,PL)","target": "капирајте"}
+{"input": "Inflect капира | V.CVB;NOM()","target": "капирајќи"}
+{"input": "Inflect капира | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "капирала"}
+{"input": "Inflect капира | V;PRS;NOM(1,PL)","target": "капираме"}
+{"input": "Inflect капира | V.MSDR;NOM()","target": "капирање"}
+{"input": "Inflect капира | V;PRS;NOM(2,PL)","target": "капирате"}
+{"input": "Inflect капира | V;PRS;NOM(2,SG)","target": "капираш"}
+{"input": "Inflect капира | V;PROG;PST;NOM(2,SG)","target": "капираше"}
+{"input": "Inflect флоем | N;SG;INDF","target": "флоем"}
+{"input": "Inflect флоем | N;PROX;SG;DEF","target": "флоемов"}
+{"input": "Inflect флоем | N;SG;DEF","target": "флоемот"}
+{"input": "Inflect флоем | N;VOC(SG)","target": "флоему"}
+{"input": "Inflect словенечки | ADJ;PROX;SG;FEM;DEF","target": "словенечкава"}
+{"input": "Inflect словенечки | ADJ;REMT;SG;FEM;DEF","target": "словенечкана"}
+{"input": "Inflect словенечки | ADJ;PL;INDF","target": "словенечки"}
+{"input": "Inflect словенечки | ADJ;PROX;PL;DEF","target": "словенечкиве"}
+{"input": "Inflect словенечки | ADJ;REMT;PL;DEF","target": "словенечкине"}
+{"input": "Inflect словенечки | ADJ;PROX;SG;MASC;DEF","target": "словенечкиов"}
+{"input": "Inflect словенечки | ADJ;SG;MASC;DEF","target": "словенечкиот"}
+{"input": "Inflect словенечки | ADJ;PL;DEF","target": "словенечките"}
+{"input": "Inflect словенечки | ADJ;SG;NEUT;INDF","target": "словенечко"}
+{"input": "Inflect словенечки | ADJ;PROX;SG;NEUT;DEF","target": "словенечково"}
+{"input": "Inflect словенечки | ADJ;REMT;SG;NEUT;DEF","target": "словенечконо"}
+{"input": "Inflect лукав | ADJ;SG;MASC;INDF","target": "лукав"}
+{"input": "Inflect лукав | ADJ;SG;FEM;INDF","target": "лукава"}
+{"input": "Inflect лукав | ADJ;PROX;SG;FEM;DEF","target": "лукавава"}
+{"input": "Inflect лукав | ADJ;REMT;SG;FEM;DEF","target": "лукавана"}
+{"input": "Inflect лукав | ADJ;SG;FEM;DEF","target": "лукавата"}
+{"input": "Inflect лукав | ADJ;PROX;PL;DEF","target": "лукавиве"}
+{"input": "Inflect лукав | ADJ;REMT;PL;DEF","target": "лукавине"}
+{"input": "Inflect лукав | ADJ;PROX;SG;MASC;DEF","target": "лукавиов"}
+{"input": "Inflect лукав | ADJ;REMT;SG;MASC;DEF","target": "лукавион"}
+{"input": "Inflect лукав | ADJ;PL;DEF","target": "лукавите"}
+{"input": "Inflect лукав | ADJ;SG;NEUT;INDF","target": "лукаво"}
+{"input": "Inflect лукав | ADJ;PROX;SG;NEUT;DEF","target": "лукавово"}
+{"input": "Inflect лукав | ADJ;REMT;SG;NEUT;DEF","target": "лукавоно"}
+{"input": "Inflect лукав | ADJ;SG;NEUT;DEF","target": "лукавото"}
+{"input": "Inflect долета | V;PRS;NOM(3,SG)","target": "долета"}
+{"input": "Inflect долета | V;PST;NOM(3,SG)","target": "долета"}
+{"input": "Inflect долета | V;PST;NOM(3,PL)","target": "долетаа"}
+{"input": "Inflect долета | V;PROG;PST;NOM(1,PL)","target": "долетавме"}
+{"input": "Inflect долета | V;PST;NOM(1,PL)","target": "долетавме"}
+{"input": "Inflect долета | V;PROG;PST;NOM(2,PL)","target": "долетавте"}
+{"input": "Inflect долета | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "долетал"}
+{"input": "Inflect долета | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "долетала"}
+{"input": "Inflect долета | V.PTCP;PST;NOM(SG,FEM)","target": "долетала"}
+{"input": "Inflect долета | V.PTCP;PROG;PST;NOM(PL)","target": "долетале"}
+{"input": "Inflect долета | V.PTCP;PST;NOM(PL)","target": "долетале"}
+{"input": "Inflect долета | V.PTCP;PST;PASS;NOM()","target": "долетан"}
+{"input": "Inflect долета | V;PRS;NOM(2,SG)","target": "долеташ"}
+{"input": "Inflect долета | V;PROG;PST;NOM(3,SG)","target": "долеташе"}
+{"input": "Inflect соновник | N;PL","target": "соновника"}
+{"input": "Inflect соновник | N;PROX;SG;DEF","target": "соновников"}
+{"input": "Inflect соновник | N;REMT;SG;DEF","target": "соновникон"}
+{"input": "Inflect соновник | N;SG;DEF","target": "соновникот"}
+{"input": "Inflect соновник | N;VOC(SG)","target": "соновнику"}
+{"input": "Inflect соновник | N;PROX;PL;DEF","target": "соновнициве"}
+{"input": "Inflect соновник | N;PL;DEF","target": "соновниците"}
+{"input": "Inflect отклучува | V;PRS;NOM(3,SG)","target": "отклучува"}
+{"input": "Inflect отклучува | V;PROG;PST;NOM(3,PL)","target": "отклучуваа"}
+{"input": "Inflect отклучува | V;PROG;PST;NOM(2,PL)","target": "отклучувавте"}
+{"input": "Inflect отклучува | V;IMP;NOM(2,SG)","target": "отклучувај"}
+{"input": "Inflect отклучува | V.CVB;NOM()","target": "отклучувајќи"}
+{"input": "Inflect отклучува | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "отклучувал"}
+{"input": "Inflect отклучува | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "отклучувала"}
+{"input": "Inflect отклучува | V.PTCP;PROG;PST;NOM(PL)","target": "отклучувале"}
+{"input": "Inflect отклучува | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "отклучувало"}
+{"input": "Inflect отклучува | V;PRS;NOM(1,PL)","target": "отклучуваме"}
+{"input": "Inflect отклучува | V.PTCP;PST;PASS;NOM()","target": "отклучуван"}
+{"input": "Inflect отклучува | V.MSDR;NOM()","target": "отклучување"}
+{"input": "Inflect отклучува | V;PRS;NOM(2,SG)","target": "отклучуваш"}
+{"input": "Inflect отклучува | V;PROG;PST;NOM(3,SG)","target": "отклучуваше"}
+{"input": "Inflect жестокост | N;SG;INDF","target": "жестокост"}
+{"input": "Inflect жестокост | N;VOC(SG)","target": "жестокост"}
+{"input": "Inflect жестокост | N;SG;DEF","target": "жестокоста"}
+{"input": "Inflect новак | N;SG;INDF","target": "новак"}
+{"input": "Inflect новак | N;PL","target": "новака"}
+{"input": "Inflect новак | N;PROX;SG;DEF","target": "новаков"}
+{"input": "Inflect новак | N;REMT;SG;DEF","target": "новакон"}
+{"input": "Inflect новак | N;SG;DEF","target": "новакот"}
+{"input": "Inflect новак | N;VOC(SG)","target": "новаку"}
+{"input": "Inflect новак | N;PL;INDF","target": "новаци"}
+{"input": "Inflect се извешти | V.PTCP;PST;PASS;NOM()","target": "извештен"}
+{"input": "Inflect се извешти | V;IMP;NOM(2,SG)","target": "извешти се"}
+{"input": "Inflect се извешти | V;PRS;NOM(1,SG)","target": "се извештам"}
+{"input": "Inflect се извешти | V;PRS;NOM(3,PL)","target": "се извештат"}
+{"input": "Inflect се извешти | V;PROG;PST;NOM(3,PL)","target": "се извештеа"}
+{"input": "Inflect се извешти | V;PROG;PST;NOM(1,PL)","target": "се извештевме"}
+{"input": "Inflect се извешти | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "се извештел"}
+{"input": "Inflect се извешти | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "се извештела"}
+{"input": "Inflect се извешти | V.PTCP;PROG;PST;NOM(PL)","target": "се извештеле"}
+{"input": "Inflect се извешти | V;PROG;PST;NOM(2,SG)","target": "се извештеше"}
+{"input": "Inflect се извешти | V;PROG;PST;NOM(3,SG)","target": "се извештеше"}
+{"input": "Inflect се извешти | V;PRS;NOM(3,SG)","target": "се извешти"}
+{"input": "Inflect се извешти | V;PST;NOM(2,SG)","target": "се извешти"}
+{"input": "Inflect се извешти | V;PST;NOM(3,SG)","target": "се извешти"}
+{"input": "Inflect се извешти | V;PST;NOM(2,PL)","target": "се извештивте"}
+{"input": "Inflect се извешти | V;PST;NOM(3,PL)","target": "се извештија"}
+{"input": "Inflect се извешти | V.PTCP;PST;NOM(SG,MASC)","target": "се извештил"}
+{"input": "Inflect се извешти | V.PTCP;PST;NOM(PL)","target": "се извештиле"}
+{"input": "Inflect се извешти | V;PRS;NOM(1,PL)","target": "се извештиме"}
+{"input": "Inflect се извешти | V;PRS;NOM(2,PL)","target": "се извештите"}
+{"input": "Inflect се извешти | V;PRS;NOM(2,SG)","target": "се извештиш"}
+{"input": "Inflect посоли | V;PRS;NOM(3,PL)","target": "посолат"}
+{"input": "Inflect посоли | V;PROG;PST;NOM(3,PL)","target": "посолеа"}
+{"input": "Inflect посоли | V;PROG;PST;NOM(1,SG)","target": "посолев"}
+{"input": "Inflect посоли | V;PROG;PST;NOM(2,PL)","target": "посолевте"}
+{"input": "Inflect посоли | V.PTCP;PROG;PST;NOM(PL)","target": "посолеле"}
+{"input": "Inflect посоли | V;IMP;NOM(2,PL)","target": "посолете"}
+{"input": "Inflect посоли | V;PROG;PST;NOM(3,SG)","target": "посолеше"}
+{"input": "Inflect посоли | V;IMP;NOM(2,SG)","target": "посоли"}
+{"input": "Inflect посоли | V;PRS;NOM(3,SG)","target": "посоли"}
+{"input": "Inflect посоли | V;PST;NOM(2,SG)","target": "посоли"}
+{"input": "Inflect посоли | V;PST;NOM(3,SG)","target": "посоли"}
+{"input": "Inflect посоли | V;PST;NOM(1,PL)","target": "посоливме"}
+{"input": "Inflect посоли | V;PST;NOM(3,PL)","target": "посолија"}
+{"input": "Inflect посоли | V.PTCP;PST;NOM(SG,MASC)","target": "посолил"}
+{"input": "Inflect посоли | V.PTCP;PST;NOM(SG,FEM)","target": "посолила"}
+{"input": "Inflect посоли | V.PTCP;PST;NOM(PL)","target": "посолиле"}
+{"input": "Inflect посоли | V.PTCP;PST;NOM(SG,NEUT)","target": "посолило"}
+{"input": "Inflect посоли | V;PRS;NOM(1,PL)","target": "посолиме"}
+{"input": "Inflect посоли | V;PRS;NOM(2,PL)","target": "посолите"}
+{"input": "Inflect посоли | V;PRS;NOM(2,SG)","target": "посолиш"}
+{"input": "Inflect пародира | V;PRS;NOM(3,SG)","target": "пародира"}
+{"input": "Inflect пародира | V;PROG;PST;NOM(3,PL)","target": "пародираа"}
+{"input": "Inflect пародира | V;PRS;NOM(3,PL)","target": "пародираат"}
+{"input": "Inflect пародира | V;PROG;PST;NOM(1,SG)","target": "пародирав"}
+{"input": "Inflect пародира | V;PROG;PST;NOM(2,PL)","target": "пародиравте"}
+{"input": "Inflect пародира | V;IMP;NOM(2,PL)","target": "пародирајте"}
+{"input": "Inflect пародира | V.CVB;NOM()","target": "пародирајќи"}
+{"input": "Inflect пародира | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "пародирал"}
+{"input": "Inflect пародира | V.PTCP;PROG;PST;NOM(PL)","target": "пародирале"}
+{"input": "Inflect пародира | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "пародирало"}
+{"input": "Inflect пародира | V;PRS;NOM(1,SG)","target": "пародирам"}
+{"input": "Inflect пародира | V.PTCP;PST;PASS;NOM()","target": "пародиран"}
+{"input": "Inflect пародира | V.MSDR;NOM()","target": "пародирање"}
+{"input": "Inflect пародира | V;PRS;NOM(2,PL)","target": "пародирате"}
+{"input": "Inflect пародира | V;PRS;NOM(2,SG)","target": "пародираш"}
+{"input": "Inflect пародира | V;PROG;PST;NOM(2,SG)","target": "пародираше"}
+{"input": "Inflect вистинитост | N;SG;INDF","target": "вистинитост"}
+{"input": "Inflect вистинитост | N;VOC(SG)","target": "вистинитост"}
+{"input": "Inflect вистинитост | N;SG;DEF","target": "вистинитоста"}
+{"input": "Inflect нем | ADJ;SG;MASC;INDF","target": "нем"}
+{"input": "Inflect нем | ADJ;SG;FEM;INDF","target": "нема"}
+{"input": "Inflect нем | ADJ;PROX;SG;FEM;DEF","target": "немава"}
+{"input": "Inflect нем | ADJ;SG;FEM;DEF","target": "немата"}
+{"input": "Inflect нем | ADJ;PL;INDF","target": "неми"}
+{"input": "Inflect нем | ADJ;PROX;PL;DEF","target": "немиве"}
+{"input": "Inflect нем | ADJ;PROX;SG;MASC;DEF","target": "немиов"}
+{"input": "Inflect нем | ADJ;REMT;SG;MASC;DEF","target": "немион"}
+{"input": "Inflect нем | ADJ;SG;MASC;DEF","target": "немиот"}
+{"input": "Inflect нем | ADJ;SG;NEUT;INDF","target": "немо"}
+{"input": "Inflect нем | ADJ;PROX;SG;NEUT;DEF","target": "немово"}
+{"input": "Inflect нем | ADJ;SG;NEUT;DEF","target": "немото"}
+{"input": "Inflect разбуди | V;PRS;NOM(1,SG)","target": "разбудам"}
+{"input": "Inflect разбуди | V;PRS;NOM(3,PL)","target": "разбудат"}
+{"input": "Inflect разбуди | V;PROG;PST;NOM(1,SG)","target": "разбудев"}
+{"input": "Inflect разбуди | V;PROG;PST;NOM(1,PL)","target": "разбудевме"}
+{"input": "Inflect разбуди | V;PROG;PST;NOM(2,PL)","target": "разбудевте"}
+{"input": "Inflect разбуди | V.PTCP;PROG;PST;NOM(PL)","target": "разбуделе"}
+{"input": "Inflect разбуди | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "разбудело"}
+{"input": "Inflect разбуди | V;IMP;NOM(2,PL)","target": "разбудете"}
+{"input": "Inflect разбуди | V;PROG;PST;NOM(3,SG)","target": "разбудеше"}
+{"input": "Inflect разбуди | V;IMP;NOM(2,SG)","target": "разбуди"}
+{"input": "Inflect разбуди | V;PST;NOM(2,SG)","target": "разбуди"}
+{"input": "Inflect разбуди | V;PST;NOM(3,SG)","target": "разбуди"}
+{"input": "Inflect разбуди | V;PST;NOM(1,SG)","target": "разбудив"}
+{"input": "Inflect разбуди | V;PST;NOM(2,PL)","target": "разбудивте"}
+{"input": "Inflect разбуди | V.PTCP;PST;NOM(SG,MASC)","target": "разбудил"}
+{"input": "Inflect разбуди | V.PTCP;PST;NOM(SG,FEM)","target": "разбудила"}
+{"input": "Inflect разбуди | V.PTCP;PST;NOM(PL)","target": "разбудиле"}
+{"input": "Inflect разбуди | V.PTCP;PST;NOM(SG,NEUT)","target": "разбудило"}
+{"input": "Inflect разбуди | V;PRS;NOM(1,PL)","target": "разбудиме"}
+{"input": "Inflect разбуди | V;PRS;NOM(2,PL)","target": "разбудите"}
+{"input": "Inflect разбуди | V;PRS;NOM(2,SG)","target": "разбудиш"}
+{"input": "Inflect расол | N;PROX;SG;DEF","target": "расолов"}
+{"input": "Inflect расол | N;REMT;SG;DEF","target": "расолон"}
+{"input": "Inflect расол | N;SG;DEF","target": "расолот"}
+{"input": "Inflect доземе | V;PST;NOM(3,SG)","target": "дозеде"}
+{"input": "Inflect доземе | V;PST;NOM(3,PL)","target": "дозедоа"}
+{"input": "Inflect доземе | V;PST;NOM(1,SG)","target": "дозедов"}
+{"input": "Inflect доземе | V;PST;NOM(1,PL)","target": "дозедовме"}
+{"input": "Inflect доземе | V;PST;NOM(2,PL)","target": "дозедовте"}
+{"input": "Inflect доземе | V.PTCP;PST;NOM(SG,MASC)","target": "дозел"}
+{"input": "Inflect доземе | V.PTCP;PST;NOM(SG,FEM)","target": "дозела"}
+{"input": "Inflect доземе | V.PTCP;PST;NOM(PL)","target": "дозеле"}
+{"input": "Inflect доземе | V;PRS;NOM(1,SG)","target": "доземам"}
+{"input": "Inflect доземе | V;PROG;PST;NOM(1,SG)","target": "доземев"}
+{"input": "Inflect доземе | V;PROG;PST;NOM(1,PL)","target": "доземевме"}
+{"input": "Inflect доземе | V;PROG;PST;NOM(2,PL)","target": "доземевте"}
+{"input": "Inflect доземе | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "доземел"}
+{"input": "Inflect доземе | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "доземела"}
+{"input": "Inflect доземе | V.PTCP;PROG;PST;NOM(PL)","target": "доземеле"}
+{"input": "Inflect доземе | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "доземело"}
+{"input": "Inflect доземе | V;PRS;NOM(1,PL)","target": "доземеме"}
+{"input": "Inflect доземе | V.PTCP;PST;PASS;NOM()","target": "доземен"}
+{"input": "Inflect доземе | V;PRS;NOM(2,PL)","target": "доземете"}
+{"input": "Inflect доземе | V;PROG;PST;NOM(2,SG)","target": "доземеше"}
+{"input": "Inflect доземе | V;PROG;PST;NOM(3,SG)","target": "доземеше"}
+{"input": "Inflect доземе | V;IMP;NOM(2,SG)","target": "доземи"}
+{"input": "Inflect уличка | N;SG;INDF","target": "уличка"}
+{"input": "Inflect уличка | N;PROX;SG;DEF","target": "уличкава"}
+{"input": "Inflect уличка | N;PL;INDF","target": "улички"}
+{"input": "Inflect уличка | N;PROX;PL;DEF","target": "уличкиве"}
+{"input": "Inflect уличка | N;REMT;PL;DEF","target": "уличкине"}
+{"input": "Inflect повраќа | V;PRS;NOM(3,SG)","target": "повраќа"}
+{"input": "Inflect повраќа | V;PROG;PST;NOM(3,PL)","target": "повраќаа"}
+{"input": "Inflect повраќа | V;PRS;NOM(3,PL)","target": "повраќаат"}
+{"input": "Inflect повраќа | V;PROG;PST;NOM(1,PL)","target": "повраќавме"}
+{"input": "Inflect повраќа | V;IMP;NOM(2,SG)","target": "повраќај"}
+{"input": "Inflect повраќа | V.CVB;NOM()","target": "повраќајќи"}
+{"input": "Inflect повраќа | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "повраќал"}
+{"input": "Inflect повраќа | V.PTCP;PROG;PST;NOM(PL)","target": "повраќале"}
+{"input": "Inflect повраќа | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "повраќало"}
+{"input": "Inflect повраќа | V;PRS;NOM(1,SG)","target": "повраќам"}
+{"input": "Inflect повраќа | V;PRS;NOM(1,PL)","target": "повраќаме"}
+{"input": "Inflect повраќа | V.PTCP;PST;PASS;NOM()","target": "повраќан"}
+{"input": "Inflect повраќа | V;PRS;NOM(2,PL)","target": "повраќате"}
+{"input": "Inflect повраќа | V;PROG;PST;NOM(2,SG)","target": "повраќаше"}
+{"input": "Inflect неспособен | ADJ;SG;MASC;INDF","target": "неспособен"}
+{"input": "Inflect неспособен | ADJ;PROX;SG;FEM;DEF","target": "неспособнава"}
+{"input": "Inflect неспособен | ADJ;REMT;SG;FEM;DEF","target": "неспособнана"}
+{"input": "Inflect неспособен | ADJ;SG;FEM;DEF","target": "неспособната"}
+{"input": "Inflect неспособен | ADJ;SG;MASC;DEF","target": "неспособниот"}
+{"input": "Inflect неспособен | ADJ;PL;DEF","target": "неспособните"}
+{"input": "Inflect неспособен | ADJ;SG;NEUT;DEF","target": "неспособното"}
+{"input": "Inflect селанец | N;PROX;SG;DEF","target": "селанецов"}
+{"input": "Inflect селанец | N;REMT;SG;DEF","target": "селанецон"}
+{"input": "Inflect селанец | N;VOC(SG)","target": "селанецу"}
+{"input": "Inflect селанец | N;PROX;PL;DEF","target": "селаниве"}
+{"input": "Inflect селанец | N;PL;DEF","target": "селаните"}
+{"input": "Inflect изедначи | V;PRS;NOM(1,SG)","target": "изедначам"}
+{"input": "Inflect изедначи | V;PRS;NOM(3,PL)","target": "изедначат"}
+{"input": "Inflect изедначи | V;PROG;PST;NOM(1,SG)","target": "изедначев"}
+{"input": "Inflect изедначи | V;PROG;PST;NOM(2,PL)","target": "изедначевте"}
+{"input": "Inflect изедначи | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "изедначела"}
+{"input": "Inflect изедначи | V.PTCP;PROG;PST;NOM(PL)","target": "изедначеле"}
+{"input": "Inflect изедначи | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "изедначело"}
+{"input": "Inflect изедначи | V.PTCP;PST;PASS;NOM()","target": "изедначен"}
+{"input": "Inflect изедначи | V;IMP;NOM(2,PL)","target": "изедначете"}
+{"input": "Inflect изедначи | V;PROG;PST;NOM(3,SG)","target": "изедначеше"}
+{"input": "Inflect изедначи | V;IMP;NOM(2,SG)","target": "изедначи"}
+{"input": "Inflect изедначи | V;PRS;NOM(3,SG)","target": "изедначи"}
+{"input": "Inflect изедначи | V;PST;NOM(1,SG)","target": "изедначив"}
+{"input": "Inflect изедначи | V;PST;NOM(1,PL)","target": "изедначивме"}
+{"input": "Inflect изедначи | V;PST;NOM(2,PL)","target": "изедначивте"}
+{"input": "Inflect изедначи | V;PST;NOM(3,PL)","target": "изедначија"}
+{"input": "Inflect изедначи | V.PTCP;PST;NOM(SG,MASC)","target": "изедначил"}
+{"input": "Inflect изедначи | V.PTCP;PST;NOM(SG,FEM)","target": "изедначила"}
+{"input": "Inflect изедначи | V;PRS;NOM(2,PL)","target": "изедначите"}
+{"input": "Inflect балкон | N;SG;INDF","target": "балкон"}
+{"input": "Inflect балкон | N;PL","target": "балкона"}
+{"input": "Inflect балкон | N;PL;INDF","target": "балкони"}
+{"input": "Inflect балкон | N;VOC(PL)","target": "балкони"}
+{"input": "Inflect балкон | N;REMT;PL;DEF","target": "балконине"}
+{"input": "Inflect балкон | N;PL;DEF","target": "балконите"}
+{"input": "Inflect балкон | N;PROX;SG;DEF","target": "балконов"}
+{"input": "Inflect балкон | N;REMT;SG;DEF","target": "балконон"}
+{"input": "Inflect балкон | N;SG;DEF","target": "балконот"}
+{"input": "Inflect обеспокои | V;PROG;PST;NOM(1,PL)","target": "обеспокоевме"}
+{"input": "Inflect обеспокои | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "обеспокоела"}
+{"input": "Inflect обеспокои | V.PTCP;PROG;PST;NOM(PL)","target": "обеспокоеле"}
+{"input": "Inflect обеспокои | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "обеспокоело"}
+{"input": "Inflect обеспокои | V;PROG;PST;NOM(3,SG)","target": "обеспокоеше"}
+{"input": "Inflect обеспокои | V;PRS;NOM(3,SG)","target": "обеспокои"}
+{"input": "Inflect обеспокои | V;PST;NOM(3,SG)","target": "обеспокои"}
+{"input": "Inflect обеспокои | V;PST;NOM(2,PL)","target": "обеспокоивте"}
+{"input": "Inflect обеспокои | V;PST;NOM(3,PL)","target": "обеспокоија"}
+{"input": "Inflect обеспокои | V.PTCP;PST;NOM(SG,FEM)","target": "обеспокоила"}
+{"input": "Inflect обеспокои | V.PTCP;PST;NOM(PL)","target": "обеспокоиле"}
+{"input": "Inflect обеспокои | V;PRS;NOM(1,PL)","target": "обеспокоиме"}
+{"input": "Inflect обеспокои | V;PRS;NOM(2,SG)","target": "обеспокоиш"}
+{"input": "Inflect обеспокои | V;PRS;NOM(1,SG)","target": "обеспокојам"}
+{"input": "Inflect обеспокои | V;IMP;NOM(2,PL)","target": "обеспокојте"}
+{"input": "Inflect тркач | N;SG;INDF","target": "тркач"}
+{"input": "Inflect тркач | N;VOC(PL)","target": "тркачи"}
+{"input": "Inflect тркач | N;PROX;PL;DEF","target": "тркачиве"}
+{"input": "Inflect тркач | N;PL;DEF","target": "тркачите"}
+{"input": "Inflect тркач | N;REMT;SG;DEF","target": "тркачон"}
+{"input": "Inflect тркач | N;VOC(SG)","target": "тркачу"}
+{"input": "Inflect мускул | N;SG;INDF","target": "мускул"}
+{"input": "Inflect мускул | N;PL;INDF","target": "мускули"}
+{"input": "Inflect мускул | N;PROX;PL;DEF","target": "мускуливе"}
+{"input": "Inflect мускул | N;REMT;PL;DEF","target": "мускулине"}
+{"input": "Inflect мускул | N;REMT;SG;DEF","target": "мускулон"}
+{"input": "Inflect мускул | N;SG;DEF","target": "мускулот"}
+{"input": "Inflect мускул | N;VOC(SG)","target": "мускулу"}
+{"input": "Inflect забуна | N;SG;INDF","target": "забуна"}
+{"input": "Inflect забуна | N;PL;INDF","target": "забуни"}
+{"input": "Inflect забуна | N;VOC(PL)","target": "забуни"}
+{"input": "Inflect забуна | N;PROX;PL;DEF","target": "забуниве"}
+{"input": "Inflect забуна | N;REMT;PL;DEF","target": "забунине"}
+{"input": "Inflect забуна | N;VOC(SG)","target": "забуно"}
+{"input": "Inflect безуспешност | N;SG;INDF","target": "безуспешност"}
+{"input": "Inflect љубопитник | N;SG;INDF","target": "љубопитник"}
+{"input": "Inflect љубопитник | N;VOC(SG)","target": "љубопитнике"}
+{"input": "Inflect љубопитник | N;PROX;SG;DEF","target": "љубопитников"}
+{"input": "Inflect љубопитник | N;REMT;SG;DEF","target": "љубопитникон"}
+{"input": "Inflect љубопитник | N;SG;DEF","target": "љубопитникот"}
+{"input": "Inflect љубопитник | N;PL;INDF","target": "љубопитници"}
+{"input": "Inflect љубопитник | N;VOC(PL)","target": "љубопитници"}
+{"input": "Inflect љубопитник | N;PROX;PL;DEF","target": "љубопитнициве"}
+{"input": "Inflect љубопитник | N;REMT;PL;DEF","target": "љубопитницине"}
+{"input": "Inflect љубопитник | N;PL;DEF","target": "љубопитниците"}
+{"input": "Inflect времетраење | N;PL;INDF","target": "времетраења"}
+{"input": "Inflect времетраење | N;PROX;PL;DEF","target": "времетраењава"}
+{"input": "Inflect времетраење | N;REMT;PL;DEF","target": "времетраењана"}
+{"input": "Inflect времетраење | N;PL;DEF","target": "времетраењата"}
+{"input": "Inflect времетраење | N;VOC(SG)","target": "времетраење"}
+{"input": "Inflect времетраење | N;REMT;SG;DEF","target": "времетраењено"}
+{"input": "Inflect времетраење | N;SG;DEF","target": "времетраењето"}
+{"input": "Inflect чавка | N;SG;INDF","target": "чавка"}
+{"input": "Inflect чавка | N;PROX;SG;DEF","target": "чавкава"}
+{"input": "Inflect чавка | N;SG;DEF","target": "чавката"}
+{"input": "Inflect чавка | N;PL;INDF","target": "чавки"}
+{"input": "Inflect чавка | N;VOC(PL)","target": "чавки"}
+{"input": "Inflect чавка | N;PROX;PL;DEF","target": "чавкиве"}
+{"input": "Inflect чавка | N;REMT;PL;DEF","target": "чавкине"}
+{"input": "Inflect чавка | N;PL;DEF","target": "чавките"}
+{"input": "Inflect пикник | N;SG;INDF","target": "пикник"}
+{"input": "Inflect пикник | N;PL","target": "пикника"}
+{"input": "Inflect пикник | N;PROX;SG;DEF","target": "пикников"}
+{"input": "Inflect пикник | N;SG;DEF","target": "пикникот"}
+{"input": "Inflect пикник | N;VOC(PL)","target": "пикници"}
+{"input": "Inflect пикник | N;PROX;PL;DEF","target": "пикнициве"}
+{"input": "Inflect пикник | N;REMT;PL;DEF","target": "пикницине"}
+{"input": "Inflect пикник | N;PL;DEF","target": "пикниците"}
+{"input": "Inflect морал | N;PROX;SG;DEF","target": "моралов"}
+{"input": "Inflect морал | N;SG;DEF","target": "моралот"}
+{"input": "Inflect истушува | V;PRS;NOM(3,SG)","target": "истушува"}
+{"input": "Inflect истушува | V;PROG;PST;NOM(3,PL)","target": "истушуваа"}
+{"input": "Inflect истушува | V;PROG;PST;NOM(1,SG)","target": "истушував"}
+{"input": "Inflect истушува | V;PROG;PST;NOM(2,PL)","target": "истушувавте"}
+{"input": "Inflect истушува | V;IMP;NOM(2,SG)","target": "истушувај"}
+{"input": "Inflect истушува | V;IMP;NOM(2,PL)","target": "истушувајте"}
+{"input": "Inflect истушува | V.CVB;NOM()","target": "истушувајќи"}
+{"input": "Inflect истушува | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "истушувал"}
+{"input": "Inflect истушува | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "истушувала"}
+{"input": "Inflect истушува | V.PTCP;PROG;PST;NOM(PL)","target": "истушувале"}
+{"input": "Inflect истушува | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "истушувало"}
+{"input": "Inflect истушува | V;PRS;NOM(1,SG)","target": "истушувам"}
+{"input": "Inflect истушува | V;PRS;NOM(1,PL)","target": "истушуваме"}
+{"input": "Inflect истушува | V;PRS;NOM(2,PL)","target": "истушувате"}
+{"input": "Inflect истушува | V;PRS;NOM(2,SG)","target": "истушуваш"}
+{"input": "Inflect истушува | V;PROG;PST;NOM(2,SG)","target": "истушуваше"}
+{"input": "Inflect непогрешлив | ADJ;SG;MASC;INDF","target": "непогрешлив"}
+{"input": "Inflect непогрешлив | ADJ;SG;FEM;INDF","target": "непогрешлива"}
+{"input": "Inflect непогрешлив | ADJ;PROX;SG;FEM;DEF","target": "непогрешливава"}
+{"input": "Inflect непогрешлив | ADJ;REMT;SG;FEM;DEF","target": "непогрешливана"}
+{"input": "Inflect непогрешлив | ADJ;PL;INDF","target": "непогрешливи"}
+{"input": "Inflect непогрешлив | ADJ;PROX;PL;DEF","target": "непогрешлививе"}
+{"input": "Inflect непогрешлив | ADJ;REMT;PL;DEF","target": "непогрешливине"}
+{"input": "Inflect непогрешлив | ADJ;SG;MASC;DEF","target": "непогрешливиот"}
+{"input": "Inflect непогрешлив | ADJ;PL;DEF","target": "непогрешливите"}
+{"input": "Inflect непогрешлив | ADJ;PROX;SG;NEUT;DEF","target": "непогрешливово"}
+{"input": "Inflect непогрешлив | ADJ;REMT;SG;NEUT;DEF","target": "непогрешливоно"}
+{"input": "Inflect непогрешлив | ADJ;SG;NEUT;DEF","target": "непогрешливото"}
+{"input": "Inflect рубин | N;SG;INDF","target": "рубин"}
+{"input": "Inflect рубин | N;PL;INDF","target": "рубини"}
+{"input": "Inflect рубин | N;PROX;PL;DEF","target": "рубиниве"}
+{"input": "Inflect рубин | N;REMT;PL;DEF","target": "рубинине"}
+{"input": "Inflect рубин | N;PL;DEF","target": "рубините"}
+{"input": "Inflect рубин | N;PROX;SG;DEF","target": "рубинов"}
+{"input": "Inflect рубин | N;REMT;SG;DEF","target": "рубинон"}
+{"input": "Inflect рубин | N;VOC(SG)","target": "рубину"}
+{"input": "Inflect папаја | N;PL;INDF","target": "папаи"}
+{"input": "Inflect папаја | N;VOC(PL)","target": "папаи"}
+{"input": "Inflect папаја | N;PROX;PL;DEF","target": "папаиве"}
+{"input": "Inflect папаја | N;REMT;PL;DEF","target": "папаине"}
+{"input": "Inflect папаја | N;PL;DEF","target": "папаите"}
+{"input": "Inflect папаја | N;SG;INDF","target": "папаја"}
+{"input": "Inflect папаја | N;REMT;SG;DEF","target": "папајана"}
+{"input": "Inflect папаја | N;VOC(SG)","target": "папајо"}
+{"input": "Inflect шпагета | N;SG;INDF","target": "шпагета"}
+{"input": "Inflect шпагета | N;REMT;SG;DEF","target": "шпагетана"}
+{"input": "Inflect шпагета | N;SG;DEF","target": "шпагетата"}
+{"input": "Inflect шпагета | N;REMT;PL;DEF","target": "шпагетине"}
+{"input": "Inflect шпагета | N;PL;DEF","target": "шпагетите"}
+{"input": "Inflect се позабавува | V;IMP;NOM(2,SG)","target": "позабавувај се"}
+{"input": "Inflect се позабавува | V;PRS;NOM(3,SG)","target": "се позабавува"}
+{"input": "Inflect се позабавува | V;PST;NOM(2,SG)","target": "се позабавува"}
+{"input": "Inflect се позабавува | V;PST;NOM(3,SG)","target": "се позабавува"}
+{"input": "Inflect се позабавува | V;PRS;NOM(3,PL)","target": "се позабавуваат"}
+{"input": "Inflect се позабавува | V;PST;NOM(1,SG)","target": "се позабавував"}
+{"input": "Inflect се позабавува | V;PROG;PST;NOM(1,PL)","target": "се позабавувавме"}
+{"input": "Inflect се позабавува | V;PROG;PST;NOM(2,PL)","target": "се позабавувавте"}
+{"input": "Inflect се позабавува | V;PST;NOM(2,PL)","target": "се позабавувавте"}
+{"input": "Inflect се позабавува | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "се позабавувал"}
+{"input": "Inflect се позабавува | V.PTCP;PST;NOM(SG,FEM)","target": "се позабавувала"}
+{"input": "Inflect се позабавува | V.PTCP;PROG;PST;NOM(PL)","target": "се позабавувале"}
+{"input": "Inflect се позабавува | V.PTCP;PST;NOM(PL)","target": "се позабавувале"}
+{"input": "Inflect се позабавува | V.PTCP;PST;NOM(SG,NEUT)","target": "се позабавувало"}
+{"input": "Inflect се позабавува | V;PRS;NOM(2,PL)","target": "се позабавувате"}
+{"input": "Inflect се позабавува | V;PROG;PST;NOM(2,SG)","target": "се позабавуваше"}
+{"input": "Inflect се позабавува | V;PROG;PST;NOM(3,SG)","target": "се позабавуваше"}
+{"input": "Inflect галама | N;SG;INDF","target": "галама"}
+{"input": "Inflect галама | N;PROX;SG;DEF","target": "галамава"}
+{"input": "Inflect галама | N;SG;DEF","target": "галамата"}
+{"input": "Inflect галама | N;PL;INDF","target": "галами"}
+{"input": "Inflect галама | N;PROX;PL;DEF","target": "галамиве"}
+{"input": "Inflect лев | ADJ;SG;MASC;INDF","target": "лев"}
+{"input": "Inflect лев | ADJ;SG;FEM;INDF","target": "лева"}
+{"input": "Inflect лев | ADJ;SG;FEM;DEF","target": "левата"}
+{"input": "Inflect лев | ADJ;PL;INDF","target": "леви"}
+{"input": "Inflect лев | ADJ;PROX;PL;DEF","target": "левиве"}
+{"input": "Inflect лев | ADJ;REMT;PL;DEF","target": "левине"}
+{"input": "Inflect лев | ADJ;PROX;SG;MASC;DEF","target": "левиов"}
+{"input": "Inflect лев | ADJ;REMT;SG;MASC;DEF","target": "левион"}
+{"input": "Inflect лев | ADJ;SG;MASC;DEF","target": "левиот"}
+{"input": "Inflect лев | ADJ;PL;DEF","target": "левите"}
+{"input": "Inflect лев | ADJ;SG;NEUT;DEF","target": "левото"}
+{"input": "Inflect преубеди | V;PRS;NOM(1,SG)","target": "преубедам"}
+{"input": "Inflect преубеди | V;PRS;NOM(3,PL)","target": "преубедат"}
+{"input": "Inflect преубеди | V;PROG;PST;NOM(3,PL)","target": "преубедеа"}
+{"input": "Inflect преубеди | V;PROG;PST;NOM(1,SG)","target": "преубедев"}
+{"input": "Inflect преубеди | V;PROG;PST;NOM(1,PL)","target": "преубедевме"}
+{"input": "Inflect преубеди | V;PROG;PST;NOM(2,PL)","target": "преубедевте"}
+{"input": "Inflect преубеди | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "преубедел"}
+{"input": "Inflect преубеди | V.PTCP;PROG;PST;NOM(PL)","target": "преубеделе"}
+{"input": "Inflect преубеди | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "преубедело"}
+{"input": "Inflect преубеди | V.PTCP;PST;PASS;NOM()","target": "преубеден"}
+{"input": "Inflect преубеди | V;IMP;NOM(2,PL)","target": "преубедете"}
+{"input": "Inflect преубеди | V;PRS;NOM(3,SG)","target": "преубеди"}
+{"input": "Inflect преубеди | V;PST;NOM(2,SG)","target": "преубеди"}
+{"input": "Inflect преубеди | V;PST;NOM(3,SG)","target": "преубеди"}
+{"input": "Inflect преубеди | V;PST;NOM(1,SG)","target": "преубедив"}
+{"input": "Inflect преубеди | V;PST;NOM(3,PL)","target": "преубедија"}
+{"input": "Inflect преубеди | V.PTCP;PST;NOM(SG,MASC)","target": "преубедил"}
+{"input": "Inflect преубеди | V.PTCP;PST;NOM(PL)","target": "преубедиле"}
+{"input": "Inflect преубеди | V.PTCP;PST;NOM(SG,NEUT)","target": "преубедило"}
+{"input": "Inflect преубеди | V;PRS;NOM(2,PL)","target": "преубедите"}
+{"input": "Inflect преубеди | V;PRS;NOM(2,SG)","target": "преубедиш"}
+{"input": "Inflect лажица | N;PROX;SG;DEF","target": "лажицава"}
+{"input": "Inflect лажица | N;VOC(SG)","target": "лажице"}
+{"input": "Inflect лажица | N;PL;INDF","target": "лажици"}
+{"input": "Inflect лажица | N;VOC(PL)","target": "лажици"}
+{"input": "Inflect примамува | V;PRS;NOM(3,SG)","target": "примамува"}
+{"input": "Inflect примамува | V;PROG;PST;NOM(3,PL)","target": "примамуваа"}
+{"input": "Inflect примамува | V;PROG;PST;NOM(1,PL)","target": "примамувавме"}
+{"input": "Inflect примамува | V;IMP;NOM(2,SG)","target": "примамувај"}
+{"input": "Inflect примамува | V.CVB;NOM()","target": "примамувајќи"}
+{"input": "Inflect примамува | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "примамувал"}
+{"input": "Inflect примамува | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "примамувала"}
+{"input": "Inflect примамува | V.PTCP;PROG;PST;NOM(PL)","target": "примамувале"}
+{"input": "Inflect примамува | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "примамувало"}
+{"input": "Inflect примамува | V;PRS;NOM(1,SG)","target": "примамувам"}
+{"input": "Inflect примамува | V.PTCP;PST;PASS;NOM()","target": "примамуван"}
+{"input": "Inflect примамува | V.MSDR;NOM()","target": "примамување"}
+{"input": "Inflect примамува | V;PRS;NOM(2,PL)","target": "примамувате"}
+{"input": "Inflect примамува | V;PRS;NOM(2,SG)","target": "примамуваш"}
+{"input": "Inflect примамува | V;PROG;PST;NOM(2,SG)","target": "примамуваше"}
+{"input": "Inflect зафати | V;PRS;NOM(1,SG)","target": "зафатам"}
+{"input": "Inflect зафати | V;PRS;NOM(3,PL)","target": "зафатат"}
+{"input": "Inflect зафати | V;PROG;PST;NOM(3,PL)","target": "зафатеа"}
+{"input": "Inflect зафати | V;PROG;PST;NOM(1,SG)","target": "зафатев"}
+{"input": "Inflect зафати | V;PROG;PST;NOM(1,PL)","target": "зафатевме"}
+{"input": "Inflect зафати | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "зафател"}
+{"input": "Inflect зафати | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "зафатела"}
+{"input": "Inflect зафати | V.PTCP;PROG;PST;NOM(PL)","target": "зафателе"}
+{"input": "Inflect зафати | V.PTCP;PST;PASS;NOM()","target": "зафатен"}
+{"input": "Inflect зафати | V;IMP;NOM(2,PL)","target": "зафатете"}
+{"input": "Inflect зафати | V;PROG;PST;NOM(2,SG)","target": "зафатеше"}
+{"input": "Inflect зафати | V;IMP;NOM(2,SG)","target": "зафати"}
+{"input": "Inflect зафати | V;PRS;NOM(3,SG)","target": "зафати"}
+{"input": "Inflect зафати | V;PST;NOM(3,SG)","target": "зафати"}
+{"input": "Inflect зафати | V;PST;NOM(1,SG)","target": "зафатив"}
+{"input": "Inflect зафати | V;PST;NOM(2,PL)","target": "зафативте"}
+{"input": "Inflect зафати | V.PTCP;PST;NOM(SG,MASC)","target": "зафатил"}
+{"input": "Inflect зафати | V.PTCP;PST;NOM(SG,FEM)","target": "зафатила"}
+{"input": "Inflect зафати | V.PTCP;PST;NOM(SG,NEUT)","target": "зафатило"}
+{"input": "Inflect зафати | V;PRS;NOM(1,PL)","target": "зафатиме"}
+{"input": "Inflect зафати | V;PRS;NOM(2,PL)","target": "зафатите"}
+{"input": "Inflect дочита | V;PRS;NOM(3,SG)","target": "дочита"}
+{"input": "Inflect дочита | V;PST;NOM(2,SG)","target": "дочита"}
+{"input": "Inflect дочита | V;PST;NOM(3,SG)","target": "дочита"}
+{"input": "Inflect дочита | V;PROG;PST;NOM(3,PL)","target": "дочитаа"}
+{"input": "Inflect дочита | V;PST;NOM(3,PL)","target": "дочитаа"}
+{"input": "Inflect дочита | V;PRS;NOM(3,PL)","target": "дочитаат"}
+{"input": "Inflect дочита | V;PROG;PST;NOM(1,SG)","target": "дочитав"}
+{"input": "Inflect дочита | V;PROG;PST;NOM(1,PL)","target": "дочитавме"}
+{"input": "Inflect дочита | V;PROG;PST;NOM(2,PL)","target": "дочитавте"}
+{"input": "Inflect дочита | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "дочитал"}
+{"input": "Inflect дочита | V.PTCP;PST;NOM(SG,MASC)","target": "дочитал"}
+{"input": "Inflect дочита | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "дочитала"}
+{"input": "Inflect дочита | V.PTCP;PROG;PST;NOM(PL)","target": "дочитале"}
+{"input": "Inflect дочита | V.PTCP;PST;NOM(PL)","target": "дочитале"}
+{"input": "Inflect дочита | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "дочитало"}
+{"input": "Inflect дочита | V.PTCP;PST;NOM(SG,NEUT)","target": "дочитало"}
+{"input": "Inflect дочита | V;PRS;NOM(1,SG)","target": "дочитам"}
+{"input": "Inflect дочита | V;PRS;NOM(1,PL)","target": "дочитаме"}
+{"input": "Inflect дочита | V;PROG;PST;NOM(3,SG)","target": "дочиташе"}
+{"input": "Inflect се изнасмее | V;IMP;NOM(2,SG)","target": "изнасмеј се"}
+{"input": "Inflect се изнасмее | V;IMP;NOM(2,PL)","target": "изнасмејте се"}
+{"input": "Inflect се изнасмее | V;PST;NOM(2,SG)","target": "се изнасмеa"}
+{"input": "Inflect се изнасмее | V;PST;NOM(3,SG)","target": "се изнасмеa"}
+{"input": "Inflect се изнасмее | V;PST;NOM(1,SG)","target": "се изнасмеaв"}
+{"input": "Inflect се изнасмее | V;PST;NOM(1,PL)","target": "се изнасмеaвме"}
+{"input": "Inflect се изнасмее | V.PTCP;PST;NOM(SG,MASC)","target": "се изнасмеал"}
+{"input": "Inflect се изнасмее | V.PTCP;PST;NOM(SG,FEM)","target": "се изнасмеала"}
+{"input": "Inflect се изнасмее | V;PRS;NOM(1,SG)","target": "се изнасмеам"}
+{"input": "Inflect се изнасмее | V;PRS;NOM(3,PL)","target": "се изнасмеат"}
+{"input": "Inflect се изнасмее | V;PROG;PST;NOM(1,SG)","target": "се изнасмеев"}
+{"input": "Inflect се изнасмее | V;PROG;PST;NOM(1,PL)","target": "се изнасмеевме"}
+{"input": "Inflect се изнасмее | V;PROG;PST;NOM(2,PL)","target": "се изнасмеевте"}
+{"input": "Inflect се изнасмее | V;PROG;PST;NOM(3,PL)","target": "се изнасмееја"}
+{"input": "Inflect се изнасмее | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "се изнасмеел"}
+{"input": "Inflect се изнасмее | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "се изнасмеела"}
+{"input": "Inflect се изнасмее | V.PTCP;PROG;PST;NOM(PL)","target": "се изнасмееле"}
+{"input": "Inflect се изнасмее | V;PRS;NOM(1,PL)","target": "се изнасмееме"}
+{"input": "Inflect се изнасмее | V;PRS;NOM(2,PL)","target": "се изнасмеете"}
+{"input": "Inflect се изнасмее | V;PRS;NOM(2,SG)","target": "се изнасмееш"}
+{"input": "Inflect се изнасмее | V;PROG;PST;NOM(3,SG)","target": "се изнасмееше"}
+{"input": "Inflect се јавува | V.CVB;NOM()","target": "јавувајќи се"}
+{"input": "Inflect се јавува | V.MSDR;NOM()","target": "јавување"}
+{"input": "Inflect се јавува | V;PROG;PST;NOM(3,PL)","target": "се јавуваа"}
+{"input": "Inflect се јавува | V;PROG;PST;NOM(2,PL)","target": "се јавувавте"}
+{"input": "Inflect се јавува | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "се јавувала"}
+{"input": "Inflect се јавува | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "се јавувало"}
+{"input": "Inflect се јавува | V;PRS;NOM(1,SG)","target": "се јавувам"}
+{"input": "Inflect се јавува | V;PRS;NOM(1,PL)","target": "се јавуваме"}
+{"input": "Inflect се јавува | V;PRS;NOM(2,PL)","target": "се јавувате"}
+{"input": "Inflect се јавува | V;PRS;NOM(2,SG)","target": "се јавуваш"}
+{"input": "Inflect се јавува | V;PROG;PST;NOM(2,SG)","target": "се јавуваше"}
+{"input": "Inflect Италијанка | N;REMT;SG;DEF","target": "Италијанкана"}
+{"input": "Inflect Италијанка | N;SG;DEF","target": "Италијанката"}
+{"input": "Inflect Италијанка | N;VOC(SG)","target": "Италијанке"}
+{"input": "Inflect Италијанка | N;PROX;PL;DEF","target": "Италијанкиве"}
+{"input": "Inflect Италијанка | N;PL;DEF","target": "Италијанките"}
+{"input": "Inflect заржи | V;PST;NOM(2,SG)","target": "заржа"}
+{"input": "Inflect заржи | V;PST;NOM(3,SG)","target": "заржа"}
+{"input": "Inflect заржи | V;PST;NOM(3,PL)","target": "заржаа"}
+{"input": "Inflect заржи | V;PST;NOM(1,SG)","target": "заржав"}
+{"input": "Inflect заржи | V;PST;NOM(2,PL)","target": "заржавте"}
+{"input": "Inflect заржи | V.PTCP;PST;NOM(SG,MASC)","target": "заржал"}
+{"input": "Inflect заржи | V.PTCP;PST;NOM(SG,FEM)","target": "заржала"}
+{"input": "Inflect заржи | V.PTCP;PST;NOM(PL)","target": "заржале"}
+{"input": "Inflect заржи | V;PRS;NOM(1,SG)","target": "заржам"}
+{"input": "Inflect заржи | V;PROG;PST;NOM(1,SG)","target": "заржев"}
+{"input": "Inflect заржи | V;PROG;PST;NOM(2,PL)","target": "заржевте"}
+{"input": "Inflect заржи | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "заржел"}
+{"input": "Inflect заржи | V.PTCP;PROG;PST;NOM(PL)","target": "заржеле"}
+{"input": "Inflect заржи | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "заржело"}
+{"input": "Inflect заржи | V;IMP;NOM(2,PL)","target": "заржете"}
+{"input": "Inflect заржи | V;PROG;PST;NOM(2,SG)","target": "заржеше"}
+{"input": "Inflect заржи | V;PROG;PST;NOM(3,SG)","target": "заржеше"}
+{"input": "Inflect заржи | V;PRS;NOM(3,SG)","target": "заржи"}
+{"input": "Inflect заржи | V;PRS;NOM(1,PL)","target": "заржиме"}
+{"input": "Inflect заржи | V;PRS;NOM(2,SG)","target": "заржиш"}
+{"input": "Inflect тангенс | N;PL","target": "тангенса"}
+{"input": "Inflect тангенс | N;REMT;PL;DEF","target": "тангенсине"}
+{"input": "Inflect тангенс | N;PL;DEF","target": "тангенсите"}
+{"input": "Inflect тангенс | N;PROX;SG;DEF","target": "тангенсов"}
+{"input": "Inflect тангенс | N;REMT;SG;DEF","target": "тангенсон"}
+{"input": "Inflect тангенс | N;SG;DEF","target": "тангенсот"}
+{"input": "Inflect тангенс | N;VOC(SG)","target": "тангенсу"}
+{"input": "Inflect ќурка | N;REMT;SG;DEF","target": "ќуркана"}
+{"input": "Inflect ќурка | N;SG;DEF","target": "ќурката"}
+{"input": "Inflect ќурка | N;VOC(PL)","target": "ќурки"}
+{"input": "Inflect ќурка | N;PROX;PL;DEF","target": "ќуркиве"}
+{"input": "Inflect ќурка | N;REMT;PL;DEF","target": "ќуркине"}
+{"input": "Inflect ќурка | N;PL;DEF","target": "ќурките"}
+{"input": "Inflect ќурка | N;VOC(SG)","target": "ќурко"}
+{"input": "Inflect греда | N;REMT;SG;DEF","target": "гредана"}
+{"input": "Inflect греда | N;VOC(PL)","target": "греди"}
+{"input": "Inflect греда | N;PROX;PL;DEF","target": "гредиве"}
+{"input": "Inflect греда | N;PL;DEF","target": "гредите"}
+{"input": "Inflect греда | N;VOC(SG)","target": "гредо"}
+{"input": "Inflect извира | V;PROG;PST;NOM(3,PL)","target": "извираа"}
+{"input": "Inflect извира | V;PRS;NOM(3,PL)","target": "извираат"}
+{"input": "Inflect извира | V;PROG;PST;NOM(1,PL)","target": "извиравме"}
+{"input": "Inflect извира | V;PROG;PST;NOM(2,PL)","target": "извиравте"}
+{"input": "Inflect извира | V;IMP;NOM(2,PL)","target": "извирајте"}
+{"input": "Inflect извира | V.CVB;NOM()","target": "извирајќи"}
+{"input": "Inflect извира | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "извирал"}
+{"input": "Inflect извира | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "извирала"}
+{"input": "Inflect извира | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "извирало"}
+{"input": "Inflect извира | V;PRS;NOM(1,SG)","target": "извирам"}
+{"input": "Inflect извира | V;PRS;NOM(1,PL)","target": "извираме"}
+{"input": "Inflect извира | V.MSDR;NOM()","target": "извирање"}
+{"input": "Inflect извира | V;PRS;NOM(2,PL)","target": "извирате"}
+{"input": "Inflect извира | V;PROG;PST;NOM(2,SG)","target": "извираше"}
+{"input": "Inflect извира | V;PROG;PST;NOM(3,SG)","target": "извираше"}
+{"input": "Inflect борба | N;SG;INDF","target": "борба"}
+{"input": "Inflect борба | N;PROX;SG;DEF","target": "борбава"}
+{"input": "Inflect борба | N;REMT;SG;DEF","target": "борбана"}
+{"input": "Inflect борба | N;SG;DEF","target": "борбата"}
+{"input": "Inflect борба | N;PL;INDF","target": "борби"}
+{"input": "Inflect борба | N;VOC(PL)","target": "борби"}
+{"input": "Inflect борба | N;VOC(SG)","target": "борбо"}
+{"input": "Inflect згрижи | V;PRS;NOM(3,PL)","target": "згрижат"}
+{"input": "Inflect згрижи | V;PROG;PST;NOM(3,PL)","target": "згрижеа"}
+{"input": "Inflect згрижи | V;PROG;PST;NOM(1,SG)","target": "згрижев"}
+{"input": "Inflect згрижи | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "згрижел"}
+{"input": "Inflect згрижи | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "згрижела"}
+{"input": "Inflect згрижи | V.PTCP;PROG;PST;NOM(PL)","target": "згрижеле"}
+{"input": "Inflect згрижи | V.PTCP;PST;PASS;NOM()","target": "згрижен"}
+{"input": "Inflect згрижи | V;IMP;NOM(2,PL)","target": "згрижете"}
+{"input": "Inflect згрижи | V;IMP;NOM(2,SG)","target": "згрижи"}
+{"input": "Inflect згрижи | V;PST;NOM(3,SG)","target": "згрижи"}
+{"input": "Inflect згрижи | V;PST;NOM(1,PL)","target": "згриживме"}
+{"input": "Inflect згрижи | V.PTCP;PST;NOM(SG,FEM)","target": "згрижила"}
+{"input": "Inflect згрижи | V.PTCP;PST;NOM(PL)","target": "згрижиле"}
+{"input": "Inflect згрижи | V.PTCP;PST;NOM(SG,NEUT)","target": "згрижило"}
+{"input": "Inflect згрижи | V;PRS;NOM(2,PL)","target": "згрижите"}
+{"input": "Inflect шамиче | N;SG;INDF","target": "шамиче"}
+{"input": "Inflect шамиче | N;PROX;SG;DEF","target": "шамичево"}
+{"input": "Inflect шамиче | N;REMT;SG;DEF","target": "шамичено"}
+{"input": "Inflect шамиче | N;SG;DEF","target": "шамичето"}
+{"input": "Inflect шамиче | N;REMT;PL;DEF","target": "шамичињана"}
+{"input": "Inflect мрмори | V;PROG;PST;NOM(3,PL)","target": "мрмореа"}
+{"input": "Inflect мрмори | V.CVB;NOM()","target": "мрморејќи"}
+{"input": "Inflect мрмори | V.PTCP;PROG;PST;NOM(SG,NEUT)","target": "мрморело"}
+{"input": "Inflect мрмори | V;IMP;NOM(2,PL)","target": "мрморете"}
+{"input": "Inflect мрмори | V;PROG;PST;NOM(2,SG)","target": "мрмореше"}
+{"input": "Inflect мрмори | V;PROG;PST;NOM(3,SG)","target": "мрмореше"}
+{"input": "Inflect мрмори | V;PRS;NOM(3,SG)","target": "мрмори"}
+{"input": "Inflect мрмори | V;PRS;NOM(1,PL)","target": "мрмориме"}
+{"input": "Inflect мрмори | V;PRS;NOM(2,PL)","target": "мрморите"}
+{"input": "Inflect поклоник | N;SG;INDF","target": "поклоник"}
+{"input": "Inflect поклоник | N;PL","target": "поклоника"}
+{"input": "Inflect поклоник | N;PROX;SG;DEF","target": "поклоников"}
+{"input": "Inflect поклоник | N;REMT;SG;DEF","target": "поклоникон"}
+{"input": "Inflect поклоник | N;PL;INDF","target": "поклоници"}
+{"input": "Inflect поклоник | N;PL;DEF","target": "поклониците"}
+{"input": "Inflect соученичка | N;PL;INDF","target": "соученички"}
+{"input": "Inflect соученичка | N;VOC(PL)","target": "соученички"}
+{"input": "Inflect соученичка | N;PROX;PL;DEF","target": "соученичкиве"}
+{"input": "Inflect соученичка | N;REMT;PL;DEF","target": "соученичкине"}
+{"input": "Inflect соученичка | N;PL;DEF","target": "соученичките"}
+{"input": "Inflect горен | ADJ;SG;MASC;INDF","target": "горен"}
+{"input": "Inflect горен | ADJ;SG;FEM;INDF","target": "горна"}
+{"input": "Inflect горен | ADJ;PL;INDF","target": "горни"}
+{"input": "Inflect горен | ADJ;PROX;PL;DEF","target": "горниве"}
+{"input": "Inflect горен | ADJ;REMT;PL;DEF","target": "горнине"}
+{"input": "Inflect горен | ADJ;REMT;SG;MASC;DEF","target": "горнион"}
+{"input": "Inflect горен | ADJ;SG;MASC;DEF","target": "горниот"}
+{"input": "Inflect горен | ADJ;PL;DEF","target": "горните"}
+{"input": "Inflect горен | ADJ;REMT;SG;NEUT;DEF","target": "горноно"}
+{"input": "Inflect горен | ADJ;SG;NEUT;DEF","target": "горното"}
+{"input": "Inflect сатира | N;SG;INDF","target": "сатира"}
+{"input": "Inflect сатира | N;REMT;SG;DEF","target": "сатирана"}
+{"input": "Inflect сатира | N;SG;DEF","target": "сатирата"}
+{"input": "Inflect сатира | N;PL;INDF","target": "сатири"}
+{"input": "Inflect сатира | N;VOC(PL)","target": "сатири"}
+{"input": "Inflect сатира | N;PROX;PL;DEF","target": "сатириве"}
+{"input": "Inflect сатира | N;VOC(SG)","target": "сатиро"}
+{"input": "Inflect заебанција | N;PL;INDF","target": "заебанции"}
+{"input": "Inflect заебанција | N;VOC(PL)","target": "заебанции"}
+{"input": "Inflect заебанција | N;PROX;PL;DEF","target": "заебанцииве"}
+{"input": "Inflect заебанција | N;REMT;PL;DEF","target": "заебанциине"}
+{"input": "Inflect заебанција | N;PL;DEF","target": "заебанциите"}
+{"input": "Inflect заебанција | N;SG;INDF","target": "заебанција"}
+{"input": "Inflect заебанција | N;PROX;SG;DEF","target": "заебанцијава"}
+{"input": "Inflect заебанција | N;REMT;SG;DEF","target": "заебанцијана"}
+{"input": "Inflect расен | ADJ;SG;FEM;INDF","target": "расна"}
+{"input": "Inflect расен | ADJ;PROX;SG;FEM;DEF","target": "раснава"}
+{"input": "Inflect расен | ADJ;SG;FEM;DEF","target": "расната"}
+{"input": "Inflect расен | ADJ;PL;INDF","target": "расни"}
+{"input": "Inflect расен | ADJ;PROX;PL;DEF","target": "расниве"}
+{"input": "Inflect расен | ADJ;REMT;PL;DEF","target": "раснине"}
+{"input": "Inflect расен | ADJ;PROX;SG;MASC;DEF","target": "расниов"}
+{"input": "Inflect расен | ADJ;SG;MASC;DEF","target": "расниот"}
+{"input": "Inflect расен | ADJ;SG;NEUT;INDF","target": "расно"}
+{"input": "Inflect расен | ADJ;REMT;SG;NEUT;DEF","target": "расноно"}
+{"input": "Inflect штрајкува | V;PRS;NOM(3,PL)","target": "штрајкуваат"}
+{"input": "Inflect штрајкува | V;PROG;PST;NOM(1,SG)","target": "штрајкував"}
+{"input": "Inflect штрајкува | V;PROG;PST;NOM(1,PL)","target": "штрајкувавме"}
+{"input": "Inflect штрајкува | V;PROG;PST;NOM(2,PL)","target": "штрајкувавте"}
+{"input": "Inflect штрајкува | V;IMP;NOM(2,PL)","target": "штрајкувајте"}
+{"input": "Inflect штрајкува | V.CVB;NOM()","target": "штрајкувајќи"}
+{"input": "Inflect штрајкува | V.PTCP;PROG;PST;NOM(SG,MASC)","target": "штрајкувал"}
+{"input": "Inflect штрајкува | V.PTCP;PROG;PST;NOM(SG,FEM)","target": "штрајкувала"}
+{"input": "Inflect штрајкува | V;PRS;NOM(1,PL)","target": "штрајкуваме"}
+{"input": "Inflect штрајкува | V.PTCP;PST;PASS;NOM()","target": "штрајкуван"}
+{"input": "Inflect штрајкува | V.MSDR;NOM()","target": "штрајкување"}
+{"input": "Inflect надвојвода | N;PROX;SG;DEF","target": "надвојводава"}
+{"input": "Inflect надвојвода | N;REMT;SG;DEF","target": "надвојводана"}
+{"input": "Inflect надвојвода | N;SG;DEF","target": "надвојводата"}
+{"input": "Inflect надвојвода | N;PL;INDF","target": "надвојводи"}
+{"input": "Inflect надвојвода | N;VOC(PL)","target": "надвојводи"}
+{"input": "Inflect надвојвода | N;PROX;PL;DEF","target": "надвојводиве"}
+{"input": "Inflect надвојвода | N;REMT;PL;DEF","target": "надвојводине"}
+{"input": "Inflect надвојвода | N;VOC(SG)","target": "надвојводо"}
