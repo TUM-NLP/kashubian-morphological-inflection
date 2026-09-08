@@ -9,5 +9,7 @@
 
 ## Multilingual
 
-- slavic.\*: 5 West-Slavic languages (pol, ces, slk, dsb, csb), whereas Kashubian is only used for testing -> trn: 40,000, dev: 4,000, tst: 4,509
-- sla.\*: 8 Slavic languages (pol, ces, slk, dsb, csb, bel, rus, mkd), whereas  Kashubian is only used for testing -> trn: 70,000, dev: 7,000, tst: 7,509
+| Name   | Languages                                                                                          | trn    | dev   | tst   |
+| ------ | -------------------------------------------------------------------------------------------------- | ------ | ----- | ----- |
+| slavic | pol, ces, slk, dsb, csb (West Slavic); Kashubian used for testing only                             | 40,000 | 4,000 | 4,509 |
+| sla    | pol, ces, slk, dsb, csb, bel, rus, mkd (West, East, South Slavic); Kashubian used for testing only | 70,000 | 7,000 | 7,509 |
