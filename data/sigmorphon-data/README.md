@@ -1,3 +1,5 @@
+Task data in (lemma, features, target) format, UniMorph 4.0, similar to SIGMORPHON UniMorph Shared Task 0 data
+
 # Monolingual
 
 | Language name                                    | Language code           | Data modification                           | trn                     | dev                    | test  |
