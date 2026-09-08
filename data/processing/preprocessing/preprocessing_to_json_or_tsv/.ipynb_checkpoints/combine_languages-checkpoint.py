@@ -1,6 +1,6 @@
-TRAIN_FILEPATH = "../../data/data-files/2023InflectionST/part1/data/"
-TEST_FILEPATH = "../../data/data-files/2023InflectionST/part1/data/"
-EVAL_FILEPATH = "../../data/data-files/2023InflectionST/part1/data/"
+TRAIN_FILEPATH = "../../data/sigmorphon-data/"
+TEST_FILEPATH = "../../data/sigmorphon-data/"
+EVAL_FILEPATH = "../../data/sigmorphon-data/"
 OUT_DIR = TRAIN_FILEPATH
 LANGS = ["deu","eng"]
 TARGET_LANG = "deu_eng"
