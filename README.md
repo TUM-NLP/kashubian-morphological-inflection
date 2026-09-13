@@ -2,12 +2,13 @@
 
 * ByT5 Model Checkpoints (HuggingFace): https://huggingface.co/collections/livles/slavic-byt5-for-kashubian-inflection
 * Base Model: ByT5 small (https://aclanthology.org/2022.tacl-1.17/)
+* SIGMORPHON-UniMorph 2023 shared task 0 part 1: https://aclanthology.org/2023.sigmorphon-1.13/
 
 ## Models
 
-* SIGMORPHON-UniMorph 2023 shared task baselines (https://aclanthology.org/2023.sigmorphon-1.13/): `./models/inflectionSTbaselines`
-* ByT5 (https://aclanthology.org/2022.tacl-1.17/):  `./models/ByT5`
-* LLMs Gemini 2.5 Flash (https://arxiv.org/abs/2507.06261) and GPT-OSS 120B (https://arxiv.org/abs/2508.10925): `./models/llm` (zero-shot, data generation)
+* SIGMORPHON-UniMorph 2023 shared task baselines : `./models/inflectionSTbaselines`
+* ByT5:  `./models/ByT5`
+* LLMs Gemini 2.5 Flash and GPT-OSS 120B: `./models/llm` (zero-shot, data generation)
 
 ### Data
 
