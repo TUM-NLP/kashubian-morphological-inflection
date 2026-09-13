@@ -1,5 +1,5 @@
 
-ByT5 Checkpoints (HuggingFace): https://huggingface.co/collections/livles/slavic-byt5-for-kashubian-inflection
+Our ByT5 Checkpoints (on HuggingFace): https://huggingface.co/collections/livles/slavic-byt5-for-kashubian-inflection
 
 Base Model: ByT5 small (https://aclanthology.org/2022.tacl-1.17/)
 
