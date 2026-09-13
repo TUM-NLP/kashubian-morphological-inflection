@@ -6,8 +6,8 @@
 
 ## Models
 
-* SIGMORPHON-UniMorph 2023 shared task baselines : `./models/inflectionSTbaselines`
-* ByT5:  `./models/ByT5`
+* SIGMORPHON-UniMorph 2023 shared task baselines : `./models/inflectionSTbaselines` (fine-tuning)
+* ByT5:  `./models/ByT5` (fine-tuning, continued pre-training)
 * LLMs Gemini 2.5 Flash and GPT-OSS 120B: `./models/llm` (zero-shot, data generation)
 
 ### Data
