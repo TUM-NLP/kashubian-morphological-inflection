@@ -1,6 +1,10 @@
-Task data in (lemma, features, target) format, UniMorph 4.0, similar to SIGMORPHON UniMorph Shared Task 0 data
 
-# Monolingual
+# Fine-tuning data
+Task data in (lemma, features, target) format, UniMorph 4.0, similar to SIGMORPHON UniMorph Shared Task 0 data.
+* SIGMORPHON 2023 shared task (https://aclanthology.org/2023.sigmorphon-1.13/): morphological inflection data in UniMorph 4.0 schema
+* Legacy UniMorph (https://unimorph.github.io/): morphological inflection data from all UniMorph releases
+
+## 1. Monolingual
 
 | Language name                                    | Language code           | Data modification                           | trn                     | dev                    | test  |
 | ------------------------------------------------ | ----------------------- | ------------------------------------------- | ----------------------- | ---------------------- | ----- |
@@ -9,7 +13,7 @@ Task data in (lemma, features, target) format, UniMorph 4.0, similar to SIGMORPH
 | Russian                                          | rus                     | Modified column order only                   | 10,000                  | 1,000                  | 1,000 |
 | Belarusian                                       | bel                     | Provided by the SIGMORPHON shared task 2023 | 10,000                  | 1,000                  | 1,000 |
 
-## Multilingual
+## 2. Multilingual
 
 | Name   | Languages                                                                                          | trn    | dev   | tst   |
 | ------ | -------------------------------------------------------------------------------------------------- | ------ | ----- | ----- |
