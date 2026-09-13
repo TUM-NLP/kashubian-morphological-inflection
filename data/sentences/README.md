@@ -1,4 +1,4 @@
-# Kashubian & Polish sentences
+# Monolingual Kashubian & Polish sentences
 
 Monolingual sentences taken from Leipzig Corpora Collection ([aclanthology.org/L12-1154](https://aclanthology.org/L12-1154/)) from Wikipedia 2021.
 
