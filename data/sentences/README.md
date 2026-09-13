@@ -1,0 +1,3 @@
+# Kashubian & Polish sentences
+
+
