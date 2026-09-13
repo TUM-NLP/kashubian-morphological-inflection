@@ -7,7 +7,7 @@
 
 * SIGMORPHON-UniMorph 2023 shared task baselines (https://aclanthology.org/2023.sigmorphon-1.13/): `./models/inflectionSTbaselines`
 * ByT5 (https://aclanthology.org/2022.tacl-1.17/):  `./models/ByT5`
-* LLMs Gemini 2.5 Flash (https://arxiv.org/abs/2508.10925) and GPT-OSS 120B (https://arxiv.org/abs/2507.06261): `./models/llm` (zero-shot, data generation)
+* LLMs Gemini 2.5 Flash (https://arxiv.org/abs/2507.06261) and GPT-OSS 120B (https://arxiv.org/abs/2508.10925): `./models/llm` (zero-shot, data generation)
 
 ### Data
 
