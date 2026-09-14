@@ -5,7 +5,10 @@ Base Model: ByT5 small (https://aclanthology.org/2022.tacl-1.17/)
 
 # Low-Resource Morphological Inflection For Kashubian
 
-
+<div align="center">
+  <img width="503" height="188" alt="Morphological inflection triplet example" src="https://github.com/user-attachments/assets/c73480ed-5c6e-476a-bd45-03ee13067f5b" />
+  <p><em>Morphological inflection (here in Kashubian): generate the inflected form of the lemma for morphosyntactic features</em></p>
+</div>
 
 Kashubian, a low-resource Slavic language, lacks sufficient annotated pairs for generating inflected word forms. To address this data scarcity, we fine-tune the byte-level transformer ByT5 on datasets from 7 related languages. We also continue pre-training on Kashubian and Polish monolingual corpora, and generate synthetic Kashubian word forms using LLM annotations. Multilingual fine-tuning and continued pre-training improve the monolingual ByT5 accuracy by 4–5 points, while incorporating synthetic data exceeds the previous strongest baseline by 10 points. Training ByT5 on multilingual task datasets, monolingual sentences with self-supervision, and LLM-annotated data yields strong relative accuracy gains for the low-resource morphological inflection of Kashubian.
 
@@ -17,6 +20,6 @@ Kashubian, a low-resource Slavic language, lacks sufficient annotated pairs for 
 ## Data
 ### Fine-tuning
 * SIGMORPHON 2023 shared task (https://aclanthology.org/2023.sigmorphon-1.13/): morphological inflection data in UniMorph 4.0 schema
-* Legacy UniMorph (https://unimorph.github.io/): morphological inflection data from all UniMorph releases
+* UniMorph (https://unimorph.github.io/): morphological inflection data from all UniMorph releases
 ### Continued pretraining / synthetic data generation
 * Leipzig Corpora Collection (https://aclanthology.org/L12-1154/): sentences from Wikipedia 2021 in Kashubian and Polish
