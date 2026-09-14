@@ -1,16 +1,14 @@
-# ByT5: Fine-tuning and continued pre-training data
+# ByT5: Fine-tuning data
 
 ByT5 accepts data in .tsv or .json format.
 
-## 1. Fine-tuning data
-
-File naming: <language></language><language></language>
+## File naming:<language></language>
 
 ```
 {languageCode}{languageContext}_{dataSplit}
 ```
 
-### Language code: monolingual data
+## Language code: monolingual data
 
 <table>
 <tr><th></th><th>Language code</th><th>Language</th><th>trn</th><th>dev</th><th>tst</th></tr>
@@ -24,7 +22,7 @@ File naming: <language></language><language></language>
 <tr><td>rus</td><td>Russian</td><td>10,000</td><td>1,000</td><td>1,000</td></tr>
 </table>
 
-### Language code: multilingual data
+## Language code: multilingual data
 
 <table>
 <tr><th></th><th>Language code</th><th>Language</th><th>trn</th><th>dev</th><th>tst</th></tr>
@@ -40,7 +38,7 @@ File naming: <language></language><language></language>
 <tr><td>Kashubian + Polish</td><td>csb-pol</td><td>Kashubian (synthetic) + Polish</td><td>10,000 (synthetic) + 10,000</td><td>1,000 (synthetic) + 1,000</td><td>/</td></tr>
 </table>
 
-### Language context: Code, word, family, or none
+## Language context: Code, word, family, or none
 
 | Language context | Description                                     | e.g. for Polish      |
 | ---------------- | ----------------------------------------------- | --------------------- |
@@ -49,10 +47,3 @@ File naming: <language></language><language></language>
 | -lang-word       | Language name as word                           | "Polish"              |
 | -family          | Language Family                                 | "Slavic"              |
 | -word-or-family  | 50% Language name as word & 50% language family | "Polish" / "Slavic" |
-
-## 2. Continued pre-training data: Monolingual Sentences
-
-| Language           | File name    | trn           | dev       |
-| ------------------ | ------------ | ------------- | --------- |
-| Kashubian          | csb-sent     | 9,000         | 1,000     |
-| Kashubian & Polish | csb-pol-sent | 4,500 & 4,500 | 500 & 500 |
