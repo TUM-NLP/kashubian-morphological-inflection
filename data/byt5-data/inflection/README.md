@@ -2,7 +2,7 @@
 
 Task data for baselines are modified for ByT5.
 ByT5 accepts data in .tsv or .json format.
-## Prompt
+## Byt5 Prompt
 
 Input:
 ```
