@@ -1,3 +1,4 @@
+Paper: https://aclanthology.org/2021.eacl-main.163/
 # SIGMORPHON–UniMorph Shared Task on Typologically Diverse and Acquisition-Inspired Morphological Inflection Generation
 
 SIGMORPHON’s eigth installment of its inflection generation shared task will be divided into three parts:
