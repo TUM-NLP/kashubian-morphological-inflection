@@ -3,7 +3,7 @@
 
 All LLMs are accessed via [openrouter.ai](https://openrouter.ai/).
 # 1. Zero-Shot Morphological Inflection using large-scale LLMs
-## Models: Large Scale LLMs:
+## Models: Large Scale LLMs
 - Gemini 2.5 Flash 
 - GPT-OSS 120B
 ## Inference 
