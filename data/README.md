@@ -1,4 +1,9 @@
 # Data
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/809d4368-9d66-48d1-9285-d5539a11466a" width="350" alt="Classification of the Slavic languages">
+  <br>
+  <em>Classification of the Slavic languages in this study.</em>
+</p>
 
 This directory contains Slavic morphological inflection datasets in the UniMorph 4.0 schema (as defined in https://aclanthology.org/2022.lrec-1.89/) as well as Kashubian (and Polish) monolingual sentences used for pre-training and synthetic Kashubian data generation. Data is taken from the SIGMORPHON–UniMorph 2023 Shared Task (https://aclanthology.org/2023.sigmorphon-1.13/), legacy UniMorph datasets (https://unimorph.github.io/) reformatted for schema consistency, and the Leipzig Corpora Collection ([aclanthology.org/L12-1154](https://aclanthology.org/L12-1154/)).
 
