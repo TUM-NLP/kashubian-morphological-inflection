@@ -3,6 +3,8 @@ Our ByT5 checkpoints (on HuggingFace): https://huggingface.co/collections/livles
 
 Base Model: ByT5 small (https://aclanthology.org/2022.tacl-1.17/)
 
+Paper: tba
+
 # Low-Resource Morphological Inflection For Kashubian
 
 <div align="center">
