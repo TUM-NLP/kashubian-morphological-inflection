@@ -1,0 +1,1000 @@
+{"input": "slk: Inflect sedemmíľový | ADJ;ACC(SG,FEM)","target": "sedemmíľovú"}
+{"input": "slk: Inflect sedemmíľový | ADJ;VOC(SG,NEUT)","target": "sedemmíľové"}
+{"input": "slk: Inflect sedemmíľový | ADJ;NOM(PL,FEM)","target": "sedemmíľové"}
+{"input": "slk: Inflect sedemmíľový | ADJ;SPRL;ESS(SG,MASC,INAN)","target": "najsedemmíľovejšom"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;DAT(SG,MASC,ANIM)","target": "sedemmíľovejšiemu"}
+{"input": "slk: Inflect sedemmíľový | ADJ;ACC(SG,MASC,ANIM)","target": "sedemmíľového"}
+{"input": "slk: Inflect sedemmíľový | ADJ;VOC(SG,MASC,ANIM)","target": "sedemmíľový"}
+{"input": "slk: Inflect sedemmíľový | ADJ;ACC(SG,MASC,INAN)","target": "sedemmíľový"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;DAT(PL,NEUT)","target": "sedemmíľovejším"}
+{"input": "slk: Inflect sedemmíľový | ADJ;SPRL;DAT(PL,NEUT)","target": "najsedemmíľovejším"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;NOM(SG,FEM)","target": "sedemmíľovejšia"}
+{"input": "slk: Inflect sedemmíľový | ADJ;NOM(SG,FEM)","target": "sedemmíľová"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;NOM(SG,MASC,ANIM)","target": "sedemmíľovejší"}
+{"input": "slk: Inflect sedemmíľový | ADJ;SPRL;NOM(SG,MASC,ANIM)","target": "najsedemmíľovejší"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;NOM(PL,MASC,ANIM)","target": "sedemmíľovejší"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;VOC(PL,MASC,ANIM)","target": "sedemmíľovejší"}
+{"input": "slk: Inflect sedemmíľový | ADJ;SPRL;ACC(PL,MASC,ANIM)","target": "najsedemmíľovejších"}
+{"input": "slk: Inflect sedemmíľový | ADJ;SPRL;ESS(PL,MASC,ANIM)","target": "najsedemmíľovejších"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;GEN(PL,MASC,INAN)","target": "sedemmíľovejších"}
+{"input": "slk: Inflect sedemmíľový | ADJ;SPRL;ESS(PL,MASC,INAN)","target": "najsedemmíľovejších"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;GEN(PL,FEM)","target": "sedemmíľovejších"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;ESS(PL,FEM)","target": "sedemmíľovejších"}
+{"input": "slk: Inflect sedemmíľový | ADJ;SPRL;VOC(PL,MASC,INAN)","target": "najsedemmíľovejšie"}
+{"input": "slk: Inflect sedemmíľový | ADJ;SPRL;NOM(SG,NEUT)","target": "najsedemmíľovejšie"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;VOC(SG,NEUT)","target": "sedemmíľovejšie"}
+{"input": "slk: Inflect sedemmíľový | ADJ;SPRL;NOM(PL,NEUT)","target": "najsedemmíľovejšie"}
+{"input": "slk: Inflect sedemmíľový | ADJ;SPRL;NOM(PL,FEM)","target": "najsedemmíľovejšie"}
+{"input": "slk: Inflect sedemmíľový | ADJ;ESS(PL,MASC,ANIM)","target": "sedemmíľových"}
+{"input": "slk: Inflect sedemmíľový | ADJ;ESS(PL,MASC,INAN)","target": "sedemmíľových"}
+{"input": "slk: Inflect sedemmíľový | ADJ;GEN(PL,FEM)","target": "sedemmíľových"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;GEN(SG,FEM)","target": "sedemmíľovejšej"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;ESS(SG,FEM)","target": "sedemmíľovejšej"}
+{"input": "slk: Inflect sedemmíľový | ADJ;DAT(SG,MASC,INAN)","target": "sedemmíľovému"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;ACC(SG,MASC,ANIM)","target": "sedemmíľovejšieho"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;GEN(SG,MASC,INAN)","target": "sedemmíľovejšieho"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;GEN(SG,NEUT)","target": "sedemmíľovejšieho"}
+{"input": "slk: Inflect sedemmíľový | ADJ;DAT(PL,MASC,INAN)","target": "sedemmíľovým"}
+{"input": "slk: Inflect sedemmíľový | ADJ;INS(SG,NEUT)","target": "sedemmíľovým"}
+{"input": "slk: Inflect sedemmíľový | ADJ;DAT(SG,FEM)","target": "sedemmíľovej"}
+{"input": "slk: Inflect sedemmíľový | ADJ;ESS(SG,FEM)","target": "sedemmíľovej"}
+{"input": "slk: Inflect sedemmíľový | ADJ;CMPR;INS(PL,MASC,INAN)","target": "sedemmíľovejšími"}
+{"input": "slk: Inflect sedemmíľový | ADJ;SPRL;INS(PL,MASC,INAN)","target": "najsedemmíľovejšími"}
+{"input": "slk: Inflect emočný | ADJ;GEN(SG,FEM)","target": "emočnej"}
+{"input": "slk: Inflect emočný | ADJ;DAT(PL,FEM)","target": "emočným"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;GEN(SG,FEM)","target": "emočnejšej"}
+{"input": "slk: Inflect emočný | ADJ;SPRL;DAT(SG,FEM)","target": "najemočnejšej"}
+{"input": "slk: Inflect emočný | ADJ;SPRL;ACC(SG,MASC,ANIM)","target": "najemočnejšieho"}
+{"input": "slk: Inflect emočný | ADJ;SPRL;GEN(SG,MASC,INAN)","target": "najemočnejšieho"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;GEN(SG,NEUT)","target": "emočnejšieho"}
+{"input": "slk: Inflect emočný | ADJ;DAT(SG,MASC,ANIM)","target": "emočnému"}
+{"input": "slk: Inflect emočný | ADJ;ESS(PL,FEM)","target": "emočných"}
+{"input": "slk: Inflect emočný | ADJ;VOC(PL,MASC,ANIM)","target": "emoční"}
+{"input": "slk: Inflect emočný | ADJ;SPRL;NOM(PL,MASC,ANIM)","target": "najemočnejší"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;VOC(PL,MASC,ANIM)","target": "emočnejší"}
+{"input": "slk: Inflect emočný | ADJ;SPRL;VOC(PL,MASC,ANIM)","target": "najemočnejší"}
+{"input": "slk: Inflect emočný | ADJ;SPRL;ACC(PL,MASC,ANIM)","target": "najemočnejších"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;ESS(PL,MASC,ANIM)","target": "emočnejších"}
+{"input": "slk: Inflect emočný | ADJ;SPRL;ESS(PL,NEUT)","target": "najemočnejších"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;GEN(PL,FEM)","target": "emočnejších"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;ESS(PL,FEM)","target": "emočnejších"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;NOM(PL,MASC,INAN)","target": "emočnejšie"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;VOC(PL,MASC,INAN)","target": "emočnejšie"}
+{"input": "slk: Inflect emočný | ADJ;SPRL;NOM(SG,NEUT)","target": "najemočnejšie"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;ACC(SG,NEUT)","target": "emočnejšie"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;VOC(SG,NEUT)","target": "emočnejšie"}
+{"input": "slk: Inflect emočný | ADJ;SPRL;NOM(PL,NEUT)","target": "najemočnejšie"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;VOC(PL,FEM)","target": "emočnejšie"}
+{"input": "slk: Inflect emočný | ADJ;SPRL;VOC(SG,FEM)","target": "najemočnejšia"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;INS(SG,MASC,ANIM)","target": "emočnejším"}
+{"input": "slk: Inflect emočný | ADJ;SPRL;INS(SG,MASC,ANIM)","target": "najemočnejším"}
+{"input": "slk: Inflect emočný | ADJ;SPRL;DAT(PL,MASC,ANIM)","target": "najemočnejším"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;INS(SG,MASC,INAN)","target": "emočnejším"}
+{"input": "slk: Inflect emočný | ADJ;VOC(SG,MASC,ANIM)","target": "emočný"}
+{"input": "slk: Inflect emočný | ADJ;ACC(SG,MASC,INAN)","target": "emočný"}
+{"input": "slk: Inflect emočný | ADJ;GEN(SG,NEUT)","target": "emočného"}
+{"input": "slk: Inflect emočný | ADJ;SPRL;DAT(SG,MASC,INAN)","target": "najemočnejšiemu"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;DAT(SG,NEUT)","target": "emočnejšiemu"}
+{"input": "slk: Inflect emočný | ADJ;INS(SG,FEM)","target": "emočnou"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;ESS(SG,MASC,ANIM)","target": "emočnejšom"}
+{"input": "slk: Inflect emočný | ADJ;SPRL;ESS(SG,MASC,ANIM)","target": "najemočnejšom"}
+{"input": "slk: Inflect emočný | ADJ;CMPR;ESS(SG,MASC,INAN)","target": "emočnejšom"}
+{"input": "slk: Inflect emočný | ADJ;ESS(SG,NEUT)","target": "emočnom"}
+{"input": "slk: Inflect emočný | ADJ;VOC(PL,MASC,INAN)","target": "emočné"}
+{"input": "slk: Inflect emočný | ADJ;VOC(PL,NEUT)","target": "emočné"}
+{"input": "slk: Inflect emočný | ADJ;NOM(PL,FEM)","target": "emočné"}
+{"input": "slk: Inflect stravovanosť | N;NOM(PL,FEM)","target": "stravovanosti"}
+{"input": "slk: Inflect stravovanosť | N;INS(SG,FEM)","target": "stravovanosťou"}
+{"input": "slk: Inflect pseudomonádový | ADJ;ESS(SG,MASC,INAN)","target": "pseudomonádovom"}
+{"input": "slk: Inflect pseudomonádový | ADJ;NOM(PL,FEM)","target": "pseudomonádové"}
+{"input": "slk: Inflect pseudomonádový | ADJ;DAT(SG,NEUT)","target": "pseudomonádovému"}
+{"input": "slk: Inflect pseudomonádový | ADJ;ESS(PL,MASC,ANIM)","target": "pseudomonádových"}
+{"input": "slk: Inflect pseudomonádový | ADJ;INS(SG,FEM)","target": "pseudomonádovou"}
+{"input": "slk: Inflect pseudomonádový | ADJ;GEN(SG,MASC,ANIM)","target": "pseudomonádového"}
+{"input": "slk: Inflect pseudomonádový | ADJ;ACC(SG,MASC,ANIM)","target": "pseudomonádového"}
+{"input": "slk: Inflect pseudomonádový | ADJ;GEN(SG,MASC,INAN)","target": "pseudomonádového"}
+{"input": "slk: Inflect pseudomonádový | ADJ;GEN(SG,NEUT)","target": "pseudomonádového"}
+{"input": "slk: Inflect pseudomonádový | ADJ;GEN(SG,FEM)","target": "pseudomonádovej"}
+{"input": "slk: Inflect pseudomonádový | ADJ;ESS(SG,FEM)","target": "pseudomonádovej"}
+{"input": "slk: Inflect pseudomonádový | ADJ;INS(SG,MASC,INAN)","target": "pseudomonádovým"}
+{"input": "slk: Inflect zavodňovávanosť | N;NOM(SG,FEM)","target": "zavodňovávanosť"}
+{"input": "slk: Inflect zavodňovávanosť | N;GEN(SG,FEM)","target": "zavodňovávanosti"}
+{"input": "slk: Inflect zavodňovávanosť | N;ESS(PL,FEM)","target": "zavodňovávanostiach"}
+{"input": "slk: Inflect dokomprimovací | ADJ;NOM(SG,FEM)","target": "dokomprimovacia"}
+{"input": "slk: Inflect dokomprimovací | ADJ;ACC(SG,FEM)","target": "dokomprimovaciu"}
+{"input": "slk: Inflect dokomprimovací | ADJ;ESS(PL,MASC,INAN)","target": "dokomprimovacích"}
+{"input": "slk: Inflect dokomprimovací | ADJ;ESS(PL,NEUT)","target": "dokomprimovacích"}
+{"input": "slk: Inflect dokomprimovací | ADJ;GEN(SG,MASC,INAN)","target": "dokomprimovacieho"}
+{"input": "slk: Inflect dokomprimovací | ADJ;ESS(SG,FEM)","target": "dokomprimovacej"}
+{"input": "slk: Inflect dokomprimovací | ADJ;ACC(PL,MASC,INAN)","target": "dokomprimovacie"}
+{"input": "slk: Inflect dokomprimovací | ADJ;NOM(PL,NEUT)","target": "dokomprimovacie"}
+{"input": "slk: Inflect dokomprimovací | ADJ;NOM(PL,FEM)","target": "dokomprimovacie"}
+{"input": "slk: Inflect dokomprimovací | ADJ;DAT(SG,NEUT)","target": "dokomprimovaciemu"}
+{"input": "slk: Inflect dokomprimovací | ADJ;INS(PL,MASC,ANIM)","target": "dokomprimovacími"}
+{"input": "slk: Inflect dokomprimovací | ADJ;INS(PL,MASC,INAN)","target": "dokomprimovacími"}
+{"input": "slk: Inflect dokomprimovací | ADJ;DAT(PL,NEUT)","target": "dokomprimovacím"}
+{"input": "slk: Inflect dokomprimovací | ADJ;ESS(SG,MASC,INAN)","target": "dokomprimovacom"}
+{"input": "slk: Inflect dokomprimovací | ADJ;VOC(PL,MASC,ANIM)","target": "dokomprimovací"}
+{"input": "slk: Inflect vynálezcovstvo | N;VOC(PL,NEUT)","target": "vynálezcovstvá"}
+{"input": "slk: Inflect sestrička | N;DAT(SG,FEM)","target": "sestričke"}
+{"input": "slk: Inflect sestrička | N;VOC(SG,FEM)","target": "sestrička"}
+{"input": "slk: Inflect zhodnuteľnosť | N;NOM(SG,FEM)","target": "zhodnuteľnosť"}
+{"input": "slk: Inflect zhodnuteľnosť | N;INS(PL,FEM)","target": "zhodnuteľnosťami"}
+{"input": "slk: Inflect zhodnuteľnosť | N;ESS(SG,FEM)","target": "zhodnuteľnosti"}
+{"input": "slk: Inflect zhodnuteľnosť | N;VOC(PL,FEM)","target": "zhodnuteľnosti"}
+{"input": "slk: Inflect zhodnuteľnosť | N;DAT(PL,FEM)","target": "zhodnuteľnostiam"}
+{"input": "slk: Inflect zapaľovanie | N;GEN(PL,NEUT)","target": "zapaľovaní"}
+{"input": "slk: Inflect zapaľovanie | N;GEN(SG,NEUT)","target": "zapaľovania"}
+{"input": "slk: Inflect zapaľovanie | N;VOC(PL,NEUT)","target": "zapaľovania"}
+{"input": "slk: Inflect zapaľovanie | N;ESS(PL,NEUT)","target": "zapaľovaniach"}
+{"input": "slk: Inflect nevedomcov | ADJ;ACC(SG,NEUT)","target": "nevedomcovo"}
+{"input": "slk: Inflect nevedomcov | ADJ;DAT(SG,FEM)","target": "nevedomcovej"}
+{"input": "slk: Inflect nevedomcov | ADJ;ESS(SG,FEM)","target": "nevedomcovej"}
+{"input": "slk: Inflect nevedomcov | ADJ;INS(PL,MASC,ANIM)","target": "nevedomcovými"}
+{"input": "slk: Inflect nevedomcov | ADJ;INS(SG,MASC,INAN)","target": "nevedomcovým"}
+{"input": "slk: Inflect nevedomcov | ADJ;INS(SG,NEUT)","target": "nevedomcovým"}
+{"input": "slk: Inflect nevedomcov | ADJ;ESS(SG,NEUT)","target": "nevedomcovom"}
+{"input": "slk: Inflect nevedomcov | ADJ;VOC(PL,MASC,INAN)","target": "nevedomcove"}
+{"input": "slk: Inflect nevedomcov | ADJ;NOM(PL,NEUT)","target": "nevedomcove"}
+{"input": "slk: Inflect nevedomcov | ADJ;VOC(PL,NEUT)","target": "nevedomcove"}
+{"input": "slk: Inflect nevedomcov | ADJ;NOM(PL,FEM)","target": "nevedomcove"}
+{"input": "slk: Inflect nevedomcov | ADJ;ACC(PL,FEM)","target": "nevedomcove"}
+{"input": "slk: Inflect nevedomcov | ADJ;ACC(PL,MASC,ANIM)","target": "nevedomcových"}
+{"input": "slk: Inflect nevedomcov | ADJ;GEN(PL,MASC,INAN)","target": "nevedomcových"}
+{"input": "slk: Inflect nevedomcov | ADJ;ESS(PL,MASC,INAN)","target": "nevedomcových"}
+{"input": "slk: Inflect vyškrabnutosť | N;ACC(SG,FEM)","target": "vyškrabnutosť"}
+{"input": "slk: Inflect vyškrabnutosť | N;VOC(SG,FEM)","target": "vyškrabnutosť"}
+{"input": "slk: Inflect vyškrabnutosť | N;GEN(SG,FEM)","target": "vyškrabnutosti"}
+{"input": "slk: Inflect vyškrabnutosť | N;NOM(PL,FEM)","target": "vyškrabnutosti"}
+{"input": "slk: Inflect vyškrabnutosť | N;VOC(PL,FEM)","target": "vyškrabnutosti"}
+{"input": "slk: Inflect vyškrabnutosť | N;INS(SG,FEM)","target": "vyškrabnutosťou"}
+{"input": "slk: Inflect dointerpolovávací | ADJ;ESS(PL,FEM)","target": "dointerpolovávacích"}
+{"input": "slk: Inflect dointerpolovávací | ADJ;GEN(SG,MASC,INAN)","target": "dointerpolovávacieho"}
+{"input": "slk: Inflect dointerpolovávací | ADJ;GEN(SG,NEUT)","target": "dointerpolovávacieho"}
+{"input": "slk: Inflect dointerpolovávací | ADJ;NOM(PL,FEM)","target": "dointerpolovávacie"}
+{"input": "slk: Inflect dointerpolovávací | ADJ;DAT(SG,NEUT)","target": "dointerpolovávaciemu"}
+{"input": "slk: Inflect dointerpolovávací | ADJ;INS(PL,MASC,ANIM)","target": "dointerpolovávacími"}
+{"input": "slk: Inflect dointerpolovávací | ADJ;INS(PL,FEM)","target": "dointerpolovávacími"}
+{"input": "slk: Inflect dointerpolovávací | ADJ;DAT(PL,MASC,INAN)","target": "dointerpolovávacím"}
+{"input": "slk: Inflect dointerpolovávací | ADJ;DAT(PL,NEUT)","target": "dointerpolovávacím"}
+{"input": "slk: Inflect dointerpolovávací | ADJ;DAT(PL,FEM)","target": "dointerpolovávacím"}
+{"input": "slk: Inflect dointerpolovávací | ADJ;ESS(SG,MASC,ANIM)","target": "dointerpolovávacom"}
+{"input": "slk: Inflect dointerpolovávací | ADJ;ESS(SG,NEUT)","target": "dointerpolovávacom"}
+{"input": "slk: Inflect dointerpolovávací | ADJ;NOM(SG,MASC,ANIM)","target": "dointerpolovávací"}
+{"input": "slk: Inflect dointerpolovávací | ADJ;NOM(PL,MASC,ANIM)","target": "dointerpolovávací"}
+{"input": "slk: Inflect pozahadzúvanie | N;INS(SG,NEUT)","target": "pozahadzúvaním"}
+{"input": "slk: Inflect pozahadzúvanie | N;ESS(SG,NEUT)","target": "pozahadzúvaní"}
+{"input": "slk: Inflect pozahadzúvanie | N;GEN(SG,NEUT)","target": "pozahadzúvania"}
+{"input": "slk: Inflect obnažúvanie | N;DAT(SG,NEUT)","target": "obnažúvaniu"}
+{"input": "slk: Inflect šteklievať | V;PRS;IND;NEG;IPFV;2;SG","target": "nešteklievaš"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;IPFV;1;SG;FEM","target": "šteklievala by som štekali"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;PFV;3;SG;FEM","target": "šteklievala"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;PFV;1;SG;FEM","target": "šteklievala som"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;PFV;3;SG;FEM","target": "šteklievala by šteklievala"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;PFV;2;SG;FEM","target": "šteklievala by si šteklievala"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;PFV;3;SG;FEM","target": "bola by šteklievala"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;PFV;1;SG;FEM","target": "bola by som šteklievala"}
+{"input": "slk: Inflect šteklievať | V;PRS;IND;NEG;IPFV;1;SG","target": "nešteklievam"}
+{"input": "slk: Inflect šteklievať | V.PTCP;PASS;PFV;ACC;NOM(3,SG,FEM)","target": "šteklievanú"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;NEG;IPFV;3;SG;FEM","target": "nešteklievala"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;NEG;IPFV;1;SG;FEM","target": "nešteklievala som"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;IPFV;1;SG;FEM","target": "nebola by som šteklievala"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;NEG;PFV;3;SG;FEM","target": "nešteklievala"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;PFV;2;SG;FEM","target": "nebola by si šteklievala"}
+{"input": "slk: Inflect šteklievať | V.PTCP;PASS;NEG;IPFV;NOM;NOM(3,PL,MASC,ANIM)","target": "nešteklievaní"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;NEG;IPFV;3;PL;MASC;ANIM","target": "nešteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;NEG;IPFV;2;PL;MASC;ANIM","target": "nešteklievali by ste"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;NEG;PFV;3;PL;MASC;ANIM","target": "nešteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;NEG;PFV;3;PL;MASC;ANIM","target": "nešteklievali by"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;NEG;PFV;2;PL;MASC;ANIM","target": "nešteklievali by ste"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;PFV;1;PL;MASC;ANIM","target": "neboli by sme šteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;PFV;2;PL;MASC;ANIM","target": "neboli by ste šteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;NEG;IPFV;1;PL;MASC;INAN","target": "nešteklievali by sme"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;IPFV;3;PL;MASC;INAN","target": "neboli by šteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;IPFV;2;PL;MASC;INAN","target": "neboli by ste šteklievali"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;NEG;PFV;1;PL;MASC;INAN","target": "nešteklievali sme"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;PFV;2;PL;MASC;INAN","target": "neboli by ste šteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;NEG;IPFV;1;PL;FEM","target": "nešteklievali by sme"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;IPFV;2;PL;FEM","target": "neboli by ste šteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;NEG;PFV;3;PL;FEM","target": "nešteklievali by"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;PFV;2;PL;FEM","target": "neboli by ste šteklievali"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;NEG;IPFV;3;PL;NEUT","target": "nešteklievali"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;NEG;IPFV;1;PL;NEUT","target": "nešteklievali sme"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;NEG;PFV;3;PL;NEUT","target": "nešteklievali by"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;NEG;PFV;1;PL;NEUT","target": "nešteklievali by sme"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;NEG;PFV;2;PL;NEUT","target": "nešteklievali by ste"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;PFV;3;PL;NEUT","target": "neboli by šteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;PFV;1;PL;NEUT","target": "neboli by sme šteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;IPFV;3;SG;MASC","target": "bol by šteklieval"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;PFV;3;SG;MASC","target": "bol by šteklieval"}
+{"input": "slk: Inflect šteklievať | V;PRS;IND;PFV;3;PL","target": "šteklievajú"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;IPFV;1;SG;NEUT","target": "šteklievalo som"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;IPFV;3;SG;NEUT","target": "šteklievalo by šteklieval"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;IPFV;2;SG;NEUT","target": "šteklievalo by si šteklieval"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;PFV;1;SG;NEUT","target": "šteklievalo by som šteklievalo"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;PFV;1;SG;NEUT","target": "bolo by som šteklievalo"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;PFV;2;SG;NEUT","target": "bolo by si šteklievalo"}
+{"input": "slk: Inflect šteklievať | V.PTCP;PASS;IPFV;NOM;NOM(3,SG,FEM)","target": "šteklievaná"}
+{"input": "slk: Inflect šteklievať | V.PTCP;PASS;PFV;NOM;NOM(3,SG,FEM)","target": "šteklievaná"}
+{"input": "slk: Inflect šteklievať | V;NFIN;NEG;PFV","target": "nešteklievať"}
+{"input": "slk: Inflect šteklievať | V;IMP;PFV;2;PL","target": "šteklievajte"}
+{"input": "slk: Inflect šteklievať | V.PTCP;PASS;NEG;IPFV;NOM;NOM(3,SG,FEM)","target": "nešteklievaná"}
+{"input": "slk: Inflect šteklievať | V.PTCP;PASS;NEG;PFV;NOM;NOM(3,PL,FEM)","target": "nešteklievané"}
+{"input": "slk: Inflect šteklievať | V;PRS;IND;NEG;IPFV;3;PL","target": "nešteklievajú"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;IPFV;3;PL;MASC;ANIM","target": "šteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;IPFV;3;PL;MASC;ANIM","target": "šteklievali by"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;IPFV;2;PL;MASC;ANIM","target": "šteklievali by ste"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;PFV;1;PL;MASC;ANIM","target": "šteklievali sme"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;PFV;2;PL;MASC;ANIM","target": "šteklievali ste"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;PFV;2;PL;MASC;ANIM","target": "boli by ste šteklievali"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;IPFV;2;PL;MASC;INAN","target": "šteklievali ste"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;PFV;3;PL;MASC;INAN","target": "šteklievali"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;PFV;2;PL;MASC;INAN","target": "šteklievali ste"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;PFV;3;PL;MASC;INAN","target": "boli by šteklievali"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;IPFV;3;PL;FEM","target": "šteklievali"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;IPFV;2;PL;FEM","target": "šteklievali ste"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;IPFV;2;PL;FEM","target": "šteklievali by ste"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;IPFV;3;PL;FEM","target": "boli by šteklievali"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;PFV;3;PL;FEM","target": "šteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;PFV;1;PL;FEM","target": "šteklievali by sme"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;PFV;1;PL;FEM","target": "boli by sme šteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;PFV;2;PL;FEM","target": "boli by ste šteklievali"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;IPFV;2;PL;NEUT","target": "šteklievali ste"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;IPFV;1;PL;NEUT","target": "boli by sme šteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;IPFV;2;PL;NEUT","target": "boli by ste šteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;PFV;3;PL;NEUT","target": "boli by šteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;PFV;1;PL;NEUT","target": "boli by sme šteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;PFV;2;PL;NEUT","target": "boli by ste šteklievali"}
+{"input": "slk: Inflect šteklievať | V;NFIN;IPFV","target": "šteklievať"}
+{"input": "slk: Inflect šteklievať | V;FUT;IND;IPFV;1;SG","target": "budem šteklievať"}
+{"input": "slk: Inflect šteklievať | V;FUT;IND;NEG;IPFV;1;SG","target": "nebudem šteklievať"}
+{"input": "slk: Inflect šteklievať | V;FUT;IND;IPFV;3;SG","target": "bude šteklievať"}
+{"input": "slk: Inflect šteklievať | V;FUT;IND;IPFV;2;PL","target": "budete šteklievať"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;NEG;IPFV;1;SG;MASC","target": "nešteklieval som"}
+{"input": "slk: Inflect šteklievať | V;COND;PRS;NEG;IPFV;3;SG;MASC","target": "nešteklieval by šteklievali"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;IPFV;3;SG;MASC","target": "nebol by šteklieval"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;IPFV;1;SG;MASC","target": "nebol by som šteklieval"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;IPFV;2;SG;MASC","target": "nebol by si šteklieval"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;PFV;1;SG;MASC","target": "nebol by som šteklieval"}
+{"input": "slk: Inflect šteklievať | V;PRS;IND;NEG;IPFV;1;PL","target": "nešteklievame"}
+{"input": "slk: Inflect šteklievať | V;PRS;IND;IPFV;2;PL","target": "šteklievate"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;NEG;IPFV;3;SG;NEUT","target": "nešteklievalo"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;NEG;IPFV;1;SG;NEUT","target": "nešteklievalo som"}
+{"input": "slk: Inflect šteklievať | V;PST;IND;NEG;IPFV;2;SG;NEUT","target": "nešteklievalo si"}
+{"input": "slk: Inflect šteklievať | V;COND;PST;NEG;IPFV;2;SG;NEUT","target": "nebolo by si šteklievalo"}
+{"input": "slk: Inflect šteklievať | V;PRS;IND;IPFV;2;SG","target": "šteklievaš"}
+{"input": "slk: Inflect šteklievať | V;PRS;IND;PFV;2;SG","target": "šteklievaš"}
+{"input": "slk: Inflect šteklievať | V.PTCP;PASS;NEG;IPFV;ACC;NOM(3,SG,FEM)","target": "nešteklievanú"}
+{"input": "slk: Inflect šteklievať | V.PTCP;PASS;NEG;PFV;ACC;NOM(3,SG,FEM)","target": "nešteklievanú"}
+{"input": "slk: Inflect panteistov | ADJ;GEN(SG,FEM)","target": "panteistovej"}
+{"input": "slk: Inflect panteistov | ADJ;INS(PL,NEUT)","target": "panteistovými"}
+{"input": "slk: Inflect panteistov | ADJ;DAT(PL,MASC,INAN)","target": "panteistovým"}
+{"input": "slk: Inflect panteistov | ADJ;NOM(SG,FEM)","target": "panteistova"}
+{"input": "slk: Inflect panteistov | ADJ;ACC(PL,MASC,INAN)","target": "panteistove"}
+{"input": "slk: Inflect panteistov | ADJ;NOM(PL,FEM)","target": "panteistove"}
+{"input": "slk: Inflect panteistov | ADJ;ACC(PL,FEM)","target": "panteistove"}
+{"input": "slk: Inflect panteistov | ADJ;ACC(PL,MASC,ANIM)","target": "panteistových"}
+{"input": "slk: Inflect panteistov | ADJ;GEN(PL,NEUT)","target": "panteistových"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;INS(SG,FEM)","target": "vyporiadavavacou"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;NOM(SG,NEUT)","target": "vyporiadavavacie"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;ACC(SG,MASC,INAN)","target": "vyporiadavavací"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;ESS(PL,FEM)","target": "vyporiadavavacích"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;ACC(PL,MASC,INAN)","target": "vyporiadavavacie"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;VOC(PL,FEM)","target": "vyporiadavavacie"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;INS(SG,MASC,INAN)","target": "vyporiadavavacím"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;GEN(PL,FEM)","target": "vyporiadavavacích"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;INS(PL,MASC,ANIM)","target": "vyporiadavavacími"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;VOC(SG,FEM)","target": "vyporiadavavacia"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;GEN(SG,MASC,INAN)","target": "vyporiadavavacieho"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;GEN(SG,NEUT)","target": "vyporiadavavacieho"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;NOM(PL,NEUT)","target": "vyporiadavavacie"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;GEN(PL,NEUT)","target": "vyporiadavavacích"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;ACC(PL,FEM)","target": "vyporiadavavacie"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;DAT(PL,NEUT)","target": "vyporiadavavacím"}
+{"input": "slk: Inflect vyporiadavavací | ADJ;VOC(SG,MASC,INAN)","target": "vyporiadavavací"}
+{"input": "slk: Inflect dopreložene | ADV","target": "nedopreložene"}
+{"input": "slk: Inflect dopreložene | ADV;SPRL","target": "najnedopreloženejšie"}
+{"input": "slk: Inflect blamovane | ADV","target": "blamovane"}
+{"input": "slk: Inflect blamovane | ADV;SPRL","target": "najblamovanejšie"}
+{"input": "slk: Inflect dekretovateľnosť | N;INS(PL,FEM)","target": "dekretovateľnosťami"}
+{"input": "slk: Inflect dekretovateľnosť | N;NOM(PL,FEM)","target": "dekretovateľnosti"}
+{"input": "slk: Inflect dekretovateľnosť | N;ACC(PL,FEM)","target": "dekretovateľnosti"}
+{"input": "slk: Inflect poľakací | ADJ;VOC(SG,FEM)","target": "poľakacia"}
+{"input": "slk: Inflect poľakací | ADJ;ACC(SG,FEM)","target": "poľakaciu"}
+{"input": "slk: Inflect poľakací | ADJ;GEN(PL,MASC,ANIM)","target": "poľakacích"}
+{"input": "slk: Inflect poľakací | ADJ;ACC(PL,MASC,ANIM)","target": "poľakacích"}
+{"input": "slk: Inflect poľakací | ADJ;ESS(PL,NEUT)","target": "poľakacích"}
+{"input": "slk: Inflect poľakací | ADJ;ESS(PL,FEM)","target": "poľakacích"}
+{"input": "slk: Inflect poľakací | ADJ;ACC(SG,MASC,ANIM)","target": "poľakacieho"}
+{"input": "slk: Inflect poľakací | ADJ;GEN(SG,MASC,INAN)","target": "poľakacieho"}
+{"input": "slk: Inflect poľakací | ADJ;ESS(SG,FEM)","target": "poľakacej"}
+{"input": "slk: Inflect poľakací | ADJ;VOC(PL,MASC,INAN)","target": "poľakacie"}
+{"input": "slk: Inflect poľakací | ADJ;ACC(SG,NEUT)","target": "poľakacie"}
+{"input": "slk: Inflect poľakací | ADJ;VOC(SG,NEUT)","target": "poľakacie"}
+{"input": "slk: Inflect poľakací | ADJ;DAT(SG,NEUT)","target": "poľakaciemu"}
+{"input": "slk: Inflect poľakací | ADJ;INS(PL,MASC,INAN)","target": "poľakacími"}
+{"input": "slk: Inflect poľakací | ADJ;INS(PL,NEUT)","target": "poľakacími"}
+{"input": "slk: Inflect poľakací | ADJ;INS(PL,FEM)","target": "poľakacími"}
+{"input": "slk: Inflect poľakací | ADJ;INS(SG,MASC,ANIM)","target": "poľakacím"}
+{"input": "slk: Inflect poľakací | ADJ;DAT(PL,MASC,ANIM)","target": "poľakacím"}
+{"input": "slk: Inflect poľakací | ADJ;NOM(SG,MASC,ANIM)","target": "poľakací"}
+{"input": "slk: Inflect poľakací | ADJ;ACC(SG,MASC,INAN)","target": "poľakací"}
+{"input": "slk: Inflect rozdivený | ADJ;ACC(SG,NEUT)","target": "rozdivené"}
+{"input": "slk: Inflect rozdivený | ADJ;CMPR;ESS(SG,MASC,ANIM)","target": "rozdivenejšom"}
+{"input": "slk: Inflect rozdivený | ADJ;CMPR;ESS(SG,NEUT)","target": "rozdivenejšom"}
+{"input": "slk: Inflect rozdivený | ADJ;CMPR;DAT(SG,NEUT)","target": "rozdivenejšiemu"}
+{"input": "slk: Inflect rozdivený | ADJ;INS(PL,MASC,ANIM)","target": "rozdivenými"}
+{"input": "slk: Inflect rozdivený | ADJ;INS(PL,MASC,INAN)","target": "rozdivenými"}
+{"input": "slk: Inflect rozdivený | ADJ;INS(PL,NEUT)","target": "rozdivenými"}
+{"input": "slk: Inflect rozdivený | ADJ;GEN(SG,MASC,INAN)","target": "rozdiveného"}
+{"input": "slk: Inflect rozdivený | ADJ;GEN(SG,NEUT)","target": "rozdiveného"}
+{"input": "slk: Inflect rozdivený | ADJ;NOM(SG,MASC,INAN)","target": "rozdivený"}
+{"input": "slk: Inflect rozdivený | ADJ;ACC(SG,MASC,INAN)","target": "rozdivený"}
+{"input": "slk: Inflect rozdivený | ADJ;SPRL;DAT(PL,MASC,ANIM)","target": "najrozdivenejším"}
+{"input": "slk: Inflect rozdivený | ADJ;SPRL;INS(SG,MASC,INAN)","target": "najrozdivenejším"}
+{"input": "slk: Inflect rozdivený | ADJ;CMPR;DAT(PL,MASC,INAN)","target": "rozdivenejším"}
+{"input": "slk: Inflect rozdivený | ADJ;SPRL;DAT(PL,MASC,INAN)","target": "najrozdivenejším"}
+{"input": "slk: Inflect rozdivený | ADJ;SPRL;INS(SG,NEUT)","target": "najrozdivenejším"}
+{"input": "slk: Inflect rozdivený | ADJ;NOM(SG,FEM)","target": "rozdivená"}
+{"input": "slk: Inflect rozdivený | ADJ;VOC(SG,FEM)","target": "rozdivená"}
+{"input": "slk: Inflect rozdivený | ADJ;CMPR;NOM(SG,MASC,ANIM)","target": "rozdivenejší"}
+{"input": "slk: Inflect rozdivený | ADJ;SPRL;ACC(SG,MASC,INAN)","target": "najrozdivenejší"}
+{"input": "slk: Inflect rozdivený | ADJ;CMPR;GEN(PL,MASC,ANIM)","target": "rozdivenejších"}
+{"input": "slk: Inflect rozdivený | ADJ;CMPR;ESS(PL,MASC,INAN)","target": "rozdivenejších"}
+{"input": "slk: Inflect rozdivený | ADJ;CMPR;GEN(PL,FEM)","target": "rozdivenejších"}
+{"input": "slk: Inflect rozdivený | ADJ;CMPR;ACC(SG,NEUT)","target": "rozdivenejšie"}
+{"input": "slk: Inflect rozdivený | ADJ;CMPR;NOM(PL,NEUT)","target": "rozdivenejšie"}
+{"input": "slk: Inflect rozdivený | ADJ;CMPR;ACC(PL,NEUT)","target": "rozdivenejšie"}
+{"input": "slk: Inflect rozdivený | ADJ;ESS(PL,MASC,ANIM)","target": "rozdivených"}
+{"input": "slk: Inflect rozdivený | ADJ;CMPR;DAT(SG,FEM)","target": "rozdivenejšej"}
+{"input": "slk: Inflect rozdivený | ADJ;CMPR;ESS(SG,FEM)","target": "rozdivenejšej"}
+{"input": "slk: Inflect rozdivený | ADJ;CMPR;ACC(SG,MASC,ANIM)","target": "rozdivenejšieho"}
+{"input": "slk: Inflect rozdivený | ADJ;SPRL;ACC(SG,MASC,ANIM)","target": "najrozdivenejšieho"}
+{"input": "slk: Inflect rozdivený | ADJ;INS(SG,NEUT)","target": "rozdiveným"}
+{"input": "slk: Inflect rozdivený | ADJ;DAT(PL,FEM)","target": "rozdiveným"}
+{"input": "slk: Inflect rozdivený | ADJ;GEN(SG,FEM)","target": "rozdivenej"}
+{"input": "slk: Inflect rozdivený | ADJ;SPRL;INS(PL,FEM)","target": "najrozdivenejšími"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;NOM(PL,NEUT)","target": "predbehnuteľné"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;ACC(PL,NEUT)","target": "predbehnuteľné"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;NOM(PL,FEM)","target": "predbehnuteľné"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;ESS(SG,MASC,ANIM)","target": "predbehnuteľnom"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;ESS(SG,MASC,INAN)","target": "predbehnuteľnom"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;ESS(SG,NEUT)","target": "predbehnuteľnom"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;ACC(SG,FEM)","target": "najpredbehnuteľnejšiu"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;CMPR;ESS(SG,MASC,ANIM)","target": "predbehnuteľnejšom"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;ESS(SG,MASC,ANIM)","target": "najpredbehnuteľnejšom"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;ESS(SG,MASC,INAN)","target": "najpredbehnuteľnejšom"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;CMPR;ESS(SG,NEUT)","target": "predbehnuteľnejšom"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;INS(PL,FEM)","target": "predbehnuteľnými"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;ACC(SG,MASC,ANIM)","target": "predbehnuteľného"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;INS(SG,MASC,ANIM)","target": "najpredbehnuteľnejším"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;DAT(PL,MASC,ANIM)","target": "najpredbehnuteľnejším"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;CMPR;DAT(PL,MASC,INAN)","target": "predbehnuteľnejším"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;INS(SG,NEUT)","target": "najpredbehnuteľnejším"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;CMPR;DAT(PL,NEUT)","target": "predbehnuteľnejším"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;CMPR;DAT(PL,FEM)","target": "predbehnuteľnejším"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;NOM(SG,FEM)","target": "najpredbehnuteľnejšia"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;NOM(SG,FEM)","target": "predbehnuteľná"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;VOC(SG,FEM)","target": "predbehnuteľná"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;CMPR;ACC(SG,MASC,INAN)","target": "predbehnuteľnejší"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;CMPR;NOM(PL,MASC,ANIM)","target": "predbehnuteľnejší"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;NOM(PL,MASC,ANIM)","target": "najpredbehnuteľnejší"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;CMPR;VOC(PL,MASC,ANIM)","target": "predbehnuteľnejší"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;GEN(PL,MASC,ANIM)","target": "najpredbehnuteľnejších"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;CMPR;ACC(PL,MASC,ANIM)","target": "predbehnuteľnejších"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;GEN(PL,MASC,INAN)","target": "najpredbehnuteľnejších"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;ACC(PL,MASC,INAN)","target": "najpredbehnuteľnejšie"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;CMPR;NOM(SG,NEUT)","target": "predbehnuteľnejšie"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;NOM(SG,NEUT)","target": "najpredbehnuteľnejšie"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;CMPR;ACC(SG,NEUT)","target": "predbehnuteľnejšie"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;NOM(PL,NEUT)","target": "najpredbehnuteľnejšie"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;CMPR;ACC(PL,NEUT)","target": "predbehnuteľnejšie"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;ACC(PL,NEUT)","target": "najpredbehnuteľnejšie"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;VOC(PL,NEUT)","target": "najpredbehnuteľnejšie"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;VOC(PL,FEM)","target": "najpredbehnuteľnejšie"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;ESS(PL,MASC,ANIM)","target": "predbehnuteľných"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;ESS(PL,MASC,INAN)","target": "predbehnuteľných"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;DAT(SG,MASC,INAN)","target": "predbehnuteľnému"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;ACC(SG,MASC,ANIM)","target": "najpredbehnuteľnejšieho"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;CMPR;GEN(SG,MASC,INAN)","target": "predbehnuteľnejšieho"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;GEN(SG,NEUT)","target": "najpredbehnuteľnejšieho"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;INS(SG,MASC,ANIM)","target": "predbehnuteľným"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;DAT(PL,MASC,ANIM)","target": "predbehnuteľným"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;INS(SG,NEUT)","target": "predbehnuteľným"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;GEN(SG,FEM)","target": "predbehnuteľnej"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;DAT(SG,FEM)","target": "predbehnuteľnej"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;ESS(SG,FEM)","target": "predbehnuteľnej"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;INS(SG,FEM)","target": "najpredbehnuteľnejšou"}
+{"input": "slk: Inflect predbehnuteľný | ADJ;SPRL;INS(PL,MASC,ANIM)","target": "najpredbehnuteľnejšími"}
+{"input": "slk: Inflect šťastie | N;ESS(PL,NEUT)","target": "šťastiach"}
+{"input": "slk: Inflect šťastie | N;ACC(PL,NEUT)","target": "šťastia"}
+{"input": "slk: Inflect šťastie | N;VOC(PL,NEUT)","target": "šťastia"}
+{"input": "slk: Inflect šťastie | N;DAT(PL,NEUT)","target": "šťastiam"}
+{"input": "slk: Inflect šťastie | N;ESS(SG,NEUT)","target": "šťastí"}
+{"input": "slk: Inflect podplukovníčkin | ADJ;ESS(SG,MASC,ANIM)","target": "podplukovníčkinom"}
+{"input": "slk: Inflect podplukovníčkin | ADJ;ACC(SG,MASC,INAN)","target": "podplukovníčkin"}
+{"input": "slk: Inflect podplukovníčkin | ADJ;ACC(SG,MASC,ANIM)","target": "podplukovníčkinho"}
+{"input": "slk: Inflect podplukovníčkin | ADJ;NOM(PL,MASC,INAN)","target": "podplukovníčkine"}
+{"input": "slk: Inflect podplukovníčkin | ADJ;NOM(PL,FEM)","target": "podplukovníčkine"}
+{"input": "slk: Inflect podplukovníčkin | ADJ;ACC(PL,FEM)","target": "podplukovníčkine"}
+{"input": "slk: Inflect podplukovníčkin | ADJ;GEN(PL,MASC,ANIM)","target": "podplukovníčkiných"}
+{"input": "slk: Inflect podplukovníčkin | ADJ;ESS(PL,MASC,ANIM)","target": "podplukovníčkiných"}
+{"input": "slk: Inflect podplukovníčkin | ADJ;GEN(PL,MASC,INAN)","target": "podplukovníčkiných"}
+{"input": "slk: Inflect podplukovníčkin | ADJ;ESS(PL,NEUT)","target": "podplukovníčkiných"}
+{"input": "slk: Inflect podplukovníčkin | ADJ;GEN(SG,FEM)","target": "podplukovníčkinej"}
+{"input": "slk: Inflect podplukovníčkin | ADJ;ACC(SG,FEM)","target": "podplukovníčkinu"}
+{"input": "slk: Inflect podplukovníčkin | ADJ;DAT(PL,MASC,ANIM)","target": "podplukovníčkiným"}
+{"input": "slk: Inflect podplukovníčkin | ADJ;DAT(PL,NEUT)","target": "podplukovníčkiným"}
+{"input": "slk: Inflect podplukovníčkin | ADJ;VOC(SG,NEUT)","target": "podplukovníčkino"}
+{"input": "slk: Inflect oddielovosť | N;NOM(SG,FEM)","target": "oddielovosť"}
+{"input": "slk: Inflect oddielovosť | N;VOC(SG,FEM)","target": "oddielovosť"}
+{"input": "slk: Inflect oddielovosť | N;GEN(PL,FEM)","target": "oddielovostí"}
+{"input": "slk: Inflect oddielovosť | N;INS(PL,FEM)","target": "oddielovosťami"}
+{"input": "slk: Inflect oddielovosť | N;GEN(SG,FEM)","target": "oddielovosti"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;NOM(SG,NEUT)","target": "zatĺkavané"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;VOC(SG,NEUT)","target": "zatĺkavané"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;ACC(PL,NEUT)","target": "zatĺkavané"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;VOC(PL,FEM)","target": "zatĺkavané"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;SPRL;ESS(SG,MASC,ANIM)","target": "najzatĺkavanejšom"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;SPRL;ESS(SG,NEUT)","target": "najzatĺkavanejšom"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;INS(PL,MASC,ANIM)","target": "zatĺkavanými"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;GEN(SG,MASC,INAN)","target": "zatĺkavaného"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;VOC(SG,MASC,ANIM)","target": "zatĺkavaný"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;VOC(SG,MASC,INAN)","target": "zatĺkavaný"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;CMPR;INS(SG,MASC,ANIM)","target": "zatĺkavanejším"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;CMPR;INS(SG,MASC,INAN)","target": "zatĺkavanejším"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;SPRL;DAT(PL,MASC,INAN)","target": "najzatĺkavanejším"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;CMPR;VOC(SG,FEM)","target": "zatĺkavanejšia"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;CMPR;ACC(SG,MASC,INAN)","target": "zatĺkavanejší"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;SPRL;NOM(PL,MASC,ANIM)","target": "najzatĺkavanejší"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;CMPR;GEN(PL,MASC,ANIM)","target": "zatĺkavanejších"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;SPRL;ACC(PL,MASC,ANIM)","target": "najzatĺkavanejších"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;SPRL;GEN(PL,MASC,INAN)","target": "najzatĺkavanejších"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;CMPR;ESS(PL,MASC,INAN)","target": "zatĺkavanejších"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;SPRL;ESS(PL,FEM)","target": "najzatĺkavanejších"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;CMPR;ACC(PL,MASC,INAN)","target": "zatĺkavanejšie"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;SPRL;NOM(SG,NEUT)","target": "najzatĺkavanejšie"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;SPRL;ACC(PL,FEM)","target": "najzatĺkavanejšie"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;CMPR;VOC(PL,FEM)","target": "zatĺkavanejšie"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;GEN(PL,MASC,INAN)","target": "zatĺkavaných"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;GEN(PL,NEUT)","target": "zatĺkavaných"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;CMPR;GEN(SG,FEM)","target": "zatĺkavanejšej"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;CMPR;DAT(SG,FEM)","target": "zatĺkavanejšej"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;SPRL;DAT(SG,FEM)","target": "najzatĺkavanejšej"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;SPRL;ESS(SG,FEM)","target": "najzatĺkavanejšej"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;DAT(SG,MASC,INAN)","target": "zatĺkavanému"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;SPRL;GEN(SG,MASC,ANIM)","target": "najzatĺkavanejšieho"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;SPRL;ACC(SG,MASC,ANIM)","target": "najzatĺkavanejšieho"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;CMPR;GEN(SG,MASC,INAN)","target": "zatĺkavanejšieho"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;SPRL;GEN(SG,NEUT)","target": "najzatĺkavanejšieho"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;INS(SG,MASC,INAN)","target": "zatĺkavaným"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;DAT(SG,FEM)","target": "zatĺkavanej"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;CMPR;INS(SG,FEM)","target": "zatĺkavanejšou"}
+{"input": "slk: Inflect zatĺkavaný | ADJ;CMPR;INS(PL,FEM)","target": "zatĺkavanejšími"}
+{"input": "slk: Inflect podtrhovateľnosť | N;DAT(PL,FEM)","target": "podtrhovateľnostiam"}
+{"input": "slk: Inflect fundúvaný | ADJ;ACC(SG,FEM)","target": "fundúvanú"}
+{"input": "slk: Inflect fundúvaný | ADJ;NOM(PL,MASC,INAN)","target": "fundúvané"}
+{"input": "slk: Inflect fundúvaný | ADJ;VOC(PL,NEUT)","target": "fundúvané"}
+{"input": "slk: Inflect fundúvaný | ADJ;SPRL;DAT(SG,MASC,ANIM)","target": "najfundúvanejšiemu"}
+{"input": "slk: Inflect fundúvaný | ADJ;SPRL;DAT(SG,MASC,INAN)","target": "najfundúvanejšiemu"}
+{"input": "slk: Inflect fundúvaný | ADJ;INS(PL,MASC,INAN)","target": "fundúvanými"}
+{"input": "slk: Inflect fundúvaný | ADJ;GEN(SG,NEUT)","target": "fundúvaného"}
+{"input": "slk: Inflect fundúvaný | ADJ;VOC(SG,MASC,ANIM)","target": "fundúvaný"}
+{"input": "slk: Inflect fundúvaný | ADJ;VOC(SG,MASC,INAN)","target": "fundúvaný"}
+{"input": "slk: Inflect fundúvaný | ADJ;SPRL;INS(SG,MASC,INAN)","target": "najfundúvanejším"}
+{"input": "slk: Inflect fundúvaný | ADJ;SPRL;INS(SG,NEUT)","target": "najfundúvanejším"}
+{"input": "slk: Inflect fundúvaný | ADJ;CMPR;VOC(SG,FEM)","target": "fundúvanejšia"}
+{"input": "slk: Inflect fundúvaný | ADJ;SPRL;VOC(SG,MASC,ANIM)","target": "najfundúvanejší"}
+{"input": "slk: Inflect fundúvaný | ADJ;CMPR;VOC(SG,MASC,INAN)","target": "fundúvanejší"}
+{"input": "slk: Inflect fundúvaný | ADJ;SPRL;VOC(SG,MASC,INAN)","target": "najfundúvanejší"}
+{"input": "slk: Inflect fundúvaný | ADJ;SPRL;VOC(PL,MASC,ANIM)","target": "najfundúvanejší"}
+{"input": "slk: Inflect fundúvaný | ADJ;CMPR;GEN(PL,MASC,ANIM)","target": "fundúvanejších"}
+{"input": "slk: Inflect fundúvaný | ADJ;SPRL;GEN(PL,NEUT)","target": "najfundúvanejších"}
+{"input": "slk: Inflect fundúvaný | ADJ;CMPR;NOM(PL,MASC,INAN)","target": "fundúvanejšie"}
+{"input": "slk: Inflect fundúvaný | ADJ;CMPR;ACC(PL,NEUT)","target": "fundúvanejšie"}
+{"input": "slk: Inflect fundúvaný | ADJ;CMPR;ACC(PL,FEM)","target": "fundúvanejšie"}
+{"input": "slk: Inflect fundúvaný | ADJ;CMPR;VOC(PL,FEM)","target": "fundúvanejšie"}
+{"input": "slk: Inflect fundúvaný | ADJ;VOC(PL,MASC,ANIM)","target": "fundúvaní"}
+{"input": "slk: Inflect fundúvaný | ADJ;GEN(PL,MASC,ANIM)","target": "fundúvaných"}
+{"input": "slk: Inflect fundúvaný | ADJ;ACC(PL,MASC,ANIM)","target": "fundúvaných"}
+{"input": "slk: Inflect fundúvaný | ADJ;GEN(PL,FEM)","target": "fundúvaných"}
+{"input": "slk: Inflect fundúvaný | ADJ;CMPR;ESS(SG,FEM)","target": "fundúvanejšej"}
+{"input": "slk: Inflect fundúvaný | ADJ;SPRL;ESS(SG,FEM)","target": "najfundúvanejšej"}
+{"input": "slk: Inflect fundúvaný | ADJ;DAT(SG,MASC,ANIM)","target": "fundúvanému"}
+{"input": "slk: Inflect fundúvaný | ADJ;SPRL;GEN(SG,MASC,ANIM)","target": "najfundúvanejšieho"}
+{"input": "slk: Inflect fundúvaný | ADJ;CMPR;GEN(SG,MASC,INAN)","target": "fundúvanejšieho"}
+{"input": "slk: Inflect fundúvaný | ADJ;SPRL;GEN(SG,MASC,INAN)","target": "najfundúvanejšieho"}
+{"input": "slk: Inflect fundúvaný | ADJ;CMPR;GEN(SG,NEUT)","target": "fundúvanejšieho"}
+{"input": "slk: Inflect fundúvaný | ADJ;SPRL;GEN(SG,NEUT)","target": "najfundúvanejšieho"}
+{"input": "slk: Inflect fundúvaný | ADJ;INS(SG,MASC,ANIM)","target": "fundúvaným"}
+{"input": "slk: Inflect fundúvaný | ADJ;INS(SG,MASC,INAN)","target": "fundúvaným"}
+{"input": "slk: Inflect fundúvaný | ADJ;DAT(PL,NEUT)","target": "fundúvaným"}
+{"input": "slk: Inflect fundúvaný | ADJ;SPRL;INS(SG,FEM)","target": "najfundúvanejšou"}
+{"input": "slk: Inflect fundúvaný | ADJ;CMPR;INS(PL,MASC,ANIM)","target": "fundúvanejšími"}
+{"input": "slk: Inflect fundúvaný | ADJ;SPRL;INS(PL,MASC,ANIM)","target": "najfundúvanejšími"}
+{"input": "slk: Inflect fundúvaný | ADJ;CMPR;INS(PL,MASC,INAN)","target": "fundúvanejšími"}
+{"input": "slk: Inflect fundúvaný | ADJ;CMPR;INS(PL,NEUT)","target": "fundúvanejšími"}
+{"input": "slk: Inflect preraďovávane | ADV;CMPR","target": "preraďovávanejšie"}
+{"input": "slk: Inflect preraďovávane | ADV;SPRL","target": "najpreraďovávanejšie"}
+{"input": "slk: Inflect pripočítavateľne | ADV;CMPR","target": "pripočítavateľnejšie"}
+{"input": "slk: Inflect kovovýrobný | ADJ;ESS(SG,MASC,ANIM)","target": "kovovýrobnom"}
+{"input": "slk: Inflect kovovýrobný | ADJ;ACC(SG,FEM)","target": "kovovýrobnú"}
+{"input": "slk: Inflect kovovýrobný | ADJ;VOC(PL,NEUT)","target": "kovovýrobné"}
+{"input": "slk: Inflect kovovýrobný | ADJ;ACC(PL,FEM)","target": "kovovýrobné"}
+{"input": "slk: Inflect kovovýrobný | ADJ;DAT(SG,MASC,ANIM)","target": "kovovýrobnému"}
+{"input": "slk: Inflect kovovýrobný | ADJ;GEN(PL,MASC,ANIM)","target": "kovovýrobných"}
+{"input": "slk: Inflect kovovýrobný | ADJ;GEN(PL,FEM)","target": "kovovýrobných"}
+{"input": "slk: Inflect kovovýrobný | ADJ;ACC(SG,MASC,ANIM)","target": "kovovýrobného"}
+{"input": "slk: Inflect kovovýrobný | ADJ;DAT(PL,MASC,ANIM)","target": "kovovýrobným"}
+{"input": "slk: Inflect kovovýrobný | ADJ;INS(SG,NEUT)","target": "kovovýrobným"}
+{"input": "slk: Inflect kovovýrobný | ADJ;DAT(PL,NEUT)","target": "kovovýrobným"}
+{"input": "slk: Inflect kovovýrobný | ADJ;DAT(PL,FEM)","target": "kovovýrobným"}
+{"input": "slk: Inflect kovovýrobný | ADJ;INS(PL,MASC,ANIM)","target": "kovovýrobnými"}
+{"input": "slk: Inflect kovovýrobný | ADJ;INS(PL,FEM)","target": "kovovýrobnými"}
+{"input": "slk: Inflect kovovýrobný | ADJ;NOM(SG,FEM)","target": "kovovýrobná"}
+{"input": "slk: Inflect kovovýrobný | ADJ;VOC(SG,FEM)","target": "kovovýrobná"}
+{"input": "slk: Inflect kovovýrobný | ADJ;NOM(SG,MASC,INAN)","target": "kovovýrobný"}
+{"input": "slk: Inflect kovovýrobný | ADJ;ACC(SG,MASC,INAN)","target": "kovovýrobný"}
+{"input": "slk: Inflect vylízanie | N;NOM(PL,NEUT)","target": "vylízania"}
+{"input": "slk: Inflect vylízanie | N;ESS(PL,NEUT)","target": "vylízaniach"}
+{"input": "slk: Inflect vylízanie | N;NOM(SG,NEUT)","target": "vylízanie"}
+{"input": "slk: Inflect vylízanie | N;VOC(SG,NEUT)","target": "vylízanie"}
+{"input": "slk: Inflect skrátenie | N;INS(SG,NEUT)","target": "skrátením"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;ACC(SG,FEM)","target": "oddeklarovateľnú"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;VOC(PL,MASC,INAN)","target": "oddeklarovateľné"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;ACC(PL,FEM)","target": "oddeklarovateľné"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;ESS(SG,MASC,INAN)","target": "oddeklarovateľnom"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;ESS(SG,MASC,ANIM)","target": "najoddeklarovateľnejšom"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;DAT(SG,MASC,ANIM)","target": "najoddeklarovateľnejšiemu"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;GEN(SG,MASC,ANIM)","target": "oddeklarovateľného"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;INS(SG,MASC,ANIM)","target": "oddeklarovateľnejším"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;DAT(PL,MASC,ANIM)","target": "oddeklarovateľnejším"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;INS(SG,MASC,INAN)","target": "najoddeklarovateľnejším"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;INS(SG,NEUT)","target": "oddeklarovateľnejším"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;DAT(PL,NEUT)","target": "najoddeklarovateľnejším"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;DAT(PL,FEM)","target": "najoddeklarovateľnejším"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;NOM(SG,FEM)","target": "najoddeklarovateľnejšia"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;VOC(SG,MASC,ANIM)","target": "najoddeklarovateľnejší"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;VOC(SG,MASC,INAN)","target": "najoddeklarovateľnejší"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;NOM(PL,MASC,ANIM)","target": "oddeklarovateľnejší"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;NOM(PL,MASC,ANIM)","target": "najoddeklarovateľnejší"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;GEN(PL,MASC,ANIM)","target": "najoddeklarovateľnejších"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;ACC(PL,MASC,ANIM)","target": "oddeklarovateľnejších"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;ESS(PL,MASC,INAN)","target": "oddeklarovateľnejších"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;ESS(PL,MASC,INAN)","target": "najoddeklarovateľnejších"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;GEN(PL,NEUT)","target": "oddeklarovateľnejších"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;ESS(PL,NEUT)","target": "najoddeklarovateľnejších"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;ESS(PL,FEM)","target": "oddeklarovateľnejších"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;ESS(PL,FEM)","target": "najoddeklarovateľnejších"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;NOM(PL,MASC,INAN)","target": "oddeklarovateľnejšie"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;ACC(PL,MASC,INAN)","target": "oddeklarovateľnejšie"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;VOC(SG,NEUT)","target": "oddeklarovateľnejšie"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;NOM(PL,NEUT)","target": "oddeklarovateľnejšie"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;NOM(PL,NEUT)","target": "najoddeklarovateľnejšie"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;ACC(PL,NEUT)","target": "oddeklarovateľnejšie"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;ACC(PL,NEUT)","target": "najoddeklarovateľnejšie"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;VOC(PL,NEUT)","target": "oddeklarovateľnejšie"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;VOC(PL,NEUT)","target": "najoddeklarovateľnejšie"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;VOC(PL,FEM)","target": "oddeklarovateľnejšie"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;GEN(PL,MASC,INAN)","target": "oddeklarovateľných"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;GEN(PL,NEUT)","target": "oddeklarovateľných"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;ESS(PL,NEUT)","target": "oddeklarovateľných"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;ESS(PL,FEM)","target": "oddeklarovateľných"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;GEN(SG,FEM)","target": "najoddeklarovateľnejšej"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;DAT(SG,FEM)","target": "najoddeklarovateľnejšej"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;ESS(SG,FEM)","target": "najoddeklarovateľnejšej"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;ACC(SG,MASC,ANIM)","target": "oddeklarovateľnejšieho"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;ACC(SG,MASC,ANIM)","target": "najoddeklarovateľnejšieho"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;GEN(SG,MASC,INAN)","target": "oddeklarovateľnejšieho"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;INS(SG,MASC,INAN)","target": "oddeklarovateľným"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;INS(SG,NEUT)","target": "oddeklarovateľným"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;INS(SG,FEM)","target": "najoddeklarovateľnejšou"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;INS(PL,MASC,ANIM)","target": "oddeklarovateľnejšími"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;SPRL;INS(PL,MASC,ANIM)","target": "najoddeklarovateľnejšími"}
+{"input": "slk: Inflect oddeklarovateľný | ADJ;CMPR;INS(PL,NEUT)","target": "oddeklarovateľnejšími"}
+{"input": "slk: Inflect podivovávanosť | N;VOC(SG,FEM)","target": "podivovávanosť"}
+{"input": "slk: Inflect podivovávanosť | N;GEN(PL,FEM)","target": "podivovávaností"}
+{"input": "slk: Inflect podivovávanosť | N;NOM(PL,FEM)","target": "podivovávanosti"}
+{"input": "slk: Inflect podivovávanosť | N;INS(SG,FEM)","target": "podivovávanosťou"}
+{"input": "slk: Inflect odrubovateľný | ADJ;NOM(PL,MASC,INAN)","target": "odrubovateľné"}
+{"input": "slk: Inflect odrubovateľný | ADJ;VOC(SG,NEUT)","target": "odrubovateľné"}
+{"input": "slk: Inflect odrubovateľný | ADJ;NOM(PL,FEM)","target": "odrubovateľné"}
+{"input": "slk: Inflect odrubovateľný | ADJ;SPRL;ACC(SG,FEM)","target": "najodrubovateľnejšiu"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;ESS(SG,MASC,INAN)","target": "odrubovateľnejšom"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;ESS(SG,NEUT)","target": "odrubovateľnejšom"}
+{"input": "slk: Inflect odrubovateľný | ADJ;INS(PL,MASC,ANIM)","target": "odrubovateľnými"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;INS(SG,MASC,ANIM)","target": "odrubovateľnejším"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;DAT(PL,MASC,ANIM)","target": "odrubovateľnejším"}
+{"input": "slk: Inflect odrubovateľný | ADJ;SPRL;DAT(PL,MASC,INAN)","target": "najodrubovateľnejším"}
+{"input": "slk: Inflect odrubovateľný | ADJ;SPRL;INS(SG,NEUT)","target": "najodrubovateľnejším"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;DAT(PL,FEM)","target": "odrubovateľnejším"}
+{"input": "slk: Inflect odrubovateľný | ADJ;SPRL;DAT(PL,FEM)","target": "najodrubovateľnejším"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;NOM(SG,FEM)","target": "odrubovateľnejšia"}
+{"input": "slk: Inflect odrubovateľný | ADJ;SPRL;VOC(SG,MASC,ANIM)","target": "najodrubovateľnejší"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;NOM(PL,MASC,ANIM)","target": "odrubovateľnejší"}
+{"input": "slk: Inflect odrubovateľný | ADJ;SPRL;GEN(PL,MASC,ANIM)","target": "najodrubovateľnejších"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;ACC(PL,MASC,ANIM)","target": "odrubovateľnejších"}
+{"input": "slk: Inflect odrubovateľný | ADJ;SPRL;ACC(PL,MASC,ANIM)","target": "najodrubovateľnejších"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;ESS(PL,MASC,ANIM)","target": "odrubovateľnejších"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;GEN(PL,MASC,INAN)","target": "odrubovateľnejších"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;ESS(PL,MASC,INAN)","target": "odrubovateľnejších"}
+{"input": "slk: Inflect odrubovateľný | ADJ;SPRL;GEN(PL,NEUT)","target": "najodrubovateľnejších"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;GEN(PL,FEM)","target": "odrubovateľnejších"}
+{"input": "slk: Inflect odrubovateľný | ADJ;SPRL;GEN(PL,FEM)","target": "najodrubovateľnejších"}
+{"input": "slk: Inflect odrubovateľný | ADJ;SPRL;ESS(PL,FEM)","target": "najodrubovateľnejších"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;ACC(PL,MASC,INAN)","target": "odrubovateľnejšie"}
+{"input": "slk: Inflect odrubovateľný | ADJ;SPRL;NOM(SG,NEUT)","target": "najodrubovateľnejšie"}
+{"input": "slk: Inflect odrubovateľný | ADJ;SPRL;VOC(SG,NEUT)","target": "najodrubovateľnejšie"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;NOM(PL,NEUT)","target": "odrubovateľnejšie"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;VOC(PL,NEUT)","target": "odrubovateľnejšie"}
+{"input": "slk: Inflect odrubovateľný | ADJ;SPRL;VOC(PL,NEUT)","target": "najodrubovateľnejšie"}
+{"input": "slk: Inflect odrubovateľný | ADJ;SPRL;ACC(PL,FEM)","target": "najodrubovateľnejšie"}
+{"input": "slk: Inflect odrubovateľný | ADJ;CMPR;VOC(PL,FEM)","target": "odrubovateľnejšie"}
+{"input": "slk: Inflect odrubovateľný | ADJ;GEN(PL,FEM)","target": "odrubovateľných"}
+{"input": "slk: Inflect odrubovateľný | ADJ;DAT(PL,MASC,ANIM)","target": "odrubovateľným"}
+{"input": "slk: Inflect odrubovateľný | ADJ;DAT(PL,MASC,INAN)","target": "odrubovateľným"}
+{"input": "slk: Inflect odrubovateľný | ADJ;SPRL;INS(PL,MASC,ANIM)","target": "najodrubovateľnejšími"}
+{"input": "slk: Inflect presnežený | ADJ;ACC(PL,MASC,INAN)","target": "presnežené"}
+{"input": "slk: Inflect presnežený | ADJ;ACC(SG,NEUT)","target": "presnežené"}
+{"input": "slk: Inflect presnežený | ADJ;NOM(PL,NEUT)","target": "presnežené"}
+{"input": "slk: Inflect presnežený | ADJ;VOC(PL,NEUT)","target": "presnežené"}
+{"input": "slk: Inflect presnežený | ADJ;INS(SG,FEM)","target": "presneženou"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;ESS(SG,MASC,ANIM)","target": "najpresneženejšom"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;ESS(SG,MASC,INAN)","target": "najpresneženejšom"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;ESS(SG,NEUT)","target": "najpresneženejšom"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;DAT(SG,MASC,INAN)","target": "najpresneženejšiemu"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;DAT(SG,NEUT)","target": "presneženejšiemu"}
+{"input": "slk: Inflect presnežený | ADJ;INS(PL,MASC,INAN)","target": "presneženými"}
+{"input": "slk: Inflect presnežený | ADJ;INS(PL,NEUT)","target": "presneženými"}
+{"input": "slk: Inflect presnežený | ADJ;VOC(SG,MASC,ANIM)","target": "presnežený"}
+{"input": "slk: Inflect presnežený | ADJ;VOC(SG,MASC,INAN)","target": "presnežený"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;INS(SG,MASC,ANIM)","target": "presneženejším"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;DAT(PL,MASC,ANIM)","target": "najpresneženejším"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;INS(SG,MASC,INAN)","target": "presneženejším"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;NOM(SG,FEM)","target": "najpresneženejšia"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;VOC(SG,FEM)","target": "najpresneženejšia"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;NOM(SG,MASC,ANIM)","target": "najpresneženejší"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;VOC(SG,MASC,ANIM)","target": "presneženejší"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;ACC(SG,MASC,INAN)","target": "presneženejší"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;VOC(PL,MASC,ANIM)","target": "najpresneženejší"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;GEN(PL,MASC,ANIM)","target": "najpresneženejších"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;ESS(PL,MASC,ANIM)","target": "najpresneženejších"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;GEN(PL,MASC,INAN)","target": "najpresneženejších"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;ESS(PL,MASC,INAN)","target": "najpresneženejších"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;ESS(PL,NEUT)","target": "presneženejších"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;ACC(PL,MASC,INAN)","target": "presneženejšie"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;VOC(PL,MASC,INAN)","target": "najpresneženejšie"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;VOC(SG,NEUT)","target": "presneženejšie"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;ACC(PL,NEUT)","target": "presneženejšie"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;ACC(PL,NEUT)","target": "najpresneženejšie"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;VOC(PL,FEM)","target": "najpresneženejšie"}
+{"input": "slk: Inflect presnežený | ADJ;VOC(PL,MASC,ANIM)","target": "presnežení"}
+{"input": "slk: Inflect presnežený | ADJ;GEN(PL,MASC,ANIM)","target": "presnežených"}
+{"input": "slk: Inflect presnežený | ADJ;ESS(PL,NEUT)","target": "presnežených"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;GEN(SG,FEM)","target": "presneženejšej"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;GEN(SG,FEM)","target": "najpresneženejšej"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;DAT(SG,FEM)","target": "presneženejšej"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;DAT(SG,FEM)","target": "najpresneženejšej"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;ESS(SG,FEM)","target": "presneženejšej"}
+{"input": "slk: Inflect presnežený | ADJ;DAT(SG,MASC,ANIM)","target": "presneženému"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;GEN(SG,MASC,ANIM)","target": "presneženejšieho"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;GEN(SG,MASC,INAN)","target": "presneženejšieho"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;GEN(SG,MASC,INAN)","target": "najpresneženejšieho"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;GEN(SG,NEUT)","target": "presneženejšieho"}
+{"input": "slk: Inflect presnežený | ADJ;DAT(PL,NEUT)","target": "presneženým"}
+{"input": "slk: Inflect presnežený | ADJ;ESS(SG,FEM)","target": "presneženej"}
+{"input": "slk: Inflect presnežený | ADJ;SPRL;INS(PL,MASC,INAN)","target": "najpresneženejšími"}
+{"input": "slk: Inflect presnežený | ADJ;CMPR;INS(PL,NEUT)","target": "presneženejšími"}
+{"input": "slk: Inflect úderkovosť | N;VOC(SG,FEM)","target": "úderkovosť"}
+{"input": "slk: Inflect úderkovosť | N;NOM(PL,FEM)","target": "úderkovosti"}
+{"input": "slk: Inflect úderkovosť | N;ACC(PL,FEM)","target": "úderkovosti"}
+{"input": "slk: Inflect úderkovosť | N;ESS(PL,FEM)","target": "úderkovostiach"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;NEG;IPFV;1;SG;FEM","target": "nebola by som prikročovala"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;NEG;PFV;3;SG;FEM","target": "neprikročovala"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;NEG;PFV;1;SG;FEM","target": "neprikročovala by som prikročovala"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;NEG;PFV;2;SG;FEM","target": "neprikročovala by si prikročovala"}
+{"input": "slk: Inflect prikročovať | V.PTCP;PASS;NEG;IPFV;ACC;NOM(3,SG,FEM)","target": "neprikročovanú"}
+{"input": "slk: Inflect prikročovať | V;PRS;IND;NEG;PFV;1;SG","target": "neprikročujem"}
+{"input": "slk: Inflect prikročovať | V.PTCP;PASS;NEG;PFV;NOM;NOM(3,SG,FEM)","target": "neprikročovaná"}
+{"input": "slk: Inflect prikročovať | V;PRS;IND;NEG;IPFV;3;SG","target": "neprikročuje"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;NEG;IPFV;3;PL;MASC;ANIM","target": "neprikročovali"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;NEG;IPFV;1;PL;MASC;ANIM","target": "neprikročovali sme"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;NEG;IPFV;2;PL;MASC;ANIM","target": "neboli by ste prikročovali"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;NEG;PFV;1;PL;MASC;ANIM","target": "neprikročovali sme"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;NEG;PFV;1;PL;MASC;ANIM","target": "neprikročovali by sme"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;NEG;IPFV;3;PL;MASC;INAN","target": "neprikročovali by"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;NEG;PFV;3;PL;MASC;INAN","target": "neprikročovali"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;NEG;PFV;1;PL;MASC;INAN","target": "neprikročovali sme"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;NEG;PFV;1;PL;MASC;INAN","target": "neboli by sme prikročovali"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;NEG;IPFV;3;PL;FEM","target": "neprikročovali"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;NEG;IPFV;1;PL;FEM","target": "neprikročovali sme"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;NEG;IPFV;3;PL;FEM","target": "neprikročovali by"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;NEG;IPFV;2;PL;FEM","target": "neprikročovali by ste"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;NEG;PFV;2;PL;NEUT","target": "neprikročovali ste"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;IPFV;1;SG;FEM","target": "prikročovala by som prikročovali"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;IPFV;2;SG;FEM","target": "prikročovala by si prikročovali"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;PFV;2;SG;FEM","target": "prikročovala si"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;PFV;3;SG;FEM","target": "bola by prikročovala"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;PFV;2;SG;FEM","target": "bola by si prikročovala"}
+{"input": "slk: Inflect prikročovať | V.PTCP;PASS;IPFV;NOM;NOM(3,PL,MASC,ANIM)","target": "prikročovaní"}
+{"input": "slk: Inflect prikročovať | V.PTCP;PASS;PFV;NOM;NOM(3,PL,MASC,ANIM)","target": "prikročovaní"}
+{"input": "slk: Inflect prikročovať | V;IMP;IPFV;2;SG","target": "prikročuj"}
+{"input": "slk: Inflect prikročovať | V;PRS;IND;IPFV;3;SG","target": "prikročuje"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;IPFV;2;PL;MASC;ANIM","target": "prikročovali ste"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;IPFV;3;PL;MASC;ANIM","target": "boli by prikročovali"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;IPFV;1;PL;MASC;ANIM","target": "boli by sme prikročovali"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;PFV;3;PL;MASC;ANIM","target": "prikročovali"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;PFV;1;PL;MASC;ANIM","target": "prikročovali sme"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;PFV;3;PL;MASC;ANIM","target": "prikročovali by"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;PFV;2;PL;MASC;ANIM","target": "prikročovali by ste"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;IPFV;1;PL;MASC;INAN","target": "prikročovali by sme"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;IPFV;2;PL;MASC;INAN","target": "boli by ste prikročovali"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;PFV;1;PL;MASC;INAN","target": "prikročovali sme"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;IPFV;1;PL;FEM","target": "prikročovali by sme"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;IPFV;2;PL;FEM","target": "prikročovali by ste"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;PFV;3;PL;FEM","target": "prikročovali"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;PFV;1;PL;FEM","target": "prikročovali sme"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;PFV;2;PL;FEM","target": "prikročovali ste"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;PFV;2;PL;FEM","target": "prikročovali by ste"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;PFV;1;PL;FEM","target": "boli by sme prikročovali"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;IPFV;2;PL;NEUT","target": "prikročovali ste"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;IPFV;3;PL;NEUT","target": "prikročovali by"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;IPFV;1;PL;NEUT","target": "prikročovali by sme"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;IPFV;2;PL;NEUT","target": "prikročovali by ste"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;IPFV;3;PL;NEUT","target": "boli by prikročovali"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;PFV;3;PL;NEUT","target": "prikročovali by"}
+{"input": "slk: Inflect prikročovať | V;PRS;IND;IPFV;2;SG","target": "prikročuješ"}
+{"input": "slk: Inflect prikročovať | V;FUT;IND;IPFV;2;SG","target": "budeš prikročovať"}
+{"input": "slk: Inflect prikročovať | V;FUT;IND;NEG;IPFV;1;PL","target": "nebudeme prikročovať"}
+{"input": "slk: Inflect prikročovať | V;IMP;PFV;2;PL","target": "prikročujte"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;IPFV;3;SG;NEUT","target": "prikročovalo by prikročovali"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;IPFV;3;SG;NEUT","target": "bolo by prikročovalo"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;IPFV;1;SG;NEUT","target": "bolo by som prikročovalo"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;PFV;3;SG;NEUT","target": "bolo by prikročovalo"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;PFV;1;SG;NEUT","target": "bolo by som prikročovalo"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;PFV;2;SG;NEUT","target": "bolo by si prikročovalo"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;IPFV;1;SG;MASC","target": "prikročoval by som prikročovalo"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;PFV;3;SG;MASC","target": "prikročoval"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;PFV;1;SG;MASC","target": "prikročoval som"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;PFV;1;SG;MASC","target": "prikročoval by som prikročoval"}
+{"input": "slk: Inflect prikročovať | V;PRS;IND;PFV;1;PL","target": "prikročujeme"}
+{"input": "slk: Inflect prikročovať | V.PTCP;PASS;NEG;PFV;NOM;NOM(3,PL,FEM)","target": "neprikročované"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;NEG;IPFV;2;SG;MASC","target": "neprikročoval si"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;NEG;IPFV;1;SG;MASC","target": "neprikročoval by som prikročoval"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;NEG;IPFV;1;SG;MASC","target": "nebol by som prikročoval"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;NEG;PFV;3;SG;MASC","target": "neprikročoval"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;NEG;PFV;1;SG;MASC","target": "neprikročoval by som prikročoval"}
+{"input": "slk: Inflect prikročovať | V;COND;PST;NEG;PFV;3;SG;MASC","target": "nebol by prikročoval"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;NEG;IPFV;1;SG;NEUT","target": "neprikročovalo som"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;NEG;IPFV;3;SG;NEUT","target": "neprikročovalo by prikročoval"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;NEG;IPFV;2;SG;NEUT","target": "neprikročovalo by si prikročoval"}
+{"input": "slk: Inflect prikročovať | V;PST;IND;NEG;PFV;1;SG;NEUT","target": "neprikročovalo som"}
+{"input": "slk: Inflect prikročovať | V;COND;PRS;NEG;PFV;2;SG;NEUT","target": "neprikročovalo by si prikročovalo"}
+{"input": "slk: Inflect nachyľovane | ADV","target": "nenachyľovane"}
+{"input": "slk: Inflect priadresovávaný | ADJ;ACC(PL,NEUT)","target": "priadresovávané"}
+{"input": "slk: Inflect priadresovávaný | ADJ;VOC(PL,FEM)","target": "priadresovávané"}
+{"input": "slk: Inflect priadresovávaný | ADJ;ESS(SG,MASC,INAN)","target": "priadresovávanom"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;ACC(SG,FEM)","target": "priadresovávanejšiu"}
+{"input": "slk: Inflect priadresovávaný | ADJ;INS(SG,FEM)","target": "priadresovávanou"}
+{"input": "slk: Inflect priadresovávaný | ADJ;SPRL;ESS(SG,MASC,INAN)","target": "najpriadresovávanejšom"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;DAT(SG,MASC,ANIM)","target": "priadresovávanejšiemu"}
+{"input": "slk: Inflect priadresovávaný | ADJ;SPRL;DAT(SG,MASC,INAN)","target": "najpriadresovávanejšiemu"}
+{"input": "slk: Inflect priadresovávaný | ADJ;INS(PL,FEM)","target": "priadresovávanými"}
+{"input": "slk: Inflect priadresovávaný | ADJ;GEN(SG,MASC,ANIM)","target": "priadresovávaného"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;INS(SG,MASC,ANIM)","target": "priadresovávanejším"}
+{"input": "slk: Inflect priadresovávaný | ADJ;SPRL;INS(SG,MASC,ANIM)","target": "najpriadresovávanejším"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;INS(SG,MASC,INAN)","target": "priadresovávanejším"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;DAT(PL,MASC,INAN)","target": "priadresovávanejším"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;NOM(SG,FEM)","target": "priadresovávanejšia"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;VOC(SG,FEM)","target": "priadresovávanejšia"}
+{"input": "slk: Inflect priadresovávaný | ADJ;NOM(SG,FEM)","target": "priadresovávaná"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;NOM(SG,MASC,INAN)","target": "priadresovávanejší"}
+{"input": "slk: Inflect priadresovávaný | ADJ;SPRL;NOM(SG,MASC,INAN)","target": "najpriadresovávanejší"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;VOC(PL,MASC,ANIM)","target": "priadresovávanejší"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;GEN(PL,MASC,ANIM)","target": "priadresovávanejších"}
+{"input": "slk: Inflect priadresovávaný | ADJ;SPRL;ACC(PL,MASC,ANIM)","target": "najpriadresovávanejších"}
+{"input": "slk: Inflect priadresovávaný | ADJ;SPRL;ESS(PL,MASC,ANIM)","target": "najpriadresovávanejších"}
+{"input": "slk: Inflect priadresovávaný | ADJ;SPRL;GEN(PL,NEUT)","target": "najpriadresovávanejších"}
+{"input": "slk: Inflect priadresovávaný | ADJ;SPRL;ESS(PL,FEM)","target": "najpriadresovávanejších"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;ACC(PL,FEM)","target": "priadresovávanejšie"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;VOC(PL,FEM)","target": "priadresovávanejšie"}
+{"input": "slk: Inflect priadresovávaný | ADJ;ACC(PL,MASC,ANIM)","target": "priadresovávaných"}
+{"input": "slk: Inflect priadresovávaný | ADJ;ESS(PL,NEUT)","target": "priadresovávaných"}
+{"input": "slk: Inflect priadresovávaný | ADJ;SPRL;GEN(SG,FEM)","target": "najpriadresovávanejšej"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;DAT(SG,FEM)","target": "priadresovávanejšej"}
+{"input": "slk: Inflect priadresovávaný | ADJ;SPRL;DAT(SG,FEM)","target": "najpriadresovávanejšej"}
+{"input": "slk: Inflect priadresovávaný | ADJ;SPRL;GEN(SG,MASC,ANIM)","target": "najpriadresovávanejšieho"}
+{"input": "slk: Inflect priadresovávaný | ADJ;SPRL;ACC(SG,MASC,ANIM)","target": "najpriadresovávanejšieho"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;GEN(SG,NEUT)","target": "priadresovávanejšieho"}
+{"input": "slk: Inflect priadresovávaný | ADJ;INS(SG,MASC,ANIM)","target": "priadresovávaným"}
+{"input": "slk: Inflect priadresovávaný | ADJ;DAT(PL,MASC,ANIM)","target": "priadresovávaným"}
+{"input": "slk: Inflect priadresovávaný | ADJ;DAT(PL,MASC,INAN)","target": "priadresovávaným"}
+{"input": "slk: Inflect priadresovávaný | ADJ;DAT(PL,NEUT)","target": "priadresovávaným"}
+{"input": "slk: Inflect priadresovávaný | ADJ;GEN(SG,FEM)","target": "priadresovávanej"}
+{"input": "slk: Inflect priadresovávaný | ADJ;ESS(SG,FEM)","target": "priadresovávanej"}
+{"input": "slk: Inflect priadresovávaný | ADJ;SPRL;INS(SG,FEM)","target": "najpriadresovávanejšou"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;INS(PL,MASC,ANIM)","target": "priadresovávanejšími"}
+{"input": "slk: Inflect priadresovávaný | ADJ;SPRL;INS(PL,NEUT)","target": "najpriadresovávanejšími"}
+{"input": "slk: Inflect priadresovávaný | ADJ;CMPR;INS(PL,FEM)","target": "priadresovávanejšími"}
+{"input": "slk: Inflect zatvárajúci | ADJ;NOM(SG,NEUT)","target": "zatvárajúce"}
+{"input": "slk: Inflect zatvárajúci | ADJ;NOM(PL,FEM)","target": "zatvárajúce"}
+{"input": "slk: Inflect zatvárajúci | ADJ;ACC(PL,FEM)","target": "zatvárajúce"}
+{"input": "slk: Inflect zatvárajúci | ADJ;INS(PL,MASC,ANIM)","target": "zatvárajúcimi"}
+{"input": "slk: Inflect zatvárajúci | ADJ;INS(PL,MASC,INAN)","target": "zatvárajúcimi"}
+{"input": "slk: Inflect zatvárajúci | ADJ;INS(SG,FEM)","target": "zatvárajúcou"}
+{"input": "slk: Inflect zatvárajúci | ADJ;INS(SG,MASC,ANIM)","target": "zatvárajúcim"}
+{"input": "slk: Inflect zatvárajúci | ADJ;DAT(PL,MASC,INAN)","target": "zatvárajúcim"}
+{"input": "slk: Inflect zatvárajúci | ADJ;INS(SG,NEUT)","target": "zatvárajúcim"}
+{"input": "slk: Inflect zatvárajúci | ADJ;NOM(SG,MASC,ANIM)","target": "zatvárajúci"}
+{"input": "slk: Inflect zatvárajúci | ADJ;VOC(SG,MASC,ANIM)","target": "zatvárajúci"}
+{"input": "slk: Inflect zatvárajúci | ADJ;ACC(PL,MASC,ANIM)","target": "zatvárajúcich"}
+{"input": "slk: Inflect zatvárajúci | ADJ;GEN(PL,MASC,INAN)","target": "zatvárajúcich"}
+{"input": "slk: Inflect zatvárajúci | ADJ;DAT(SG,NEUT)","target": "zatvárajúcemu"}
+{"input": "slk: Inflect symptomaticky | ADV;CMPR","target": "symptomatickejšie"}
+{"input": "slk: Inflect symptomaticky | ADV","target": "symptomaticky"}
+{"input": "slk: Inflect symptomaticky | ADV","target": "nesymptomaticky"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;ACC(SG,NEUT)","target": "zasluhovávané"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;NOM(PL,NEUT)","target": "zasluhovávané"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;VOC(PL,NEUT)","target": "zasluhovávané"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;ACC(PL,FEM)","target": "zasluhovávané"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;ACC(SG,FEM)","target": "zasluhovávanejšiu"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;ACC(SG,FEM)","target": "najzasluhovávanejšiu"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;INS(SG,FEM)","target": "zasluhovávanou"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;ESS(SG,MASC,ANIM)","target": "najzasluhovávanejšom"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;DAT(SG,MASC,ANIM)","target": "zasluhovávanejšiemu"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;DAT(SG,MASC,ANIM)","target": "najzasluhovávanejšiemu"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;DAT(SG,MASC,INAN)","target": "zasluhovávanejšiemu"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;DAT(SG,NEUT)","target": "zasluhovávanejšiemu"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;INS(PL,MASC,ANIM)","target": "zasluhovávanými"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;INS(PL,FEM)","target": "zasluhovávanými"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;GEN(SG,NEUT)","target": "zasluhovávaného"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;ACC(SG,MASC,INAN)","target": "zasluhovávaný"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;DAT(PL,MASC,ANIM)","target": "najzasluhovávanejším"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;DAT(PL,MASC,INAN)","target": "zasluhovávanejším"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;DAT(PL,NEUT)","target": "zasluhovávanejším"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;DAT(PL,FEM)","target": "zasluhovávanejším"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;NOM(SG,FEM)","target": "zasluhovávanejšia"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;NOM(SG,FEM)","target": "najzasluhovávanejšia"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;VOC(SG,FEM)","target": "najzasluhovávanejšia"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;NOM(SG,MASC,INAN)","target": "zasluhovávanejší"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;GEN(PL,MASC,ANIM)","target": "najzasluhovávanejších"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;ACC(PL,MASC,ANIM)","target": "najzasluhovávanejších"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;ESS(PL,NEUT)","target": "zasluhovávanejších"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;ESS(PL,NEUT)","target": "najzasluhovávanejších"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;GEN(PL,FEM)","target": "zasluhovávanejších"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;NOM(PL,MASC,INAN)","target": "najzasluhovávanejšie"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;ACC(PL,MASC,INAN)","target": "zasluhovávanejšie"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;ACC(PL,MASC,INAN)","target": "najzasluhovávanejšie"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;VOC(PL,MASC,INAN)","target": "najzasluhovávanejšie"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;NOM(PL,NEUT)","target": "najzasluhovávanejšie"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;ACC(PL,NEUT)","target": "zasluhovávanejšie"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;VOC(PL,NEUT)","target": "najzasluhovávanejšie"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;GEN(PL,MASC,ANIM)","target": "zasluhovávaných"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;ACC(PL,MASC,ANIM)","target": "zasluhovávaných"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;DAT(SG,FEM)","target": "zasluhovávanejšej"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;DAT(SG,FEM)","target": "najzasluhovávanejšej"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;GEN(SG,MASC,ANIM)","target": "zasluhovávanejšieho"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;GEN(SG,MASC,INAN)","target": "zasluhovávanejšieho"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;INS(SG,MASC,ANIM)","target": "zasluhovávaným"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;DAT(PL,FEM)","target": "zasluhovávaným"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;DAT(SG,FEM)","target": "zasluhovávanej"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;INS(SG,FEM)","target": "zasluhovávanejšou"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;INS(PL,MASC,ANIM)","target": "zasluhovávanejšími"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;SPRL;INS(PL,MASC,INAN)","target": "najzasluhovávanejšími"}
+{"input": "slk: Inflect zasluhovávaný | ADJ;CMPR;INS(PL,FEM)","target": "zasluhovávanejšími"}
+{"input": "slk: Inflect dopremýšľací | ADJ;ACC(SG,FEM)","target": "dopremýšľaciu"}
+{"input": "slk: Inflect dopremýšľací | ADJ;GEN(PL,FEM)","target": "dopremýšľacích"}
+{"input": "slk: Inflect dopremýšľací | ADJ;ESS(PL,FEM)","target": "dopremýšľacích"}
+{"input": "slk: Inflect dopremýšľací | ADJ;GEN(SG,MASC,INAN)","target": "dopremýšľacieho"}
+{"input": "slk: Inflect dopremýšľací | ADJ;ESS(SG,FEM)","target": "dopremýšľacej"}
+{"input": "slk: Inflect dopremýšľací | ADJ;ACC(PL,MASC,INAN)","target": "dopremýšľacie"}
+{"input": "slk: Inflect dopremýšľací | ADJ;VOC(PL,MASC,INAN)","target": "dopremýšľacie"}
+{"input": "slk: Inflect dopremýšľací | ADJ;ACC(PL,NEUT)","target": "dopremýšľacie"}
+{"input": "slk: Inflect dopremýšľací | ADJ;DAT(PL,NEUT)","target": "dopremýšľacím"}
+{"input": "slk: Inflect dopremýšľací | ADJ;DAT(PL,FEM)","target": "dopremýšľacím"}
+{"input": "slk: Inflect dopremýšľací | ADJ;ESS(SG,NEUT)","target": "dopremýšľacom"}
+{"input": "slk: Inflect dopremýšľací | ADJ;NOM(SG,MASC,INAN)","target": "dopremýšľací"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;IPFV;3;SG;MASC","target": "solidarizovával"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;IPFV;2;SG;MASC","target": "solidarizovával si"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;IPFV;1;SG;MASC","target": "solidarizovával by som solidarizovalo"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;IPFV;2;SG;MASC","target": "solidarizovával by si solidarizovalo"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;PFV;3;SG;MASC","target": "solidarizovával"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;PFV;3;SG;MASC","target": "solidarizovával by solidarizovával"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;PFV;1;SG;MASC","target": "solidarizovával by som solidarizovával"}
+{"input": "slk: Inflect solidarizovávať | V;PRS;IND;NEG;IPFV;2;SG","target": "nesolidarizovávaš"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;NEG;IPFV;1;SG;MASC","target": "nesolidarizovával som"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;NEG;IPFV;1;SG;MASC","target": "nesolidarizovával by som solidarizovával"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;NEG;IPFV;2;SG;MASC","target": "nebol by si solidarizovával"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;NEG;PFV;3;SG;MASC","target": "nesolidarizovával by solidarizovával"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;NEG;PFV;2;SG;MASC","target": "nesolidarizovával by si solidarizovával"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;NEG;PFV;3;SG;MASC","target": "nebol by solidarizovával"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;NEG;PFV;2;SG;MASC","target": "nebol by si solidarizovával"}
+{"input": "slk: Inflect solidarizovávať | V;NFIN;IPFV","target": "solidarizovávať"}
+{"input": "slk: Inflect solidarizovávať | V;FUT;IND;NEG;IPFV;1;SG","target": "nebudem solidarizovávať"}
+{"input": "slk: Inflect solidarizovávať | V;FUT;IND;IPFV;3;SG","target": "bude solidarizovávať"}
+{"input": "slk: Inflect solidarizovávať | V;FUT;IND;NEG;IPFV;1;PL","target": "nebudeme solidarizovávať"}
+{"input": "slk: Inflect solidarizovávať | V;FUT;IND;IPFV;2;PL","target": "budete solidarizovávať"}
+{"input": "slk: Inflect solidarizovávať | V;FUT;IND;NEG;IPFV;2;PL","target": "nebudete solidarizovávať"}
+{"input": "slk: Inflect solidarizovávať | V.PTCP;PASS;IPFV;ACC;NOM(3,SG,FEM)","target": "solidarizovávanú"}
+{"input": "slk: Inflect solidarizovávať | V.PTCP;PASS;PFV;ACC;NOM(3,SG,FEM)","target": "solidarizovávanú"}
+{"input": "slk: Inflect solidarizovávať | V.PTCP;PASS;NEG;IPFV;NOM;NOM(3,SG,FEM)","target": "nesolidarizovávaná"}
+{"input": "slk: Inflect solidarizovávať | V.PTCP;PASS;NEG;PFV;NOM;NOM(3,SG,FEM)","target": "nesolidarizovávaná"}
+{"input": "slk: Inflect solidarizovávať | V;PRS;IND;NEG;IPFV;3;SG","target": "nesolidarizováva"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;NEG;IPFV;1;SG;NEUT","target": "nesolidarizovávalo som"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;NEG;IPFV;3;SG;NEUT","target": "nesolidarizovávalo by solidarizovával"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;NEG;IPFV;1;SG;NEUT","target": "nesolidarizovávalo by som solidarizovával"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;NEG;PFV;2;SG;NEUT","target": "nesolidarizovávalo si"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;NEG;PFV;3;SG;NEUT","target": "nesolidarizovávalo by solidarizovávalo"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;NEG;PFV;1;SG;NEUT","target": "nesolidarizovávalo by som solidarizovávalo"}
+{"input": "slk: Inflect solidarizovávať | V;PRS;IND;NEG;PFV;3;PL","target": "nesolidarizovávajú"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;NEG;IPFV;1;PL;MASC;ANIM","target": "neboli by sme solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;NEG;PFV;1;PL;MASC;ANIM","target": "nesolidarizovávali sme"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;NEG;IPFV;2;PL;MASC;INAN","target": "nesolidarizovávali ste"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;NEG;IPFV;3;PL;MASC;INAN","target": "neboli by solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;NEG;IPFV;2;PL;MASC;INAN","target": "neboli by ste solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;NEG;PFV;2;PL;MASC;INAN","target": "nesolidarizovávali ste"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;NEG;IPFV;1;PL;FEM","target": "nesolidarizovávali sme"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;NEG;IPFV;2;PL;FEM","target": "nesolidarizovávali by ste"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;NEG;IPFV;1;PL;FEM","target": "neboli by sme solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;NEG;PFV;1;PL;FEM","target": "nesolidarizovávali sme"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;NEG;IPFV;2;PL;NEUT","target": "nesolidarizovávali ste"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;NEG;IPFV;2;PL;NEUT","target": "nesolidarizovávali by ste"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;NEG;IPFV;3;PL;NEUT","target": "neboli by solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;NEG;PFV;2;PL;NEUT","target": "nesolidarizovávali by ste"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;NEG;PFV;1;PL;NEUT","target": "neboli by sme solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;NEG;PFV;2;PL;NEUT","target": "neboli by ste solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;IMP;NEG;PFV;2;PL","target": "nesolidarizovávajte"}
+{"input": "slk: Inflect solidarizovávať | V.PTCP;PASS;IPFV;NOM;NOM(3,PL,FEM)","target": "solidarizovávané"}
+{"input": "slk: Inflect solidarizovávať | V;IMP;IPFV;1;PL","target": "solidarizovávajme"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;PFV;1;SG;FEM","target": "solidarizovávala by som solidarizovávala"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;PFV;2;SG;FEM","target": "solidarizovávala by si solidarizovávala"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;PFV;3;SG;FEM","target": "bola by solidarizovávala"}
+{"input": "slk: Inflect solidarizovávať | V.PTCP;PASS;NEG;PFV;NOM;NOM(3,SG,MASC,INAN)","target": "nesolidarizovávaný"}
+{"input": "slk: Inflect solidarizovávať | V;IMP;NEG;PFV;2;SG","target": "nesolidarizovávaj"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;IPFV;1;PL;MASC;ANIM","target": "boli by sme solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;PFV;3;PL;MASC;ANIM","target": "boli by solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;PFV;1;PL;MASC;ANIM","target": "boli by sme solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;PFV;2;PL;MASC;ANIM","target": "boli by ste solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;IPFV;1;PL;MASC;INAN","target": "solidarizovávali by sme"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;IPFV;3;PL;MASC;INAN","target": "boli by solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;PFV;3;PL;MASC;INAN","target": "solidarizovávali by"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;IPFV;1;PL;FEM","target": "boli by sme solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;PFV;1;PL;FEM","target": "solidarizovávali sme"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;PFV;1;PL;FEM","target": "solidarizovávali by sme"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;PFV;2;PL;FEM","target": "boli by ste solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;IPFV;1;PL;NEUT","target": "solidarizovávali sme"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;IPFV;2;PL;NEUT","target": "solidarizovávali by ste"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;IPFV;3;PL;NEUT","target": "boli by solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;IPFV;2;PL;NEUT","target": "boli by ste solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;PFV;3;PL;NEUT","target": "solidarizovávali by"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;PFV;2;PL;NEUT","target": "boli by ste solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;IPFV;1;SG;NEUT","target": "solidarizovávalo by som solidarizovávali"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;IPFV;3;SG;NEUT","target": "bolo by solidarizovávalo"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;PFV;1;SG;NEUT","target": "solidarizovávalo som"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;PFV;2;SG;NEUT","target": "solidarizovávalo by si solidarizovávalo"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PST;PFV;2;SG;NEUT","target": "bolo by si solidarizovávalo"}
+{"input": "slk: Inflect solidarizovávať | V;PRS;IND;IPFV;2;PL","target": "solidarizovávate"}
+{"input": "slk: Inflect solidarizovávať | V.PTCP;PASS;NEG;IPFV;NOM;NOM(3,PL,NEUT)","target": "nesolidarizovávané"}
+{"input": "slk: Inflect solidarizovávať | V.PTCP;PASS;IPFV;NOM;NOM(3,PL,MASC,INAN)","target": "solidarizovávané"}
+{"input": "slk: Inflect solidarizovávať | V;PST;IND;NEG;PFV;3;SG;FEM","target": "nesolidarizovávala"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;NEG;PFV;3;SG;FEM","target": "nesolidarizovávala by solidarizovávala"}
+{"input": "slk: Inflect solidarizovávať | V;COND;PRS;NEG;PFV;1;SG;FEM","target": "nesolidarizovávala by som solidarizovávala"}
+{"input": "slk: Inflect solidarizovávať | V;IMP;IPFV;2;SG","target": "solidarizovávaj"}
+{"input": "slk: Inflect solidarizovávať | V.PTCP;PASS;PFV;NOM;NOM(3,SG,NEUT)","target": "solidarizovávané"}
+{"input": "slk: Inflect solidarizovávať | V;PRS;IND;NEG;IPFV;1;SG","target": "nesolidarizovávam"}
+{"input": "slk: Inflect hypotekárny | ADJ;ACC(SG,FEM)","target": "hypotekárnu"}
+{"input": "slk: Inflect hypotekárny | ADJ;NOM(PL,MASC,ANIM)","target": "hypotekárni"}
+{"input": "slk: Inflect hypotekárny | ADJ;DAT(SG,MASC,ANIM)","target": "hypotekárnemu"}
+{"input": "slk: Inflect hypotekárny | ADJ;DAT(SG,MASC,INAN)","target": "hypotekárnemu"}
+{"input": "slk: Inflect hypotekárny | ADJ;INS(SG,MASC,INAN)","target": "hypotekárnym"}
+{"input": "slk: Inflect hypotekárny | ADJ;GEN(PL,FEM)","target": "hypotekárnych"}
+{"input": "slk: Inflect hypotekárny | ADJ;INS(PL,FEM)","target": "hypotekárnymi"}
+{"input": "slk: Inflect hypotekárny | ADJ;ACC(PL,NEUT)","target": "hypotekárne"}
+{"input": "slk: Inflect hypotekárny | ADJ;VOC(PL,NEUT)","target": "hypotekárne"}
+{"input": "slk: Inflect hypotekárny | ADJ;DAT(SG,FEM)","target": "hypotekárnej"}
+{"input": "slk: Inflect hypotekárny | ADJ;ACC(SG,NEUT)","target": "hypotekárne"}
+{"input": "slk: Inflect hypotekárny | ADJ;ESS(PL,NEUT)","target": "hypotekárnych"}
+{"input": "slk: Inflect hypotekárny | ADJ;GEN(PL,MASC,ANIM)","target": "hypotekárnych"}
+{"input": "slk: Inflect hypotekárny | ADJ;ACC(PL,FEM)","target": "hypotekárne"}
+{"input": "slk: Inflect hypotekárny | ADJ;ESS(SG,NEUT)","target": "hypotekárnom"}
+{"input": "slk: Inflect hypotekárny | ADJ;ACC(PL,MASC,ANIM)","target": "hypotekárnych"}

@@ -1,0 +1,1000 @@
+{"input": "ces: Inflect anekdoticky | ADV","target": "anekdoticky"}
+{"input": "ces: Inflect anekdoticky | ADV;SPRL","target": "nejanekdotičtěji"}
+{"input": "ces: Inflect naturščikův | ADJ;ACC(PL,FEM)","target": "naturščikovy"}
+{"input": "ces: Inflect naturščikův | ADJ;VOC(PL,FEM)","target": "naturščikovy"}
+{"input": "ces: Inflect naturščikův | ADJ;NOM(SG,FEM)","target": "naturščikova"}
+{"input": "ces: Inflect naturščikův | ADJ;GEN(SG,FEM)","target": "naturščikovy"}
+{"input": "ces: Inflect naturščikův | ADJ;DAT(SG,FEM)","target": "naturščikově"}
+{"input": "ces: Inflect naturščikův | ADJ;INS(SG,FEM)","target": "naturščikovou"}
+{"input": "ces: Inflect naturščikův | ADJ;ACC(PL,MASC,INAN)","target": "naturščikovy"}
+{"input": "ces: Inflect naturščikův | ADJ;ESS(PL,MASC,INAN)","target": "naturščikových"}
+{"input": "ces: Inflect naturščikův | ADJ;DAT(SG,MASC,INAN)","target": "naturščikovu"}
+{"input": "ces: Inflect naturščikův | ADJ;ACC(PL,MASC,ANIM)","target": "naturščikovy"}
+{"input": "ces: Inflect naturščikův | ADJ;INS(PL,MASC,ANIM)","target": "naturščikovými"}
+{"input": "ces: Inflect naturščikův | ADJ;DAT(SG,MASC,ANIM)","target": "naturščikovu"}
+{"input": "ces: Inflect naturščikův | ADJ;DAT(PL,NEUT)","target": "naturščikovým"}
+{"input": "ces: Inflect naturščikův | ADJ;ACC(PL,NEUT)","target": "naturščikova"}
+{"input": "ces: Inflect naturščikův | ADJ;ESS(PL,NEUT)","target": "naturščikových"}
+{"input": "ces: Inflect naturščikův | ADJ;INS(PL,NEUT)","target": "naturščikovými"}
+{"input": "ces: Inflect naturščikův | ADJ;NOM(SG,NEUT)","target": "naturščikovo"}
+{"input": "ces: Inflect naturščikův | ADJ;DAT(SG,NEUT)","target": "naturščikovu"}
+{"input": "ces: Inflect naturščikův | ADJ;ACC(SG,NEUT)","target": "naturščikovo"}
+{"input": "ces: Inflect naturščikův | ADJ;INS(SG,NEUT)","target": "naturščikovým"}
+{"input": "ces: Inflect vrojovávatelnost | N;GEN(PL,FEM)","target": "vrojovávatelností"}
+{"input": "ces: Inflect vrojovávatelnost | N;ACC(PL,FEM)","target": "vrojovávatelnosti"}
+{"input": "ces: Inflect vrojovávatelnost | N;INS(PL,FEM)","target": "vrojovávatelnostmi"}
+{"input": "ces: Inflect vrojovávatelnost | N;ESS(SG,FEM)","target": "vrojovávatelnosti"}
+{"input": "ces: Inflect niťař | N;NOM(PL,MASC,ANIM)","target": "niťaři"}
+{"input": "ces: Inflect niťař | N;ACC(PL,MASC,ANIM)","target": "niťaře"}
+{"input": "ces: Inflect niťař | N;VOC(PL,MASC,ANIM)","target": "niťaři"}
+{"input": "ces: Inflect niťař | N;INS(PL,MASC,ANIM)","target": "niťaři"}
+{"input": "ces: Inflect niťař | N;NOM(SG,MASC,ANIM)","target": "niťař"}
+{"input": "ces: Inflect niťař | N;ACC(SG,MASC,ANIM)","target": "niťaře"}
+{"input": "ces: Inflect niťař | N;INS(SG,MASC,ANIM)","target": "niťařem"}
+{"input": "ces: Inflect nostalgie | N;NOM(PL,FEM)","target": "nostalgie"}
+{"input": "ces: Inflect nostalgie | N;DAT(PL,FEM)","target": "nostalgiím"}
+{"input": "ces: Inflect nostalgie | N;ACC(PL,FEM)","target": "nostalgie"}
+{"input": "ces: Inflect nostalgie | N;ESS(PL,FEM)","target": "nostalgiích"}
+{"input": "ces: Inflect nostalgie | N;GEN(SG,FEM)","target": "nostalgie"}
+{"input": "ces: Inflect nostalgie | N;DAT(SG,FEM)","target": "nostalgii"}
+{"input": "ces: Inflect zdrápankyně | N;GEN(PL,FEM)","target": "zdrápankyní"}
+{"input": "ces: Inflect zdrápankyně | N;ESS(PL,FEM)","target": "zdrápankyních"}
+{"input": "ces: Inflect zdrápankyně | N;DAT(SG,FEM)","target": "zdrápankyni"}
+{"input": "ces: Inflect zdrápankyně | N;ACC(SG,FEM)","target": "zdrápankyni"}
+{"input": "ces: Inflect zdrtitelnost | N;GEN(PL,FEM)","target": "zdrtitelností"}
+{"input": "ces: Inflect zdrtitelnost | N;ACC(PL,FEM)","target": "zdrtitelnosti"}
+{"input": "ces: Inflect zdrtitelnost | N;ESS(PL,FEM)","target": "zdrtitelnostech"}
+{"input": "ces: Inflect zdrtitelnost | N;INS(PL,FEM)","target": "zdrtitelnostmi"}
+{"input": "ces: Inflect zdrtitelnost | N;NOM(SG,FEM)","target": "zdrtitelnost"}
+{"input": "ces: Inflect zdrtitelnost | N;DAT(SG,FEM)","target": "zdrtitelnosti"}
+{"input": "ces: Inflect zdrtitelnost | N;ACC(SG,FEM)","target": "zdrtitelnost"}
+{"input": "ces: Inflect refektářní | ADJ;VOC(PL,FEM)","target": "refektářní"}
+{"input": "ces: Inflect refektářní | ADJ;NOM(SG,FEM)","target": "refektářní"}
+{"input": "ces: Inflect refektářní | ADJ;DAT(SG,FEM)","target": "refektářní"}
+{"input": "ces: Inflect refektářní | ADJ;ESS(SG,FEM)","target": "refektářní"}
+{"input": "ces: Inflect refektářní | ADJ;INS(SG,FEM)","target": "refektářní"}
+{"input": "ces: Inflect refektářní | ADJ;VOC(PL,MASC,INAN)","target": "refektářní"}
+{"input": "ces: Inflect refektářní | ADJ;ESS(PL,MASC,INAN)","target": "refektářních"}
+{"input": "ces: Inflect refektářní | ADJ;ACC(PL,MASC,ANIM)","target": "refektářní"}
+{"input": "ces: Inflect refektářní | ADJ;ESS(PL,MASC,ANIM)","target": "refektářních"}
+{"input": "ces: Inflect refektářní | ADJ;INS(PL,MASC,ANIM)","target": "refektářními"}
+{"input": "ces: Inflect refektářní | ADJ;DAT(SG,MASC,ANIM)","target": "refektářnímu"}
+{"input": "ces: Inflect refektářní | ADJ;INS(SG,MASC,ANIM)","target": "refektářním"}
+{"input": "ces: Inflect refektářní | ADJ;VOC(PL,NEUT)","target": "refektářní"}
+{"input": "ces: Inflect refektářní | ADJ;ESS(PL,NEUT)","target": "refektářních"}
+{"input": "ces: Inflect refektářní | ADJ;INS(PL,NEUT)","target": "refektářními"}
+{"input": "ces: Inflect refektářní | ADJ;NOM(SG,NEUT)","target": "refektářní"}
+{"input": "ces: Inflect refektářní | ADJ;GEN(SG,NEUT)","target": "refektářního"}
+{"input": "ces: Inflect refektářní | ADJ;DAT(SG,NEUT)","target": "refektářnímu"}
+{"input": "ces: Inflect refektářní | ADJ;ACC(SG,NEUT)","target": "refektářní"}
+{"input": "ces: Inflect refektářní | ADJ;ESS(SG,NEUT)","target": "refektářním"}
+{"input": "ces: Inflect opendovávatelnost | N;NOM(SG,FEM)","target": "opendovávatelnost"}
+{"input": "ces: Inflect opendovávatelnost | N;ESS(SG,FEM)","target": "opendovávatelnosti"}
+{"input": "ces: Inflect opendovávatelnost | N;INS(SG,FEM)","target": "opendovávatelností"}
+{"input": "ces: Inflect zprůsvitňovanost | N;DAT(SG,FEM)","target": "zprůsvitňovanosti"}
+{"input": "ces: Inflect zprůsvitňovanost | N;ESS(SG,FEM)","target": "zprůsvitňovanosti"}
+{"input": "ces: Inflect lenní | ADJ;INS(DU,FEM)","target": "lenníma"}
+{"input": "ces: Inflect lenní | ADJ;ACC(PL,FEM)","target": "lenní"}
+{"input": "ces: Inflect lenní | ADJ;INS(PL,FEM)","target": "lenními"}
+{"input": "ces: Inflect lenní | ADJ;NOM(SG,FEM)","target": "lenní"}
+{"input": "ces: Inflect lenní | ADJ;GEN(SG,FEM)","target": "lenní"}
+{"input": "ces: Inflect lenní | ADJ;ACC(SG,FEM)","target": "lenní"}
+{"input": "ces: Inflect lenní | ADJ;GEN(PL,MASC,INAN)","target": "lenních"}
+{"input": "ces: Inflect lenní | ADJ;DAT(SG,MASC,INAN)","target": "lennímu"}
+{"input": "ces: Inflect lenní | ADJ;ESS(SG,MASC,INAN)","target": "lenním"}
+{"input": "ces: Inflect lenní | ADJ;INS(SG,MASC,INAN)","target": "lenním"}
+{"input": "ces: Inflect lenní | ADJ;NOM(PL,MASC,ANIM)","target": "lenní"}
+{"input": "ces: Inflect lenní | ADJ;GEN(PL,MASC,ANIM)","target": "lenních"}
+{"input": "ces: Inflect lenní | ADJ;ESS(PL,MASC,ANIM)","target": "lenních"}
+{"input": "ces: Inflect lenní | ADJ;ACC(SG,MASC,ANIM)","target": "lenního"}
+{"input": "ces: Inflect lenní | ADJ;VOC(SG,MASC,ANIM)","target": "lenní"}
+{"input": "ces: Inflect lenní | ADJ;ESS(SG,MASC,ANIM)","target": "lenním"}
+{"input": "ces: Inflect lenní | ADJ;NOM(PL,NEUT)","target": "lenní"}
+{"input": "ces: Inflect lenní | ADJ;GEN(PL,NEUT)","target": "lenních"}
+{"input": "ces: Inflect lenní | ADJ;VOC(PL,NEUT)","target": "lenní"}
+{"input": "ces: Inflect lenní | ADJ;INS(PL,NEUT)","target": "lenními"}
+{"input": "ces: Inflect lenní | ADJ;NOM(SG,NEUT)","target": "lenní"}
+{"input": "ces: Inflect lenní | ADJ;VOC(SG,NEUT)","target": "lenní"}
+{"input": "ces: Inflect nakontraktovávání | N;ACC(PL,NEUT)","target": "nakontraktovávání"}
+{"input": "ces: Inflect nakontraktovávání | N;VOC(PL,NEUT)","target": "nakontraktovávání"}
+{"input": "ces: Inflect nakontraktovávání | N;ACC(SG,NEUT)","target": "nakontraktovávání"}
+{"input": "ces: Inflect nakontraktovávání | N;INS(SG,NEUT)","target": "nakontraktováváním"}
+{"input": "ces: Inflect boromejka | N;ACC(PL,FEM)","target": "boromejky"}
+{"input": "ces: Inflect boromejka | N;VOC(PL,FEM)","target": "boromejky"}
+{"input": "ces: Inflect boromejka | N;VOC(SG,FEM)","target": "boromejko"}
+{"input": "ces: Inflect boromejka | N;ESS(SG,FEM)","target": "boromejce"}
+{"input": "ces: Inflect stachanovec | N;DAT(PL,MASC,ANIM)","target": "stachanovcům"}
+{"input": "ces: Inflect stachanovec | N;ESS(PL,MASC,ANIM)","target": "stachanovcích"}
+{"input": "ces: Inflect stachanovec | N;ACC(SG,MASC,ANIM)","target": "stachanovce"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;INS(DU,FEM)","target": "promíchávatelnějšíma"}
+{"input": "ces: Inflect promíchávatelný | ADJ;SPRL;NOM(PL,FEM)","target": "nejpromíchávatelnější"}
+{"input": "ces: Inflect promíchávatelný | ADJ;GEN(PL,FEM)","target": "promíchávatelných"}
+{"input": "ces: Inflect promíchávatelný | ADJ;SPRL;GEN(PL,FEM)","target": "nejpromíchávatelnějších"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;DAT(PL,FEM)","target": "promíchávatelnějším"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;ACC(PL,FEM)","target": "promíchávatelnější"}
+{"input": "ces: Inflect promíchávatelný | ADJ;ESS(PL,FEM)","target": "promíchávatelných"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;ESS(PL,FEM)","target": "promíchávatelnějších"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;INS(PL,FEM)","target": "promíchávatelnějšími"}
+{"input": "ces: Inflect promíchávatelný | ADJ;SPRL;DAT(SG,FEM)","target": "nejpromíchávatelnější"}
+{"input": "ces: Inflect promíchávatelný | ADJ;ACC(SG,FEM)","target": "promíchávatelnou"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;ACC(SG,FEM)","target": "promíchávatelnější"}
+{"input": "ces: Inflect promíchávatelný | ADJ;ESS(SG,FEM)","target": "promíchávatelné"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;INS(SG,FEM)","target": "promíchávatelnější"}
+{"input": "ces: Inflect promíchávatelný | ADJ;SPRL;NOM(PL,MASC,INAN)","target": "nejpromíchávatelnější"}
+{"input": "ces: Inflect promíchávatelný | ADJ;GEN(PL,MASC,INAN)","target": "promíchávatelných"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;GEN(PL,MASC,INAN)","target": "promíchávatelnějších"}
+{"input": "ces: Inflect promíchávatelný | ADJ;DAT(PL,MASC,INAN)","target": "promíchávatelným"}
+{"input": "ces: Inflect promíchávatelný | ADJ;SPRL;ESS(PL,MASC,INAN)","target": "nejpromíchávatelnějších"}
+{"input": "ces: Inflect promíchávatelný | ADJ;INS(PL,MASC,INAN)","target": "promíchávatelnými"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;INS(PL,MASC,INAN)","target": "promíchávatelnějšími"}
+{"input": "ces: Inflect promíchávatelný | ADJ;SPRL;INS(PL,MASC,INAN)","target": "nejpromíchávatelnějšími"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;ESS(SG,MASC,INAN)","target": "promíchávatelnějším"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;INS(SG,MASC,INAN)","target": "promíchávatelnějším"}
+{"input": "ces: Inflect promíchávatelný | ADJ;NOM(PL,MASC,ANIM)","target": "promíchávatelní"}
+{"input": "ces: Inflect promíchávatelný | ADJ;SPRL;GEN(PL,MASC,ANIM)","target": "nejpromíchávatelnějších"}
+{"input": "ces: Inflect promíchávatelný | ADJ;ACC(PL,MASC,ANIM)","target": "promíchávatelné"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;ACC(PL,MASC,ANIM)","target": "promíchávatelnější"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;VOC(PL,MASC,ANIM)","target": "promíchávatelnější"}
+{"input": "ces: Inflect promíchávatelný | ADJ;INS(PL,MASC,ANIM)","target": "promíchávatelnými"}
+{"input": "ces: Inflect promíchávatelný | ADJ;SPRL;INS(PL,MASC,ANIM)","target": "nejpromíchávatelnějšími"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;GEN(SG,MASC,ANIM)","target": "promíchávatelnějšího"}
+{"input": "ces: Inflect promíchávatelný | ADJ;SPRL;DAT(SG,MASC,ANIM)","target": "nejpromíchávatelnějšímu"}
+{"input": "ces: Inflect promíchávatelný | ADJ;SPRL;ACC(SG,MASC,ANIM)","target": "nejpromíchávatelnějšího"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;VOC(SG,MASC,ANIM)","target": "promíchávatelnější"}
+{"input": "ces: Inflect promíchávatelný | ADJ;ESS(SG,MASC,ANIM)","target": "promíchávatelném"}
+{"input": "ces: Inflect promíchávatelný | ADJ;INS(SG,MASC,ANIM)","target": "promíchávatelným"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;INS(SG,MASC,ANIM)","target": "promíchávatelnějším"}
+{"input": "ces: Inflect promíchávatelný | ADJ;NOM(PL,NEUT)","target": "promíchávatelná"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;NOM(PL,NEUT)","target": "promíchávatelnější"}
+{"input": "ces: Inflect promíchávatelný | ADJ;SPRL;DAT(PL,NEUT)","target": "nejpromíchávatelnějším"}
+{"input": "ces: Inflect promíchávatelný | ADJ;ACC(PL,NEUT)","target": "promíchávatelná"}
+{"input": "ces: Inflect promíchávatelný | ADJ;SPRL;ACC(PL,NEUT)","target": "nejpromíchávatelnější"}
+{"input": "ces: Inflect promíchávatelný | ADJ;SPRL;ESS(PL,NEUT)","target": "nejpromíchávatelnějších"}
+{"input": "ces: Inflect promíchávatelný | ADJ;SPRL;NOM(SG,NEUT)","target": "nejpromíchávatelnější"}
+{"input": "ces: Inflect promíchávatelný | ADJ;DAT(SG,NEUT)","target": "promíchávatelnému"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;DAT(SG,NEUT)","target": "promíchávatelnějšímu"}
+{"input": "ces: Inflect promíchávatelný | ADJ;VOC(SG,NEUT)","target": "promíchávatelné"}
+{"input": "ces: Inflect promíchávatelný | ADJ;CMPR;VOC(SG,NEUT)","target": "promíchávatelnější"}
+{"input": "ces: Inflect promíchávatelný | ADJ;ESS(SG,NEUT)","target": "promíchávatelném"}
+{"input": "ces: Inflect promíchávatelný | ADJ;INS(SG,NEUT)","target": "promíchávatelným"}
+{"input": "ces: Inflect prohnívávat | V;PRS;IND;IPFV;3;PL","target": "prohnívávají"}
+{"input": "ces: Inflect prohnívávat | V;PRS;IND;IPFV;2;SG","target": "prohníváváš"}
+{"input": "ces: Inflect prohnívávat | V;FUT;IND;IPFV;1;SG","target": "budu prohnívávat"}
+{"input": "ces: Inflect prohnívávat | V;FUT;IND;IPFV;3;SG","target": "bude prohnívávat"}
+{"input": "ces: Inflect prohnívávat | V;FUT;IND;IPFV;1;PL","target": "budeme prohnívávat"}
+{"input": "ces: Inflect prohnívávat | V;IMP;IPFV;2;PL","target": "prohnívávejte"}
+{"input": "ces: Inflect prohnívávat | V;PST;IND;NEG;IPFV;2;SG;FEM","target": "neprohnívávalas"}
+{"input": "ces: Inflect prohnívávat | V;COND;PRS;IPFV;1;PL;MASC;ANIM","target": "prohnívávali bychom"}
+{"input": "ces: Inflect prohnívávat | V;COND;PRS;NEG;IPFV;1;PL;MASC;ANIM","target": "neprohnívávali bychom"}
+{"input": "ces: Inflect prohnívávat | V;PST;IND;IPFV;1;SG;NEUT","target": "prohnívávalo jsem"}
+{"input": "ces: Inflect prohnívávat | V;PST;IND;IPFV;2;SG;NEUT","target": "prohnívávalo jsi"}
+{"input": "ces: Inflect prohnívávat | V;COND;PRS;IPFV;2;SG;NEUT","target": "prohnívávalo bys"}
+{"input": "ces: Inflect prohnívávat | V;COND;PST;IPFV;3;SG;NEUT","target": "bylo by prohnívávalo"}
+{"input": "ces: Inflect prohnívávat | V;COND;PST;IPFV;1;SG;NEUT","target": "bylo bych prohnívávalo"}
+{"input": "ces: Inflect prohnívávat | V;PST;IND;NEG;IPFV;2;SG;NEUT","target": "neprohnívávalo jsi"}
+{"input": "ces: Inflect prohnívávat | V;COND;PST;NEG;IPFV;3;SG;NEUT","target": "nebylo by prohnívávalo"}
+{"input": "ces: Inflect prohnívávat | V;PST;IND;NEG;IPFV;2;SG;NEUT","target": "neprohnívávalos"}
+{"input": "ces: Inflect prohnívávat | V;PST;IND;IPFV;3;SG;FEM","target": "prohnívávala"}
+{"input": "ces: Inflect prohnívávat | V;PST;IND;IPFV;1;SG;FEM","target": "prohnívávala jsem"}
+{"input": "ces: Inflect prohnívávat | V;COND;PRS;IPFV;1;SG;FEM","target": "prohnívávala bych"}
+{"input": "ces: Inflect prohnívávat | V;COND;PRS;IPFV;2;SG;FEM","target": "prohnívávala bys"}
+{"input": "ces: Inflect prohnívávat | V;COND;PST;IPFV;3;SG;FEM","target": "byla by prohnívávala"}
+{"input": "ces: Inflect prohnívávat | V;PST;IND;IPFV;1;PL;NEUT","target": "prohnívávala jsme"}
+{"input": "ces: Inflect prohnívávat | V;COND;PRS;IPFV;3;PL;NEUT","target": "prohnívávala by"}
+{"input": "ces: Inflect prohnívávat | V;COND;PRS;IPFV;1;PL;NEUT","target": "prohnívávala bychom"}
+{"input": "ces: Inflect prohnívávat | V;PST;IND;NEG;IPFV;2;SG;FEM","target": "neprohnívávala jsi"}
+{"input": "ces: Inflect prohnívávat | V;COND;PST;NEG;IPFV;1;SG;FEM","target": "nebyla bych prohnívávala"}
+{"input": "ces: Inflect prohnívávat | V;COND;PRS;NEG;IPFV;3;PL;NEUT","target": "neprohnívávala by"}
+{"input": "ces: Inflect prohnívávat | V;COND;PRS;NEG;IPFV;1;PL;NEUT","target": "neprohnívávala bychom"}
+{"input": "ces: Inflect prohnívávat | V;COND;PRS;IPFV;1;PL;FEM","target": "prohnívávaly bychom"}
+{"input": "ces: Inflect prohnívávat | V;COND;PRS;IPFV;2;PL;FEM","target": "prohnívávaly byste"}
+{"input": "ces: Inflect prohnívávat | V;COND;PST;IPFV;3;PL;FEM","target": "byly by prohnívávaly"}
+{"input": "ces: Inflect prohnívávat | V;COND;PST;IPFV;1;PL;FEM","target": "byly bychom prohnívávaly"}
+{"input": "ces: Inflect prohnívávat | V;COND;PST;IPFV;2;PL;FEM","target": "byly byste prohnívávaly"}
+{"input": "ces: Inflect prohnívávat | V;COND;PRS;IPFV;2;PL;MASC;INAN","target": "prohnívávaly byste"}
+{"input": "ces: Inflect prohnívávat | V;COND;PST;IPFV;3;PL;MASC;INAN","target": "byly by prohnívávaly"}
+{"input": "ces: Inflect prohnívávat | V;COND;PST;IPFV;1;PL;MASC;INAN","target": "byly bychom prohnívávaly"}
+{"input": "ces: Inflect prohnívávat | V;COND;PST;IPFV;2;PL;MASC;INAN","target": "byly byste prohnívávaly"}
+{"input": "ces: Inflect prohnívávat | V;PST;IND;NEG;IPFV;3;PL;FEM","target": "neprohnívávaly"}
+{"input": "ces: Inflect prohnívávat | V;PST;IND;NEG;IPFV;1;PL;MASC;INAN","target": "neprohnívávaly jsme"}
+{"input": "ces: Inflect prohnívávat | V;PST;IND;NEG;IPFV;2;PL;MASC;INAN","target": "neprohnívávaly jste"}
+{"input": "ces: Inflect prohnívávat | V;COND;PRS;IPFV;3;SG;MASC","target": "prohnívával by"}
+{"input": "ces: Inflect prohnívávat | V;COND;PRS;IPFV;2;SG;MASC","target": "prohnívával bys"}
+{"input": "ces: Inflect prohnívávat | V;COND;PST;IPFV;2;SG;MASC","target": "byl bys prohnívával"}
+{"input": "ces: Inflect prohnívávat | V;PST;IND;NEG;IPFV;1;SG;MASC","target": "neprohnívával jsem"}
+{"input": "ces: Inflect prohnívávat | V;PST;IND;NEG;IPFV;2;SG;MASC","target": "neprohnívával jsi"}
+{"input": "ces: Inflect prohnívávat | V;COND;PRS;NEG;IPFV;3;SG;MASC","target": "neprohnívával by"}
+{"input": "ces: Inflect prohnívávat | V;COND;PST;NEG;IPFV;3;SG;MASC","target": "nebyl by prohnívával"}
+{"input": "ces: Inflect prohnívávat | V;PST;IND;NEG;IPFV;2;SG;MASC","target": "neprohnívávals"}
+{"input": "ces: Inflect prohnívávat | V.PTCP;PASS;NEG;IPFV;NOM;NOM(2,SG,FEM)","target": "neprohnívávánas"}
+{"input": "ces: Inflect prohnívávat | V.PTCP;PASS;IPFV;NOM;NOM(3,PL,MASC,ANIM)","target": "prohníváváni"}
+{"input": "ces: Inflect prohnívávat | V.PTCP;PASS;IPFV;NOM;NOM(3,SG,NEUT)","target": "prohníváváno"}
+{"input": "ces: Inflect prohnívávat | V.PTCP;PASS;IPFV;NOM;NOM(3,SG,FEM)","target": "prohnívávána"}
+{"input": "ces: Inflect prohnívávat | V.PTCP;PASS;NEG;IPFV;NOM;NOM(3,SG,FEM)","target": "neprohnívávána"}
+{"input": "ces: Inflect vodovážný | ADJ;INS(DU,FEM)","target": "vodovážnýma"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;GEN(PL,FEM)","target": "vodovážnějších"}
+{"input": "ces: Inflect vodovážný | ADJ;DAT(PL,FEM)","target": "vodovážným"}
+{"input": "ces: Inflect vodovážný | ADJ;ACC(PL,FEM)","target": "vodovážné"}
+{"input": "ces: Inflect vodovážný | ADJ;VOC(PL,FEM)","target": "vodovážné"}
+{"input": "ces: Inflect vodovážný | ADJ;SPRL;VOC(PL,FEM)","target": "nejvodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;ESS(PL,FEM)","target": "vodovážných"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;ESS(PL,FEM)","target": "vodovážnějších"}
+{"input": "ces: Inflect vodovážný | ADJ;INS(PL,FEM)","target": "vodovážnými"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;INS(PL,FEM)","target": "vodovážnějšími"}
+{"input": "ces: Inflect vodovážný | ADJ;SPRL;NOM(SG,FEM)","target": "nejvodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;GEN(SG,FEM)","target": "vodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;DAT(SG,FEM)","target": "vodovážné"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;DAT(SG,FEM)","target": "vodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;ACC(SG,FEM)","target": "vodovážnou"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;ACC(SG,FEM)","target": "vodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;SPRL;VOC(SG,FEM)","target": "nejvodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;ESS(SG,FEM)","target": "vodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;INS(SG,FEM)","target": "vodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;GEN(PL,MASC,INAN)","target": "vodovážných"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;DAT(PL,MASC,INAN)","target": "vodovážnějším"}
+{"input": "ces: Inflect vodovážný | ADJ;SPRL;VOC(PL,MASC,INAN)","target": "nejvodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;INS(PL,MASC,INAN)","target": "vodovážnými"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;INS(PL,MASC,INAN)","target": "vodovážnějšími"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;NOM(SG,MASC,INAN)","target": "vodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;GEN(SG,MASC,INAN)","target": "vodovážného"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;GEN(SG,MASC,INAN)","target": "vodovážnějšího"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;DAT(SG,MASC,INAN)","target": "vodovážnějšímu"}
+{"input": "ces: Inflect vodovážný | ADJ;SPRL;DAT(SG,MASC,INAN)","target": "nejvodovážnějšímu"}
+{"input": "ces: Inflect vodovážný | ADJ;ACC(SG,MASC,INAN)","target": "vodovážný"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;VOC(SG,MASC,INAN)","target": "vodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;ESS(SG,MASC,INAN)","target": "vodovážném"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;INS(SG,MASC,INAN)","target": "vodovážnějším"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;NOM(PL,MASC,ANIM)","target": "vodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;DAT(PL,MASC,ANIM)","target": "vodovážným"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;DAT(PL,MASC,ANIM)","target": "vodovážnějším"}
+{"input": "ces: Inflect vodovážný | ADJ;SPRL;DAT(PL,MASC,ANIM)","target": "nejvodovážnějším"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;ACC(PL,MASC,ANIM)","target": "vodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;ESS(PL,MASC,ANIM)","target": "vodovážných"}
+{"input": "ces: Inflect vodovážný | ADJ;SPRL;ESS(PL,MASC,ANIM)","target": "nejvodovážnějších"}
+{"input": "ces: Inflect vodovážný | ADJ;NOM(SG,MASC,ANIM)","target": "vodovážný"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;NOM(SG,MASC,ANIM)","target": "vodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;GEN(SG,MASC,ANIM)","target": "vodovážného"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;GEN(SG,MASC,ANIM)","target": "vodovážnějšího"}
+{"input": "ces: Inflect vodovážný | ADJ;SPRL;GEN(SG,MASC,ANIM)","target": "nejvodovážnějšího"}
+{"input": "ces: Inflect vodovážný | ADJ;SPRL;DAT(SG,MASC,ANIM)","target": "nejvodovážnějšímu"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;ACC(SG,MASC,ANIM)","target": "vodovážnějšího"}
+{"input": "ces: Inflect vodovážný | ADJ;SPRL;ESS(SG,MASC,ANIM)","target": "nejvodovážnějším"}
+{"input": "ces: Inflect vodovážný | ADJ;INS(SG,MASC,ANIM)","target": "vodovážným"}
+{"input": "ces: Inflect vodovážný | ADJ;SPRL;INS(SG,MASC,ANIM)","target": "nejvodovážnějším"}
+{"input": "ces: Inflect vodovážný | ADJ;DAT(PL,NEUT)","target": "vodovážným"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;ACC(PL,NEUT)","target": "vodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;VOC(PL,NEUT)","target": "vodovážná"}
+{"input": "ces: Inflect vodovážný | ADJ;INS(PL,NEUT)","target": "vodovážnými"}
+{"input": "ces: Inflect vodovážný | ADJ;NOM(SG,NEUT)","target": "vodovážné"}
+{"input": "ces: Inflect vodovážný | ADJ;ACC(SG,NEUT)","target": "vodovážné"}
+{"input": "ces: Inflect vodovážný | ADJ;SPRL;ACC(SG,NEUT)","target": "nejvodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;VOC(SG,NEUT)","target": "vodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;SPRL;VOC(SG,NEUT)","target": "nejvodovážnější"}
+{"input": "ces: Inflect vodovážný | ADJ;INS(SG,NEUT)","target": "vodovážným"}
+{"input": "ces: Inflect vodovážný | ADJ;CMPR;INS(SG,NEUT)","target": "vodovážnějším"}
+{"input": "ces: Inflect vodovážný | ADJ;SPRL;INS(SG,NEUT)","target": "nejvodovážnějším"}
+{"input": "ces: Inflect dekonstruovat | V;PRS;IND;IPFV;2;PL","target": "dekonstruujete"}
+{"input": "ces: Inflect dekonstruovat | V;PRS;IND;NEG;IPFV;3;SG","target": "nedekonstruuje"}
+{"input": "ces: Inflect dekonstruovat | V;NFIN;IPFV","target": "dekonstruovat"}
+{"input": "ces: Inflect dekonstruovat | V;FUT;IND;NEG;IPFV;1;SG","target": "nebudu dekonstruovat"}
+{"input": "ces: Inflect dekonstruovat | V;FUT;IND;NEG;IPFV;1;PL","target": "nebudeme dekonstruovat"}
+{"input": "ces: Inflect dekonstruovat | V;FUT;IND;IPFV;3;PL","target": "budou dekonstruovat"}
+{"input": "ces: Inflect dekonstruovat | V;IMP;NEG;IPFV;2;PL","target": "nedekonstruujte"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;IPFV;3;PL;MASC;ANIM","target": "dekonstruovali"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;IPFV;1;PL;MASC;ANIM","target": "dekonstruovali jsme"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PRS;IPFV;2;PL;MASC;ANIM","target": "dekonstruovali byste"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PST;IPFV;2;PL;MASC;ANIM","target": "byli byste dekonstruovali"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PRS;NEG;IPFV;2;PL;MASC;ANIM","target": "nedekonstruovali byste"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PST;IPFV;1;SG;NEUT","target": "bylo bych dekonstruovalo"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;IPFV;2;SG;NEUT","target": "dekonstruovalos"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;NEG;IPFV;1;SG;NEUT","target": "nedekonstruovalo jsem"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;NEG;IPFV;2;SG;NEUT","target": "nedekonstruovalo jsi"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PRS;NEG;IPFV;3;SG;NEUT","target": "nedekonstruovalo by"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;NEG;IPFV;2;SG;NEUT","target": "nedekonstruovalos"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PRS;IPFV;3;SG;FEM","target": "dekonstruovala by"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PRS;IPFV;1;SG;FEM","target": "dekonstruovala bych"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PST;IPFV;1;SG;FEM","target": "byla bych dekonstruovala"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;IPFV;2;PL;NEUT","target": "dekonstruovala jste"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PRS;IPFV;2;PL;NEUT","target": "dekonstruovala byste"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;NEG;IPFV;3;SG;FEM","target": "nedekonstruovala"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PRS;NEG;IPFV;3;SG;FEM","target": "nedekonstruovala by"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PRS;NEG;IPFV;2;SG;FEM","target": "nedekonstruovala bys"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PST;NEG;IPFV;3;SG;FEM","target": "nebyla by dekonstruovala"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PST;NEG;IPFV;1;SG;FEM","target": "nebyla bych dekonstruovala"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;NEG;IPFV;3;PL;NEUT","target": "nedekonstruovala"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PRS;NEG;IPFV;3;PL;NEUT","target": "nedekonstruovala by"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PRS;NEG;IPFV;2;PL;NEUT","target": "nedekonstruovala byste"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PST;IPFV;2;PL;FEM","target": "byly byste dekonstruovaly"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PRS;IPFV;3;PL;MASC;INAN","target": "dekonstruovaly by"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PRS;IPFV;2;PL;MASC;INAN","target": "dekonstruovaly byste"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PST;IPFV;1;PL;MASC;INAN","target": "byly bychom dekonstruovaly"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;NEG;IPFV;1;PL;FEM","target": "nedekonstruovaly jsme"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;NEG;IPFV;2;PL;FEM","target": "nedekonstruovaly jste"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PRS;NEG;IPFV;3;PL;FEM","target": "nedekonstruovaly by"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;NEG;IPFV;1;PL;MASC;INAN","target": "nedekonstruovaly jsme"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PRS;NEG;IPFV;1;PL;MASC;INAN","target": "nedekonstruovaly bychom"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PST;NEG;IPFV;3;PL;MASC;INAN","target": "nebyly by dekonstruovaly"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PST;NEG;IPFV;1;PL;MASC;INAN","target": "nebyly bychom dekonstruovaly"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PST;NEG;IPFV;2;PL;MASC;INAN","target": "nebyly byste dekonstruovaly"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PRS;IPFV;1;SG;MASC","target": "dekonstruoval bych"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PST;IPFV;3;SG;MASC","target": "byl by dekonstruoval"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;IPFV;2;SG;MASC","target": "dekonstruovals"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;NEG;IPFV;3;SG;MASC","target": "nedekonstruoval"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;NEG;IPFV;1;SG;MASC","target": "nedekonstruoval jsem"}
+{"input": "ces: Inflect dekonstruovat | V;COND;PST;NEG;IPFV;3;SG;MASC","target": "nebyl by dekonstruoval"}
+{"input": "ces: Inflect dekonstruovat | V;PST;IND;NEG;IPFV;2;SG;MASC","target": "nedekonstruovals"}
+{"input": "ces: Inflect dekonstruovat | V.PTCP;PASS;IPFV;NOM;NOM(2,SG,FEM)","target": "dekonstruovánas"}
+{"input": "ces: Inflect dekonstruovat | V.PTCP;PASS;NEG;IPFV;NOM;NOM(2,SG,FEM)","target": "nedekonstruovánas"}
+{"input": "ces: Inflect dekonstruovat | V.PTCP;PASS;IPFV;NOM;NOM(3,SG,NEUT)","target": "dekonstruováno"}
+{"input": "ces: Inflect dekonstruovat | V.PTCP;PASS;IPFV;NOM;NOM(3,SG,FEM)","target": "dekonstruována"}
+{"input": "ces: Inflect dekonstruovat | V.PTCP;PASS;IPFV;NOM;NOM(3,PL,FEM)","target": "dekonstruovány"}
+{"input": "ces: Inflect dekonstruovat | V.PTCP;PASS;IPFV;NOM;NOM(3,SG,MASC)","target": "dekonstruován"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;INS(DU,FEM)","target": "zeslabovávatelnýma"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;SPRL;INS(DU,FEM)","target": "nejzeslabovávatelnějšíma"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;NOM(PL,FEM)","target": "zeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;SPRL;NOM(PL,FEM)","target": "nejzeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;DAT(PL,FEM)","target": "zeslabovávatelným"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;DAT(PL,FEM)","target": "zeslabovávatelnějším"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;SPRL;ACC(PL,FEM)","target": "nejzeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;VOC(PL,FEM)","target": "zeslabovávatelné"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;VOC(PL,FEM)","target": "zeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;DAT(SG,FEM)","target": "zeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;ACC(SG,FEM)","target": "zeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;VOC(SG,FEM)","target": "zeslabovávatelná"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;NOM(PL,MASC,INAN)","target": "zeslabovávatelné"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;SPRL;VOC(PL,MASC,INAN)","target": "nejzeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;ESS(PL,MASC,INAN)","target": "zeslabovávatelnějších"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;NOM(SG,MASC,INAN)","target": "zeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;SPRL;GEN(SG,MASC,INAN)","target": "nejzeslabovávatelnějšího"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;VOC(SG,MASC,INAN)","target": "zeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;SPRL;ESS(SG,MASC,INAN)","target": "nejzeslabovávatelnějším"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;INS(SG,MASC,INAN)","target": "zeslabovávatelnějším"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;NOM(PL,MASC,ANIM)","target": "zeslabovávatelní"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;SPRL;NOM(PL,MASC,ANIM)","target": "nejzeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;SPRL;DAT(PL,MASC,ANIM)","target": "nejzeslabovávatelnějším"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;ACC(PL,MASC,ANIM)","target": "zeslabovávatelné"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;VOC(PL,MASC,ANIM)","target": "zeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;ESS(PL,MASC,ANIM)","target": "zeslabovávatelnějších"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;SPRL;ESS(PL,MASC,ANIM)","target": "nejzeslabovávatelnějších"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;INS(PL,MASC,ANIM)","target": "zeslabovávatelnějšími"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;DAT(SG,MASC,ANIM)","target": "zeslabovávatelnému"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;DAT(SG,MASC,ANIM)","target": "zeslabovávatelnějšímu"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;ACC(SG,MASC,ANIM)","target": "zeslabovávatelného"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;ESS(SG,MASC,ANIM)","target": "zeslabovávatelném"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;INS(SG,MASC,ANIM)","target": "zeslabovávatelným"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;GEN(PL,NEUT)","target": "zeslabovávatelných"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;SPRL;GEN(PL,NEUT)","target": "nejzeslabovávatelnějších"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;DAT(PL,NEUT)","target": "zeslabovávatelným"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;DAT(PL,NEUT)","target": "zeslabovávatelnějším"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;ACC(PL,NEUT)","target": "zeslabovávatelná"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;ACC(PL,NEUT)","target": "zeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;SPRL;ACC(PL,NEUT)","target": "nejzeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;VOC(PL,NEUT)","target": "zeslabovávatelná"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;SPRL;VOC(PL,NEUT)","target": "nejzeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;NOM(SG,NEUT)","target": "zeslabovávatelné"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;SPRL;NOM(SG,NEUT)","target": "nejzeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;ACC(SG,NEUT)","target": "zeslabovávatelné"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;ACC(SG,NEUT)","target": "zeslabovávatelnější"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;VOC(SG,NEUT)","target": "zeslabovávatelné"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;ESS(SG,NEUT)","target": "zeslabovávatelném"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;CMPR;ESS(SG,NEUT)","target": "zeslabovávatelnějším"}
+{"input": "ces: Inflect zeslabovávatelný | ADJ;INS(SG,NEUT)","target": "zeslabovávatelným"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;NOM(PL,FEM)","target": "přeimplementovávané"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;SPRL;GEN(PL,FEM)","target": "nejpřeimplementovávanějších"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;DAT(PL,FEM)","target": "přeimplementovávanějším"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;SPRL;DAT(PL,FEM)","target": "nejpřeimplementovávanějším"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;ACC(PL,FEM)","target": "přeimplementovávané"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;ACC(PL,FEM)","target": "přeimplementovávanější"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;VOC(PL,FEM)","target": "přeimplementovávané"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;VOC(PL,FEM)","target": "přeimplementovávanější"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;GEN(SG,FEM)","target": "přeimplementovávané"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;ACC(SG,FEM)","target": "přeimplementovávanou"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;VOC(SG,FEM)","target": "přeimplementovávanější"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;SPRL;ESS(SG,FEM)","target": "nejpřeimplementovávanější"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;SPRL;NOM(PL,MASC,INAN)","target": "nejpřeimplementovávanější"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;GEN(PL,MASC,INAN)","target": "přeimplementovávaných"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;DAT(PL,MASC,INAN)","target": "přeimplementovávaným"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;INS(PL,MASC,INAN)","target": "přeimplementovávanými"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;NOM(SG,MASC,INAN)","target": "přeimplementovávaný"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;NOM(SG,MASC,INAN)","target": "přeimplementovávanější"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;SPRL;NOM(SG,MASC,INAN)","target": "nejpřeimplementovávanější"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;GEN(SG,MASC,INAN)","target": "přeimplementovávaného"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;DAT(SG,MASC,INAN)","target": "přeimplementovávanému"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;SPRL;ESS(SG,MASC,INAN)","target": "nejpřeimplementovávanějším"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;SPRL;ESS(PL,MASC,ANIM)","target": "nejpřeimplementovávanějších"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;INS(PL,MASC,ANIM)","target": "přeimplementovávanějšími"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;NOM(SG,MASC,ANIM)","target": "přeimplementovávaný"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;NOM(SG,MASC,ANIM)","target": "přeimplementovávanější"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;GEN(SG,MASC,ANIM)","target": "přeimplementovávanějšího"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;SPRL;GEN(SG,MASC,ANIM)","target": "nejpřeimplementovávanějšího"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;ACC(SG,MASC,ANIM)","target": "přeimplementovávaného"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;SPRL;ACC(SG,MASC,ANIM)","target": "nejpřeimplementovávanějšího"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;VOC(SG,MASC,ANIM)","target": "přeimplementovávaný"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;VOC(SG,MASC,ANIM)","target": "přeimplementovávanější"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;ESS(SG,MASC,ANIM)","target": "přeimplementovávaném"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;ESS(SG,MASC,ANIM)","target": "přeimplementovávanějším"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;SPRL;ESS(SG,MASC,ANIM)","target": "nejpřeimplementovávanějším"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;NOM(PL,NEUT)","target": "přeimplementovávanější"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;SPRL;NOM(PL,NEUT)","target": "nejpřeimplementovávanější"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;GEN(PL,NEUT)","target": "přeimplementovávanějších"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;ACC(PL,NEUT)","target": "přeimplementovávaná"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;ACC(PL,NEUT)","target": "přeimplementovávanější"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;SPRL;ACC(PL,NEUT)","target": "nejpřeimplementovávanější"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;VOC(PL,NEUT)","target": "přeimplementovávanější"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;SPRL;VOC(PL,NEUT)","target": "nejpřeimplementovávanější"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;DAT(SG,NEUT)","target": "přeimplementovávanějšímu"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;ESS(SG,NEUT)","target": "přeimplementovávaném"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;ESS(SG,NEUT)","target": "přeimplementovávanějším"}
+{"input": "ces: Inflect přeimplementovávaný | ADJ;CMPR;INS(SG,NEUT)","target": "přeimplementovávanějším"}
+{"input": "ces: Inflect pískavost | N;NOM(PL,FEM)","target": "pískavosti"}
+{"input": "ces: Inflect pískavost | N;DAT(PL,FEM)","target": "pískavostem"}
+{"input": "ces: Inflect pískavost | N;GEN(SG,FEM)","target": "pískavosti"}
+{"input": "ces: Inflect došoférovávatelně | ADV;SPRL","target": "nejdošoférovávatelněji"}
+{"input": "ces: Inflect došoférovávatelně | ADV;SPRL","target": "nejnedošoférovávatelněji"}
+{"input": "ces: Inflect aplanační | ADJ;INS(DU,FEM)","target": "aplanačníma"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;INS(DU,FEM)","target": "aplanačnějšíma"}
+{"input": "ces: Inflect aplanační | ADJ;NOM(PL,FEM)","target": "aplanační"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;NOM(PL,FEM)","target": "aplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;NOM(PL,FEM)","target": "nejaplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;GEN(PL,FEM)","target": "aplanačnějších"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;ACC(PL,FEM)","target": "aplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;VOC(PL,FEM)","target": "aplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;ESS(PL,FEM)","target": "aplanačnějších"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;ESS(PL,FEM)","target": "nejaplanačnějších"}
+{"input": "ces: Inflect aplanační | ADJ;INS(PL,FEM)","target": "aplanačními"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;INS(PL,FEM)","target": "nejaplanačnějšími"}
+{"input": "ces: Inflect aplanační | ADJ;NOM(SG,FEM)","target": "aplanační"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;NOM(SG,FEM)","target": "aplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;NOM(SG,FEM)","target": "nejaplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;GEN(SG,FEM)","target": "aplanační"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;GEN(SG,FEM)","target": "aplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;DAT(SG,FEM)","target": "aplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;DAT(SG,FEM)","target": "nejaplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;ACC(SG,FEM)","target": "aplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;VOC(SG,FEM)","target": "aplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;VOC(SG,FEM)","target": "nejaplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;ESS(SG,FEM)","target": "nejaplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;NOM(PL,MASC,INAN)","target": "aplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;ACC(PL,MASC,INAN)","target": "aplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;ESS(PL,MASC,INAN)","target": "aplanačních"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;INS(PL,MASC,INAN)","target": "aplanačnějšími"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;NOM(SG,MASC,INAN)","target": "nejaplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;GEN(SG,MASC,INAN)","target": "aplanačního"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;GEN(SG,MASC,INAN)","target": "aplanačnějšího"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;GEN(SG,MASC,INAN)","target": "nejaplanačnějšího"}
+{"input": "ces: Inflect aplanační | ADJ;VOC(SG,MASC,INAN)","target": "aplanační"}
+{"input": "ces: Inflect aplanační | ADJ;ESS(SG,MASC,INAN)","target": "aplanačním"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;ESS(SG,MASC,INAN)","target": "aplanačnějším"}
+{"input": "ces: Inflect aplanační | ADJ;INS(SG,MASC,INAN)","target": "aplanačním"}
+{"input": "ces: Inflect aplanační | ADJ;NOM(PL,MASC,ANIM)","target": "aplanační"}
+{"input": "ces: Inflect aplanační | ADJ;DAT(PL,MASC,ANIM)","target": "aplanačním"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;ACC(PL,MASC,ANIM)","target": "nejaplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;VOC(PL,MASC,ANIM)","target": "aplanační"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;VOC(PL,MASC,ANIM)","target": "aplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;VOC(PL,MASC,ANIM)","target": "nejaplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;ESS(PL,MASC,ANIM)","target": "aplanačních"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;ESS(PL,MASC,ANIM)","target": "aplanačnějších"}
+{"input": "ces: Inflect aplanační | ADJ;INS(PL,MASC,ANIM)","target": "aplanačními"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;INS(PL,MASC,ANIM)","target": "nejaplanačnějšími"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;NOM(SG,MASC,ANIM)","target": "nejaplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;DAT(SG,MASC,ANIM)","target": "nejaplanačnějšímu"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;VOC(SG,MASC,ANIM)","target": "aplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;VOC(SG,MASC,ANIM)","target": "nejaplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;ESS(SG,MASC,ANIM)","target": "aplanačnějším"}
+{"input": "ces: Inflect aplanační | ADJ;GEN(PL,NEUT)","target": "aplanačních"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;GEN(PL,NEUT)","target": "nejaplanačnějších"}
+{"input": "ces: Inflect aplanační | ADJ;DAT(PL,NEUT)","target": "aplanačním"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;DAT(PL,NEUT)","target": "aplanačnějším"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;VOC(PL,NEUT)","target": "aplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;ESS(PL,NEUT)","target": "aplanačních"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;INS(PL,NEUT)","target": "aplanačnějšími"}
+{"input": "ces: Inflect aplanační | ADJ;GEN(SG,NEUT)","target": "aplanačního"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;GEN(SG,NEUT)","target": "aplanačnějšího"}
+{"input": "ces: Inflect aplanační | ADJ;DAT(SG,NEUT)","target": "aplanačnímu"}
+{"input": "ces: Inflect aplanační | ADJ;ACC(SG,NEUT)","target": "aplanační"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;ACC(SG,NEUT)","target": "nejaplanačnější"}
+{"input": "ces: Inflect aplanační | ADJ;VOC(SG,NEUT)","target": "aplanační"}
+{"input": "ces: Inflect aplanační | ADJ;ESS(SG,NEUT)","target": "aplanačním"}
+{"input": "ces: Inflect aplanační | ADJ;SPRL;ESS(SG,NEUT)","target": "nejaplanačnějším"}
+{"input": "ces: Inflect aplanační | ADJ;CMPR;INS(SG,NEUT)","target": "aplanačnějším"}
+{"input": "ces: Inflect domávat | V;PRS;IND;PFV;1;PL","target": "domáváme"}
+{"input": "ces: Inflect domávat | V;PRS;IND;PFV;3;PL","target": "domávají"}
+{"input": "ces: Inflect domávat | V;PRS;IND;NEG;PFV;3;PL","target": "nedomávají"}
+{"input": "ces: Inflect domávat | V;PRS;IND;NEG;PFV;1;SG","target": "nedomávám"}
+{"input": "ces: Inflect domávat | V;PRS;IND;PFV;2;SG","target": "domáváš"}
+{"input": "ces: Inflect domávat | V;PRS;IND;NEG;PFV;2;SG","target": "nedomáváš"}
+{"input": "ces: Inflect domávat | V;NFIN;PFV","target": "domávat"}
+{"input": "ces: Inflect domávat | V;NFIN;NEG;PFV","target": "nedomávat"}
+{"input": "ces: Inflect domávat | V;IMP;PFV;1;PL","target": "domávejme"}
+{"input": "ces: Inflect domávat | V;PST;IND;NEG;PFV;2;SG;FEM","target": "nedomávalas"}
+{"input": "ces: Inflect domávat | V;PST;IND;PFV;3;PL;MASC;ANIM","target": "domávali"}
+{"input": "ces: Inflect domávat | V;PST;IND;PFV;1;PL;MASC;ANIM","target": "domávali jsme"}
+{"input": "ces: Inflect domávat | V;PST;IND;PFV;2;PL;MASC;ANIM","target": "domávali jste"}
+{"input": "ces: Inflect domávat | V;COND;PRS;PFV;1;PL;MASC;ANIM","target": "domávali bychom"}
+{"input": "ces: Inflect domávat | V;PST;IND;NEG;PFV;3;PL;MASC;ANIM","target": "nedomávali"}
+{"input": "ces: Inflect domávat | V;PST;IND;NEG;PFV;1;PL;MASC;ANIM","target": "nedomávali jsme"}
+{"input": "ces: Inflect domávat | V;COND;PST;NEG;PFV;3;PL;MASC;ANIM","target": "nebyli by domávali"}
+{"input": "ces: Inflect domávat | V;COND;PST;NEG;PFV;1;PL;MASC;ANIM","target": "nebyli bychom domávali"}
+{"input": "ces: Inflect domávat | V;PST;IND;PFV;1;SG;NEUT","target": "domávalo jsem"}
+{"input": "ces: Inflect domávat | V;COND;PRS;PFV;3;SG;NEUT","target": "domávalo by"}
+{"input": "ces: Inflect domávat | V;COND;PRS;PFV;1;SG;NEUT","target": "domávalo bych"}
+{"input": "ces: Inflect domávat | V;COND;PRS;PFV;2;SG;NEUT","target": "domávalo bys"}
+{"input": "ces: Inflect domávat | V;COND;PST;PFV;3;SG;NEUT","target": "bylo by domávalo"}
+{"input": "ces: Inflect domávat | V;COND;PST;PFV;1;SG;NEUT","target": "bylo bych domávalo"}
+{"input": "ces: Inflect domávat | V;PST;IND;NEG;PFV;3;SG;NEUT","target": "nedomávalo"}
+{"input": "ces: Inflect domávat | V;PST;IND;NEG;PFV;1;SG;NEUT","target": "nedomávalo jsem"}
+{"input": "ces: Inflect domávat | V;COND;PRS;NEG;PFV;2;SG;NEUT","target": "nedomávalo bys"}
+{"input": "ces: Inflect domávat | V;COND;PST;NEG;PFV;2;SG;NEUT","target": "nebylo bys domávalo"}
+{"input": "ces: Inflect domávat | V;PST;IND;PFV;3;SG;FEM","target": "domávala"}
+{"input": "ces: Inflect domávat | V;PST;IND;PFV;2;PL;NEUT","target": "domávala jste"}
+{"input": "ces: Inflect domávat | V;COND;PRS;PFV;3;PL;NEUT","target": "domávala by"}
+{"input": "ces: Inflect domávat | V;COND;PRS;PFV;1;PL;NEUT","target": "domávala bychom"}
+{"input": "ces: Inflect domávat | V;COND;PST;PFV;3;PL;NEUT","target": "byla by domávala"}
+{"input": "ces: Inflect domávat | V;PST;IND;NEG;PFV;1;SG;FEM","target": "nedomávala jsem"}
+{"input": "ces: Inflect domávat | V;COND;PRS;NEG;PFV;2;SG;FEM","target": "nedomávala bys"}
+{"input": "ces: Inflect domávat | V;COND;PST;NEG;PFV;3;SG;FEM","target": "nebyla by domávala"}
+{"input": "ces: Inflect domávat | V;COND;PST;NEG;PFV;1;SG;FEM","target": "nebyla bych domávala"}
+{"input": "ces: Inflect domávat | V;PST;IND;NEG;PFV;1;PL;NEUT","target": "nedomávala jsme"}
+{"input": "ces: Inflect domávat | V;COND;PST;NEG;PFV;3;PL;NEUT","target": "nebyla by domávala"}
+{"input": "ces: Inflect domávat | V;PST;IND;PFV;1;PL;FEM","target": "domávaly jsme"}
+{"input": "ces: Inflect domávat | V;PST;IND;PFV;2;PL;FEM","target": "domávaly jste"}
+{"input": "ces: Inflect domávat | V;COND;PRS;PFV;1;PL;FEM","target": "domávaly bychom"}
+{"input": "ces: Inflect domávat | V;COND;PRS;PFV;2;PL;FEM","target": "domávaly byste"}
+{"input": "ces: Inflect domávat | V;COND;PST;PFV;1;PL;FEM","target": "byly bychom domávaly"}
+{"input": "ces: Inflect domávat | V;COND;PST;PFV;2;PL;FEM","target": "byly byste domávaly"}
+{"input": "ces: Inflect domávat | V;COND;PRS;PFV;1;PL;MASC;INAN","target": "domávaly bychom"}
+{"input": "ces: Inflect domávat | V;COND;PRS;PFV;2;PL;MASC;INAN","target": "domávaly byste"}
+{"input": "ces: Inflect domávat | V;COND;PST;PFV;3;PL;MASC;INAN","target": "byly by domávaly"}
+{"input": "ces: Inflect domávat | V;PST;IND;NEG;PFV;3;PL;FEM","target": "nedomávaly"}
+{"input": "ces: Inflect domávat | V;COND;PRS;NEG;PFV;1;PL;FEM","target": "nedomávaly bychom"}
+{"input": "ces: Inflect domávat | V;COND;PRS;NEG;PFV;2;PL;FEM","target": "nedomávaly byste"}
+{"input": "ces: Inflect domávat | V;COND;PST;NEG;PFV;2;PL;FEM","target": "nebyly byste domávaly"}
+{"input": "ces: Inflect domávat | V;PST;IND;NEG;PFV;2;PL;MASC;INAN","target": "nedomávaly jste"}
+{"input": "ces: Inflect domávat | V;COND;PRS;NEG;PFV;3;PL;MASC;INAN","target": "nedomávaly by"}
+{"input": "ces: Inflect domávat | V;COND;PST;NEG;PFV;1;PL;MASC;INAN","target": "nebyly bychom domávaly"}
+{"input": "ces: Inflect domávat | V;COND;PST;NEG;PFV;2;PL;MASC;INAN","target": "nebyly byste domávaly"}
+{"input": "ces: Inflect domávat | V;PST;IND;PFV;1;SG;MASC","target": "domával jsem"}
+{"input": "ces: Inflect domávat | V;COND;PRS;PFV;1;SG;MASC","target": "domával bych"}
+{"input": "ces: Inflect domávat | V;COND;PST;PFV;3;SG;MASC","target": "byl by domával"}
+{"input": "ces: Inflect domávat | V;PST;IND;NEG;PFV;1;SG;MASC","target": "nedomával jsem"}
+{"input": "ces: Inflect domávat | V;COND;PST;NEG;PFV;2;SG;MASC","target": "nebyl bys domával"}
+{"input": "ces: Inflect domávat | V;PST;IND;NEG;PFV;2;SG;MASC","target": "nedomávals"}
+{"input": "ces: Inflect domávat | V.PTCP;PASS;PFV;NOM;NOM(2,SG,FEM)","target": "domávánas"}
+{"input": "ces: Inflect domávat | V.PTCP;PASS;NEG;PFV;ACC;NOM(3,SG,FEM)","target": "nedomávánu"}
+{"input": "ces: Inflect domávat | V.PTCP;PASS;PFV;NOM;NOM(3,PL,MASC,ANIM)","target": "domáváni"}
+{"input": "ces: Inflect domávat | V.PTCP;PASS;PFV;NOM;NOM(2,SG,NEUT)","target": "domávános"}
+{"input": "ces: Inflect domávat | V.PTCP;PASS;PFV;NOM;NOM(3,PL,MASC,INAN)","target": "domávány"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;INS(DU,FEM)","target": "nejzhutňovanějšíma"}
+{"input": "ces: Inflect zhutňovaný | ADJ;NOM(PL,FEM)","target": "zhutňované"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;NOM(PL,FEM)","target": "nejzhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;GEN(PL,FEM)","target": "zhutňovanějších"}
+{"input": "ces: Inflect zhutňovaný | ADJ;ACC(PL,FEM)","target": "zhutňované"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;ACC(PL,FEM)","target": "zhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;ESS(PL,FEM)","target": "zhutňovaných"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;INS(PL,FEM)","target": "zhutňovanějšími"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;NOM(SG,FEM)","target": "nejzhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;GEN(SG,FEM)","target": "zhutňované"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;GEN(SG,FEM)","target": "zhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;GEN(SG,FEM)","target": "nejzhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;DAT(SG,FEM)","target": "zhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;DAT(SG,FEM)","target": "nejzhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;ACC(SG,FEM)","target": "zhutňovanou"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;ACC(SG,FEM)","target": "zhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;VOC(SG,FEM)","target": "zhutňovaná"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;VOC(SG,FEM)","target": "zhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;INS(SG,FEM)","target": "nejzhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;NOM(PL,MASC,INAN)","target": "zhutňované"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;NOM(PL,MASC,INAN)","target": "zhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;GEN(PL,MASC,INAN)","target": "nejzhutňovanějších"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;DAT(PL,MASC,INAN)","target": "zhutňovanějším"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;ACC(PL,MASC,INAN)","target": "nejzhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;VOC(PL,MASC,INAN)","target": "zhutňované"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;VOC(PL,MASC,INAN)","target": "zhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;VOC(PL,MASC,INAN)","target": "nejzhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;ESS(PL,MASC,INAN)","target": "zhutňovaných"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;ESS(PL,MASC,INAN)","target": "zhutňovanějších"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;NOM(SG,MASC,INAN)","target": "zhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;NOM(SG,MASC,INAN)","target": "nejzhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;GEN(SG,MASC,INAN)","target": "zhutňovanějšího"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;ACC(SG,MASC,INAN)","target": "nejzhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;VOC(SG,MASC,INAN)","target": "zhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;ESS(SG,MASC,INAN)","target": "nejzhutňovanějším"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;NOM(PL,MASC,ANIM)","target": "zhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;NOM(PL,MASC,ANIM)","target": "nejzhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;GEN(PL,MASC,ANIM)","target": "zhutňovaných"}
+{"input": "ces: Inflect zhutňovaný | ADJ;VOC(PL,MASC,ANIM)","target": "zhutňovaní"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;VOC(PL,MASC,ANIM)","target": "nejzhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;NOM(SG,MASC,ANIM)","target": "nejzhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;GEN(SG,MASC,ANIM)","target": "zhutňovaného"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;DAT(SG,MASC,ANIM)","target": "zhutňovanějšímu"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;DAT(SG,MASC,ANIM)","target": "nejzhutňovanějšímu"}
+{"input": "ces: Inflect zhutňovaný | ADJ;ACC(SG,MASC,ANIM)","target": "zhutňovaného"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;INS(SG,MASC,ANIM)","target": "zhutňovanějším"}
+{"input": "ces: Inflect zhutňovaný | ADJ;DAT(PL,NEUT)","target": "zhutňovaným"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;DAT(PL,NEUT)","target": "zhutňovanějším"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;DAT(PL,NEUT)","target": "nejzhutňovanějším"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;ACC(PL,NEUT)","target": "zhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;VOC(PL,NEUT)","target": "nejzhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;ESS(PL,NEUT)","target": "zhutňovanějších"}
+{"input": "ces: Inflect zhutňovaný | ADJ;INS(PL,NEUT)","target": "zhutňovanými"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;NOM(SG,NEUT)","target": "zhutňovanější"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;GEN(SG,NEUT)","target": "nejzhutňovanějšího"}
+{"input": "ces: Inflect zhutňovaný | ADJ;DAT(SG,NEUT)","target": "zhutňovanému"}
+{"input": "ces: Inflect zhutňovaný | ADJ;CMPR;DAT(SG,NEUT)","target": "zhutňovanějšímu"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;DAT(SG,NEUT)","target": "nejzhutňovanějšímu"}
+{"input": "ces: Inflect zhutňovaný | ADJ;ACC(SG,NEUT)","target": "zhutňované"}
+{"input": "ces: Inflect zhutňovaný | ADJ;VOC(SG,NEUT)","target": "zhutňované"}
+{"input": "ces: Inflect zhutňovaný | ADJ;ESS(SG,NEUT)","target": "zhutňovaném"}
+{"input": "ces: Inflect zhutňovaný | ADJ;SPRL;INS(SG,NEUT)","target": "nejzhutňovanějším"}
+{"input": "ces: Inflect květensky | ADV","target": "květensky"}
+{"input": "ces: Inflect květensky | ADV;SPRL","target": "nejkvětenštěji"}
+{"input": "ces: Inflect květensky | ADV;SPRL","target": "nejnekvětenštěji"}
+{"input": "ces: Inflect mykoplasmosa | N;VOC(PL,FEM)","target": "mykoplasmosy"}
+{"input": "ces: Inflect mykoplasmosa | N;INS(PL,FEM)","target": "mykoplasmosami"}
+{"input": "ces: Inflect mykoplasmosa | N;NOM(SG,FEM)","target": "mykoplasmosa"}
+{"input": "ces: Inflect mykoplasmosa | N;INS(SG,FEM)","target": "mykoplasmosou"}
+{"input": "ces: Inflect vyvartovatelně | ADV","target": "vyvartovatelně"}
+{"input": "ces: Inflect vyvartovatelně | ADV","target": "nevyvartovatelně"}
+{"input": "ces: Inflect vyvartovatelně | ADV;CMPR","target": "vyvartovatelněji"}
+{"input": "ces: Inflect vyvartovatelně | ADV;SPRL","target": "nejnevyvartovatelněji"}
+{"input": "ces: Inflect stodvaapadesátiletost | N;GEN(PL,FEM)","target": "stodvaapadesátiletostí"}
+{"input": "ces: Inflect stodvaapadesátiletost | N;ACC(PL,FEM)","target": "stodvaapadesátiletosti"}
+{"input": "ces: Inflect stodvaapadesátiletost | N;VOC(PL,FEM)","target": "stodvaapadesátiletosti"}
+{"input": "ces: Inflect stodvaapadesátiletost | N;VOC(SG,FEM)","target": "stodvaapadesátiletosti"}
+{"input": "ces: Inflect prokecávaně | ADV;CMPR","target": "neprokecávaněji"}
+{"input": "ces: Inflect holocén | N;ACC(PL,MASC,INAN)","target": "holocény"}
+{"input": "ces: Inflect holocén | N;INS(PL,MASC,INAN)","target": "holocény"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;INS(DU,FEM)","target": "psychoendokrinníma"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;GEN(SG,FEM)","target": "psychoendokrinní"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;DAT(SG,FEM)","target": "psychoendokrinní"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;ESS(SG,FEM)","target": "psychoendokrinní"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;DAT(PL,MASC,INAN)","target": "psychoendokrinním"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;ACC(PL,MASC,INAN)","target": "psychoendokrinní"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;ESS(PL,MASC,INAN)","target": "psychoendokrinních"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;DAT(SG,MASC,INAN)","target": "psychoendokrinnímu"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;ACC(SG,MASC,INAN)","target": "psychoendokrinní"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;INS(SG,MASC,INAN)","target": "psychoendokrinním"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;GEN(PL,MASC,ANIM)","target": "psychoendokrinních"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;ACC(PL,MASC,ANIM)","target": "psychoendokrinní"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;ESS(PL,MASC,ANIM)","target": "psychoendokrinních"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;INS(PL,MASC,ANIM)","target": "psychoendokrinními"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;ACC(SG,MASC,ANIM)","target": "psychoendokrinního"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;ACC(PL,NEUT)","target": "psychoendokrinní"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;VOC(PL,NEUT)","target": "psychoendokrinní"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;INS(PL,NEUT)","target": "psychoendokrinními"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;GEN(SG,NEUT)","target": "psychoendokrinního"}
+{"input": "ces: Inflect psychoendokrinní | ADJ;DAT(SG,NEUT)","target": "psychoendokrinnímu"}
+{"input": "ces: Inflect ofrézovávání | N;INS(PL,NEUT)","target": "ofrézováváními"}
+{"input": "ces: Inflect ofrézovávání | N;DAT(SG,NEUT)","target": "ofrézovávání"}
+{"input": "ces: Inflect ofrézovávání | N;ACC(SG,NEUT)","target": "ofrézovávání"}
+{"input": "ces: Inflect ofrézovávání | N;VOC(SG,NEUT)","target": "ofrézovávání"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;NOM(PL,FEM)","target": "patnáctiprocentní"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;DAT(PL,FEM)","target": "patnáctiprocentním"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;ACC(PL,FEM)","target": "patnáctiprocentní"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;GEN(SG,FEM)","target": "patnáctiprocentní"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;ACC(SG,FEM)","target": "patnáctiprocentní"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;GEN(PL,MASC,INAN)","target": "patnáctiprocentních"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;VOC(PL,MASC,INAN)","target": "patnáctiprocentní"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;GEN(SG,MASC,INAN)","target": "patnáctiprocentního"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;DAT(SG,MASC,INAN)","target": "patnáctiprocentnímu"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;INS(SG,MASC,INAN)","target": "patnáctiprocentním"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;DAT(PL,MASC,ANIM)","target": "patnáctiprocentním"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;ACC(PL,MASC,ANIM)","target": "patnáctiprocentní"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;ESS(SG,MASC,ANIM)","target": "patnáctiprocentním"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;DAT(PL,NEUT)","target": "patnáctiprocentním"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;ACC(PL,NEUT)","target": "patnáctiprocentní"}
+{"input": "ces: Inflect patnáctiprocentní | ADJ;NOM(SG,NEUT)","target": "patnáctiprocentní"}
+{"input": "ces: Inflect moskevskocentristickost | N;ACC(PL,FEM)","target": "moskevskocentristickosti"}
+{"input": "ces: Inflect moskevskocentristickost | N;INS(PL,FEM)","target": "moskevskocentristickostmi"}
+{"input": "ces: Inflect moskevskocentristickost | N;ESS(SG,FEM)","target": "moskevskocentristickosti"}
+{"input": "ces: Inflect moskevskocentristickost | N;INS(SG,FEM)","target": "moskevskocentristickostí"}
+{"input": "ces: Inflect blastoméra | N;ESS(PL,FEM)","target": "blastomérách"}
+{"input": "ces: Inflect blastoméra | N;INS(PL,FEM)","target": "blastomérami"}
+{"input": "ces: Inflect blastoméra | N;NOM(SG,FEM)","target": "blastoméra"}
+{"input": "ces: Inflect blastoméra | N;VOC(SG,FEM)","target": "blastoméro"}
+{"input": "ces: Inflect žížalářčin | ADJ;GEN(PL,FEM)","target": "žížalářčiných"}
+{"input": "ces: Inflect žížalářčin | ADJ;VOC(PL,FEM)","target": "žížalářčiny"}
+{"input": "ces: Inflect žížalářčin | ADJ;DAT(SG,FEM)","target": "žížalářčině"}
+{"input": "ces: Inflect žížalářčin | ADJ;INS(SG,FEM)","target": "žížalářčinou"}
+{"input": "ces: Inflect žížalářčin | ADJ;NOM(PL,MASC,INAN)","target": "žížalářčiny"}
+{"input": "ces: Inflect žížalářčin | ADJ;ESS(PL,MASC,INAN)","target": "žížalářčiných"}
+{"input": "ces: Inflect žížalářčin | ADJ;ESS(SG,MASC,INAN)","target": "žížalářčině"}
+{"input": "ces: Inflect žížalářčin | ADJ;INS(SG,MASC,INAN)","target": "žížalářčiným"}
+{"input": "ces: Inflect žížalářčin | ADJ;GEN(PL,MASC,ANIM)","target": "žížalářčiných"}
+{"input": "ces: Inflect žížalářčin | ADJ;ESS(PL,MASC,ANIM)","target": "žížalářčiných"}
+{"input": "ces: Inflect žížalářčin | ADJ;ACC(PL,NEUT)","target": "žížalářčina"}
+{"input": "ces: Inflect žížalářčin | ADJ;INS(PL,NEUT)","target": "žížalářčinými"}
+{"input": "ces: Inflect žížalářčin | ADJ;ESS(SG,NEUT)","target": "žížalářčině"}
+{"input": "ces: Inflect zpýchanost | N;ACC(PL,FEM)","target": "zpýchanosti"}
+{"input": "ces: Inflect zpýchanost | N;VOC(PL,FEM)","target": "zpýchanosti"}
+{"input": "ces: Inflect zpýchanost | N;ESS(PL,FEM)","target": "zpýchanostech"}
+{"input": "ces: Inflect zpýchanost | N;NOM(SG,FEM)","target": "zpýchanost"}
+{"input": "ces: Inflect zpýchanost | N;GEN(SG,FEM)","target": "zpýchanosti"}
+{"input": "ces: Inflect zpýchanost | N;VOC(SG,FEM)","target": "zpýchanosti"}
+{"input": "ces: Inflect hangár | N;DAT(PL,MASC,INAN)","target": "hangárům"}
+{"input": "ces: Inflect hangár | N;ACC(PL,MASC,INAN)","target": "hangáry"}
+{"input": "ces: Inflect hangár | N;ESS(PL,MASC,INAN)","target": "hangárech"}
+{"input": "ces: Inflect hangár | N;NOM(SG,MASC,INAN)","target": "hangár"}
+{"input": "ces: Inflect hangár | N;ESS(SG,MASC,INAN)","target": "hangáru"}
+{"input": "ces: Inflect zesympatisovat | V;PRS;IND;PFV;1;PL","target": "zesympatisujeme"}
+{"input": "ces: Inflect zesympatisovat | V;PRS;IND;PFV;2;PL","target": "zesympatisujete"}
+{"input": "ces: Inflect zesympatisovat | V;PRS;IND;PFV;3;PL","target": "zesympatisují"}
+{"input": "ces: Inflect zesympatisovat | V;PRS;IND;NEG;PFV;1;SG","target": "nezesympatisuju"}
+{"input": "ces: Inflect zesympatisovat | V;NFIN;PFV","target": "zesympatisovat"}
+{"input": "ces: Inflect zesympatisovat | V;IMP;PFV;1;PL","target": "zesympatisujme"}
+{"input": "ces: Inflect zesympatisovat | V;PST;IND;NEG;PFV;2;SG;FEM","target": "nezesympatisovalas"}
+{"input": "ces: Inflect zesympatisovat | V;PST;IND;PFV;1;PL;MASC;ANIM","target": "zesympatisovali jsme"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PRS;PFV;2;PL;MASC;ANIM","target": "zesympatisovali byste"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;PFV;3;PL;MASC;ANIM","target": "byli by zesympatisovali"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;PFV;1;PL;MASC;ANIM","target": "byli bychom zesympatisovali"}
+{"input": "ces: Inflect zesympatisovat | V;PST;IND;NEG;PFV;1;PL;MASC;ANIM","target": "nezesympatisovali jsme"}
+{"input": "ces: Inflect zesympatisovat | V;PST;IND;NEG;PFV;2;PL;MASC;ANIM","target": "nezesympatisovali jste"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;NEG;PFV;3;PL;MASC;ANIM","target": "nebyli by zesympatisovali"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;NEG;PFV;2;PL;MASC;ANIM","target": "nebyli byste zesympatisovali"}
+{"input": "ces: Inflect zesympatisovat | V;PST;IND;PFV;1;SG;NEUT","target": "zesympatisovalo jsem"}
+{"input": "ces: Inflect zesympatisovat | V;PST;IND;PFV;2;SG;NEUT","target": "zesympatisovalo jsi"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;PFV;2;SG;NEUT","target": "bylo bys zesympatisovalo"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;NEG;PFV;1;SG;NEUT","target": "nebylo bych zesympatisovalo"}
+{"input": "ces: Inflect zesympatisovat | V;PST;IND;PFV;3;SG;FEM","target": "zesympatisovala"}
+{"input": "ces: Inflect zesympatisovat | V;PST;IND;PFV;2;SG;FEM","target": "zesympatisovala jsi"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PRS;PFV;1;SG;FEM","target": "zesympatisovala bych"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;PFV;3;SG;FEM","target": "byla by zesympatisovala"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;PFV;1;SG;FEM","target": "byla bych zesympatisovala"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;PFV;2;SG;FEM","target": "byla bys zesympatisovala"}
+{"input": "ces: Inflect zesympatisovat | V;PST;IND;PFV;2;PL;NEUT","target": "zesympatisovala jste"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PRS;PFV;2;PL;NEUT","target": "zesympatisovala byste"}
+{"input": "ces: Inflect zesympatisovat | V;PST;IND;NEG;PFV;1;SG;FEM","target": "nezesympatisovala jsem"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PRS;NEG;PFV;3;SG;FEM","target": "nezesympatisovala by"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PRS;NEG;PFV;1;SG;FEM","target": "nezesympatisovala bych"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;NEG;PFV;1;SG;FEM","target": "nebyla bych zesympatisovala"}
+{"input": "ces: Inflect zesympatisovat | V;PST;IND;PFV;3;PL;FEM","target": "zesympatisovaly"}
+{"input": "ces: Inflect zesympatisovat | V;PST;IND;PFV;1;PL;FEM","target": "zesympatisovaly jsme"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PRS;PFV;3;PL;FEM","target": "zesympatisovaly by"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PRS;PFV;2;PL;FEM","target": "zesympatisovaly byste"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;PFV;2;PL;FEM","target": "byly byste zesympatisovaly"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;PFV;3;PL;MASC;INAN","target": "byly by zesympatisovaly"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;PFV;2;PL;MASC;INAN","target": "byly byste zesympatisovaly"}
+{"input": "ces: Inflect zesympatisovat | V;PST;IND;NEG;PFV;1;PL;FEM","target": "nezesympatisovaly jsme"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PRS;NEG;PFV;3;PL;FEM","target": "nezesympatisovaly by"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PRS;NEG;PFV;1;PL;FEM","target": "nezesympatisovaly bychom"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;NEG;PFV;3;PL;FEM","target": "nebyly by zesympatisovaly"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;NEG;PFV;2;PL;FEM","target": "nebyly byste zesympatisovaly"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PRS;NEG;PFV;1;PL;MASC;INAN","target": "nezesympatisovaly bychom"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PRS;NEG;PFV;3;SG;MASC","target": "nezesympatisoval by"}
+{"input": "ces: Inflect zesympatisovat | V;COND;PST;NEG;PFV;1;SG;MASC","target": "nebyl bych zesympatisoval"}
+{"input": "ces: Inflect zesympatisovat | V.PTCP;PASS;NEG;PFV;NOM;NOM(2,SG,FEM)","target": "nezesympatisovánas"}
+{"input": "ces: Inflect zesympatisovat | V.PTCP;PASS;PFV;ACC;NOM(3,SG,FEM)","target": "zesympatisovánu"}
+{"input": "ces: Inflect zesympatisovat | V.PTCP;PASS;NEG;PFV;NOM;NOM(3,PL,MASC,ANIM)","target": "nezesympatisováni"}
+{"input": "ces: Inflect zesympatisovat | V.PTCP;PASS;PFV;NOM;NOM(2,SG,NEUT)","target": "zesympatisovános"}
+{"input": "ces: Inflect zesympatisovat | V.PTCP;PASS;NEG;PFV;NOM;NOM(2,SG,NEUT)","target": "nezesympatisovános"}
+{"input": "ces: Inflect zesympatisovat | V.PTCP;PASS;PFV;NOM;NOM(3,SG,NEUT)","target": "zesympatisováno"}
+{"input": "ces: Inflect zesympatisovat | V.PTCP;PASS;NEG;PFV;NOM;NOM(3,SG,FEM)","target": "nezesympatisována"}
+{"input": "ces: Inflect zesympatisovat | V.PTCP;PASS;NEG;PFV;NOM;NOM(3,PL,NEUT)","target": "nezesympatisována"}
+{"input": "ces: Inflect zesympatisovat | V.PTCP;PASS;PFV;NOM;NOM(3,PL,MASC,INAN)","target": "zesympatisovány"}
+{"input": "ces: Inflect zesympatisovat | V.PTCP;PASS;NEG;PFV;NOM;NOM(3,PL,MASC,INAN)","target": "nezesympatisovány"}
+{"input": "ces: Inflect zděravět | V;PRS;IND;PFV;3;PL","target": "zděravějí"}
+{"input": "ces: Inflect zděravět | V;PRS;IND;PFV;1;SG","target": "zděravím"}
+{"input": "ces: Inflect zděravět | V;PRS;IND;NEG;PFV;2;SG","target": "nezděravíš"}
+{"input": "ces: Inflect zděravět | V;PRS;IND;PFV;3;SG","target": "zděraví"}
+{"input": "ces: Inflect zděravět | V;NFIN;PFV","target": "zděravět"}
+{"input": "ces: Inflect zděravět | V;IMP;PFV;1;PL","target": "zděravějme"}
+{"input": "ces: Inflect zděravět | V;IMP;PFV;2;PL","target": "zděravějte"}
+{"input": "ces: Inflect zděravět | V;IMP;NEG;PFV;2;PL","target": "nezděravějte"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;PFV;3;PL;MASC;ANIM","target": "zděravěli by"}
+{"input": "ces: Inflect zděravět | V;COND;PST;PFV;2;PL;MASC;ANIM","target": "byli byste zděravěli"}
+{"input": "ces: Inflect zděravět | V;PST;IND;NEG;PFV;3;PL;MASC;ANIM","target": "nezděravěli"}
+{"input": "ces: Inflect zděravět | V;PST;IND;NEG;PFV;1;PL;MASC;ANIM","target": "nezděravěli jsme"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;NEG;PFV;2;PL;MASC;ANIM","target": "nezděravěli byste"}
+{"input": "ces: Inflect zděravět | V;PST;IND;PFV;1;SG;NEUT","target": "zděravělo jsem"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;PFV;3;SG;NEUT","target": "zděravělo by"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;PFV;1;SG;NEUT","target": "zděravělo bych"}
+{"input": "ces: Inflect zděravět | V;COND;PST;PFV;3;SG;NEUT","target": "bylo by zděravělo"}
+{"input": "ces: Inflect zděravět | V;PST;IND;NEG;PFV;3;SG;NEUT","target": "nezděravělo"}
+{"input": "ces: Inflect zděravět | V;PST;IND;NEG;PFV;1;SG;NEUT","target": "nezděravělo jsem"}
+{"input": "ces: Inflect zděravět | V;PST;IND;NEG;PFV;2;SG;NEUT","target": "nezděravělo jsi"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;NEG;PFV;1;SG;NEUT","target": "nezděravělo bych"}
+{"input": "ces: Inflect zděravět | V;COND;PST;NEG;PFV;3;SG;NEUT","target": "nebylo by zděravělo"}
+{"input": "ces: Inflect zděravět | V;COND;PST;NEG;PFV;1;SG;NEUT","target": "nebylo bych zděravělo"}
+{"input": "ces: Inflect zděravět | V;PST;IND;NEG;PFV;2;SG;NEUT","target": "nezděravělos"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;PFV;3;SG;FEM","target": "zděravěla by"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;PFV;1;SG;FEM","target": "zděravěla bych"}
+{"input": "ces: Inflect zděravět | V;COND;PST;PFV;2;SG;FEM","target": "byla bys zděravěla"}
+{"input": "ces: Inflect zděravět | V;PST;IND;PFV;3;PL;NEUT","target": "zděravěla"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;PFV;3;PL;NEUT","target": "zděravěla by"}
+{"input": "ces: Inflect zděravět | V;PST;IND;NEG;PFV;2;SG;FEM","target": "nezděravěla jsi"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;NEG;PFV;3;PL;NEUT","target": "nezděravěla by"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;NEG;PFV;1;PL;NEUT","target": "nezděravěla bychom"}
+{"input": "ces: Inflect zděravět | V;COND;PST;NEG;PFV;2;PL;NEUT","target": "nebyla byste zděravěla"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;PFV;3;PL;FEM","target": "zděravěly by"}
+{"input": "ces: Inflect zděravět | V;COND;PST;PFV;1;PL;FEM","target": "byly bychom zděravěly"}
+{"input": "ces: Inflect zděravět | V;COND;PST;PFV;2;PL;FEM","target": "byly byste zděravěly"}
+{"input": "ces: Inflect zděravět | V;PST;IND;PFV;2;PL;MASC;INAN","target": "zděravěly jste"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;PFV;3;PL;MASC;INAN","target": "zděravěly by"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;PFV;1;PL;MASC;INAN","target": "zděravěly bychom"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;PFV;2;PL;MASC;INAN","target": "zděravěly byste"}
+{"input": "ces: Inflect zděravět | V;COND;PST;NEG;PFV;3;PL;FEM","target": "nebyly by zděravěly"}
+{"input": "ces: Inflect zděravět | V;COND;PST;NEG;PFV;2;PL;FEM","target": "nebyly byste zděravěly"}
+{"input": "ces: Inflect zděravět | V;PST;IND;NEG;PFV;1;PL;MASC;INAN","target": "nezděravěly jsme"}
+{"input": "ces: Inflect zděravět | V;PST;IND;NEG;PFV;2;PL;MASC;INAN","target": "nezděravěly jste"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;NEG;PFV;3;PL;MASC;INAN","target": "nezděravěly by"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;NEG;PFV;1;PL;MASC;INAN","target": "nezděravěly bychom"}
+{"input": "ces: Inflect zděravět | V;COND;PST;NEG;PFV;1;PL;MASC;INAN","target": "nebyly bychom zděravěly"}
+{"input": "ces: Inflect zděravět | V;PST;IND;PFV;3;SG;MASC","target": "zděravěl"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;PFV;3;SG;MASC","target": "zděravěl by"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;PFV;1;SG;MASC","target": "zděravěl bych"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;PFV;2;SG;MASC","target": "zděravěl bys"}
+{"input": "ces: Inflect zděravět | V;COND;PST;PFV;1;SG;MASC","target": "byl bych zděravěl"}
+{"input": "ces: Inflect zděravět | V;COND;PST;PFV;2;SG;MASC","target": "byl bys zděravěl"}
+{"input": "ces: Inflect zděravět | V;PST;IND;PFV;2;SG;MASC","target": "zděravěls"}
+{"input": "ces: Inflect zděravět | V;PST;IND;NEG;PFV;3;SG;MASC","target": "nezděravěl"}
+{"input": "ces: Inflect zděravět | V;PST;IND;NEG;PFV;2;SG;MASC","target": "nezděravěl jsi"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;NEG;PFV;3;SG;MASC","target": "nezděravěl by"}
+{"input": "ces: Inflect zděravět | V;COND;PRS;NEG;PFV;2;SG;MASC","target": "nezděravěl bys"}
+{"input": "ces: Inflect zděravět | V;COND;PST;NEG;PFV;2;SG;MASC","target": "nebyl bys zděravěl"}
+{"input": "ces: Inflect zděravět | V.PTCP;PASS;PFV;NOM;NOM(2,SG,FEM)","target": "zděravěnas"}
+{"input": "ces: Inflect zděravět | V.PTCP;PASS;NEG;PFV;NOM;NOM(2,SG,FEM)","target": "nezděravěnas"}
+{"input": "ces: Inflect zděravět | V.PTCP;PASS;NEG;PFV;ACC;NOM(3,SG,FEM)","target": "nezděravěnu"}
+{"input": "ces: Inflect zděravět | V.PTCP;PASS;PFV;NOM;NOM(2,SG,NEUT)","target": "zděravěnos"}
+{"input": "ces: Inflect zděravět | V.PTCP;PASS;PFV;NOM;NOM(3,PL,NEUT)","target": "zděravěna"}
+{"input": "ces: Inflect zděravět | V.PTCP;PASS;PFV;NOM;NOM(3,PL,FEM)","target": "zděravěny"}
+{"input": "ces: Inflect zděravět | V.PTCP;PASS;NEG;PFV;NOM;NOM(3,PL,FEM)","target": "nezděravěny"}
+{"input": "ces: Inflect dopomáhatelně | ADV","target": "nedopomáhatelně"}
+{"input": "ces: Inflect dopomáhatelně | ADV;SPRL","target": "nejdopomáhatelněji"}
+{"input": "ces: Inflect bandoneonistův | ADJ;INS(DU,FEM)","target": "bandoneonistovýma"}
+{"input": "ces: Inflect bandoneonistův | ADJ;NOM(PL,FEM)","target": "bandoneonistovy"}
+{"input": "ces: Inflect bandoneonistův | ADJ;DAT(PL,FEM)","target": "bandoneonistovým"}
+{"input": "ces: Inflect bandoneonistův | ADJ;INS(PL,FEM)","target": "bandoneonistovými"}
+{"input": "ces: Inflect bandoneonistův | ADJ;GEN(SG,FEM)","target": "bandoneonistovy"}
+{"input": "ces: Inflect bandoneonistův | ADJ;VOC(SG,FEM)","target": "bandoneonistova"}
+{"input": "ces: Inflect bandoneonistův | ADJ;GEN(PL,MASC,INAN)","target": "bandoneonistových"}
+{"input": "ces: Inflect bandoneonistův | ADJ;DAT(PL,MASC,INAN)","target": "bandoneonistovým"}
+{"input": "ces: Inflect bandoneonistův | ADJ;ESS(PL,MASC,INAN)","target": "bandoneonistových"}
+{"input": "ces: Inflect bandoneonistův | ADJ;INS(PL,MASC,INAN)","target": "bandoneonistovými"}
+{"input": "ces: Inflect bandoneonistův | ADJ;ESS(SG,MASC,INAN)","target": "bandoneonistově"}
+{"input": "ces: Inflect bandoneonistův | ADJ;INS(SG,MASC,INAN)","target": "bandoneonistovým"}
+{"input": "ces: Inflect bandoneonistův | ADJ;NOM(PL,MASC,ANIM)","target": "bandoneonistovi"}
+{"input": "ces: Inflect bandoneonistův | ADJ;NOM(SG,MASC,ANIM)","target": "bandoneonistův"}
+{"input": "ces: Inflect bandoneonistův | ADJ;DAT(SG,MASC,ANIM)","target": "bandoneonistovu"}
+{"input": "ces: Inflect bandoneonistův | ADJ;ESS(SG,MASC,ANIM)","target": "bandoneonistově"}
+{"input": "ces: Inflect bandoneonistův | ADJ;ACC(PL,NEUT)","target": "bandoneonistova"}
+{"input": "ces: Inflect bandoneonistův | ADJ;ESS(PL,NEUT)","target": "bandoneonistových"}
+{"input": "ces: Inflect bandoneonistův | ADJ;NOM(SG,NEUT)","target": "bandoneonistovo"}
+{"input": "ces: Inflect bandoneonistův | ADJ;ACC(SG,NEUT)","target": "bandoneonistovo"}
+{"input": "ces: Inflect bandoneonistův | ADJ;VOC(SG,NEUT)","target": "bandoneonistovo"}
+{"input": "ces: Inflect bandoneonistův | ADJ;INS(SG,NEUT)","target": "bandoneonistovým"}
+{"input": "ces: Inflect asylovost | N;DAT(PL,FEM)","target": "asylovostem"}
+{"input": "ces: Inflect asylovost | N;VOC(PL,FEM)","target": "asylovosti"}
+{"input": "ces: Inflect asylovost | N;ESS(PL,FEM)","target": "asylovostech"}
+{"input": "ces: Inflect asylovost | N;GEN(SG,FEM)","target": "asylovosti"}
+{"input": "ces: Inflect asylovost | N;ACC(SG,FEM)","target": "asylovost"}
+{"input": "ces: Inflect asylovost | N;INS(SG,FEM)","target": "asylovostí"}
+{"input": "ces: Inflect islamizátorův | ADJ;INS(DU,FEM)","target": "islamizátorovýma"}
+{"input": "ces: Inflect islamizátorův | ADJ;GEN(PL,FEM)","target": "islamizátorových"}
+{"input": "ces: Inflect islamizátorův | ADJ;VOC(PL,FEM)","target": "islamizátorovy"}
+{"input": "ces: Inflect islamizátorův | ADJ;ESS(PL,FEM)","target": "islamizátorových"}
+{"input": "ces: Inflect islamizátorův | ADJ;INS(PL,FEM)","target": "islamizátorovými"}
+{"input": "ces: Inflect islamizátorův | ADJ;NOM(SG,FEM)","target": "islamizátorova"}
+{"input": "ces: Inflect islamizátorův | ADJ;GEN(SG,FEM)","target": "islamizátorovy"}
+{"input": "ces: Inflect islamizátorův | ADJ;DAT(SG,FEM)","target": "islamizátorově"}
+{"input": "ces: Inflect islamizátorův | ADJ;ESS(SG,FEM)","target": "islamizátorově"}
+{"input": "ces: Inflect islamizátorův | ADJ;INS(SG,FEM)","target": "islamizátorovou"}
+{"input": "ces: Inflect islamizátorův | ADJ;VOC(PL,MASC,INAN)","target": "islamizátorovy"}
+{"input": "ces: Inflect islamizátorův | ADJ;NOM(SG,MASC,INAN)","target": "islamizátorův"}
+{"input": "ces: Inflect islamizátorův | ADJ;GEN(SG,MASC,INAN)","target": "islamizátorova"}
+{"input": "ces: Inflect islamizátorův | ADJ;GEN(PL,MASC,ANIM)","target": "islamizátorových"}
+{"input": "ces: Inflect islamizátorův | ADJ;VOC(PL,MASC,ANIM)","target": "islamizátorovi"}
+{"input": "ces: Inflect islamizátorův | ADJ;ACC(SG,MASC,ANIM)","target": "islamizátorova"}
+{"input": "ces: Inflect islamizátorův | ADJ;VOC(PL,NEUT)","target": "islamizátorova"}
+{"input": "ces: Inflect islamizátorův | ADJ;NOM(SG,NEUT)","target": "islamizátorovo"}
+{"input": "ces: Inflect islamizátorův | ADJ;INS(SG,NEUT)","target": "islamizátorovým"}
+{"input": "ces: Inflect zachraňovávací | ADJ;INS(DU,FEM)","target": "zachraňovávacíma"}
+{"input": "ces: Inflect zachraňovávací | ADJ;GEN(PL,FEM)","target": "zachraňovávacích"}
+{"input": "ces: Inflect zachraňovávací | ADJ;VOC(PL,FEM)","target": "zachraňovávací"}
+{"input": "ces: Inflect zachraňovávací | ADJ;ESS(PL,FEM)","target": "zachraňovávacích"}
+{"input": "ces: Inflect zachraňovávací | ADJ;INS(PL,FEM)","target": "zachraňovávacími"}
+{"input": "ces: Inflect zachraňovávací | ADJ;VOC(SG,FEM)","target": "zachraňovávací"}
+{"input": "ces: Inflect zachraňovávací | ADJ;ESS(SG,FEM)","target": "zachraňovávací"}
+{"input": "ces: Inflect zachraňovávací | ADJ;INS(SG,FEM)","target": "zachraňovávací"}
+{"input": "ces: Inflect zachraňovávací | ADJ;NOM(PL,MASC,INAN)","target": "zachraňovávací"}
+{"input": "ces: Inflect zachraňovávací | ADJ;GEN(PL,MASC,INAN)","target": "zachraňovávacích"}
+{"input": "ces: Inflect zachraňovávací | ADJ;DAT(PL,MASC,INAN)","target": "zachraňovávacím"}
+{"input": "ces: Inflect zachraňovávací | ADJ;NOM(SG,MASC,INAN)","target": "zachraňovávací"}
+{"input": "ces: Inflect zachraňovávací | ADJ;GEN(SG,MASC,INAN)","target": "zachraňovávacího"}
+{"input": "ces: Inflect zachraňovávací | ADJ;ACC(SG,MASC,INAN)","target": "zachraňovávací"}
+{"input": "ces: Inflect zachraňovávací | ADJ;INS(SG,MASC,INAN)","target": "zachraňovávacím"}
+{"input": "ces: Inflect zachraňovávací | ADJ;ACC(PL,MASC,ANIM)","target": "zachraňovávací"}
+{"input": "ces: Inflect zachraňovávací | ADJ;VOC(PL,MASC,ANIM)","target": "zachraňovávací"}
+{"input": "ces: Inflect zachraňovávací | ADJ;NOM(SG,MASC,ANIM)","target": "zachraňovávací"}
+{"input": "ces: Inflect zachraňovávací | ADJ;ACC(SG,MASC,ANIM)","target": "zachraňovávacího"}
+{"input": "ces: Inflect zachraňovávací | ADJ;VOC(SG,MASC,ANIM)","target": "zachraňovávací"}
+{"input": "ces: Inflect zachraňovávací | ADJ;INS(SG,MASC,ANIM)","target": "zachraňovávacím"}
+{"input": "ces: Inflect zachraňovávací | ADJ;NOM(PL,NEUT)","target": "zachraňovávací"}
+{"input": "ces: Inflect zachraňovávací | ADJ;VOC(PL,NEUT)","target": "zachraňovávací"}
+{"input": "ces: Inflect zachraňovávací | ADJ;INS(PL,NEUT)","target": "zachraňovávacími"}
+{"input": "ces: Inflect zachraňovávací | ADJ;NOM(SG,NEUT)","target": "zachraňovávací"}
+{"input": "ces: Inflect zachraňovávací | ADJ;INS(SG,NEUT)","target": "zachraňovávacím"}
+{"input": "ces: Inflect mleččin | ADJ;NOM(PL,FEM)","target": "mleččiny"}
+{"input": "ces: Inflect mleččin | ADJ;GEN(SG,FEM)","target": "mleččiny"}
+{"input": "ces: Inflect mleččin | ADJ;VOC(SG,FEM)","target": "mleččina"}
+{"input": "ces: Inflect mleččin | ADJ;INS(SG,FEM)","target": "mleččinou"}
+{"input": "ces: Inflect mleččin | ADJ;DAT(PL,MASC,INAN)","target": "mleččiným"}
+{"input": "ces: Inflect mleččin | ADJ;VOC(PL,MASC,INAN)","target": "mleččiny"}
+{"input": "ces: Inflect mleččin | ADJ;ESS(PL,MASC,INAN)","target": "mleččiných"}
+{"input": "ces: Inflect mleččin | ADJ;INS(PL,MASC,INAN)","target": "mleččinými"}
+{"input": "ces: Inflect mleččin | ADJ;DAT(SG,MASC,INAN)","target": "mleččinu"}
+{"input": "ces: Inflect mleččin | ADJ;INS(SG,MASC,INAN)","target": "mleččiným"}
+{"input": "ces: Inflect mleččin | ADJ;DAT(PL,MASC,ANIM)","target": "mleččiným"}
+{"input": "ces: Inflect mleččin | ADJ;VOC(PL,MASC,ANIM)","target": "mleččini"}
+{"input": "ces: Inflect mleččin | ADJ;ESS(PL,MASC,ANIM)","target": "mleččiných"}
+{"input": "ces: Inflect mleččin | ADJ;INS(PL,MASC,ANIM)","target": "mleččinými"}
+{"input": "ces: Inflect mleččin | ADJ;ESS(SG,MASC,ANIM)","target": "mleččině"}
+{"input": "ces: Inflect mleččin | ADJ;GEN(PL,NEUT)","target": "mleččiných"}
+{"input": "ces: Inflect mleččin | ADJ;ACC(PL,NEUT)","target": "mleččina"}
+{"input": "ces: Inflect mleččin | ADJ;VOC(PL,NEUT)","target": "mleččina"}
+{"input": "ces: Inflect mleččin | ADJ;INS(PL,NEUT)","target": "mleččinými"}
+{"input": "ces: Inflect mleččin | ADJ;VOC(SG,NEUT)","target": "mleččino"}
+{"input": "ces: Inflect poklofávaný | ADJ;NOM(PL,FEM)","target": "poklofávané"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;NOM(PL,FEM)","target": "poklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;NOM(PL,FEM)","target": "nejpoklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;DAT(PL,FEM)","target": "poklofávaným"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;DAT(PL,FEM)","target": "poklofávanějším"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;ACC(PL,FEM)","target": "poklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;VOC(PL,FEM)","target": "poklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;ESS(PL,FEM)","target": "poklofávaných"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;INS(PL,FEM)","target": "poklofávanějšími"}
+{"input": "ces: Inflect poklofávaný | ADJ;NOM(SG,FEM)","target": "poklofávaná"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;GEN(SG,FEM)","target": "nejpoklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;ACC(SG,FEM)","target": "poklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;ESS(SG,FEM)","target": "poklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;ESS(SG,FEM)","target": "nejpoklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;INS(SG,FEM)","target": "nejpoklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;NOM(PL,MASC,INAN)","target": "poklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;GEN(PL,MASC,INAN)","target": "poklofávaných"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;GEN(PL,MASC,INAN)","target": "nejpoklofávanějších"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;DAT(PL,MASC,INAN)","target": "poklofávanějším"}
+{"input": "ces: Inflect poklofávaný | ADJ;ACC(PL,MASC,INAN)","target": "poklofávané"}
+{"input": "ces: Inflect poklofávaný | ADJ;VOC(PL,MASC,INAN)","target": "poklofávané"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;VOC(PL,MASC,INAN)","target": "poklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;VOC(PL,MASC,INAN)","target": "nejpoklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;DAT(SG,MASC,INAN)","target": "poklofávanému"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;DAT(SG,MASC,INAN)","target": "poklofávanějšímu"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;DAT(SG,MASC,INAN)","target": "nejpoklofávanějšímu"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;ACC(SG,MASC,INAN)","target": "poklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;ACC(SG,MASC,INAN)","target": "nejpoklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;VOC(SG,MASC,INAN)","target": "nejpoklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;ESS(SG,MASC,INAN)","target": "poklofávaném"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;INS(SG,MASC,INAN)","target": "nejpoklofávanějším"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;GEN(PL,MASC,ANIM)","target": "poklofávanějších"}
+{"input": "ces: Inflect poklofávaný | ADJ;DAT(PL,MASC,ANIM)","target": "poklofávaným"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;DAT(PL,MASC,ANIM)","target": "nejpoklofávanějším"}
+{"input": "ces: Inflect poklofávaný | ADJ;VOC(PL,MASC,ANIM)","target": "poklofávaní"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;VOC(PL,MASC,ANIM)","target": "poklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;ESS(PL,MASC,ANIM)","target": "poklofávaných"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;ESS(PL,MASC,ANIM)","target": "poklofávanějších"}
+{"input": "ces: Inflect poklofávaný | ADJ;INS(PL,MASC,ANIM)","target": "poklofávanými"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;INS(PL,MASC,ANIM)","target": "poklofávanějšími"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;GEN(SG,MASC,ANIM)","target": "poklofávanějšího"}
+{"input": "ces: Inflect poklofávaný | ADJ;ACC(SG,MASC,ANIM)","target": "poklofávaného"}
+{"input": "ces: Inflect poklofávaný | ADJ;VOC(SG,MASC,ANIM)","target": "poklofávaný"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;VOC(SG,MASC,ANIM)","target": "poklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;ESS(SG,MASC,ANIM)","target": "nejpoklofávanějším"}
+{"input": "ces: Inflect poklofávaný | ADJ;INS(SG,MASC,ANIM)","target": "poklofávaným"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;INS(SG,MASC,ANIM)","target": "nejpoklofávanějším"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;GEN(PL,NEUT)","target": "poklofávanějších"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;GEN(PL,NEUT)","target": "nejpoklofávanějších"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;ACC(PL,NEUT)","target": "poklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;VOC(PL,NEUT)","target": "poklofávaná"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;VOC(PL,NEUT)","target": "poklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;VOC(PL,NEUT)","target": "nejpoklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;ESS(PL,NEUT)","target": "poklofávanějších"}
+{"input": "ces: Inflect poklofávaný | ADJ;INS(PL,NEUT)","target": "poklofávanými"}
+{"input": "ces: Inflect poklofávaný | ADJ;NOM(SG,NEUT)","target": "poklofávané"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;NOM(SG,NEUT)","target": "poklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;NOM(SG,NEUT)","target": "nejpoklofávanější"}
+{"input": "ces: Inflect poklofávaný | ADJ;GEN(SG,NEUT)","target": "poklofávaného"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;GEN(SG,NEUT)","target": "nejpoklofávanějšího"}
+{"input": "ces: Inflect poklofávaný | ADJ;CMPR;DAT(SG,NEUT)","target": "poklofávanějšímu"}
+{"input": "ces: Inflect poklofávaný | ADJ;SPRL;INS(SG,NEUT)","target": "nejpoklofávanějším"}
+{"input": "ces: Inflect zamrdaně | ADV","target": "zamrdaně"}
+{"input": "ces: Inflect zamrdaně | ADV;CMPR","target": "zamrdaněji"}
+{"input": "ces: Inflect zamrdaně | ADV;SPRL","target": "nejnezamrdaněji"}

@@ -1,0 +1,1000 @@
+{"input": "Lower Sorbian: Inflect plěś | V;PST;1;DU","target": "plějachmej"}
+{"input": "Lower Sorbian: Inflect plěś | V;PST;1;PL","target": "plějachmy"}
+{"input": "Lower Sorbian: Inflect plěś | V;PST;3;PL","target": "plějachu"}
+{"input": "Lower Sorbian: Inflect plěś | V;PST;2;SG","target": "plějašo"}
+{"input": "Lower Sorbian: Inflect plěś | V;PST;3;DU","target": "plějaštej"}
+{"input": "Lower Sorbian: Inflect plěś | V;PRS;1;PL","target": "plějomy"}
+{"input": "Lower Sorbian: Inflect plěś | V;PRS;2;DU","target": "plějotej"}
+{"input": "Lower Sorbian: Inflect plěś | V;PRS;3;SG","target": "plějo"}
+{"input": "Lower Sorbian: Inflect plěś | V;IMP;2;PL","target": "plějśo"}
+{"input": "Lower Sorbian: Inflect plěś | V;IMP;2;DU","target": "plějtej"}
+{"input": "Lower Sorbian: Inflect cuś | V;PST;3;PL","target": "cujachu"}
+{"input": "Lower Sorbian: Inflect cuś | V;PST;1;SG","target": "cujach"}
+{"input": "Lower Sorbian: Inflect cuś | V;PST;2;PL","target": "cujašćo"}
+{"input": "Lower Sorbian: Inflect cuś | V;PST;2;DU","target": "cujaštej"}
+{"input": "Lower Sorbian: Inflect cuś | V;PST;3;DU","target": "cujaštej"}
+{"input": "Lower Sorbian: Inflect cuś | V;PRS;1;DU","target": "cujomej"}
+{"input": "Lower Sorbian: Inflect cuś | V;PRS;2;PL","target": "cujośo"}
+{"input": "Lower Sorbian: Inflect cuś | V;PRS;3;DU","target": "cujotej"}
+{"input": "Lower Sorbian: Inflect cuś | V;PRS;3;SG","target": "cujo"}
+{"input": "Lower Sorbian: Inflect cuś | V;IMP;2;PL","target": "cujśo"}
+{"input": "Lower Sorbian: Inflect cuś | V;IMP;2;DU","target": "cujtej"}
+{"input": "Lower Sorbian: Inflect cuś | V;PRS;1;SG","target": "cuju"}
+{"input": "Lower Sorbian: Inflect gibanje | N;INS(PL)","target": "gibanjami"}
+{"input": "Lower Sorbian: Inflect gibanje | N;GEN(SG)","target": "gibanja"}
+{"input": "Lower Sorbian: Inflect gibanje | N;NOM(PL)","target": "gibanja"}
+{"input": "Lower Sorbian: Inflect gibanje | N;DAT(SG)","target": "gibanjeju"}
+{"input": "Lower Sorbian: Inflect gibanje | N;ACC(SG)","target": "gibanje"}
+{"input": "Lower Sorbian: Inflect gibanje | N;NOM(SG)","target": "gibanje"}
+{"input": "Lower Sorbian: Inflect gibanje | N;DAT(DU)","target": "gibanjoma"}
+{"input": "Lower Sorbian: Inflect gibanje | N;ESS(DU)","target": "gibanjoma"}
+{"input": "Lower Sorbian: Inflect gibanje | N;GEN(PL)","target": "gibanjow"}
+{"input": "Lower Sorbian: Inflect gibanje | N;ESS(SG)","target": "gibanju"}
+{"input": "Lower Sorbian: Inflect śańki | ADJ;NOM(SG,FEM)","target": "śańka"}
+{"input": "Lower Sorbian: Inflect śańki | ADJ;ACC(SG,NEUT)","target": "śańke"}
+{"input": "Lower Sorbian: Inflect śańki | ADJ;GEN(SG,NEUT)","target": "śańkego"}
+{"input": "Lower Sorbian: Inflect śańki | ADJ;DAT(SG,FEM)","target": "śańkej"}
+{"input": "Lower Sorbian: Inflect śańki | ADJ;NOM(DU)","target": "śańkej"}
+{"input": "Lower Sorbian: Inflect śańki | ADJ;INS(SG,FEM)","target": "śańkeju"}
+{"input": "Lower Sorbian: Inflect śańki | ADJ;DAT(SG,MASC)","target": "śańkemu"}
+{"input": "Lower Sorbian: Inflect śańki | ADJ;NOM(SG,MASC)","target": "śańki"}
+{"input": "Lower Sorbian: Inflect śańki | ADJ;ESS(PL)","target": "śańkich"}
+{"input": "Lower Sorbian: Inflect śańki | ADJ;GEN(PL)","target": "śańkich"}
+{"input": "Lower Sorbian: Inflect śańki | ADJ;DAT(DU)","target": "śańkima"}
+{"input": "Lower Sorbian: Inflect śańki | ADJ;ESS(DU)","target": "śańkima"}
+{"input": "Lower Sorbian: Inflect śańki | ADJ;INS(SG,MASC)","target": "śańkim"}
+{"input": "Lower Sorbian: Inflect cas | N;ESS(PL)","target": "casach"}
+{"input": "Lower Sorbian: Inflect cas | N;ACC(DU)","target": "casa"}
+{"input": "Lower Sorbian: Inflect cas | N;GEN(SG)","target": "casa"}
+{"input": "Lower Sorbian: Inflect cas | N;NOM(DU)","target": "casa"}
+{"input": "Lower Sorbian: Inflect cas | N;NOM(SG)","target": "cas"}
+{"input": "Lower Sorbian: Inflect cas | N;DAT(DU)","target": "casoma"}
+{"input": "Lower Sorbian: Inflect cas | N;ESS(DU)","target": "casoma"}
+{"input": "Lower Sorbian: Inflect cas | N;INS(DU)","target": "casoma"}
+{"input": "Lower Sorbian: Inflect cas | N;INS(SG)","target": "casom"}
+{"input": "Lower Sorbian: Inflect śichy | ADJ;ACC(SG,NEUT)","target": "śiche"}
+{"input": "Lower Sorbian: Inflect śichy | ADJ;ACC(PL,INAN)","target": "śiche"}
+{"input": "Lower Sorbian: Inflect śichy | ADJ;ACC(SG,MASC,ANIM)","target": "śichego"}
+{"input": "Lower Sorbian: Inflect śichy | ADJ;ACC(DU,INAN)","target": "śichej"}
+{"input": "Lower Sorbian: Inflect śichy | ADJ;DAT(SG,FEM)","target": "śichej"}
+{"input": "Lower Sorbian: Inflect śichy | ADJ;GEN(SG,FEM)","target": "śicheje"}
+{"input": "Lower Sorbian: Inflect śichy | ADJ;ACC(DU,ANIM)","target": "śicheju"}
+{"input": "Lower Sorbian: Inflect śichy | ADJ;ESS(SG,MASC)","target": "śichem"}
+{"input": "Lower Sorbian: Inflect śichy | ADJ;ESS(SG,NEUT)","target": "śichem"}
+{"input": "Lower Sorbian: Inflect śichy | ADJ;ACC(PL,ANIM)","target": "śichych"}
+{"input": "Lower Sorbian: Inflect śichy | ADJ;ESS(PL)","target": "śichych"}
+{"input": "Lower Sorbian: Inflect śichy | ADJ;ESS(DU)","target": "śichyma"}
+{"input": "Lower Sorbian: Inflect śichy | ADJ;INS(DU)","target": "śichyma"}
+{"input": "Lower Sorbian: Inflect śichy | ADJ;DAT(PL)","target": "śichym"}
+{"input": "Lower Sorbian: Inflect śichy | ADJ;INS(PL)","target": "śichymi"}
+{"input": "Lower Sorbian: Inflect gjardło | N;ACC(PL)","target": "gjardła"}
+{"input": "Lower Sorbian: Inflect gjardło | N;NOM(PL)","target": "gjardła"}
+{"input": "Lower Sorbian: Inflect gjardło | N;ESS(SG)","target": "gjardle"}
+{"input": "Lower Sorbian: Inflect gjardło | N;DAT(SG)","target": "gjardłoju"}
+{"input": "Lower Sorbian: Inflect gjardło | N;INS(SG)","target": "gjardłom"}
+{"input": "Lower Sorbian: Inflect gjardło | N;NOM(SG)","target": "gjardło"}
+{"input": "Lower Sorbian: Inflect gjardło | N;GEN(PL)","target": "gjardłow"}
+{"input": "Lower Sorbian: Inflect gjardło | N;GEN(DU)","target": "gjardłowu"}
+{"input": "Lower Sorbian: Inflect bóleś | V;PST;1;DU","target": "bólechmej"}
+{"input": "Lower Sorbian: Inflect bóleś | V;PST;3;PL","target": "bólechu"}
+{"input": "Lower Sorbian: Inflect bóleś | V;PST;1;SG","target": "bólech"}
+{"input": "Lower Sorbian: Inflect bóleś | V;PST;2;SG","target": "bólešo"}
+{"input": "Lower Sorbian: Inflect bóleś | V;PST;3;DU","target": "bóleštej"}
+{"input": "Lower Sorbian: Inflect bóleś | V;PRS;1;DU","target": "bólimej"}
+{"input": "Lower Sorbian: Inflect bóleś | V;PRS;2;PL","target": "bóliśo"}
+{"input": "Lower Sorbian: Inflect bóleś | V;PRS;2;DU","target": "bólitej"}
+{"input": "Lower Sorbian: Inflect bóleś | V;IMP;2;SG","target": "ból"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;NOM(SG,FEM)","target": "kśiwa"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;ACC(SG,NEUT)","target": "kśiwe"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;NOM(SG,NEUT)","target": "kśiwe"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;ACC(SG,MASC,ANIM)","target": "kśiwego"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;GEN(SG,MASC)","target": "kśiwego"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;ACC(DU,INAN)","target": "kśiwej"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;ESS(SG,FEM)","target": "kśiwej"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;GEN(SG,FEM)","target": "kśiweje"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;ACC(DU,ANIM)","target": "kśiweju"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;GEN(DU)","target": "kśiweju"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;INS(SG,FEM)","target": "kśiweju"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;ESS(SG,NEUT)","target": "kśiwem"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;DAT(SG,MASC)","target": "kśiwemu"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;DAT(SG,NEUT)","target": "kśiwemu"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;ACC(SG,FEM)","target": "kśiwu"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;ACC(PL,ANIM)","target": "kśiwych"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;ESS(PL)","target": "kśiwych"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;INS(DU)","target": "kśiwyma"}
+{"input": "Lower Sorbian: Inflect kśiwy | ADJ;INS(PL)","target": "kśiwymi"}
+{"input": "Lower Sorbian: Inflect sykorka | N;ACC(DU)","target": "sykorce"}
+{"input": "Lower Sorbian: Inflect sykorka | N;INS(DU)","target": "sykorkoma"}
+{"input": "Lower Sorbian: Inflect sykorka | N;GEN(DU)","target": "sykorkowu"}
+{"input": "Lower Sorbian: Inflect sykorka | N;ACC(SG)","target": "sykorku"}
+{"input": "Lower Sorbian: Inflect kawka | N;ACC(DU)","target": "kawce"}
+{"input": "Lower Sorbian: Inflect kawka | N;ESS(SG)","target": "kawce"}
+{"input": "Lower Sorbian: Inflect kawka | N;NOM(DU)","target": "kawce"}
+{"input": "Lower Sorbian: Inflect kawka | N;NOM(SG)","target": "kawka"}
+{"input": "Lower Sorbian: Inflect kawka | N;NOM(PL)","target": "kawki"}
+{"input": "Lower Sorbian: Inflect kawka | N;DAT(DU)","target": "kawkoma"}
+{"input": "Lower Sorbian: Inflect kawka | N;ESS(DU)","target": "kawkoma"}
+{"input": "Lower Sorbian: Inflect kawka | N;INS(DU)","target": "kawkoma"}
+{"input": "Lower Sorbian: Inflect kawka | N;INS(SG)","target": "kawku"}
+{"input": "Lower Sorbian: Inflect brona | N;INS(PL)","target": "bronami"}
+{"input": "Lower Sorbian: Inflect brona | N;ACC(DU)","target": "bronje"}
+{"input": "Lower Sorbian: Inflect brona | N;DAT(SG)","target": "bronje"}
+{"input": "Lower Sorbian: Inflect brona | N;NOM(DU)","target": "bronje"}
+{"input": "Lower Sorbian: Inflect brona | N;INS(DU)","target": "bronoma"}
+{"input": "Lower Sorbian: Inflect brona | N;GEN(PL)","target": "bronow"}
+{"input": "Lower Sorbian: Inflect brona | N;INS(SG)","target": "bronu"}
+{"input": "Lower Sorbian: Inflect wos | N;NOM(SG)","target": "wos"}
+{"input": "Lower Sorbian: Inflect gus | N;ESS(PL)","target": "gusach"}
+{"input": "Lower Sorbian: Inflect gus | N;INS(PL)","target": "gusami"}
+{"input": "Lower Sorbian: Inflect gus | N;DAT(PL)","target": "gusam"}
+{"input": "Lower Sorbian: Inflect gus | N;NOM(SG)","target": "gus"}
+{"input": "Lower Sorbian: Inflect gus | N;ESS(DU)","target": "gusoma"}
+{"input": "Lower Sorbian: Inflect gus | N;ACC(DU)","target": "gusy"}
+{"input": "Lower Sorbian: Inflect gus | N;DAT(SG)","target": "gusy"}
+{"input": "Lower Sorbian: Inflect gus | N;ESS(SG)","target": "gusy"}
+{"input": "Lower Sorbian: Inflect gus | N;GEN(SG)","target": "gusy"}
+{"input": "Lower Sorbian: Inflect gus | N;NOM(PL)","target": "gusy"}
+{"input": "Lower Sorbian: Inflect wodka | N;ESS(SG)","target": "wodce"}
+{"input": "Lower Sorbian: Inflect bydlenje | N;NOM(DU)","target": "bydleni"}
+{"input": "Lower Sorbian: Inflect bydlenje | N;INS(PL)","target": "bydlenjami"}
+{"input": "Lower Sorbian: Inflect bydlenje | N;NOM(PL)","target": "bydlenja"}
+{"input": "Lower Sorbian: Inflect bydlenje | N;DAT(SG)","target": "bydlenjeju"}
+{"input": "Lower Sorbian: Inflect bydlenje | N;ACC(SG)","target": "bydlenje"}
+{"input": "Lower Sorbian: Inflect bydlenje | N;DAT(DU)","target": "bydlenjoma"}
+{"input": "Lower Sorbian: Inflect bydlenje | N;INS(DU)","target": "bydlenjoma"}
+{"input": "Lower Sorbian: Inflect bydlenje | N;GEN(PL)","target": "bydlenjow"}
+{"input": "Lower Sorbian: Inflect bydlenje | N;GEN(DU)","target": "bydlenjowu"}
+{"input": "Lower Sorbian: Inflect gotowy | ADJ;ACC(DU,ANIM)","target": "gotoweju"}
+{"input": "Lower Sorbian: Inflect bobr | N;ESS(PL)","target": "bobrach"}
+{"input": "Lower Sorbian: Inflect bobr | N;DAT(PL)","target": "bobram"}
+{"input": "Lower Sorbian: Inflect bobr | N;GEN(SG)","target": "bobra"}
+{"input": "Lower Sorbian: Inflect bobr | N;NOM(SG)","target": "bobr"}
+{"input": "Lower Sorbian: Inflect bobr | N;ESS(DU)","target": "bobroma"}
+{"input": "Lower Sorbian: Inflect bobr | N;INS(DU)","target": "bobroma"}
+{"input": "Lower Sorbian: Inflect bobr | N;INS(SG)","target": "bobrom"}
+{"input": "Lower Sorbian: Inflect bobr | N;GEN(DU)","target": "bobrowu"}
+{"input": "Lower Sorbian: Inflect bobr | N;ACC(PL)","target": "bobry"}
+{"input": "Lower Sorbian: Inflect bobr | N;NOM(PL)","target": "bobry"}
+{"input": "Lower Sorbian: Inflect kupadło | N;INS(PL)","target": "kupadłami"}
+{"input": "Lower Sorbian: Inflect kupadło | N;DAT(PL)","target": "kupadłam"}
+{"input": "Lower Sorbian: Inflect kupadło | N;ACC(PL)","target": "kupadła"}
+{"input": "Lower Sorbian: Inflect kupadło | N;GEN(SG)","target": "kupadła"}
+{"input": "Lower Sorbian: Inflect kupadło | N;NOM(PL)","target": "kupadła"}
+{"input": "Lower Sorbian: Inflect kupadło | N;DAT(DU)","target": "kupadłoma"}
+{"input": "Lower Sorbian: Inflect kupadło | N;ESS(DU)","target": "kupadłoma"}
+{"input": "Lower Sorbian: Inflect kupadło | N;INS(SG)","target": "kupadłom"}
+{"input": "Lower Sorbian: Inflect kupadło | N;ACC(SG)","target": "kupadło"}
+{"input": "Lower Sorbian: Inflect kupadło | N;NOM(SG)","target": "kupadło"}
+{"input": "Lower Sorbian: Inflect kupadło | N;GEN(PL)","target": "kupadłow"}
+{"input": "Lower Sorbian: Inflect kupadło | N;GEN(DU)","target": "kupadłowu"}
+{"input": "Lower Sorbian: Inflect mech | N;ESS(SG)","target": "mechu"}
+{"input": "Lower Sorbian: Inflect módry | ADJ;GEN(PL)","target": "módrych"}
+{"input": "Lower Sorbian: Inflect jež | N;ESS(PL)","target": "ježach"}
+{"input": "Lower Sorbian: Inflect jež | N;INS(PL)","target": "ježami"}
+{"input": "Lower Sorbian: Inflect jež | N;DAT(PL)","target": "ježam"}
+{"input": "Lower Sorbian: Inflect jež | N;ACC(SG)","target": "ježa"}
+{"input": "Lower Sorbian: Inflect jež | N;GEN(SG)","target": "ježa"}
+{"input": "Lower Sorbian: Inflect jež | N;NOM(DU)","target": "ježa"}
+{"input": "Lower Sorbian: Inflect jež | N;DAT(SG)","target": "ježoju"}
+{"input": "Lower Sorbian: Inflect jež | N;DAT(DU)","target": "ježoma"}
+{"input": "Lower Sorbian: Inflect jež | N;ESS(DU)","target": "ježoma"}
+{"input": "Lower Sorbian: Inflect jež | N;INS(SG)","target": "ježom"}
+{"input": "Lower Sorbian: Inflect jež | N;ESS(SG)","target": "ježu"}
+{"input": "Lower Sorbian: Inflect mjod | N;ESS(PL)","target": "mjodach"}
+{"input": "Lower Sorbian: Inflect mjod | N;GEN(SG)","target": "mjoda"}
+{"input": "Lower Sorbian: Inflect mjod | N;NOM(SG)","target": "mjod"}
+{"input": "Lower Sorbian: Inflect mjod | N;DAT(DU)","target": "mjodoma"}
+{"input": "Lower Sorbian: Inflect mjod | N;GEN(DU)","target": "mjodowu"}
+{"input": "Lower Sorbian: Inflect mjod | N;ACC(PL)","target": "mjody"}
+{"input": "Lower Sorbian: Inflect elektrikaŕ | N;INS(PL)","target": "elektrikarjami"}
+{"input": "Lower Sorbian: Inflect elektrikaŕ | N;ACC(SG)","target": "elektrikarja"}
+{"input": "Lower Sorbian: Inflect elektrikaŕ | N;ACC(PL)","target": "elektrikarje"}
+{"input": "Lower Sorbian: Inflect elektrikaŕ | N;NOM(PL)","target": "elektrikarje"}
+{"input": "Lower Sorbian: Inflect elektrikaŕ | N;ACC(DU)","target": "elektrikarjowu"}
+{"input": "Lower Sorbian: Inflect elektrikaŕ | N;GEN(DU)","target": "elektrikarjowu"}
+{"input": "Lower Sorbian: Inflect elektrikaŕ | N;NOM(SG)","target": "elektrikaŕ"}
+{"input": "Lower Sorbian: Inflect lubowaś | V;PST;1;PL","target": "lubowachmy"}
+{"input": "Lower Sorbian: Inflect lubowaś | V;PST;2;SG","target": "lubowašo"}
+{"input": "Lower Sorbian: Inflect lubowaś | V;PRS;1;PL","target": "lubujomy"}
+{"input": "Lower Sorbian: Inflect lubowaś | V;PRS;2;PL","target": "lubujośo"}
+{"input": "Lower Sorbian: Inflect lubowaś | V;PRS;2;SG","target": "lubujoš"}
+{"input": "Lower Sorbian: Inflect lubowaś | V;PRS;2;DU","target": "lubujotej"}
+{"input": "Lower Sorbian: Inflect lubowaś | V;PRS;3;SG","target": "lubujo"}
+{"input": "Lower Sorbian: Inflect lubowaś | V;IMP;2;PL","target": "lubujśo"}
+{"input": "Lower Sorbian: Inflect lubowaś | V;PRS;1;SG","target": "lubuju"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;NOM(PL)","target": "syte"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;GEN(SG,MASC)","target": "sytego"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;GEN(SG,NEUT)","target": "sytego"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;ACC(DU,INAN)","target": "sytej"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;DAT(SG,FEM)","target": "sytej"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;ESS(SG,FEM)","target": "sytej"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;ACC(DU,ANIM)","target": "syteju"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;INS(SG,FEM)","target": "syteju"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;ESS(SG,MASC)","target": "sytem"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;ESS(SG,NEUT)","target": "sytem"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;DAT(SG,MASC)","target": "sytemu"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;ACC(SG,MASC,INAN)","target": "syty"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;ACC(PL,ANIM)","target": "sytych"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;GEN(PL)","target": "sytych"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;DAT(DU)","target": "sytyma"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;ESS(DU)","target": "sytyma"}
+{"input": "Lower Sorbian: Inflect syty | ADJ;INS(PL)","target": "sytymi"}
+{"input": "Lower Sorbian: Inflect kazń | N;ACC(DU)","target": "kazni"}
+{"input": "Lower Sorbian: Inflect kazń | N;ACC(PL)","target": "kazni"}
+{"input": "Lower Sorbian: Inflect kazń | N;NOM(DU)","target": "kazni"}
+{"input": "Lower Sorbian: Inflect kazń | N;GEN(PL)","target": "kaznjow"}
+{"input": "Lower Sorbian: Inflect kazń | N;ACC(SG)","target": "kazń"}
+{"input": "Lower Sorbian: Inflect kazń | N;NOM(SG)","target": "kazń"}
+{"input": "Lower Sorbian: Inflect chory | ADJ;ACC(DU,INAN)","target": "chorej"}
+{"input": "Lower Sorbian: Inflect minutka | N;ACC(DU)","target": "minutce"}
+{"input": "Lower Sorbian: Inflect minutka | N;NOM(DU)","target": "minutce"}
+{"input": "Lower Sorbian: Inflect minutka | N;ESS(PL)","target": "minutkach"}
+{"input": "Lower Sorbian: Inflect minutka | N;INS(PL)","target": "minutkami"}
+{"input": "Lower Sorbian: Inflect minutka | N;ACC(PL)","target": "minutki"}
+{"input": "Lower Sorbian: Inflect minutka | N;NOM(PL)","target": "minutki"}
+{"input": "Lower Sorbian: Inflect minutka | N;GEN(PL)","target": "minutkow"}
+{"input": "Lower Sorbian: Inflect minutka | N;GEN(DU)","target": "minutkowu"}
+{"input": "Lower Sorbian: Inflect minutka | N;INS(SG)","target": "minutku"}
+{"input": "Lower Sorbian: Inflect łono | N;INS(PL)","target": "łonami"}
+{"input": "Lower Sorbian: Inflect łono | N;GEN(SG)","target": "łona"}
+{"input": "Lower Sorbian: Inflect łono | N;ACC(DU)","target": "łonje"}
+{"input": "Lower Sorbian: Inflect łono | N;ESS(SG)","target": "łonje"}
+{"input": "Lower Sorbian: Inflect łono | N;NOM(DU)","target": "łonje"}
+{"input": "Lower Sorbian: Inflect łono | N;DAT(DU)","target": "łonoma"}
+{"input": "Lower Sorbian: Inflect łono | N;INS(SG)","target": "łonom"}
+{"input": "Lower Sorbian: Inflect łono | N;ACC(SG)","target": "łono"}
+{"input": "Lower Sorbian: Inflect powrjoz | N;ESS(PL)","target": "powrjozach"}
+{"input": "Lower Sorbian: Inflect powrjoz | N;INS(PL)","target": "powrjozami"}
+{"input": "Lower Sorbian: Inflect powrjoz | N;GEN(SG)","target": "powrjoza"}
+{"input": "Lower Sorbian: Inflect powrjoz | N;NOM(DU)","target": "powrjoza"}
+{"input": "Lower Sorbian: Inflect powrjoz | N;ACC(PL)","target": "powrjoze"}
+{"input": "Lower Sorbian: Inflect powrjoz | N;ACC(SG)","target": "powrjoz"}
+{"input": "Lower Sorbian: Inflect powrjoz | N;NOM(SG)","target": "powrjoz"}
+{"input": "Lower Sorbian: Inflect powrjoz | N;DAT(SG)","target": "powrjozoju"}
+{"input": "Lower Sorbian: Inflect powrjoz | N;DAT(DU)","target": "powrjozoma"}
+{"input": "Lower Sorbian: Inflect powrjoz | N;ESS(DU)","target": "powrjozoma"}
+{"input": "Lower Sorbian: Inflect powrjoz | N;INS(DU)","target": "powrjozoma"}
+{"input": "Lower Sorbian: Inflect powrjoz | N;INS(SG)","target": "powrjozom"}
+{"input": "Lower Sorbian: Inflect powrjoz | N;GEN(PL)","target": "powrjozow"}
+{"input": "Lower Sorbian: Inflect powrjoz | N;ESS(SG)","target": "powrjozu"}
+{"input": "Lower Sorbian: Inflect morjo | N;GEN(PL)","target": "morjow"}
+{"input": "Lower Sorbian: Inflect kócka | N;NOM(SG)","target": "kócka"}
+{"input": "Lower Sorbian: Inflect pólack | N;DAT(PL)","target": "pólackam"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;NOM(SG,NEUT)","target": "syre"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;NOM(PL)","target": "syre"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;ACC(SG,MASC,ANIM)","target": "syrego"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;GEN(SG,NEUT)","target": "syrego"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;ACC(DU,INAN)","target": "syrej"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;DAT(SG,FEM)","target": "syrej"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;NOM(DU)","target": "syrej"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;INS(SG,FEM)","target": "syreju"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;ESS(SG,NEUT)","target": "syrem"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;ACC(SG,FEM)","target": "syru"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;ACC(SG,MASC,INAN)","target": "syry"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;ACC(PL,ANIM)","target": "syrych"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;ESS(PL)","target": "syrych"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;DAT(DU)","target": "syryma"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;ESS(DU)","target": "syryma"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;INS(DU)","target": "syryma"}
+{"input": "Lower Sorbian: Inflect syry | ADJ;INS(PL)","target": "syrymi"}
+{"input": "Lower Sorbian: Inflect crjowo | N;ESS(PL)","target": "crjowach"}
+{"input": "Lower Sorbian: Inflect crjowo | N;DAT(PL)","target": "crjowam"}
+{"input": "Lower Sorbian: Inflect crjowo | N;ACC(PL)","target": "crjowa"}
+{"input": "Lower Sorbian: Inflect crjowo | N;GEN(SG)","target": "crjowa"}
+{"input": "Lower Sorbian: Inflect crjowo | N;ACC(DU)","target": "crjowje"}
+{"input": "Lower Sorbian: Inflect crjowo | N;ESS(DU)","target": "crjowoma"}
+{"input": "Lower Sorbian: Inflect crjowo | N;INS(SG)","target": "crjowom"}
+{"input": "Lower Sorbian: Inflect crjowo | N;ACC(SG)","target": "crjowo"}
+{"input": "Lower Sorbian: Inflect crjowo | N;GEN(DU)","target": "crjowowu"}
+{"input": "Lower Sorbian: Inflect wós | N;NOM(PL)","target": "wósy"}
+{"input": "Lower Sorbian: Inflect wusmjerśowaś | V;PST;3;PL","target": "wusmjerśowachu"}
+{"input": "Lower Sorbian: Inflect wusmjerśowaś | V;PST;2;PL","target": "wusmjerśowašćo"}
+{"input": "Lower Sorbian: Inflect wusmjerśowaś | V;PST;2;SG","target": "wusmjerśowašo"}
+{"input": "Lower Sorbian: Inflect wusmjerśowaś | V;PST;3;SG","target": "wusmjerśowašo"}
+{"input": "Lower Sorbian: Inflect wusmjerśowaś | V;PST;2;DU","target": "wusmjerśowaštej"}
+{"input": "Lower Sorbian: Inflect wusmjerśowaś | V;PST;3;DU","target": "wusmjerśowaštej"}
+{"input": "Lower Sorbian: Inflect wusmjerśowaś | V;PRS;1;DU","target": "wusmjerśujomej"}
+{"input": "Lower Sorbian: Inflect wusmjerśowaś | V;PRS;2;SG","target": "wusmjerśujoš"}
+{"input": "Lower Sorbian: Inflect wusmjerśowaś | V;IMP;2;DU","target": "wusmjerśujtej"}
+{"input": "Lower Sorbian: Inflect wusmjerśowaś | V;PRS;1;SG","target": "wusmjerśuju"}
+{"input": "Lower Sorbian: Inflect znamje | N;NOM(PL)","target": "znamjenja"}
+{"input": "Lower Sorbian: Inflect znamje | N;DAT(DU)","target": "znamjenjoma"}
+{"input": "Lower Sorbian: Inflect znamje | N;GEN(PL)","target": "znamjenjow"}
+{"input": "Lower Sorbian: Inflect znamje | N;GEN(DU)","target": "znamjenjowu"}
+{"input": "Lower Sorbian: Inflect znamje | N;ESS(SG)","target": "znamjenju"}
+{"input": "Lower Sorbian: Inflect wósoba | N;ESS(PL)","target": "wósobach"}
+{"input": "Lower Sorbian: Inflect wósoba | N;DAT(PL)","target": "wósobam"}
+{"input": "Lower Sorbian: Inflect wósoba | N;NOM(SG)","target": "wósoba"}
+{"input": "Lower Sorbian: Inflect wósoba | N;ACC(DU)","target": "wósobje"}
+{"input": "Lower Sorbian: Inflect wósoba | N;ESS(SG)","target": "wósobje"}
+{"input": "Lower Sorbian: Inflect wósoba | N;INS(DU)","target": "wósoboma"}
+{"input": "Lower Sorbian: Inflect wósoba | N;GEN(DU)","target": "wósobowu"}
+{"input": "Lower Sorbian: Inflect wósoba | N;INS(SG)","target": "wósobu"}
+{"input": "Lower Sorbian: Inflect wósoba | N;ACC(PL)","target": "wósoby"}
+{"input": "Lower Sorbian: Inflect złoty | ADJ;ACC(PL,INAN)","target": "złote"}
+{"input": "Lower Sorbian: Inflect złoty | ADJ;NOM(PL)","target": "złote"}
+{"input": "Lower Sorbian: Inflect złoty | ADJ;ACC(SG,MASC,ANIM)","target": "złotego"}
+{"input": "Lower Sorbian: Inflect złoty | ADJ;GEN(SG,MASC)","target": "złotego"}
+{"input": "Lower Sorbian: Inflect złoty | ADJ;DAT(SG,FEM)","target": "złotej"}
+{"input": "Lower Sorbian: Inflect złoty | ADJ;NOM(DU)","target": "złotej"}
+{"input": "Lower Sorbian: Inflect złoty | ADJ;GEN(SG,FEM)","target": "złoteje"}
+{"input": "Lower Sorbian: Inflect złoty | ADJ;ACC(DU,ANIM)","target": "złoteju"}
+{"input": "Lower Sorbian: Inflect złoty | ADJ;INS(SG,FEM)","target": "złoteju"}
+{"input": "Lower Sorbian: Inflect złoty | ADJ;DAT(SG,MASC)","target": "złotemu"}
+{"input": "Lower Sorbian: Inflect złoty | ADJ;ACC(SG,MASC,INAN)","target": "złoty"}
+{"input": "Lower Sorbian: Inflect złoty | ADJ;ESS(DU)","target": "złotyma"}
+{"input": "Lower Sorbian: Inflect złoty | ADJ;INS(DU)","target": "złotyma"}
+{"input": "Lower Sorbian: Inflect złoty | ADJ;INS(SG,MASC)","target": "złotym"}
+{"input": "Lower Sorbian: Inflect złoty | ADJ;INS(SG,NEUT)","target": "złotym"}
+{"input": "Lower Sorbian: Inflect módry | ADJ;INS(DU)","target": "módryma"}
+{"input": "Lower Sorbian: Inflect kóza | N;ACC(DU)","target": "kózy"}
+{"input": "Lower Sorbian: Inflect garba | N;INS(PL)","target": "garbami"}
+{"input": "Lower Sorbian: Inflect garba | N;DAT(PL)","target": "garbam"}
+{"input": "Lower Sorbian: Inflect garba | N;NOM(SG)","target": "garba"}
+{"input": "Lower Sorbian: Inflect garba | N;ACC(DU)","target": "garbje"}
+{"input": "Lower Sorbian: Inflect garba | N;DAT(SG)","target": "garbje"}
+{"input": "Lower Sorbian: Inflect garba | N;ESS(SG)","target": "garbje"}
+{"input": "Lower Sorbian: Inflect garba | N;ESS(DU)","target": "garboma"}
+{"input": "Lower Sorbian: Inflect garba | N;INS(DU)","target": "garboma"}
+{"input": "Lower Sorbian: Inflect garba | N;GEN(SG)","target": "garby"}
+{"input": "Lower Sorbian: Inflect polo | N;DAT(DU)","target": "poloma"}
+{"input": "Lower Sorbian: Inflect módry | ADJ;DAT(SG,MASC)","target": "módremu"}
+{"input": "Lower Sorbian: Inflect źaržaś | V;PST;1;DU","target": "źaržachmej"}
+{"input": "Lower Sorbian: Inflect źaržaś | V;PST;1;SG","target": "źaržach"}
+{"input": "Lower Sorbian: Inflect źaržaś | V;PST;2;DU","target": "źaržaštej"}
+{"input": "Lower Sorbian: Inflect źaržaś | V;PST;3;DU","target": "źaržaštej"}
+{"input": "Lower Sorbian: Inflect źaržaś | V;IMP;2;SG","target": "źarž"}
+{"input": "Lower Sorbian: Inflect źaržaś | V;PRS;1;SG","target": "źaržym"}
+{"input": "Lower Sorbian: Inflect źaržaś | V;PRS;1;PL","target": "źaržymy"}
+{"input": "Lower Sorbian: Inflect źaržaś | V;PRS;2;PL","target": "źaržyśo"}
+{"input": "Lower Sorbian: Inflect źaržaś | V;PRS;2;DU","target": "źaržytej"}
+{"input": "Lower Sorbian: Inflect źaržaś | V;PRS;3;DU","target": "źaržytej"}
+{"input": "Lower Sorbian: Inflect wjas | N;ESS(PL)","target": "jsach"}
+{"input": "Lower Sorbian: Inflect wjas | N;DAT(DU)","target": "jsoma"}
+{"input": "Lower Sorbian: Inflect wjas | N;INS(DU)","target": "jsoma"}
+{"input": "Lower Sorbian: Inflect wjas | N;INS(SG)","target": "jsu"}
+{"input": "Lower Sorbian: Inflect wjas | N;DAT(SG)","target": "jsy"}
+{"input": "Lower Sorbian: Inflect wjas | N;ESS(SG)","target": "jsy"}
+{"input": "Lower Sorbian: Inflect wjas | N;NOM(PL)","target": "jsy"}
+{"input": "Lower Sorbian: Inflect woda | N;NOM(SG)","target": "woda"}
+{"input": "Lower Sorbian: Inflect mola | N;GEN(PL)","target": "molow"}
+{"input": "Lower Sorbian: Inflect wugoŕ | N;ESS(PL)","target": "wugorjach"}
+{"input": "Lower Sorbian: Inflect wugoŕ | N;ACC(SG)","target": "wugorja"}
+{"input": "Lower Sorbian: Inflect wugoŕ | N;ACC(PL)","target": "wugorje"}
+{"input": "Lower Sorbian: Inflect wugoŕ | N;NOM(PL)","target": "wugorje"}
+{"input": "Lower Sorbian: Inflect wugoŕ | N;DAT(DU)","target": "wugorjoma"}
+{"input": "Lower Sorbian: Inflect wugoŕ | N;ESS(DU)","target": "wugorjoma"}
+{"input": "Lower Sorbian: Inflect wugoŕ | N;ACC(DU)","target": "wugorjowu"}
+{"input": "Lower Sorbian: Inflect wugoŕ | N;GEN(DU)","target": "wugorjowu"}
+{"input": "Lower Sorbian: Inflect wugoŕ | N;NOM(SG)","target": "wugoŕ"}
+{"input": "Lower Sorbian: Inflect njebjo | N;NOM(DU)","target": "njebi"}
+{"input": "Lower Sorbian: Inflect njebjo | N;ESS(PL)","target": "njebjach"}
+{"input": "Lower Sorbian: Inflect njebjo | N;ACC(PL)","target": "njebja"}
+{"input": "Lower Sorbian: Inflect njebjo | N;GEN(SG)","target": "njebja"}
+{"input": "Lower Sorbian: Inflect njebjo | N;NOM(PL)","target": "njebja"}
+{"input": "Lower Sorbian: Inflect njebjo | N;DAT(SG)","target": "njebjoju"}
+{"input": "Lower Sorbian: Inflect njebjo | N;ESS(DU)","target": "njebjoma"}
+{"input": "Lower Sorbian: Inflect njebjo | N;INS(DU)","target": "njebjoma"}
+{"input": "Lower Sorbian: Inflect njebjo | N;ACC(SG)","target": "njebjo"}
+{"input": "Lower Sorbian: Inflect njebjo | N;GEN(DU)","target": "njebjowu"}
+{"input": "Lower Sorbian: Inflect njebjo | N;ESS(SG)","target": "njebju"}
+{"input": "Lower Sorbian: Inflect fotografowaś | V;PST;1;PL","target": "fotografowachmy"}
+{"input": "Lower Sorbian: Inflect fotografowaś | V;PST;3;PL","target": "fotografowachu"}
+{"input": "Lower Sorbian: Inflect fotografowaś | V;PST;1;SG","target": "fotografowach"}
+{"input": "Lower Sorbian: Inflect fotografowaś | V;PST;3;SG","target": "fotografowašo"}
+{"input": "Lower Sorbian: Inflect fotografowaś | V;PRS;1;DU","target": "fotografujomej"}
+{"input": "Lower Sorbian: Inflect fotografowaś | V;PRS;2;SG","target": "fotografujoš"}
+{"input": "Lower Sorbian: Inflect fotografowaś | V;PRS;3;DU","target": "fotografujotej"}
+{"input": "Lower Sorbian: Inflect fotografowaś | V;PRS;3;SG","target": "fotografujo"}
+{"input": "Lower Sorbian: Inflect fotografowaś | V;IMP;2;DU","target": "fotografujtej"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;ACC(PL,INAN)","target": "lažčejše"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;DAT(SG,FEM)","target": "lažčejšej"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;NOM(DU)","target": "lažčejšej"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;GEN(SG,FEM)","target": "lažčejšeje"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;ACC(DU,ANIM)","target": "lažčejšeju"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;INS(SG,FEM)","target": "lažčejšeju"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;ESS(SG,MASC)","target": "lažčejšem"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;ESS(SG,NEUT)","target": "lažčejšem"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;DAT(SG,NEUT)","target": "lažčejšemu"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;ACC(SG,MASC,INAN)","target": "lažčejšy"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;NOM(SG,MASC)","target": "lažčejšy"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;ACC(PL,ANIM)","target": "lažčejšych"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;DAT(DU)","target": "lažčejšyma"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;INS(SG,MASC)","target": "lažčejšym"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;INS(SG,NEUT)","target": "lažčejšym"}
+{"input": "Lower Sorbian: Inflect lažčejšy | ADJ;INS(PL)","target": "lažčejšymi"}
+{"input": "Lower Sorbian: Inflect běły | ADJ;ACC(PL,INAN)","target": "běłe"}
+{"input": "Lower Sorbian: Inflect běły | ADJ;NOM(SG,NEUT)","target": "běłe"}
+{"input": "Lower Sorbian: Inflect běły | ADJ;NOM(PL)","target": "běłe"}
+{"input": "Lower Sorbian: Inflect běły | ADJ;ESS(SG,FEM)","target": "běłej"}
+{"input": "Lower Sorbian: Inflect běły | ADJ;NOM(DU)","target": "běłej"}
+{"input": "Lower Sorbian: Inflect běły | ADJ;GEN(SG,FEM)","target": "běłeje"}
+{"input": "Lower Sorbian: Inflect běły | ADJ;ACC(DU,ANIM)","target": "běłeju"}
+{"input": "Lower Sorbian: Inflect běły | ADJ;DAT(SG,NEUT)","target": "běłemu"}
+{"input": "Lower Sorbian: Inflect běły | ADJ;ACC(SG,MASC,INAN)","target": "běły"}
+{"input": "Lower Sorbian: Inflect běły | ADJ;ACC(PL,ANIM)","target": "běłych"}
+{"input": "Lower Sorbian: Inflect běły | ADJ;ESS(PL)","target": "běłych"}
+{"input": "Lower Sorbian: Inflect běły | ADJ;DAT(DU)","target": "běłyma"}
+{"input": "Lower Sorbian: Inflect běły | ADJ;INS(DU)","target": "běłyma"}
+{"input": "Lower Sorbian: Inflect běły | ADJ;INS(SG,MASC)","target": "běłym"}
+{"input": "Lower Sorbian: Inflect běły | ADJ;INS(SG,NEUT)","target": "běłym"}
+{"input": "Lower Sorbian: Inflect pśigótowaś | V;PST;1;PL","target": "pśigótowachmy"}
+{"input": "Lower Sorbian: Inflect pśigótowaś | V;PST;1;SG","target": "pśigótowach"}
+{"input": "Lower Sorbian: Inflect pśigótowaś | V;PST;2;PL","target": "pśigótowašćo"}
+{"input": "Lower Sorbian: Inflect pśigótowaś | V;PST;2;SG","target": "pśigótowa"}
+{"input": "Lower Sorbian: Inflect pśigótowaś | V;PRS;1;PL","target": "pśigótujomy"}
+{"input": "Lower Sorbian: Inflect pśigótowaś | V;PRS;2;DU","target": "pśigótujotej"}
+{"input": "Lower Sorbian: Inflect pśigótowaś | V;PRS;3;DU","target": "pśigótujotej"}
+{"input": "Lower Sorbian: Inflect pśigótowaś | V;IMP;2;PL","target": "pśigótujśo"}
+{"input": "Lower Sorbian: Inflect pśigótowaś | V;IMP;2;DU","target": "pśigótujtej"}
+{"input": "Lower Sorbian: Inflect pśigótowaś | V;PRS;3;PL","target": "pśigótuju"}
+{"input": "Lower Sorbian: Inflect radijo | N;NOM(PL)","target": "radija"}
+{"input": "Lower Sorbian: Inflect radijo | N;ACC(DU)","target": "radiji"}
+{"input": "Lower Sorbian: Inflect radijo | N;DAT(SG)","target": "radijoju"}
+{"input": "Lower Sorbian: Inflect radijo | N;DAT(DU)","target": "radijoma"}
+{"input": "Lower Sorbian: Inflect radijo | N;NOM(SG)","target": "radijo"}
+{"input": "Lower Sorbian: Inflect radijo | N;GEN(PL)","target": "radijow"}
+{"input": "Lower Sorbian: Inflect wucabnica | N;ESS(PL)","target": "wucabnicach"}
+{"input": "Lower Sorbian: Inflect wucabnica | N;GEN(SG)","target": "wucabnice"}
+{"input": "Lower Sorbian: Inflect wucabnica | N;NOM(PL)","target": "wucabnice"}
+{"input": "Lower Sorbian: Inflect wucabnica | N;GEN(PL)","target": "wucabnicow"}
+{"input": "Lower Sorbian: Inflect wucabnica | N;GEN(DU)","target": "wucabnicowu"}
+{"input": "Lower Sorbian: Inflect wucabnica | N;INS(SG)","target": "wucabnicu"}
+{"input": "Lower Sorbian: Inflect wucabnica | N;ESS(SG)","target": "wucabnicy"}
+{"input": "Lower Sorbian: Inflect wucabnica | N;NOM(DU)","target": "wucabnicy"}
+{"input": "Lower Sorbian: Inflect mačka | N;ACC(DU)","target": "mačce"}
+{"input": "Lower Sorbian: Inflect mačka | N;ESS(SG)","target": "mačce"}
+{"input": "Lower Sorbian: Inflect mačka | N;NOM(DU)","target": "mačce"}
+{"input": "Lower Sorbian: Inflect mačka | N;ESS(PL)","target": "mačkach"}
+{"input": "Lower Sorbian: Inflect mačka | N;INS(PL)","target": "mačkami"}
+{"input": "Lower Sorbian: Inflect mačka | N;ACC(PL)","target": "mački"}
+{"input": "Lower Sorbian: Inflect mačka | N;GEN(SG)","target": "mački"}
+{"input": "Lower Sorbian: Inflect mačka | N;ESS(DU)","target": "mačkoma"}
+{"input": "Lower Sorbian: Inflect mačka | N;GEN(PL)","target": "mačkow"}
+{"input": "Lower Sorbian: Inflect mačka | N;GEN(DU)","target": "mačkowu"}
+{"input": "Lower Sorbian: Inflect mačka | N;ACC(SG)","target": "mačku"}
+{"input": "Lower Sorbian: Inflect kocka | N;DAT(SG)","target": "kocce"}
+{"input": "Lower Sorbian: Inflect modry | ADJ;DAT(PL)","target": "modrym"}
+{"input": "Lower Sorbian: Inflect žyś | V;PST;1;DU","target": "žyjachmej"}
+{"input": "Lower Sorbian: Inflect žyś | V;PST;1;SG","target": "žyjach"}
+{"input": "Lower Sorbian: Inflect žyś | V;PST;3;SG","target": "žyjašo"}
+{"input": "Lower Sorbian: Inflect žyś | V;PST;3;DU","target": "žyjaštej"}
+{"input": "Lower Sorbian: Inflect žyś | V;PRS;1;DU","target": "žyjomej"}
+{"input": "Lower Sorbian: Inflect žyś | V;PRS;1;PL","target": "žyjomy"}
+{"input": "Lower Sorbian: Inflect žyś | V;PRS;2;PL","target": "žyjośo"}
+{"input": "Lower Sorbian: Inflect žyś | V;PRS;3;SG","target": "žyjo"}
+{"input": "Lower Sorbian: Inflect žyś | V;PRS;3;PL","target": "žyju"}
+{"input": "Lower Sorbian: Inflect nocka | N;ESS(PL)","target": "nockach"}
+{"input": "Lower Sorbian: Inflect nocka | N;ACC(PL)","target": "nocki"}
+{"input": "Lower Sorbian: Inflect nocka | N;NOM(PL)","target": "nocki"}
+{"input": "Lower Sorbian: Inflect nocka | N;DAT(DU)","target": "nockoma"}
+{"input": "Lower Sorbian: Inflect nocka | N;GEN(DU)","target": "nockowu"}
+{"input": "Lower Sorbian: Inflect chory | ADJ;ESS(DU)","target": "choryma"}
+{"input": "Lower Sorbian: Inflect nož | N;ESS(PL)","target": "nožach"}
+{"input": "Lower Sorbian: Inflect nož | N;DAT(PL)","target": "nožam"}
+{"input": "Lower Sorbian: Inflect nož | N;GEN(SG)","target": "noža"}
+{"input": "Lower Sorbian: Inflect nož | N;ACC(PL)","target": "nože"}
+{"input": "Lower Sorbian: Inflect nož | N;NOM(SG)","target": "nož"}
+{"input": "Lower Sorbian: Inflect nož | N;DAT(SG)","target": "nožoju"}
+{"input": "Lower Sorbian: Inflect nož | N;INS(SG)","target": "nožom"}
+{"input": "Lower Sorbian: Inflect nož | N;GEN(DU)","target": "nožowu"}
+{"input": "Lower Sorbian: Inflect nož | N;ESS(SG)","target": "nožu"}
+{"input": "Lower Sorbian: Inflect drozn | N;ACC(SG)","target": "drozna"}
+{"input": "Lower Sorbian: Inflect drozn | N;GEN(SG)","target": "drozna"}
+{"input": "Lower Sorbian: Inflect drozn | N;ESS(SG)","target": "droznje"}
+{"input": "Lower Sorbian: Inflect drozn | N;DAT(SG)","target": "droznoju"}
+{"input": "Lower Sorbian: Inflect drozn | N;INS(DU)","target": "droznoma"}
+{"input": "Lower Sorbian: Inflect drozn | N;INS(SG)","target": "droznom"}
+{"input": "Lower Sorbian: Inflect drozn | N;GEN(DU)","target": "droznowu"}
+{"input": "Lower Sorbian: Inflect drozn | N;NOM(PL)","target": "drozny"}
+{"input": "Lower Sorbian: Inflect modry | ADJ;GEN(PL)","target": "modrych"}
+{"input": "Lower Sorbian: Inflect kóza | N;GEN(PL)","target": "kózow"}
+{"input": "Lower Sorbian: Inflect babka | N;DAT(SG)","target": "babce"}
+{"input": "Lower Sorbian: Inflect babka | N;ESS(SG)","target": "babce"}
+{"input": "Lower Sorbian: Inflect babka | N;DAT(PL)","target": "babkam"}
+{"input": "Lower Sorbian: Inflect babka | N;ACC(PL)","target": "babki"}
+{"input": "Lower Sorbian: Inflect babka | N;DAT(DU)","target": "babkoma"}
+{"input": "Lower Sorbian: Inflect babka | N;GEN(PL)","target": "babkow"}
+{"input": "Lower Sorbian: Inflect babka | N;GEN(DU)","target": "babkowu"}
+{"input": "Lower Sorbian: Inflect babka | N;INS(SG)","target": "babku"}
+{"input": "Lower Sorbian: Inflect wiki | N;GEN(PL)","target": "wikow"}
+{"input": "Slavic: Inflect student | N;ESS(PL)","target": "studentach"}
+{"input": "Slavic: Inflect student | N;INS(PL)","target": "studentami"}
+{"input": "Slavic: Inflect student | N;ACC(SG)","target": "studenta"}
+{"input": "Slavic: Inflect student | N;ESS(DU)","target": "studentoma"}
+{"input": "Slavic: Inflect student | N;INS(DU)","target": "studentoma"}
+{"input": "Slavic: Inflect student | N;INS(SG)","target": "studentom"}
+{"input": "Slavic: Inflect student | N;GEN(PL)","target": "studentow"}
+{"input": "Slavic: Inflect student | N;ACC(DU)","target": "studentowu"}
+{"input": "Slavic: Inflect student | N;GEN(DU)","target": "studentowu"}
+{"input": "Slavic: Inflect zeger | N;ACC(DU)","target": "zegera"}
+{"input": "Slavic: Inflect zeger | N;NOM(DU)","target": "zegera"}
+{"input": "Slavic: Inflect zeger | N;ESS(SG)","target": "zegerje"}
+{"input": "Slavic: Inflect zeger | N;DAT(SG)","target": "zegeroju"}
+{"input": "Slavic: Inflect zeger | N;DAT(DU)","target": "zegeroma"}
+{"input": "Slavic: Inflect zeger | N;ESS(DU)","target": "zegeroma"}
+{"input": "Slavic: Inflect zeger | N;GEN(DU)","target": "zegerowu"}
+{"input": "Slavic: Inflect módry | ADJ;NOM(DU)","target": "módrej"}
+{"input": "Slavic: Inflect korespondentka | N;ACC(DU)","target": "korespondentce"}
+{"input": "Slavic: Inflect korespondentka | N;NOM(DU)","target": "korespondentce"}
+{"input": "Slavic: Inflect korespondentka | N;INS(PL)","target": "korespondentkami"}
+{"input": "Slavic: Inflect korespondentka | N;DAT(PL)","target": "korespondentkam"}
+{"input": "Slavic: Inflect korespondentka | N;GEN(SG)","target": "korespondentki"}
+{"input": "Slavic: Inflect korespondentka | N;NOM(PL)","target": "korespondentki"}
+{"input": "Slavic: Inflect korespondentka | N;GEN(PL)","target": "korespondentkow"}
+{"input": "Slavic: Inflect korespondentka | N;GEN(DU)","target": "korespondentkowu"}
+{"input": "Slavic: Inflect korespondentka | N;INS(SG)","target": "korespondentku"}
+{"input": "Slavic: Inflect modry | ADJ;GEN(SG,MASC)","target": "modrego"}
+{"input": "Slavic: Inflect móla | N;INS(PL)","target": "mólami"}
+{"input": "Slavic: Inflect pólo | N;DAT(DU)","target": "póloma"}
+{"input": "Slavic: Inflect bósučki | ADJ;NOM(SG,FEM)","target": "bósučka"}
+{"input": "Slavic: Inflect bósučki | ADJ;ACC(SG,NEUT)","target": "bósučke"}
+{"input": "Slavic: Inflect bósučki | ADJ;NOM(PL)","target": "bósučke"}
+{"input": "Slavic: Inflect bósučki | ADJ;ACC(SG,MASC,ANIM)","target": "bósučkego"}
+{"input": "Slavic: Inflect bósučki | ADJ;GEN(SG,MASC)","target": "bósučkego"}
+{"input": "Slavic: Inflect bósučki | ADJ;DAT(SG,FEM)","target": "bósučkej"}
+{"input": "Slavic: Inflect bósučki | ADJ;ACC(DU,ANIM)","target": "bósučkeju"}
+{"input": "Slavic: Inflect bósučki | ADJ;GEN(DU)","target": "bósučkeju"}
+{"input": "Slavic: Inflect bósučki | ADJ;ACC(SG,MASC,INAN)","target": "bósučki"}
+{"input": "Slavic: Inflect bósučki | ADJ;ESS(PL)","target": "bósučkich"}
+{"input": "Slavic: Inflect bósučki | ADJ;DAT(DU)","target": "bósučkima"}
+{"input": "Slavic: Inflect bósučki | ADJ;INS(DU)","target": "bósučkima"}
+{"input": "Slavic: Inflect bósučki | ADJ;INS(SG,NEUT)","target": "bósučkim"}
+{"input": "Slavic: Inflect bósučki | ADJ;INS(PL)","target": "bósučkimi"}
+{"input": "Slavic: Inflect bósučki | ADJ;ACC(SG,FEM)","target": "bósučku"}
+{"input": "Slavic: Inflect modry | ADJ;GEN(SG,NEUT)","target": "modrego"}
+{"input": "Slavic: Inflect zły | ADJ;NOM(SG,FEM)","target": "zła"}
+{"input": "Slavic: Inflect zły | ADJ;ACC(SG,NEUT)","target": "złe"}
+{"input": "Slavic: Inflect zły | ADJ;NOM(PL)","target": "złe"}
+{"input": "Slavic: Inflect zły | ADJ;GEN(SG,MASC)","target": "złego"}
+{"input": "Slavic: Inflect zły | ADJ;GEN(SG,NEUT)","target": "złego"}
+{"input": "Slavic: Inflect zły | ADJ;INS(SG,FEM)","target": "złeju"}
+{"input": "Slavic: Inflect zły | ADJ;ESS(SG,MASC)","target": "złem"}
+{"input": "Slavic: Inflect zły | ADJ;DAT(SG,MASC)","target": "złemu"}
+{"input": "Slavic: Inflect zły | ADJ;ACC(SG,FEM)","target": "złu"}
+{"input": "Slavic: Inflect zły | ADJ;ACC(SG,MASC,INAN)","target": "zły"}
+{"input": "Slavic: Inflect zły | ADJ;NOM(SG,MASC)","target": "zły"}
+{"input": "Slavic: Inflect zły | ADJ;GEN(PL)","target": "złych"}
+{"input": "Slavic: Inflect zły | ADJ;DAT(DU)","target": "złyma"}
+{"input": "Slavic: Inflect zły | ADJ;INS(PL)","target": "złymi"}
+{"input": "Slavic: Inflect rěka | N;DAT(SG)","target": "rěce"}
+{"input": "Slavic: Inflect rěka | N;ESS(SG)","target": "rěce"}
+{"input": "Slavic: Inflect rěka | N;ESS(PL)","target": "rěkach"}
+{"input": "Slavic: Inflect rěka | N;DAT(PL)","target": "rěkam"}
+{"input": "Slavic: Inflect rěka | N;GEN(SG)","target": "rěki"}
+{"input": "Slavic: Inflect rěka | N;INS(DU)","target": "rěkoma"}
+{"input": "Slavic: Inflect rěka | N;GEN(PL)","target": "rěkow"}
+{"input": "Slavic: Inflect rěka | N;GEN(DU)","target": "rěkowu"}
+{"input": "Slavic: Inflect rěka | N;ACC(SG)","target": "rěku"}
+{"input": "Slavic: Inflect rěka | N;INS(SG)","target": "rěku"}
+{"input": "Slavic: Inflect chyliś | V;PST;1;DU","target": "chylachmej"}
+{"input": "Slavic: Inflect chyliś | V;PST;2;DU","target": "chylaštej"}
+{"input": "Slavic: Inflect chyliś | V;PST;3;DU","target": "chylaštej"}
+{"input": "Slavic: Inflect chyliś | V;PRS;1;DU","target": "chylimej"}
+{"input": "Slavic: Inflect chyliś | V;PRS;1;SG","target": "chylim"}
+{"input": "Slavic: Inflect chyliś | V;PRS;2;PL","target": "chyliśo"}
+{"input": "Slavic: Inflect chyliś | V;IMP;2;PL","target": "chylśo"}
+{"input": "Slavic: Inflect chyliś | V;IMP;2;DU","target": "chyltej"}
+{"input": "Slavic: Inflect reagěrowaś | V;PST;1;PL","target": "reagěrowachmy"}
+{"input": "Slavic: Inflect reagěrowaś | V;PST;2;PL","target": "reagěrowašćo"}
+{"input": "Slavic: Inflect reagěrowaś | V;PST;2;SG","target": "reagěrowašo"}
+{"input": "Slavic: Inflect reagěrowaś | V;PST;3;SG","target": "reagěrowašo"}
+{"input": "Slavic: Inflect reagěrowaś | V;PRS;3;DU","target": "reagěrujotej"}
+{"input": "Slavic: Inflect reagěrowaś | V;PRS;3;SG","target": "reagěrujo"}
+{"input": "Slavic: Inflect reagěrowaś | V;IMP;2;PL","target": "reagěrujśo"}
+{"input": "Slavic: Inflect reagěrowaś | V;IMP;2;DU","target": "reagěrujtej"}
+{"input": "Slavic: Inflect wos | N;INS(DU)","target": "wosoma"}
+{"input": "Slavic: Inflect paśpula | N;ESS(PL)","target": "paśpulach"}
+{"input": "Slavic: Inflect paśpula | N;INS(PL)","target": "paśpulami"}
+{"input": "Slavic: Inflect paśpula | N;ACC(PL)","target": "paśpule"}
+{"input": "Slavic: Inflect paśpula | N;NOM(PL)","target": "paśpule"}
+{"input": "Slavic: Inflect paśpula | N;ACC(DU)","target": "paśpuli"}
+{"input": "Slavic: Inflect paśpula | N;ESS(SG)","target": "paśpuli"}
+{"input": "Slavic: Inflect paśpula | N;ESS(DU)","target": "paśpuloma"}
+{"input": "Slavic: Inflect paśpula | N;INS(DU)","target": "paśpuloma"}
+{"input": "Slavic: Inflect paśpula | N;GEN(DU)","target": "paśpulowu"}
+{"input": "Slavic: Inflect paśpula | N;ACC(SG)","target": "paśpulu"}
+{"input": "Slavic: Inflect paśpula | N;INS(SG)","target": "paśpulu"}
+{"input": "Slavic: Inflect mól | N;INS(PL)","target": "mólami"}
+{"input": "Slavic: Inflect pěta | N;ACC(DU)","target": "pěśe"}
+{"input": "Slavic: Inflect pěta | N;ESS(PL)","target": "pětach"}
+{"input": "Slavic: Inflect pěta | N;DAT(PL)","target": "pětam"}
+{"input": "Slavic: Inflect pěta | N;NOM(SG)","target": "pěta"}
+{"input": "Slavic: Inflect pěta | N;DAT(DU)","target": "pětoma"}
+{"input": "Slavic: Inflect pěta | N;ESS(DU)","target": "pětoma"}
+{"input": "Slavic: Inflect pěta | N;INS(DU)","target": "pětoma"}
+{"input": "Slavic: Inflect pěta | N;ACC(SG)","target": "pětu"}
+{"input": "Slavic: Inflect pěta | N;INS(SG)","target": "pětu"}
+{"input": "Slavic: Inflect gotowy | ADJ;NOM(SG,MASC)","target": "gotowy"}
+{"input": "Slavic: Inflect serbiski | ADJ;ACC(SG,NEUT)","target": "serbiske"}
+{"input": "Slavic: Inflect serbiski | ADJ;ACC(PL,INAN)","target": "serbiske"}
+{"input": "Slavic: Inflect serbiski | ADJ;ACC(SG,MASC,ANIM)","target": "serbiskego"}
+{"input": "Slavic: Inflect serbiski | ADJ;GEN(SG,NEUT)","target": "serbiskego"}
+{"input": "Slavic: Inflect serbiski | ADJ;DAT(SG,FEM)","target": "serbiskej"}
+{"input": "Slavic: Inflect serbiski | ADJ;NOM(DU)","target": "serbiskej"}
+{"input": "Slavic: Inflect serbiski | ADJ;GEN(SG,FEM)","target": "serbiskeje"}
+{"input": "Slavic: Inflect serbiski | ADJ;GEN(DU)","target": "serbiskeju"}
+{"input": "Slavic: Inflect serbiski | ADJ;ESS(SG,MASC)","target": "serbiskem"}
+{"input": "Slavic: Inflect serbiski | ADJ;ESS(SG,NEUT)","target": "serbiskem"}
+{"input": "Slavic: Inflect serbiski | ADJ;ACC(SG,MASC,INAN)","target": "serbiski"}
+{"input": "Slavic: Inflect serbiski | ADJ;DAT(DU)","target": "serbiskima"}
+{"input": "Slavic: Inflect serbiski | ADJ;DAT(PL)","target": "serbiskim"}
+{"input": "Slavic: Inflect serbiski | ADJ;INS(SG,NEUT)","target": "serbiskim"}
+{"input": "Slavic: Inflect ryba | N;INS(PL)","target": "rybami"}
+{"input": "Slavic: Inflect ryba | N;DAT(PL)","target": "rybam"}
+{"input": "Slavic: Inflect ryba | N;NOM(SG)","target": "ryba"}
+{"input": "Slavic: Inflect ryba | N;DAT(SG)","target": "rybje"}
+{"input": "Slavic: Inflect ryba | N;ESS(SG)","target": "rybje"}
+{"input": "Slavic: Inflect ryba | N;NOM(DU)","target": "rybje"}
+{"input": "Slavic: Inflect ryba | N;DAT(DU)","target": "ryboma"}
+{"input": "Slavic: Inflect ryba | N;ESS(DU)","target": "ryboma"}
+{"input": "Slavic: Inflect ryba | N;ACC(SG)","target": "rybu"}
+{"input": "Slavic: Inflect ryba | N;ACC(PL)","target": "ryby"}
+{"input": "Slavic: Inflect ryba | N;GEN(SG)","target": "ryby"}
+{"input": "Slavic: Inflect banana | N;ESS(PL)","target": "bananach"}
+{"input": "Slavic: Inflect banana | N;INS(PL)","target": "bananami"}
+{"input": "Slavic: Inflect banana | N;NOM(SG)","target": "banana"}
+{"input": "Slavic: Inflect banana | N;NOM(DU)","target": "bananje"}
+{"input": "Slavic: Inflect banana | N;GEN(DU)","target": "bananowu"}
+{"input": "Slavic: Inflect banana | N;ACC(SG)","target": "bananu"}
+{"input": "Slavic: Inflect banana | N;INS(SG)","target": "bananu"}
+{"input": "Slavic: Inflect banana | N;ACC(PL)","target": "banany"}
+{"input": "Slavic: Inflect banana | N;NOM(PL)","target": "banany"}
+{"input": "Slavic: Inflect koń | N;ACC(PL)","target": "konje"}
+{"input": "Slavic: Inflect wjasć | V;PRS;3;PL","target": "wjedu"}
+{"input": "Slavic: Inflect wjasć | V;IMP;2;PL","target": "wjeźćo"}
+{"input": "Slavic: Inflect wjasć | V;PST;1;DU","target": "wjeźechmej"}
+{"input": "Slavic: Inflect wjasć | V;PST;1;SG","target": "wjeźech"}
+{"input": "Slavic: Inflect wjasć | V;PST;2;PL","target": "wjeźešćo"}
+{"input": "Slavic: Inflect wjasć | V;PST;3;SG","target": "wjeźešo"}
+{"input": "Slavic: Inflect wjasć | V;PST;2;DU","target": "wjeźeštej"}
+{"input": "Slavic: Inflect wjasć | V;PST;3;DU","target": "wjeźeštej"}
+{"input": "Slavic: Inflect wjasć | V;PRS;1;DU","target": "wjeźomej"}
+{"input": "Slavic: Inflect wjasć | V;PRS;1;PL","target": "wjeźomy"}
+{"input": "Slavic: Inflect wjasć | V;PRS;2;SG","target": "wjeźoš"}
+{"input": "Slavic: Inflect wjasć | V;PRS;2;DU","target": "wjeźotej"}
+{"input": "Slavic: Inflect wjasć | V;PRS;3;DU","target": "wjeźotej"}
+{"input": "Slavic: Inflect wjasć | V;IMP;2;SG","target": "wjeź"}
+{"input": "Slavic: Inflect bok | N;ESS(PL)","target": "bokach"}
+{"input": "Slavic: Inflect bok | N;INS(PL)","target": "bokami"}
+{"input": "Slavic: Inflect bok | N;GEN(SG)","target": "boka"}
+{"input": "Slavic: Inflect bok | N;ACC(PL)","target": "boki"}
+{"input": "Slavic: Inflect bok | N;ACC(SG)","target": "bok"}
+{"input": "Slavic: Inflect bok | N;ESS(DU)","target": "bokoma"}
+{"input": "Slavic: Inflect bok | N;INS(DU)","target": "bokoma"}
+{"input": "Slavic: Inflect bok | N;INS(SG)","target": "bokom"}
+{"input": "Slavic: Inflect bok | N;ESS(SG)","target": "boku"}
+{"input": "Slavic: Inflect pólack | N;ACC(PL)","target": "pólacki"}
+{"input": "Slavic: Inflect měsćański | ADJ;ACC(PL,INAN)","target": "měsćańske"}
+{"input": "Slavic: Inflect měsćański | ADJ;NOM(SG,NEUT)","target": "měsćańske"}
+{"input": "Slavic: Inflect měsćański | ADJ;NOM(PL)","target": "měsćańske"}
+{"input": "Slavic: Inflect měsćański | ADJ;ACC(SG,MASC,ANIM)","target": "měsćańskego"}
+{"input": "Slavic: Inflect měsćański | ADJ;ACC(DU,INAN)","target": "měsćańskej"}
+{"input": "Slavic: Inflect měsćański | ADJ;DAT(SG,FEM)","target": "měsćańskej"}
+{"input": "Slavic: Inflect měsćański | ADJ;ACC(DU,ANIM)","target": "měsćańskeju"}
+{"input": "Slavic: Inflect měsćański | ADJ;ESS(SG,MASC)","target": "měsćańskem"}
+{"input": "Slavic: Inflect měsćański | ADJ;ESS(SG,NEUT)","target": "měsćańskem"}
+{"input": "Slavic: Inflect měsćański | ADJ;DAT(SG,NEUT)","target": "měsćańskemu"}
+{"input": "Slavic: Inflect měsćański | ADJ;ACC(SG,MASC,INAN)","target": "měsćański"}
+{"input": "Slavic: Inflect měsćański | ADJ;NOM(SG,MASC)","target": "měsćański"}
+{"input": "Slavic: Inflect měsćański | ADJ;ESS(PL)","target": "měsćańskich"}
+{"input": "Slavic: Inflect měsćański | ADJ;DAT(DU)","target": "měsćańskima"}
+{"input": "Slavic: Inflect měsćański | ADJ;DAT(PL)","target": "měsćańskim"}
+{"input": "Slavic: Inflect měsćański | ADJ;INS(SG,NEUT)","target": "měsćańskim"}
+{"input": "Slavic: Inflect měsćański | ADJ;INS(PL)","target": "měsćańskimi"}
+{"input": "Slavic: Inflect měsćański | ADJ;ACC(SG,FEM)","target": "měsćańsku"}
+{"input": "Slavic: Inflect spański | ADJ;NOM(SG,FEM)","target": "spańska"}
+{"input": "Slavic: Inflect spański | ADJ;NOM(SG,NEUT)","target": "spańske"}
+{"input": "Slavic: Inflect spański | ADJ;ACC(SG,MASC,ANIM)","target": "spańskego"}
+{"input": "Slavic: Inflect spański | ADJ;GEN(SG,NEUT)","target": "spańskego"}
+{"input": "Slavic: Inflect spański | ADJ;DAT(SG,FEM)","target": "spańskej"}
+{"input": "Slavic: Inflect spański | ADJ;ESS(SG,FEM)","target": "spańskej"}
+{"input": "Slavic: Inflect spański | ADJ;GEN(DU)","target": "spańskeju"}
+{"input": "Slavic: Inflect spański | ADJ;INS(SG,FEM)","target": "spańskeju"}
+{"input": "Slavic: Inflect spański | ADJ;ESS(SG,MASC)","target": "spańskem"}
+{"input": "Slavic: Inflect spański | ADJ;DAT(SG,MASC)","target": "spańskemu"}
+{"input": "Slavic: Inflect spański | ADJ;NOM(SG,MASC)","target": "spański"}
+{"input": "Slavic: Inflect spański | ADJ;ACC(PL,ANIM)","target": "spańskich"}
+{"input": "Slavic: Inflect spański | ADJ;ESS(DU)","target": "spańskima"}
+{"input": "Slavic: Inflect spański | ADJ;ACC(SG,FEM)","target": "spańsku"}
+{"input": "Slavic: Inflect pólo | N;ACC(PL)","target": "póla"}
+{"input": "Slavic: Inflect měso | N;ESS(PL)","target": "měsach"}
+{"input": "Slavic: Inflect měso | N;INS(SG)","target": "měsom"}
+{"input": "Slavic: Inflect měso | N;ACC(SG)","target": "měso"}
+{"input": "Slavic: Inflect měso | N;NOM(SG)","target": "měso"}
+{"input": "Slavic: Inflect měso | N;GEN(PL)","target": "měsow"}
+{"input": "Slavic: Inflect měso | N;NOM(DU)","target": "měsy"}
+{"input": "Slavic: Inflect brod | N;ESS(PL)","target": "brodach"}
+{"input": "Slavic: Inflect brod | N;ACC(DU)","target": "broda"}
+{"input": "Slavic: Inflect brod | N;NOM(SG)","target": "brod"}
+{"input": "Slavic: Inflect brod | N;ACC(PL)","target": "brody"}
+{"input": "Slavic: Inflect brod | N;NOM(PL)","target": "brody"}
+{"input": "Slavic: Inflect alofon | N;ESS(PL)","target": "alofonach"}
+{"input": "Slavic: Inflect alofon | N;DAT(PL)","target": "alofonam"}
+{"input": "Slavic: Inflect alofon | N;GEN(SG)","target": "alofona"}
+{"input": "Slavic: Inflect alofon | N;ESS(SG)","target": "alofonje"}
+{"input": "Slavic: Inflect alofon | N;DAT(SG)","target": "alofonoju"}
+{"input": "Slavic: Inflect alofon | N;ESS(DU)","target": "alofonoma"}
+{"input": "Slavic: Inflect alofon | N;INS(DU)","target": "alofonoma"}
+{"input": "Slavic: Inflect alofon | N;GEN(PL)","target": "alofonow"}
+{"input": "Slavic: Inflect alofon | N;GEN(DU)","target": "alofonowu"}
+{"input": "Slavic: Inflect alofon | N;ACC(PL)","target": "alofony"}
+{"input": "Slavic: Inflect alofon | N;NOM(PL)","target": "alofony"}
+{"input": "Slavic: Inflect strowiś | V;PRS;1;DU","target": "strowimej"}
+{"input": "Slavic: Inflect strowiś | V;PRS;1;SG","target": "strowim"}
+{"input": "Slavic: Inflect strowiś | V;PRS;1;PL","target": "strowimy"}
+{"input": "Slavic: Inflect strowiś | V;PRS;3;DU","target": "strowitej"}
+{"input": "Slavic: Inflect strowiś | V;PST;2;PL","target": "strowjašćo"}
+{"input": "Slavic: Inflect strowiś | V;PST;2;SG","target": "strowjašo"}
+{"input": "Slavic: Inflect strowiś | V;PST;3;SG","target": "strowjašo"}
+{"input": "Slavic: Inflect strowiś | V;PRS;3;PL","target": "strowje"}
+{"input": "Slavic: Inflect strowiś | V;IMP;2;PL","target": "strowśo"}
+{"input": "Slavic: Inflect strowiś | V;IMP;2;DU","target": "strowtej"}
+{"input": "Slavic: Inflect strowiś | V;IMP;2;SG","target": "strow"}
+{"input": "Slavic: Inflect kót | N;INS(PL)","target": "kótami"}
+{"input": "Slavic: Inflect tśmjeń | N;DAT(PL)","target": "tśmjenjam"}
+{"input": "Slavic: Inflect tśmjeń | N;ACC(DU)","target": "tśmjenja"}
+{"input": "Slavic: Inflect tśmjeń | N;GEN(SG)","target": "tśmjenja"}
+{"input": "Slavic: Inflect tśmjeń | N;NOM(PL)","target": "tśmjenje"}
+{"input": "Slavic: Inflect tśmjeń | N;DAT(DU)","target": "tśmjenjoma"}
+{"input": "Slavic: Inflect tśmjeń | N;INS(DU)","target": "tśmjenjoma"}
+{"input": "Slavic: Inflect tśmjeń | N;INS(SG)","target": "tśmjenjom"}
+{"input": "Slavic: Inflect tśmjeń | N;GEN(PL)","target": "tśmjenjow"}
+{"input": "Slavic: Inflect tśmjeń | N;ESS(SG)","target": "tśmjenju"}
+{"input": "Slavic: Inflect tśmjeń | N;NOM(SG)","target": "tśmjeń"}
+{"input": "Slavic: Inflect domk | N;ACC(DU)","target": "domka"}
+{"input": "Slavic: Inflect domk | N;GEN(SG)","target": "domka"}
+{"input": "Slavic: Inflect domk | N;ACC(PL)","target": "domki"}
+{"input": "Slavic: Inflect domk | N;ACC(SG)","target": "domk"}
+{"input": "Slavic: Inflect domk | N;NOM(SG)","target": "domk"}
+{"input": "Slavic: Inflect domk | N;DAT(DU)","target": "domkoma"}
+{"input": "Slavic: Inflect domk | N;ESS(DU)","target": "domkoma"}
+{"input": "Slavic: Inflect domk | N;ESS(SG)","target": "domku"}
+{"input": "Slavic: Inflect kwas | N;DAT(PL)","target": "kwasam"}
+{"input": "Slavic: Inflect kwas | N;ACC(DU)","target": "kwasa"}
+{"input": "Slavic: Inflect kwas | N;NOM(PL)","target": "kwase"}
+{"input": "Slavic: Inflect kwas | N;ACC(SG)","target": "kwas"}
+{"input": "Slavic: Inflect kwas | N;DAT(SG)","target": "kwasoju"}
+{"input": "Slavic: Inflect kwas | N;ESS(DU)","target": "kwasoma"}
+{"input": "Slavic: Inflect kwas | N;INS(DU)","target": "kwasoma"}
+{"input": "Slavic: Inflect kwas | N;GEN(DU)","target": "kwasowu"}
+{"input": "Slavic: Inflect zeleny | ADJ;NOM(SG,FEM)","target": "zelena"}
+{"input": "Slavic: Inflect zeleny | ADJ;ACC(SG,NEUT)","target": "zelene"}
+{"input": "Slavic: Inflect zeleny | ADJ;NOM(SG,NEUT)","target": "zelene"}
+{"input": "Slavic: Inflect zeleny | ADJ;NOM(PL)","target": "zelene"}
+{"input": "Slavic: Inflect zeleny | ADJ;GEN(SG,MASC)","target": "zelenego"}
+{"input": "Slavic: Inflect zeleny | ADJ;GEN(SG,NEUT)","target": "zelenego"}
+{"input": "Slavic: Inflect zeleny | ADJ;ACC(DU,INAN)","target": "zelenej"}
+{"input": "Slavic: Inflect zeleny | ADJ;GEN(SG,FEM)","target": "zeleneje"}
+{"input": "Slavic: Inflect zeleny | ADJ;ACC(DU,ANIM)","target": "zeleneju"}
+{"input": "Slavic: Inflect zeleny | ADJ;INS(SG,FEM)","target": "zeleneju"}
+{"input": "Slavic: Inflect zeleny | ADJ;ESS(SG,MASC)","target": "zelenem"}
+{"input": "Slavic: Inflect zeleny | ADJ;DAT(SG,NEUT)","target": "zelenemu"}
+{"input": "Slavic: Inflect zeleny | ADJ;ACC(PL,ANIM)","target": "zelenych"}
+{"input": "Slavic: Inflect zeleny | ADJ;GEN(PL)","target": "zelenych"}
+{"input": "Slavic: Inflect zeleny | ADJ;DAT(DU)","target": "zelenyma"}
+{"input": "Slavic: Inflect zeleny | ADJ;ESS(DU)","target": "zelenyma"}
+{"input": "Slavic: Inflect zeleny | ADJ;INS(DU)","target": "zelenyma"}
+{"input": "Slavic: Inflect zeleny | ADJ;INS(SG,MASC)","target": "zelenym"}
+{"input": "Slavic: Inflect zeleny | ADJ;INS(PL)","target": "zelenymi"}
+{"input": "Slavic: Inflect sadło | N;INS(PL)","target": "sadłami"}
+{"input": "Slavic: Inflect sadło | N;GEN(SG)","target": "sadła"}
+{"input": "Slavic: Inflect sadło | N;NOM(DU)","target": "sadle"}
+{"input": "Slavic: Inflect sadło | N;DAT(SG)","target": "sadłoju"}
+{"input": "Slavic: Inflect sadło | N;DAT(DU)","target": "sadłoma"}
+{"input": "Slavic: Inflect sadło | N;ESS(DU)","target": "sadłoma"}
+{"input": "Slavic: Inflect sadło | N;NOM(SG)","target": "sadło"}
+{"input": "Slavic: Inflect sadło | N;GEN(PL)","target": "sadłow"}
+{"input": "Slavic: Inflect sobota | N;ACC(DU)","target": "sobośe"}
+{"input": "Slavic: Inflect sobota | N;ESS(SG)","target": "sobośe"}
+{"input": "Slavic: Inflect sobota | N;ESS(PL)","target": "sobotach"}
+{"input": "Slavic: Inflect sobota | N;DAT(PL)","target": "sobotam"}
+{"input": "Slavic: Inflect sobota | N;NOM(SG)","target": "sobota"}
+{"input": "Slavic: Inflect sobota | N;ESS(DU)","target": "sobotoma"}
+{"input": "Slavic: Inflect sobota | N;GEN(PL)","target": "sobotow"}
+{"input": "Slavic: Inflect sobota | N;GEN(DU)","target": "sobotowu"}
+{"input": "Slavic: Inflect sobota | N;INS(SG)","target": "sobotu"}
+{"input": "Slavic: Inflect sobota | N;ACC(PL)","target": "soboty"}
+{"input": "Slavic: Inflect sobota | N;GEN(SG)","target": "soboty"}
+{"input": "Slavic: Inflect sobota | N;NOM(PL)","target": "soboty"}
+{"input": "Slavic: Inflect rjobło | N;ACC(PL)","target": "rjobła"}
+{"input": "Slavic: Inflect rjobło | N;GEN(SG)","target": "rjobła"}
+{"input": "Slavic: Inflect rjobło | N;NOM(PL)","target": "rjobła"}
+{"input": "Slavic: Inflect rjobło | N;ESS(SG)","target": "rjoble"}
+{"input": "Slavic: Inflect rjobło | N;NOM(DU)","target": "rjoble"}
+{"input": "Slavic: Inflect rjobło | N;DAT(SG)","target": "rjobłoju"}
+{"input": "Slavic: Inflect rjobło | N;INS(DU)","target": "rjobłoma"}
+{"input": "Slavic: Inflect rjobło | N;INS(SG)","target": "rjobłom"}
+{"input": "Slavic: Inflect rjobło | N;GEN(DU)","target": "rjobłowu"}
+{"input": "Slavic: Inflect pówětš | N;ESS(PL)","target": "powětšach"}
+{"input": "Slavic: Inflect pówětš | N;INS(PL)","target": "powětšami"}
+{"input": "Slavic: Inflect pówětš | N;DAT(PL)","target": "powětšam"}
+{"input": "Slavic: Inflect pówětš | N;GEN(SG)","target": "powětša"}
+{"input": "Slavic: Inflect pówětš | N;NOM(DU)","target": "powětša"}
+{"input": "Slavic: Inflect pówětš | N;ACC(SG)","target": "powětš"}
+{"input": "Slavic: Inflect pówětš | N;NOM(SG)","target": "powětš"}
+{"input": "Slavic: Inflect pówětš | N;DAT(DU)","target": "powětšoma"}
+{"input": "Slavic: Inflect pówětš | N;ESS(DU)","target": "powětšoma"}
+{"input": "Slavic: Inflect pówětš | N;INS(DU)","target": "powětšoma"}
+{"input": "Slavic: Inflect pówětš | N;INS(SG)","target": "powětšom"}
+{"input": "Slavic: Inflect pówětš | N;GEN(PL)","target": "powětšow"}
+{"input": "Slavic: Inflect pówětš | N;NOM(PL)","target": "powětšy"}
+{"input": "Slavic: Inflect mjeńšy | ADJ;NOM(SG,FEM)","target": "mjeńša"}
+{"input": "Slavic: Inflect mjeńšy | ADJ;ACC(SG,NEUT)","target": "mjeńše"}
+{"input": "Slavic: Inflect mjeńšy | ADJ;NOM(SG,NEUT)","target": "mjeńše"}
+{"input": "Slavic: Inflect mjeńšy | ADJ;NOM(PL)","target": "mjeńše"}
+{"input": "Slavic: Inflect mjeńšy | ADJ;ACC(SG,MASC,ANIM)","target": "mjeńšego"}
+{"input": "Slavic: Inflect mjeńšy | ADJ;GEN(SG,MASC)","target": "mjeńšego"}
+{"input": "Slavic: Inflect mjeńšy | ADJ;GEN(SG,NEUT)","target": "mjeńšego"}
+{"input": "Slavic: Inflect mjeńšy | ADJ;ACC(DU,INAN)","target": "mjeńšej"}
+{"input": "Slavic: Inflect mjeńšy | ADJ;GEN(DU)","target": "mjeńšeju"}
+{"input": "Slavic: Inflect mjeńšy | ADJ;DAT(SG,MASC)","target": "mjeńšemu"}
+{"input": "Slavic: Inflect mjeńšy | ADJ;DAT(SG,NEUT)","target": "mjeńšemu"}
+{"input": "Slavic: Inflect mjeńšy | ADJ;ESS(DU)","target": "mjeńšyma"}
+{"input": "Slavic: Inflect mjeńšy | ADJ;INS(PL)","target": "mjeńšymi"}
+{"input": "Slavic: Inflect wjapś | N;DAT(PL)","target": "wjapśam"}
+{"input": "Slavic: Inflect wjapś | N;NOM(DU)","target": "wjapśa"}
+{"input": "Slavic: Inflect wjapś | N;ACC(PL)","target": "wjapśe"}
+{"input": "Slavic: Inflect wjapś | N;NOM(SG)","target": "wjapś"}
+{"input": "Slavic: Inflect wjapś | N;DAT(DU)","target": "wjapśoma"}
+{"input": "Slavic: Inflect wjapś | N;INS(SG)","target": "wjapśom"}
+{"input": "Slavic: Inflect wjapś | N;ESS(SG)","target": "wjapśu"}
+{"input": "Slavic: Inflect rjemjeń | N;INS(PL)","target": "rjemjenjami"}
+{"input": "Slavic: Inflect rjemjeń | N;ACC(DU)","target": "rjemjenja"}
+{"input": "Slavic: Inflect rjemjeń | N;NOM(DU)","target": "rjemjenja"}
+{"input": "Slavic: Inflect rjemjeń | N;ACC(PL)","target": "rjemjenje"}
+{"input": "Slavic: Inflect rjemjeń | N;DAT(DU)","target": "rjemjenjoma"}
+{"input": "Slavic: Inflect rjemjeń | N;GEN(PL)","target": "rjemjenjow"}
+{"input": "Slavic: Inflect cysty | ADJ;NOM(SG,FEM)","target": "cysta"}
+{"input": "Slavic: Inflect cysty | ADJ;ACC(PL,INAN)","target": "cyste"}
+{"input": "Slavic: Inflect cysty | ADJ;NOM(SG,NEUT)","target": "cyste"}
+{"input": "Slavic: Inflect cysty | ADJ;ACC(SG,MASC,ANIM)","target": "cystego"}
+{"input": "Slavic: Inflect cysty | ADJ;GEN(SG,MASC)","target": "cystego"}
+{"input": "Slavic: Inflect cysty | ADJ;DAT(SG,FEM)","target": "cystej"}
+{"input": "Slavic: Inflect cysty | ADJ;ESS(SG,FEM)","target": "cystej"}
+{"input": "Slavic: Inflect cysty | ADJ;ACC(DU,ANIM)","target": "cysteju"}
+{"input": "Slavic: Inflect cysty | ADJ;GEN(DU)","target": "cysteju"}
+{"input": "Slavic: Inflect cysty | ADJ;ESS(SG,MASC)","target": "cystem"}
+{"input": "Slavic: Inflect cysty | ADJ;DAT(SG,NEUT)","target": "cystemu"}
+{"input": "Slavic: Inflect cysty | ADJ;ESS(PL)","target": "cystych"}
+{"input": "Slavic: Inflect cysty | ADJ;DAT(PL)","target": "cystym"}
+{"input": "Slavic: Inflect cysty | ADJ;INS(SG,MASC)","target": "cystym"}
+{"input": "Slavic: Inflect cysty | ADJ;INS(PL)","target": "cystymi"}
+{"input": "Slavic: Inflect pólo | N;DAT(PL)","target": "pólam"}
+{"input": "Slavic: Inflect kóń | N;INS(PL)","target": "kónjami"}
+{"input": "Slavic: Inflect grod | N;INS(PL)","target": "grodami"}
+{"input": "Slavic: Inflect grod | N;ACC(DU)","target": "groda"}
+{"input": "Slavic: Inflect grod | N;DAT(DU)","target": "grodoma"}
+{"input": "Slavic: Inflect grod | N;INS(SG)","target": "grodom"}
+{"input": "Slavic: Inflect grod | N;GEN(PL)","target": "grodow"}
+{"input": "Slavic: Inflect grod | N;GEN(DU)","target": "grodowu"}
+{"input": "Slavic: Inflect grod | N;ACC(PL)","target": "grody"}
+{"input": "Slavic: Inflect grod | N;NOM(PL)","target": "grody"}
+{"input": "Slavic: Inflect grod | N;ESS(SG)","target": "groźe"}
+{"input": "Slavic: Inflect granica | N;INS(PL)","target": "granicami"}
+{"input": "Slavic: Inflect granica | N;NOM(SG)","target": "granica"}
+{"input": "Slavic: Inflect granica | N;GEN(SG)","target": "granice"}
+{"input": "Slavic: Inflect granica | N;NOM(PL)","target": "granice"}
+{"input": "Slavic: Inflect granica | N;ESS(DU)","target": "granicoma"}
+{"input": "Slavic: Inflect granica | N;INS(DU)","target": "granicoma"}
+{"input": "Slavic: Inflect granica | N;GEN(PL)","target": "granicow"}
+{"input": "Slavic: Inflect granica | N;GEN(DU)","target": "granicowu"}
+{"input": "Slavic: Inflect granica | N;ACC(SG)","target": "granicu"}
+{"input": "Slavic: Inflect smjaś | V;PST;1;DU","target": "smjejachmej"}
+{"input": "Slavic: Inflect smjaś | V;PST;3;PL","target": "smjejachu"}
+{"input": "Slavic: Inflect smjaś | V;PST;1;SG","target": "smjejach"}
+{"input": "Slavic: Inflect smjaś | V;PST;2;PL","target": "smjejašćo"}
+{"input": "Slavic: Inflect smjaś | V;PST;2;SG","target": "smjejašo"}
+{"input": "Slavic: Inflect smjaś | V;PST;2;DU","target": "smjejaštej"}
+{"input": "Slavic: Inflect smjaś | V;PST;3;DU","target": "smjejaštej"}
+{"input": "Slavic: Inflect smjaś | V;PRS;1;PL","target": "smjejomy"}
+{"input": "Slavic: Inflect smjaś | V;PRS;3;DU","target": "smjejotej"}
+{"input": "Slavic: Inflect smjaś | V;IMP;2;DU","target": "smjejtej"}
+{"input": "Slavic: Inflect lěwy | ADJ;NOM(SG,NEUT)","target": "lěwe"}
+{"input": "Slavic: Inflect lěwy | ADJ;NOM(PL)","target": "lěwe"}
+{"input": "Slavic: Inflect lěwy | ADJ;ACC(SG,MASC,ANIM)","target": "lěwego"}
+{"input": "Slavic: Inflect lěwy | ADJ;ACC(DU,INAN)","target": "lěwej"}
+{"input": "Slavic: Inflect lěwy | ADJ;DAT(SG,FEM)","target": "lěwej"}
+{"input": "Slavic: Inflect lěwy | ADJ;ESS(SG,FEM)","target": "lěwej"}
+{"input": "Slavic: Inflect lěwy | ADJ;NOM(DU)","target": "lěwej"}
+{"input": "Slavic: Inflect lěwy | ADJ;ACC(DU,ANIM)","target": "lěweju"}
+{"input": "Slavic: Inflect lěwy | ADJ;GEN(DU)","target": "lěweju"}
+{"input": "Slavic: Inflect lěwy | ADJ;DAT(SG,MASC)","target": "lěwemu"}
+{"input": "Slavic: Inflect lěwy | ADJ;ACC(SG,MASC,INAN)","target": "lěwi"}
+{"input": "Slavic: Inflect lěwy | ADJ;ESS(DU)","target": "lěwima"}
+{"input": "Slavic: Inflect lěwy | ADJ;DAT(PL)","target": "lěwim"}
+{"input": "Slavic: Inflect lěwy | ADJ;INS(SG,MASC)","target": "lěwim"}
+{"input": "Slavic: Inflect lěwy | ADJ;INS(PL)","target": "lěwimi"}
+{"input": "Slavic: Inflect jabłuko | N;ACC(DU)","target": "jabłuce"}
+{"input": "Slavic: Inflect jabłuko | N;ESS(PL)","target": "jabłukach"}
+{"input": "Slavic: Inflect jabłuko | N;DAT(PL)","target": "jabłukam"}
+{"input": "Slavic: Inflect jabłuko | N;GEN(SG)","target": "jabłuka"}
+{"input": "Slavic: Inflect jabłuko | N;DAT(SG)","target": "jabłukoju"}
+{"input": "Slavic: Inflect jabłuko | N;DAT(DU)","target": "jabłukoma"}
+{"input": "Slavic: Inflect jabłuko | N;ESS(DU)","target": "jabłukoma"}
+{"input": "Slavic: Inflect jabłuko | N;INS(SG)","target": "jabłukom"}
+{"input": "Slavic: Inflect jabłuko | N;NOM(SG)","target": "jabłuko"}
+{"input": "Slavic: Inflect jabłuko | N;GEN(PL)","target": "jabłukow"}
+{"input": "Slavic: Inflect jabłuko | N;GEN(DU)","target": "jabłukowu"}
+{"input": "Slavic: Inflect kos | N;NOM(PL)","target": "kose"}
+{"input": "Slavic: Inflect wałtora | N;DAT(PL)","target": "wałtoram"}
+{"input": "Slavic: Inflect wałtora | N;NOM(SG)","target": "wałtora"}
+{"input": "Slavic: Inflect wałtora | N;ACC(DU)","target": "wałtorje"}
+{"input": "Slavic: Inflect wałtora | N;ESS(SG)","target": "wałtorje"}
+{"input": "Slavic: Inflect wałtora | N;INS(DU)","target": "wałtoroma"}
+{"input": "Slavic: Inflect wałtora | N;GEN(DU)","target": "wałtorowu"}
+{"input": "Slavic: Inflect wałtora | N;INS(SG)","target": "wałtoru"}
+{"input": "Slavic: Inflect wałtora | N;ACC(PL)","target": "wałtory"}
+{"input": "Slavic: Inflect wałtora | N;GEN(SG)","target": "wałtory"}
+{"input": "Slavic: Inflect wósk | N;DAT(DU)","target": "wóskoma"}
+{"input": "Slavic: Inflect płot | N;ESS(SG)","target": "płośe"}
+{"input": "Slavic: Inflect płot | N;ESS(PL)","target": "płotach"}
+{"input": "Slavic: Inflect płot | N;INS(PL)","target": "płotami"}
+{"input": "Slavic: Inflect płot | N;DAT(PL)","target": "płotam"}
+{"input": "Slavic: Inflect płot | N;GEN(SG)","target": "płota"}
+{"input": "Slavic: Inflect płot | N;NOM(DU)","target": "płota"}
+{"input": "Slavic: Inflect płot | N;NOM(SG)","target": "płot"}
+{"input": "Slavic: Inflect płot | N;DAT(DU)","target": "płotoma"}
+{"input": "Slavic: Inflect płot | N;INS(DU)","target": "płotoma"}
+{"input": "Slavic: Inflect płot | N;INS(SG)","target": "płotom"}
+{"input": "Slavic: Inflect płot | N;NOM(PL)","target": "płoty"}
+{"input": "Slavic: Inflect módry | ADJ;NOM(SG,MASC)","target": "módry"}
+{"input": "Slavic: Inflect maś | N;ACC(DU)","target": "maśeri"}
+{"input": "Slavic: Inflect maś | N;INS(PL)","target": "maśerjami"}
+{"input": "Slavic: Inflect maś | N;DAT(PL)","target": "maśerjam"}
+{"input": "Slavic: Inflect maś | N;GEN(SG)","target": "maśerje"}
+{"input": "Slavic: Inflect maś | N;DAT(DU)","target": "maśerjoma"}
+{"input": "Slavic: Inflect maś | N;INS(DU)","target": "maśerjoma"}
+{"input": "Slavic: Inflect maś | N;GEN(PL)","target": "maśerjow"}
+{"input": "Slavic: Inflect maś | N;INS(SG)","target": "maśerju"}
+{"input": "Slavic: Inflect spóraś | V;PST;1;DU","target": "spórachmej"}
+{"input": "Slavic: Inflect spóraś | V;PST;1;SG","target": "spórach"}
+{"input": "Slavic: Inflect spóraś | V;IMP;2;PL","target": "spórajśo"}
+{"input": "Slavic: Inflect spóraś | V;PRS;3;PL","target": "spóraju"}
+{"input": "Slavic: Inflect spóraś | V;IMP;2;SG","target": "spóraj"}
+{"input": "Slavic: Inflect spóraś | V;PRS;1;SG","target": "spóram"}
+{"input": "Slavic: Inflect spóraś | V;PRS;1;PL","target": "spóramy"}
+{"input": "Slavic: Inflect spóraś | V;PST;2;PL","target": "spórašćo"}
+{"input": "Slavic: Inflect spóraś | V;PRS;2;PL","target": "spóraśo"}
+{"input": "Slavic: Inflect spóraś | V;PRS;2;DU","target": "spóratej"}
+{"input": "Slavic: Inflect spóraś | V;PRS;3;DU","target": "spóratej"}
+{"input": "Slavic: Inflect spóraś | V;PST;2;SG","target": "spóra"}
+{"input": "Slavic: Inflect spóraś | V;PST;3;SG","target": "spóra"}
+{"input": "Slavic: Inflect słoma | N;ESS(PL)","target": "słomach"}
+{"input": "Slavic: Inflect słoma | N;ACC(DU)","target": "słomje"}
+{"input": "Slavic: Inflect słoma | N;ESS(SG)","target": "słomje"}
+{"input": "Slavic: Inflect słoma | N;GEN(PL)","target": "słomow"}
+{"input": "Slavic: Inflect słoma | N;GEN(DU)","target": "słomowu"}
+{"input": "Slavic: Inflect słoma | N;INS(SG)","target": "słomu"}
+{"input": "Slavic: Inflect słoma | N;ACC(PL)","target": "słomy"}
+{"input": "Slavic: Inflect słoma | N;GEN(SG)","target": "słomy"}
+{"input": "Slavic: Inflect wójca | N;ESS(PL)","target": "wójcach"}
+{"input": "Slavic: Inflect wójca | N;ACC(PL)","target": "wójce"}
+{"input": "Slavic: Inflect wójca | N;GEN(SG)","target": "wójce"}
+{"input": "Slavic: Inflect wójca | N;GEN(DU)","target": "wójcowu"}
+{"input": "Slavic: Inflect wójca | N;ACC(DU)","target": "wójcy"}
+{"input": "Slavic: Inflect wójca | N;DAT(SG)","target": "wójcy"}
+{"input": "Slavic: Inflect serp | N;GEN(SG)","target": "serpa"}
+{"input": "Slavic: Inflect serp | N;ACC(SG)","target": "serp"}
+{"input": "Slavic: Inflect serp | N;DAT(DU)","target": "serpoma"}
+{"input": "Slavic: Inflect serp | N;ESS(DU)","target": "serpoma"}
+{"input": "Slavic: Inflect serp | N;INS(DU)","target": "serpoma"}
+{"input": "Slavic: Inflect serp | N;ACC(PL)","target": "serpy"}
+{"input": "Slavic: Inflect serp | N;NOM(PL)","target": "serpy"}
+{"input": "Slavic: Inflect njasć | V;PST;3;SG","target": "njasešo"}
+{"input": "Slavic: Inflect njasć | V;PST;2;DU","target": "njaseštej"}
+{"input": "Slavic: Inflect njasć | V;PRS;1;DU","target": "njasomej"}
+{"input": "Slavic: Inflect njasć | V;PRS;3;SG","target": "njaso"}
+{"input": "Slavic: Inflect njasć | V;IMP;2;DU","target": "njastej"}
+{"input": "Slavic: Inflect njasć | V;IMP;2;SG","target": "njas"}
+{"input": "Slavic: Inflect damast | N;ESS(PL)","target": "damastach"}
+{"input": "Slavic: Inflect damast | N;INS(PL)","target": "damastami"}
+{"input": "Slavic: Inflect damast | N;ACC(DU)","target": "damasta"}
+{"input": "Slavic: Inflect damast | N;GEN(SG)","target": "damasta"}
+{"input": "Slavic: Inflect damast | N;NOM(DU)","target": "damasta"}
+{"input": "Slavic: Inflect damast | N;NOM(SG)","target": "damast"}
+{"input": "Slavic: Inflect damast | N;ESS(DU)","target": "damastoma"}
+{"input": "Slavic: Inflect damast | N;GEN(PL)","target": "damastow"}
+{"input": "Slavic: Inflect damast | N;ACC(PL)","target": "damasty"}
+{"input": "Slavic: Inflect damast | N;NOM(PL)","target": "damasty"}
+{"input": "Slavic: Inflect modry | ADJ;DAT(SG,FEM)","target": "modrej"}
