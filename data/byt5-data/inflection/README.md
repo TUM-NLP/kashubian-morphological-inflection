@@ -1,6 +1,17 @@
 # ByT5: Fine-tuning data
 
+Task data for baselines are modified for ByT5.
 ByT5 accepts data in .tsv or .json format.
+## Prompt
+
+Input:
+```
+{language context}Inflect {lemma} using {morphosyntacticFeatures}
+```
+Target:
+```
+{inflecteWord}
+```
 
 ## File naming:<language></language>
 
