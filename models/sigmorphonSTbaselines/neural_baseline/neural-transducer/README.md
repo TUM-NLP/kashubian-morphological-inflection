@@ -1,3 +1,5 @@
+Paper: https://aclanthology.org/2021.eacl-main.163/
+
 # Neural Transducer
 
 This repo contains a set of neural transducer, e.g. sequence-to-sequence model, focusing on character-level tasks. It powers the following papers and workshop.
